@@ -1,0 +1,424 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,620 --> 00:00:05,013
+- In the previous exercise you created
+
+3
+00:00:05,013 --> 00:00:08,120
+2D Perlin noise at a single resolution.
+
+4
+00:00:08,120 --> 00:00:11,491
+- But remember, our goal is
+multiresolution variation.
+
+5
+00:00:11,491 --> 00:00:13,966
+Earlier we did this by
+adding 2D curves together.
+
+6
+00:00:13,966 --> 00:00:14,833
+- [Lady Voiceover] Which means we can add
+
+7
+00:00:14,833 --> 00:00:17,828
+surfaces together in the exact same way.
+
+8
+00:00:17,828 --> 00:00:18,835
+- [Lady Voiceover] For example, imagine
+
+9
+00:00:18,835 --> 00:00:22,309
+I took this surface and
+added it to this surface.
+
+10
+00:00:22,309 --> 00:00:25,722
+It would result in this final surface.
+
+11
+00:00:25,722 --> 00:00:27,417
+- [Lady Voiceover] We put
+together this tool to demonstrate
+
+12
+00:00:27,417 --> 00:00:31,493
+how we blend 2D patterns
+at different resolutions.
+
+13
+00:00:31,493 --> 00:00:34,744
+Let's start with a simple
+checkerboard example.
+
+14
+00:00:34,744 --> 00:00:38,553
+Here is a low resolution,
+a medium resolution
+
+15
+00:00:38,553 --> 00:00:40,845
+and a high resolution pattern.
+
+16
+00:00:40,845 --> 00:00:44,729
+This is the result of
+blending these together.
+
+17
+00:00:44,729 --> 00:00:45,562
+- [Lady Voiceover] And I see you've added
+
+18
+00:00:45,562 --> 00:00:47,239
+amplitude sliders to define how much
+
+19
+00:00:47,239 --> 00:00:50,064
+each resolution contributes
+to the final result.
+
+20
+00:00:50,064 --> 00:00:52,814
+- [Lady Voiceover] Yes, exactly as before.
+
+21
+00:00:52,814 --> 00:00:54,913
+You can adjust the base color too.
+
+22
+00:00:54,913 --> 00:00:55,944
+- [Lady Voiceover] Very nice.
+
+23
+00:00:55,944 --> 00:00:57,719
+Let's switch from this
+checkerboard to the random
+
+24
+00:00:57,719 --> 00:01:00,970
+patterns used in the previous exercise.
+
+25
+00:01:00,970 --> 00:01:02,536
+- [Lady Voiceover] Now we
+have the power to create
+
+26
+00:01:02,536 --> 00:01:05,647
+a whole range of different
+results, in fact,
+
+27
+00:01:05,647 --> 00:01:09,212
+I think we're ready to put
+this to work in our dino leg.
+
+28
+00:01:09,212 --> 00:01:10,173
+- Let's do it.
+
+29
+00:01:10,173 --> 00:01:11,690
+The final program extends what we did
+
+30
+00:01:11,690 --> 00:01:13,247
+in the previous lesson.
+
+31
+00:01:13,247 --> 00:01:15,813
+It generates a voanoy diagram as before,
+
+32
+00:01:15,813 --> 00:01:17,485
+however now we can define the pattern
+
+33
+00:01:17,485 --> 00:01:20,151
+applied to the skin and scales separately.
+
+34
+00:01:20,151 --> 00:01:21,872
+- [Lady Voiceover] Oh, fun.
+
+35
+00:01:21,872 --> 00:01:23,431
+Let me do a quick example.
+
+36
+00:01:23,431 --> 00:01:26,480
+In this main panel, I
+can adjust the scale size
+
+37
+00:01:26,480 --> 00:01:29,387
+as well as manually add and delete sides.
+
+38
+00:01:29,387 --> 00:01:31,947
+We covered this in our first lesson.
+
+39
+00:01:31,947 --> 00:01:34,147
+- [Lady Voiceover] Now jump
+over to the skin controls.
+
+40
+00:01:34,147 --> 00:01:35,379
+Here you can adjust the base color
+
+41
+00:01:35,379 --> 00:01:37,804
+as well as the brightness.
+
+42
+00:01:37,804 --> 00:01:39,971
+Here we have three sliders, one to adjust
+
+43
+00:01:39,971 --> 00:01:42,266
+the amplitude of the
+low resolution pattern,
+
+44
+00:01:42,266 --> 00:01:45,486
+one for medium resolution
+and one for high resolution.
+
+45
+00:01:45,486 --> 00:01:46,503
+- [Lady Voiceover] So
+there's a lot to play with
+
+46
+00:01:46,503 --> 00:01:49,286
+here to get the look we need.
+
+47
+00:01:49,286 --> 00:01:51,349
+- [Lady Voiceover] And the scale
+controls work the same way,
+
+48
+00:01:51,349 --> 00:01:53,498
+allowing you to create
+an entirely separate look
+
+49
+00:01:53,498 --> 00:01:56,572
+for the scales versus the skin.
+
+50
+00:01:57,572 --> 00:01:59,321
+- [Lady Voiceover] Notice
+we have two base colors
+
+51
+00:01:59,321 --> 00:02:02,531
+to select from here, color
+one defines the color
+
+52
+00:02:02,531 --> 00:02:05,375
+of the smaller scales,
+and color two defines
+
+53
+00:02:05,375 --> 00:02:07,550
+the color of the larger scales.
+
+54
+00:02:07,550 --> 00:02:10,098
+So any given scale will take on a color
+
+55
+00:02:10,098 --> 00:02:12,872
+in between your base colors.
+
+56
+00:02:12,872 --> 00:02:13,753
+- [Lady Voiceover] We did the same thing
+
+57
+00:02:13,753 --> 00:02:15,075
+in the previous lesson.
+
+58
+00:02:15,075 --> 00:02:16,793
+This will allow us to
+get some natural color
+
+59
+00:02:16,793 --> 00:02:19,038
+variations between the
+yellow and green Teah
+
+60
+00:02:19,038 --> 00:02:21,057
+had indicated in her reference arc.
+
+61
+00:02:21,057 --> 00:02:22,206
+- [Lady Voiceover] Exactly, and when
+
+62
+00:02:22,206 --> 00:02:24,218
+you're ready to test out your pattern
+
+63
+00:02:24,218 --> 00:02:26,637
+you can click here, Render in 3D.
+
+64
+00:02:26,637 --> 00:02:28,282
+It will wrap your pattern around a simple
+
+65
+00:02:28,282 --> 00:02:31,553
+leg to give you an idea
+of the finished look.
+
+66
+00:02:31,553 --> 00:02:33,746
+- Looking pretty good already.
+
+67
+00:02:33,746 --> 00:02:35,536
+Okay, we better stop here.
+
+68
+00:02:35,536 --> 00:02:37,212
+Now it's your turn to
+take over these controls
+
+69
+00:02:37,212 --> 00:02:38,795
+and create some of your own dino skin
+
+70
+00:02:38,795 --> 00:02:40,204
+using,
+
+71
+00:02:40,204 --> 00:02:41,093
+drum roll please,
+
+72
+00:02:41,093 --> 00:02:43,429
+(drum roll)
+
+73
+00:02:45,429 --> 00:02:47,127
+- See if you can match
+Teah's reference art
+
+74
+00:02:47,127 --> 00:02:50,416
+but then go wild and see what
+else you can come up with.
+
+75
+00:02:50,416 --> 00:02:51,474
+- What kind of things do you think about
+
+76
+00:02:51,474 --> 00:02:53,799
+when you're designing skin for characters?
+
+77
+00:02:53,799 --> 00:02:55,690
+- Well we think about a
+lot of different things
+
+78
+00:02:55,690 --> 00:02:57,579
+but when you're looking at the bumpiness
+
+79
+00:02:57,579 --> 00:02:59,425
+of each of the cells we felt like
+
+80
+00:02:59,425 --> 00:03:02,527
+if we were using a curve that was flatter
+
+81
+00:03:02,527 --> 00:03:05,108
+it gave the skin more
+of a look like it was
+
+82
+00:03:05,108 --> 00:03:07,676
+being used more in a harder surface
+
+83
+00:03:07,676 --> 00:03:10,196
+and therefore, it was an older character
+
+84
+00:03:10,196 --> 00:03:12,837
+and having the cells be
+more round, it felt like
+
+85
+00:03:12,837 --> 00:03:16,587
+it was a younger and fresher feeling skin.
+
+86
+00:03:16,587 --> 00:03:20,924
+We ended up in the actual
+skin packet, we used
+
+87
+00:03:20,924 --> 00:03:22,785
+a ramp from the center
+of the cell to the edge
+
+88
+00:03:22,785 --> 00:03:25,513
+of the cell and then we defined what
+
+89
+00:03:25,513 --> 00:03:27,791
+the curve was because we noticed that it
+
+90
+00:03:27,791 --> 00:03:30,735
+made such a big difference between having
+
+91
+00:03:30,735 --> 00:03:32,482
+that flat surface and the rounder curve.
+
+92
+00:03:32,482 --> 00:03:33,315
+- Interesting.
+
+93
+00:03:33,315 --> 00:03:35,401
+- So we were actually
+able to mathematically
+
+94
+00:03:35,401 --> 00:03:38,774
+define the curve itself
+with just the patterns
+
+95
+00:03:38,774 --> 00:03:40,573
+that we had inside each of the cells.
+
+96
+00:03:40,573 --> 00:03:41,406
+- That's really cool.
+
+97
+00:03:41,406 --> 00:03:44,000
+- Yeah (laughs). aimozhen.com/pixarinabox
+

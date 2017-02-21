@@ -1,0 +1,190 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,295 --> 00:00:06,538
+- Alright, you finally have a
+snowman to start working with.
+
+3
+00:00:06,538 --> 00:00:09,930
+Now we can get to the real
+guts of the rigging software.
+
+4
+00:00:09,930 --> 00:00:11,748
+We need to define our scale, rotate,
+
+5
+00:00:11,748 --> 00:00:13,097
+and translate deformers.
+
+6
+00:00:13,097 --> 00:00:15,889
+To allow you to move your shapes around.
+
+7
+00:00:15,889 --> 00:00:19,919
+And this is where
+functions come into play.
+
+8
+00:00:22,919 --> 00:00:27,143
+Remember, functions package
+a series of operations
+
+9
+00:00:27,143 --> 00:00:30,001
+or procedures we'll use many times.
+
+10
+00:00:30,001 --> 00:00:32,470
+Functions are set input which they perform
+
+11
+00:00:32,470 --> 00:00:34,504
+a set of operations on.
+
+12
+00:00:34,504 --> 00:00:37,339
+Now, to build any deformer,
+we'll need a function
+
+13
+00:00:37,339 --> 00:00:39,389
+which intercepts two inputs.
+
+14
+00:00:39,389 --> 00:00:42,067
+First they must intercept
+a pair of coordinates
+
+15
+00:00:42,067 --> 00:00:44,078
+which is the vertex in our shape.
+
+16
+00:00:44,078 --> 00:00:45,609
+And lay a set of value
+
+17
+00:00:45,609 --> 00:00:49,502
+which is a magnitude of
+transformation you want to apply.
+
+18
+00:00:49,502 --> 00:00:51,816
+For example, the translate x to full
+
+19
+00:00:51,816 --> 00:00:54,957
+might intercept a coordinate 2,2.
+
+20
+00:00:54,957 --> 00:00:59,701
+And for the 2nd input would
+provide a value of say five.
+
+21
+00:00:59,701 --> 00:01:01,802
+And so this translate x function,
+
+22
+00:01:01,802 --> 00:01:03,729
+the math we'll do is quite simple.
+
+23
+00:01:03,729 --> 00:01:05,901
+Hey that's five to the x coordinate
+
+24
+00:01:05,901 --> 00:01:09,424
+which updates it to 7,2
+
+25
+00:01:09,424 --> 00:01:11,097
+and that's the process for transforming
+
+26
+00:01:11,097 --> 00:01:12,980
+each vertex into shape.
+
+27
+00:01:12,980 --> 00:01:15,876
+Of course, a shapes contain many vertices.
+
+28
+00:01:15,876 --> 00:01:18,119
+For example, a hat has eight.
+
+29
+00:01:18,119 --> 00:01:20,581
+That means its function
+is run eight times.
+
+30
+00:01:20,581 --> 00:01:22,371
+Once for each vertex.
+
+31
+00:01:23,371 --> 00:01:26,212
+Order of the deformer
+functions transform vertices
+
+32
+00:01:26,212 --> 00:01:28,166
+using equations.
+
+33
+00:01:28,166 --> 00:01:30,631
+And the transformation depends
+on the types of equations
+
+34
+00:01:30,631 --> 00:01:32,334
+used in your functions.
+
+35
+00:01:32,334 --> 00:01:35,563
+The equations used for scaling,
+rotate, and translation
+
+36
+00:01:35,563 --> 00:01:37,565
+are all different from each other.
+
+37
+00:01:37,565 --> 00:01:39,431
+We cover these equations in detail
+
+38
+00:01:39,431 --> 00:01:42,352
+in our sets and staging lesson.
+
+39
+00:01:45,352 --> 00:01:46,541
+In the next code review,
+
+40
+00:01:46,541 --> 00:01:49,529
+we'll give you an example of
+writing a translation function
+
+41
+00:01:49,529 --> 00:01:52,209
+and then in the exercise,
+we'll allow you to write
+
+42
+00:01:52,209 --> 00:01:54,619
+free deformer functions on your own.
+
+43
+00:01:54,619 --> 00:01:55,986
+Alright, I'm out of here.
+
+44
+00:01:55,986 --> 00:01:58,000
+(chuckling) aimozhen.com/pixarinabox
+

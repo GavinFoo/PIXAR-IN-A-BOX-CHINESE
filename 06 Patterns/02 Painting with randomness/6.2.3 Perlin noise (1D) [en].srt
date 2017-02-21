@@ -1,0 +1,302 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,740 --> 00:00:04,573
+- Great work.
+
+3
+00:00:04,573 --> 00:00:06,374
+So far we define a curve which captures
+
+4
+00:00:06,374 --> 00:00:08,699
+the overall variation and brightness.
+
+5
+00:00:08,699 --> 00:00:10,557
+- The brightness depends
+on the Y coordinate
+
+6
+00:00:10,557 --> 00:00:12,314
+or amplitude of a curve.
+
+7
+00:00:12,314 --> 00:00:14,196
+- But remember our goal is to capture
+
+8
+00:00:14,196 --> 00:00:16,704
+the patterns at different resolutions.
+
+9
+00:00:16,704 --> 00:00:18,747
+The first curve only captures variation
+
+10
+00:00:18,747 --> 00:00:21,246
+at low resolutions, think of it as
+
+11
+00:00:21,246 --> 00:00:22,637
+a broad stroke.
+
+12
+00:00:22,637 --> 00:00:23,470
+- [Lady Voiceover] So we need to add
+
+13
+00:00:23,470 --> 00:00:25,635
+higher resolution variation to our curve.
+
+14
+00:00:25,635 --> 00:00:29,138
+These are the smaller details
+or changes in the amplitude.
+
+15
+00:00:29,138 --> 00:00:30,967
+- [Lady Voiceover] To do this, simply add
+
+16
+00:00:30,967 --> 00:00:33,334
+two curves together,
+for example, take your
+
+17
+00:00:33,334 --> 00:00:36,566
+original curve and add
+it to the second curve,
+
+18
+00:00:36,566 --> 00:00:39,297
+which would result in this final curve.
+
+19
+00:00:39,297 --> 00:00:40,293
+- [Lady Voiceover] Very cool.
+
+20
+00:00:40,293 --> 00:00:41,776
+Mathematically we are just adding
+
+21
+00:00:41,776 --> 00:00:43,665
+the Y coordinates together.
+
+22
+00:00:43,665 --> 00:00:45,167
+- [Lady Voiceover] Okay, we've updated
+
+23
+00:00:45,167 --> 00:00:47,497
+our program so that we can try this out.
+
+24
+00:00:47,497 --> 00:00:50,064
+At the top is the low resolution curve,
+
+25
+00:00:50,064 --> 00:00:52,393
+same as the previous exercise.
+
+26
+00:00:52,393 --> 00:00:53,226
+- [Lady Voiceover] And below it is
+
+27
+00:00:53,226 --> 00:00:54,927
+a new curve which is created by squishing
+
+28
+00:00:54,927 --> 00:00:57,390
+two copies of the original curve together.
+
+29
+00:00:57,390 --> 00:00:58,833
+It's a higher resolution curve
+
+30
+00:00:58,833 --> 00:01:00,589
+because it contains more detail.
+
+31
+00:01:00,589 --> 00:01:03,161
+Call this our medium resolution curve.
+
+32
+00:01:03,161 --> 00:01:05,262
+- [Lady Voiceover] And
+we can keep doing this.
+
+33
+00:01:05,262 --> 00:01:07,306
+Here we've added a third curve.
+
+34
+00:01:07,306 --> 00:01:09,052
+It's defined by squishing two copies
+
+35
+00:01:09,052 --> 00:01:11,126
+of the medium resolution curve together
+
+36
+00:01:11,126 --> 00:01:13,075
+in the same way.
+
+37
+00:01:13,075 --> 00:01:14,791
+- [Lady Voiceover] This is
+our high resolution curve.
+
+38
+00:01:14,791 --> 00:01:18,061
+It contains the most detailed variations.
+
+39
+00:01:18,061 --> 00:01:19,171
+- [Lady Voiceover] And
+at the bottom we show
+
+40
+00:01:19,171 --> 00:01:21,995
+the results of adding
+these curves together.
+
+41
+00:01:21,995 --> 00:01:22,979
+- [Lady Voiceover] I
+see you have amplitude
+
+42
+00:01:22,979 --> 00:01:25,052
+sliders as well, that's fancy.
+
+43
+00:01:25,052 --> 00:01:26,505
+- [Lady Voiceover] Yes, this allows you
+
+44
+00:01:26,505 --> 00:01:29,400
+to adjust how much that
+resolution contributes
+
+45
+00:01:29,400 --> 00:01:31,220
+to the final curve.
+
+46
+00:01:31,220 --> 00:01:32,845
+- [Lady Voiceover] Meaning
+if the amplitude slider
+
+47
+00:01:32,845 --> 00:01:35,180
+is set to zero, then that
+resolution is ignored
+
+48
+00:01:35,180 --> 00:01:37,985
+in the final curve, and if I ramp up
+
+49
+00:01:37,985 --> 00:01:39,938
+it really takes over.
+
+50
+00:01:39,938 --> 00:01:41,105
+- [Lady Voiceover] By
+the way, this process was
+
+51
+00:01:41,105 --> 00:01:44,652
+invented by Ken Perlin
+in 1988 and this is why
+
+52
+00:01:44,652 --> 00:01:47,739
+the variation is called Perlin Noise.
+
+53
+00:01:47,739 --> 00:01:48,777
+- [Lady Voiceover] His idea has been used
+
+54
+00:01:48,777 --> 00:01:50,349
+in almost every computer generated movie
+
+55
+00:01:50,349 --> 00:01:51,670
+in the past 20 years.
+
+56
+00:01:51,670 --> 00:01:53,418
+- Now it's your turn to try this out.
+
+57
+00:01:53,418 --> 00:01:55,653
+In the next exercise we
+will test your understanding
+
+58
+00:01:55,653 --> 00:01:58,151
+of these multi resolution curves.
+
+59
+00:01:58,151 --> 00:02:00,468
+- Then we can move into higher dimensions.
+
+60
+00:02:00,468 --> 00:02:02,775
+- Do you have an anecdote
+about Perlin Noise?
+
+61
+00:02:02,775 --> 00:02:04,268
+- Well in addition to surface shading
+
+62
+00:02:04,268 --> 00:02:05,986
+we all see as noise patterns to control
+
+63
+00:02:05,986 --> 00:02:07,025
+our hair grooms.
+
+64
+00:02:07,025 --> 00:02:08,578
+For example you use perlin and other types
+
+65
+00:02:08,578 --> 00:02:10,853
+of noises to control the length of hairs,
+
+66
+00:02:10,853 --> 00:02:12,726
+the width, the scraggle, comfing
+
+67
+00:02:12,726 --> 00:02:13,803
+and other parameters.
+
+68
+00:02:13,803 --> 00:02:15,337
+You can see it in almost
+all of our hair grooms,
+
+69
+00:02:15,337 --> 00:02:17,086
+definitely Spot's hair
+is a good one to look at
+
+70
+00:02:17,086 --> 00:02:19,443
+for that in The Good Dinosaur.
+
+71
+00:02:19,443 --> 00:02:22,000
+- [Lady Voiceover] Pretty neat. aimozhen.com/pixarinabox
+

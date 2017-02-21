@@ -1,0 +1,280 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:00,720 --> 00:00:03,408
+(light tapping)
+
+3
+00:00:03,408 --> 00:00:05,138
+- We've just seen the
+beautiful rainbows you get
+
+4
+00:00:05,138 --> 00:00:08,016
+when you refract light with a prism.
+
+5
+00:00:08,016 --> 00:00:10,171
+Now let's think about
+how we actually perceive
+
+6
+00:00:10,171 --> 00:00:12,929
+the colors of the rainbow
+in the first place.
+
+7
+00:00:12,929 --> 00:00:16,290
+What makes yellow look like yellow?
+
+8
+00:00:16,290 --> 00:00:19,059
+Inside our eyes, we have
+special color receptors
+
+9
+00:00:19,059 --> 00:00:21,768
+called cones, that are
+sensitive to specific
+
+10
+00:00:21,768 --> 00:00:23,307
+wavelengths of light.
+
+11
+00:00:23,307 --> 00:00:26,277
+For example, one kind of
+cone is most sensitive
+
+12
+00:00:26,277 --> 00:00:31,225
+to red light, so when long
+wavelength light hits them,
+
+13
+00:00:31,225 --> 00:00:33,925
+that is from the red end of the spectrum,
+
+14
+00:00:33,925 --> 00:00:35,974
+they respond by sending a
+corresponding electrical
+
+15
+00:00:35,974 --> 00:00:38,845
+signal to the brain, and
+the magnitude of this signal
+
+16
+00:00:38,845 --> 00:00:42,305
+will depend on how much red
+light is present in the light.
+
+17
+00:00:42,305 --> 00:00:46,285
+Our eyes have three main
+kinds of color receptors.
+
+18
+00:00:46,285 --> 00:00:48,694
+One is sensitive to
+the longer wavelengths,
+
+19
+00:00:48,694 --> 00:00:52,729
+redder light, one for medium
+wavelengths, or greener light.
+
+20
+00:00:52,729 --> 00:00:55,571
+And one for shorter
+wavelengths, or the bluer light.
+
+21
+00:00:55,571 --> 00:00:58,443
+The cool trick is our
+brain blends signals from
+
+22
+00:00:58,443 --> 00:01:01,904
+these three receptors
+to represent any color.
+
+23
+00:01:01,904 --> 00:01:04,284
+Colored television, and computer monitors,
+
+24
+00:01:04,284 --> 00:01:08,333
+borrowed this same idea of
+color receptors from our eyes.
+
+25
+00:01:08,333 --> 00:01:09,924
+If you zoom into a computer screen,
+
+26
+00:01:09,924 --> 00:01:14,655
+you'll see it's made up of
+tiny rectangles, or pixels.
+
+27
+00:01:14,655 --> 00:01:19,485
+Each of which contain a
+red, green, and blue region.
+
+28
+00:01:19,485 --> 00:01:21,934
+To display colors, the monitor illuminates
+
+29
+00:01:21,934 --> 00:01:24,755
+these three colors accordingly.
+
+30
+00:01:24,755 --> 00:01:26,717
+To make the screen appear yellow,
+
+31
+00:01:26,717 --> 00:01:28,604
+the monitor turns on only the red and
+
+32
+00:01:28,604 --> 00:01:30,953
+green regions in each pixel.
+
+33
+00:01:30,953 --> 00:01:33,914
+From far away, these blend into yellow.
+
+34
+00:01:33,914 --> 00:01:37,004
+And that's how we can
+digitally create any color
+
+35
+00:01:37,004 --> 00:01:40,712
+using just different amounts
+of red, green, and blue.
+
+36
+00:01:40,712 --> 00:01:43,764
+In our next exercise,
+you'll try to create a color
+
+37
+00:01:43,764 --> 00:01:46,513
+by mixing together different
+amounts of red, green,
+
+38
+00:01:46,513 --> 00:01:48,512
+and blue on your monitor.
+
+39
+00:01:48,512 --> 00:01:51,688
+For example, to get this shade of green.
+
+40
+00:01:51,688 --> 00:01:54,217
+It's interesting to note
+that other animals have
+
+41
+00:01:54,217 --> 00:01:56,217
+different cones in their eyes.
+
+42
+00:01:56,217 --> 00:01:59,196
+For example, dogs only have
+cones that are sensitive
+
+43
+00:01:59,196 --> 00:02:01,802
+to yellow and blue, so red light doesn't
+
+44
+00:02:01,802 --> 00:02:04,430
+send signals to their brain at all.
+
+45
+00:02:04,430 --> 00:02:06,241
+The mantis shrimp, on the other hand,
+
+46
+00:02:06,241 --> 00:02:07,968
+holds the current record for the most
+
+47
+00:02:07,968 --> 00:02:10,342
+number of color receptors in its eyes,
+
+48
+00:02:10,342 --> 00:02:11,662
+12 different kinds.
+
+49
+00:02:11,662 --> 00:02:13,268
+And scientists still don't know how
+
+50
+00:02:13,268 --> 00:02:14,632
+they're all used to perceive color.
+
+51
+00:02:14,632 --> 00:02:16,270
+- Voila, he is clean.
+
+52
+00:02:16,270 --> 00:02:18,411
+(exciting fun music)
+
+53
+00:02:18,411 --> 00:02:22,711
+- Beyond that though,
+there's also a certain class
+
+54
+00:02:22,711 --> 00:02:26,699
+of people, they're all
+females, it turns out,
+
+55
+00:02:26,699 --> 00:02:29,048
+who we call tetrachromats.
+
+56
+00:02:29,048 --> 00:02:31,722
+They have four different
+color receptors in the eye,
+
+57
+00:02:31,722 --> 00:02:34,518
+whereas the vast majority
+of the population has three.
+
+58
+00:02:34,518 --> 00:02:37,900
+And so we think, and
+expect, that their ability
+
+59
+00:02:37,900 --> 00:02:41,006
+to discriminate colors, to
+basically tell the difference
+
+60
+00:02:41,006 --> 00:02:42,938
+between two very, very similar shades,
+
+61
+00:02:42,938 --> 00:02:45,788
+is probably much more precise
+for the tetrachromats.
+
+62
+00:02:45,788 --> 00:02:47,000
+I wish I was one. aimozhen.com/pixarinabox
+

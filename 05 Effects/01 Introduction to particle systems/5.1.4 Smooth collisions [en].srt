@@ -1,0 +1,185 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:00,142 --> 00:00:03,489
+(springy bounce)
+
+3
+00:00:03,489 --> 00:00:04,577
+- Hey, welcome back.
+
+4
+00:00:04,577 --> 00:00:06,817
+You probably noticed that
+the ping pong ball stimulator
+
+5
+00:00:06,817 --> 00:00:09,421
+looks a little more like sand than water.
+
+6
+00:00:09,421 --> 00:00:13,562
+For instance, the balls can
+pile up on each other like this.
+
+7
+00:00:13,562 --> 00:00:16,540
+We used a stimulation much
+like this in Finding Dory.
+
+8
+00:00:16,540 --> 00:00:18,490
+For instance, the sand in this shot.
+
+9
+00:00:18,490 --> 00:00:22,354
+And the East Australian
+current in this shot.
+
+10
+00:00:22,354 --> 00:00:24,263
+To create more water-like stimulation,
+
+11
+00:00:24,263 --> 00:00:26,903
+we need to remove the hard
+boundary of the balls.
+
+12
+00:00:26,903 --> 00:00:28,872
+They don't just bounce
+off like ping pong balls.
+
+13
+00:00:28,872 --> 00:00:32,181
+They kind of smush together
+to create a soft collision.
+
+14
+00:00:32,181 --> 00:00:34,310
+The smooth collisions are an approximation
+
+15
+00:00:34,310 --> 00:00:37,845
+of the pressure forces that
+water normally experiences.
+
+16
+00:00:37,845 --> 00:00:40,355
+There's a fancy name for
+this kind of stimulation.
+
+17
+00:00:40,355 --> 00:00:42,784
+It's called "smoothed
+particle hydrodynamics"
+
+18
+00:00:42,784 --> 00:00:44,752
+or "SPH" for short.
+
+19
+00:00:44,752 --> 00:00:48,164
+Hydrodynamics literally
+means the motion of fluids.
+
+20
+00:00:48,164 --> 00:00:52,684
+Now let's look at how lots
+of smooth particles interact.
+
+21
+00:00:54,684 --> 00:00:56,476
+We can control how the particles collide
+
+22
+00:00:56,476 --> 00:01:00,326
+using this parameter
+called Collision softness.
+
+23
+00:01:02,326 --> 00:01:05,315
+Okay, so this is getting pretty close.
+
+24
+00:01:05,315 --> 00:01:08,711
+Another parameter we can
+control is called Viscosity.
+
+25
+00:01:08,711 --> 00:01:12,003
+Viscosity is a measure of
+how easily things flow.
+
+26
+00:01:12,003 --> 00:01:13,914
+Fluids with low viscosity like water,
+
+27
+00:01:13,914 --> 00:01:16,581
+flow pretty freely as we see here.
+
+28
+00:01:17,581 --> 00:01:20,970
+Fluids with high viscosity
+like honey, flow more slowly.
+
+29
+00:01:20,970 --> 00:01:21,489
+Like this.
+
+30
+00:01:25,489 --> 00:01:27,739
+(water rippling)
+
+31
+00:01:27,739 --> 00:01:30,562
+The more particles you add,
+the more computation is needed
+
+32
+00:01:30,562 --> 00:01:33,617
+and the slower the program responds.
+
+33
+00:01:40,617 --> 00:01:45,031
+(slow motion water ripple)
+
+34
+00:01:45,031 --> 00:01:47,534
+Here's an example of
+SPH from Finding Nemo.
+
+35
+00:01:47,534 --> 00:01:50,587
+It takes place inside
+the mouth of a whale.
+
+36
+00:01:50,587 --> 00:01:52,214
+We've drawn the particles as balls here
+
+37
+00:01:52,214 --> 00:01:54,554
+so you can watch their motion.
+
+38
+00:01:56,554 --> 00:01:58,793
+In the next exercise,
+you'll get some practice
+
+39
+00:01:58,793 --> 00:02:00,787
+experimenting with these
+different parameters
+
+40
+00:02:00,787 --> 00:02:02,739
+to get a wide range of behaviors.
+
+41
+00:02:02,739 --> 00:02:03,000
+See you soon! aimozhen.com/pixarinabox
+

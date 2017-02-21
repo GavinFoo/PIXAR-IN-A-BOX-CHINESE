@@ -1,0 +1,261 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:00,557 --> 00:00:02,182
+(jumping, bouncing)
+
+3
+00:00:02,182 --> 00:00:03,455
+(light switches on)
+
+4
+00:00:03,455 --> 00:00:05,833
+- Now that we have a spring
+simulator, let's address
+
+5
+00:00:05,833 --> 00:00:08,587
+a problem we faced in the first lesson.
+
+6
+00:00:08,587 --> 00:00:10,612
+Previously, we tried only using springs
+
+7
+00:00:10,612 --> 00:00:12,485
+to model our strands of hair.
+
+8
+00:00:12,485 --> 00:00:15,935
+That resulted in a hair
+which was really bouncy.
+
+9
+00:00:15,935 --> 00:00:18,346
+Fun, yes, but not very realistic.
+
+10
+00:00:18,346 --> 00:00:21,697
+To address this we added
+a damper to each spring.
+
+11
+00:00:21,697 --> 00:00:24,478
+Remember, dampers resist
+changes in velocity
+
+12
+00:00:24,478 --> 00:00:28,000
+causing our springs to settle
+down much more quickly.
+
+13
+00:00:28,000 --> 00:00:30,456
+Mathematically, a damper is quite simple.
+
+14
+00:00:30,456 --> 00:00:32,911
+We can think of the damper
+as a new force which acts
+
+15
+00:00:32,911 --> 00:00:35,948
+in the opposite direction
+of the spring force.
+
+16
+00:00:35,948 --> 00:00:38,774
+The size of this source
+will depend on two things.
+
+17
+00:00:38,774 --> 00:00:41,840
+First, how strong the damper is,
+
+18
+00:00:41,840 --> 00:00:44,424
+we'll call that the damping coefficient.
+
+19
+00:00:44,424 --> 00:00:47,733
+Second, the velocity of
+the spring displacement.
+
+20
+00:00:47,733 --> 00:00:50,521
+If the spring is stretching
+or compressing very quickly,
+
+21
+00:00:50,521 --> 00:00:53,393
+the damping force will be
+large and if the spring
+
+22
+00:00:53,393 --> 00:00:55,925
+isn't moving, there's no damping force
+
+23
+00:00:55,925 --> 00:00:58,422
+since there's no movement to resist.
+
+24
+00:00:58,422 --> 00:01:00,018
+We can use a really simple equation
+
+25
+00:01:00,018 --> 00:01:02,021
+to describe this situation.
+
+26
+00:01:02,021 --> 00:01:04,440
+Damping force equals
+damping coefficient times
+
+27
+00:01:04,440 --> 00:01:06,697
+velocity of the product.
+
+28
+00:01:06,697 --> 00:01:10,007
+Okay, let's add this
+new force to our system.
+
+29
+00:01:10,007 --> 00:01:11,931
+At the top of our program
+we need to initialize
+
+30
+00:01:11,931 --> 00:01:13,813
+a new variable called damping.
+
+31
+00:01:13,813 --> 00:01:16,360
+Earlier, we called this
+the damping coefficient.
+
+32
+00:01:16,360 --> 00:01:18,616
+Zero means no damping
+and the higher the number
+
+33
+00:01:18,616 --> 00:01:21,157
+the stronger the damper is.
+
+34
+00:01:21,157 --> 00:01:23,015
+Now we can move into our draw function
+
+35
+00:01:23,015 --> 00:01:25,642
+and define this new damping force.
+
+36
+00:01:25,642 --> 00:01:27,893
+Right below our spring
+force calculation I'm going
+
+37
+00:01:27,893 --> 00:01:31,293
+to define a new variable
+called damping force Y
+
+38
+00:01:31,293 --> 00:01:35,236
+and it will be equal to
+damping times velocity Y.
+
+39
+00:01:36,236 --> 00:01:40,116
+Next we add this force to our
+existing force Y calculation.
+
+40
+00:01:40,116 --> 00:01:41,958
+Currently, we are only taking gravity
+
+41
+00:01:41,958 --> 00:01:44,670
+and spring force into consideration.
+
+42
+00:01:44,670 --> 00:01:47,286
+Now we need to subtract
+our damping force Y
+
+43
+00:01:47,286 --> 00:01:50,764
+since it resists the spring force.
+
+44
+00:01:50,764 --> 00:01:52,848
+Okay, let's try this out.
+
+45
+00:01:52,848 --> 00:01:55,465
+Here's the response with no damping.
+
+46
+00:01:55,465 --> 00:01:59,665
+We call this system under-damped
+since it bounces forever.
+
+47
+00:02:00,665 --> 00:02:03,699
+Let's try increasing our
+damping variable to one.
+
+48
+00:02:03,699 --> 00:02:06,154
+Notice it comes to rest more quickly.
+
+49
+00:02:06,154 --> 00:02:08,586
+This is getting better,
+but if I set damping
+
+50
+00:02:08,586 --> 00:02:12,306
+to something huge, like
+100, we run into a problem.
+
+51
+00:02:12,306 --> 00:02:15,899
+This is called over-damping.
+The spring barely moves.
+
+52
+00:02:15,899 --> 00:02:18,191
+This isn't realistic.
+
+53
+00:02:18,191 --> 00:02:21,215
+The trick is to find the right
+balance of spring stiffness
+
+54
+00:02:21,215 --> 00:02:24,249
+and damping to get realistic motion.
+
+55
+00:02:24,249 --> 00:02:26,874
+Let's pause here so you can
+try this out for yourself.
+
+56
+00:02:26,874 --> 00:02:29,173
+Try experimenting with the
+damping and spring force
+
+57
+00:02:29,173 --> 00:02:32,366
+coefficients to get a realistic behavior.
+
+58
+00:02:32,366 --> 00:02:33,000
+Good luck. aimozhen.com/pixarinabox
+

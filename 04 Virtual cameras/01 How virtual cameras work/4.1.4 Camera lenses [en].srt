@@ -1,0 +1,398 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,357 --> 00:00:04,735
+- Earlier, we found that to make
+
+3
+00:00:04,735 --> 00:00:07,309
+a very bright image
+with our pinhole camera,
+
+4
+00:00:07,309 --> 00:00:10,081
+we had to use a large aperture.
+
+5
+00:00:10,081 --> 00:00:11,689
+But when we did this, our resulting image
+
+6
+00:00:11,689 --> 00:00:13,380
+was blurry because light rays
+
+7
+00:00:13,380 --> 00:00:15,338
+from each point in our scene spread out
+
+8
+00:00:15,338 --> 00:00:18,152
+into a larger area on our image plane.
+
+9
+00:00:18,152 --> 00:00:19,740
+Here's an example.
+
+10
+00:00:19,740 --> 00:00:21,889
+The light rays are
+coming in from the right
+
+11
+00:00:21,889 --> 00:00:23,745
+and they're just about parallel,
+
+12
+00:00:23,745 --> 00:00:26,181
+like they're coming from
+an object like the sun
+
+13
+00:00:26,181 --> 00:00:28,393
+that's really far away.
+
+14
+00:00:28,393 --> 00:00:30,853
+With a tiny aperture, just one tiny point
+
+15
+00:00:30,853 --> 00:00:32,883
+on the image plane would be illuminated
+
+16
+00:00:32,883 --> 00:00:34,070
+by these rays.
+
+17
+00:00:35,070 --> 00:00:36,997
+But to make a bigger aperture work,
+
+18
+00:00:36,997 --> 00:00:39,218
+we need to aim all of these light rays
+
+19
+00:00:39,218 --> 00:00:42,827
+onto a tiny point without
+discarding any of them.
+
+20
+00:00:42,827 --> 00:00:44,674
+We want to bend them.
+
+21
+00:00:44,674 --> 00:00:46,914
+And what do we use when
+we want to bend light?
+
+22
+00:00:46,914 --> 00:00:47,900
+A lens.
+
+23
+00:00:47,900 --> 00:00:49,734
+If we add a lens to our camera,
+
+24
+00:00:49,734 --> 00:00:53,302
+it will cause our light
+rays to converge like this.
+
+25
+00:00:53,302 --> 00:00:55,278
+The point where these
+parallel light rays converge
+
+26
+00:00:55,278 --> 00:00:57,314
+is known as the Focal Point.
+
+27
+00:00:57,314 --> 00:00:59,767
+It turns out that the shape
+or curvature of the lens
+
+28
+00:00:59,767 --> 00:01:02,970
+determines how sharply
+the light rays are bent.
+
+29
+00:01:02,970 --> 00:01:05,398
+If we increase the curvature of our lens,
+
+30
+00:01:05,398 --> 00:01:07,867
+the rays focus very close to the lens.
+
+31
+00:01:07,867 --> 00:01:09,744
+And if we decrease the curvature,
+
+32
+00:01:09,744 --> 00:01:11,739
+they focus farther away.
+
+33
+00:01:11,739 --> 00:01:13,358
+What we want is to focus the light rays
+
+34
+00:01:13,358 --> 00:01:15,048
+exactly on our image plane.
+
+35
+00:01:15,048 --> 00:01:16,824
+That will give us a sharp image.
+
+36
+00:01:16,824 --> 00:01:18,236
+And for any particular distance
+
+37
+00:01:18,236 --> 00:01:20,220
+between lens and image plane,
+
+38
+00:01:20,220 --> 00:01:22,736
+there's a lens design, or curvature,
+
+39
+00:01:22,736 --> 00:01:24,373
+that will focus the light rays
+
+40
+00:01:24,373 --> 00:01:26,117
+on the image plane.
+
+41
+00:01:26,117 --> 00:01:27,877
+We call the distance at which the lens
+
+42
+00:01:27,877 --> 00:01:29,735
+focuses these parallel rays
+
+43
+00:01:29,735 --> 00:01:32,167
+the Focal Length of the lens.
+
+44
+00:01:32,167 --> 00:01:33,744
+You can have a lens that focuses
+
+45
+00:01:33,744 --> 00:01:35,174
+close to the aperture
+
+46
+00:01:35,174 --> 00:01:37,392
+and you'll get a wide field of view.
+
+47
+00:01:37,392 --> 00:01:40,010
+We call that a Wide Angle Lens.
+
+48
+00:01:40,010 --> 00:01:42,589
+For example, a 28 millimeter lens,
+
+49
+00:01:42,589 --> 00:01:44,400
+like the one we're using here,
+
+50
+00:01:44,400 --> 00:01:46,556
+has a focal length of 28 millimeters
+
+51
+00:01:46,556 --> 00:01:49,607
+and produces an image
+with a wide field of view.
+
+52
+00:01:49,607 --> 00:01:51,303
+Or you can have a lens that focuses light
+
+53
+00:01:51,303 --> 00:01:53,135
+further away from the aperture.
+
+54
+00:01:53,135 --> 00:01:55,249
+We call this a Long Lens.
+
+55
+00:01:55,249 --> 00:01:58,028
+For example, a 120 millimeter lens,
+
+56
+00:01:58,028 --> 00:01:59,709
+like the one we're using here,
+
+57
+00:01:59,709 --> 00:02:01,965
+has a focal length of 120 millimeters.
+
+58
+00:02:01,965 --> 00:02:05,136
+So we'll capture less
+of the scene, like this.
+
+59
+00:02:05,136 --> 00:02:06,523
+While a 50 millimeter lens,
+
+60
+00:02:06,523 --> 00:02:08,330
+like the one we've switched to here,
+
+61
+00:02:08,330 --> 00:02:11,236
+gives us this natural-looking perspective.
+
+62
+00:02:11,236 --> 00:02:14,148
+For any given lens, the
+film or light sensor
+
+63
+00:02:14,148 --> 00:02:15,371
+needs a certain amount of light
+
+64
+00:02:15,371 --> 00:02:17,827
+to record an image properly.
+
+65
+00:02:17,827 --> 00:02:19,949
+Too little, and it just sees darkness,
+
+66
+00:02:19,949 --> 00:02:22,473
+Too much, and it just sees white.
+
+67
+00:02:22,473 --> 00:02:24,148
+We control how much light it receives
+
+68
+00:02:24,148 --> 00:02:26,823
+by adjusting the size, or diameter,
+
+69
+00:02:26,823 --> 00:02:28,755
+of the aperture, which we also
+
+70
+00:02:28,755 --> 00:02:30,393
+measure in millimeters.
+
+71
+00:02:30,393 --> 00:02:32,273
+Some cameras, like this one,
+
+72
+00:02:32,273 --> 00:02:35,304
+allow you to set the
+aperture using this ring.
+
+73
+00:02:35,304 --> 00:02:36,307
+But the numbers on the ring
+
+74
+00:02:36,307 --> 00:02:38,164
+aren't measured in millimeters.
+
+75
+00:02:38,164 --> 00:02:40,297
+The numbers here are called F Stops
+
+76
+00:02:40,297 --> 00:02:41,651
+and is defined to be the ratio
+
+77
+00:02:41,651 --> 00:02:43,505
+of the focal length of the lens
+
+78
+00:02:43,505 --> 00:02:46,008
+to the diameter of the aperture.
+
+79
+00:02:46,008 --> 00:02:48,228
+So if we want a 25 millimeter aperture
+
+80
+00:02:48,228 --> 00:02:50,193
+on a 50 millimeter lens,
+
+81
+00:02:50,193 --> 00:02:52,182
+we'll set the F Stop to two
+
+82
+00:02:52,182 --> 00:02:53,931
+because 50 millimeters divided by
+
+83
+00:02:53,931 --> 00:02:56,884
+25 millimeters equals two.
+
+84
+00:02:56,884 --> 00:02:58,460
+F Stops are handy because they tell us
+
+85
+00:02:58,460 --> 00:03:00,480
+exactly how much light gets through,
+
+86
+00:03:00,480 --> 00:03:02,952
+no matter the focal length of the lens.
+
+87
+00:03:02,952 --> 00:03:04,593
+For example, if we set the F Stop
+
+88
+00:03:04,593 --> 00:03:07,233
+on a 100 millimeter lens to two,
+
+89
+00:03:07,233 --> 00:03:08,936
+we get the same amount of light
+
+90
+00:03:08,936 --> 00:03:11,270
+as we do with a 50 millimeter lens
+
+91
+00:03:11,270 --> 00:03:13,573
+with the F Stop set to two.
+
+92
+00:03:13,573 --> 00:03:16,174
+The F Stop is there for an important idea.
+
+93
+00:03:16,174 --> 00:03:17,646
+Let's stop here so you can get
+
+94
+00:03:17,646 --> 00:03:21,407
+some practice with it
+in the next exercise.
+
+95
+00:03:23,407 --> 00:03:25,380
+And just to make it clear,
+
+96
+00:03:25,380 --> 00:03:28,000
+I did take that with an F Stop of two. aimozhen.com/pixarinabox
+

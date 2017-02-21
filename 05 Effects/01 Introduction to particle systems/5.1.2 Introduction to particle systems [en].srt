@@ -1,0 +1,232 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,589 --> 00:00:05,827
+- Hi, I'm Matt Wong, an
+Effects Technical Director
+
+3
+00:00:05,827 --> 00:00:07,247
+here at Pixar.
+
+4
+00:00:07,247 --> 00:00:08,910
+I work with Sara Beth and Eric who you met
+
+5
+00:00:08,910 --> 00:00:11,790
+in the previous video and
+this is the pool they were in,
+
+6
+00:00:11,790 --> 00:00:13,790
+the Pixar Pool, which
+is one of the nice perks
+
+7
+00:00:13,790 --> 00:00:15,902
+of working here at Pixar.
+
+8
+00:00:15,902 --> 00:00:17,620
+We don't just use the pool for recreation,
+
+9
+00:00:17,620 --> 00:00:19,441
+we sometimes use it for work, too
+
+10
+00:00:19,441 --> 00:00:21,969
+like in this reference video
+we shot for Finding Dory.
+
+11
+00:00:21,969 --> 00:00:23,918
+We wanted to see what it
+would look like underwater
+
+12
+00:00:23,918 --> 00:00:27,335
+when large objects like
+this pumpkin hit the water.
+
+13
+00:00:27,335 --> 00:00:29,283
+In the previous video
+you learned that water
+
+14
+00:00:29,283 --> 00:00:32,129
+and other physically
+phenomena like smoke, dust,
+
+15
+00:00:32,129 --> 00:00:34,734
+and fire can be simulated
+using lots and lots
+
+16
+00:00:34,734 --> 00:00:36,236
+of individual particles.
+
+17
+00:00:36,236 --> 00:00:39,204
+Using particles is a
+simplification of real physics
+
+18
+00:00:39,204 --> 00:00:41,072
+but it's an effective tool for artists.
+
+19
+00:00:41,072 --> 00:00:42,415
+The more particles you use
+
+20
+00:00:42,415 --> 00:00:44,485
+the closer you get to real physics.
+
+21
+00:00:44,485 --> 00:00:47,002
+Most of our simulations
+require millions and millions
+
+22
+00:00:47,002 --> 00:00:49,518
+of particles to create believable water.
+
+23
+00:00:49,518 --> 00:00:51,975
+Keeping track of that many
+particles would take too long
+
+24
+00:00:51,975 --> 00:00:53,198
+for humans to do.
+
+25
+00:00:53,198 --> 00:00:55,881
+Even computers have trouble
+with large particle counts
+
+26
+00:00:55,881 --> 00:00:57,874
+but we've developed some practical methods
+
+27
+00:00:57,874 --> 00:00:59,742
+that you'll learn about in this lesson.
+
+28
+00:00:59,742 --> 00:01:01,488
+One of the most power techniques we use
+
+29
+00:01:01,488 --> 00:01:03,308
+is called a particle system.
+
+30
+00:01:03,308 --> 00:01:08,079
+Particle systems were first
+invented by an effects artist
+
+31
+00:01:08,079 --> 00:01:08,079
+named Bill Reeves to
+create a shot for the movie
+
+32
+00:01:08,913 --> 00:01:10,590
+Start Trek Two back in 1982.
+
+33
+00:01:10,590 --> 00:01:12,342
+The shot was called the Genesis Effect
+
+34
+00:01:12,342 --> 00:01:13,843
+and it blew people away.
+
+35
+00:01:13,843 --> 00:01:16,364
+It was a real milestone
+in computer graphics.
+
+36
+00:01:16,364 --> 00:01:18,641
+At the time Bill was working for a group
+
+37
+00:01:18,641 --> 00:01:20,018
+that eventually became Pixar.
+
+38
+00:01:20,018 --> 00:01:22,459
+And you know what, he still works here.
+
+39
+00:01:22,459 --> 00:01:23,293
+Hey Bill.
+
+40
+00:01:23,293 --> 00:01:24,165
+- Hey.
+
+41
+00:01:24,165 --> 00:01:25,107
+- Can you tell us a little bit more
+
+42
+00:01:25,107 --> 00:01:26,369
+about the Genesis Effect?
+
+43
+00:01:26,369 --> 00:01:28,037
+Like what was the story point?
+
+44
+00:01:28,037 --> 00:01:31,427
+- Well the Genesis Effect was this device
+
+45
+00:01:32,427 --> 00:01:36,449
+that could turn a living
+planet into a dead planet
+
+46
+00:01:36,449 --> 00:01:40,812
+or a dead planet into a
+living planet and I used
+
+47
+00:01:41,812 --> 00:01:45,675
+particle systems to do the
+transformational fire element
+
+48
+00:01:45,675 --> 00:01:47,215
+at that.
+
+49
+00:01:47,215 --> 00:01:48,345
+- And today we still use particles
+
+50
+00:01:48,345 --> 00:01:49,976
+for lots of different effects.
+
+51
+00:01:49,976 --> 00:01:52,494
+In the rest of the lesson you'll
+learn how we use particles
+
+52
+00:01:52,494 --> 00:01:53,917
+to simulate the motion of water
+
+53
+00:01:53,917 --> 00:01:56,000
+and you'll create a fireworks show. aimozhen.com/pixarinabox
+

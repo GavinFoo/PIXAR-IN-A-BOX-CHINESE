@@ -1,0 +1,195 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:02,000 --> 00:00:04,566
+- When I started college,
+
+3
+00:00:05,566 --> 00:00:07,999
+computer graphics was a
+really primitive medium
+
+4
+00:00:07,999 --> 00:00:08,832
+at that point.
+
+5
+00:00:08,832 --> 00:00:11,568
+It was plotter graphics
+
+6
+00:00:11,568 --> 00:00:14,692
+and we had a device at our computer lab
+
+7
+00:00:15,692 --> 00:00:17,079
+that allowed you to draw a picture
+
+8
+00:00:17,079 --> 00:00:19,617
+with lines and so that's where I learned
+
+9
+00:00:19,617 --> 00:00:23,104
+about geometric transformations
+and linear algebra
+
+10
+00:00:23,104 --> 00:00:25,587
+and the things that go into CG
+
+11
+00:00:26,587 --> 00:00:27,420
+because we had this device
+
+12
+00:00:27,420 --> 00:00:29,825
+and I wanted to draw pictures on it.
+
+13
+00:00:29,825 --> 00:00:32,554
+When I started at Pixar,
+I got a summer job
+
+14
+00:00:32,554 --> 00:00:35,386
+doing what you would now call IT,
+
+15
+00:00:35,386 --> 00:00:38,076
+which was what we called
+the Systems Group.
+
+16
+00:00:38,076 --> 00:00:41,121
+I kept one of the four computers
+
+17
+00:00:41,121 --> 00:00:43,009
+that we had in the main computer room.
+
+18
+00:00:43,009 --> 00:00:46,518
+I helped keep it running,
+and in my off hours,
+
+19
+00:00:46,518 --> 00:00:50,398
+I got to use the CG lab that had a handful
+
+20
+00:00:50,398 --> 00:00:52,602
+of image computing devices in it.
+
+21
+00:00:52,602 --> 00:00:54,301
+Because I was really interested in that,
+
+22
+00:00:54,301 --> 00:00:55,912
+I had spent more and more time there
+
+23
+00:00:55,912 --> 00:01:00,970
+and when there was some work
+to be done in the graphics side
+
+24
+00:01:00,970 --> 00:01:04,536
+of things, I did that,
+that was really fun.
+
+25
+00:01:05,536 --> 00:01:09,718
+I built most of Andy's
+neighborhood with some help
+
+26
+00:01:10,718 --> 00:01:13,366
+from some other people
+who built a few houses.
+
+27
+00:01:13,366 --> 00:01:16,131
+I created the street and the road
+
+28
+00:01:16,131 --> 00:01:17,989
+and I dressed the trees in and I worked
+
+29
+00:01:17,989 --> 00:01:20,073
+with somebody to make
+the trees renderable.
+
+30
+00:01:20,073 --> 00:01:22,867
+I also built Scud, the dog.
+
+31
+00:01:23,867 --> 00:01:26,778
+Scud started as a big sculpture
+
+32
+00:01:26,778 --> 00:01:29,127
+and sculpey of a big dog
+
+33
+00:01:29,127 --> 00:01:33,491
+and we had to figure out a
+way of wrapping a surface,
+
+34
+00:01:33,491 --> 00:01:37,628
+a CG surface around Scud and
+making it all kind of connect,
+
+35
+00:01:37,628 --> 00:01:39,855
+and then articulate, make it move,
+
+36
+00:01:39,855 --> 00:01:42,363
+get the controls in so the
+animators could move it,
+
+37
+00:01:42,363 --> 00:01:44,322
+and then work with another people
+
+38
+00:01:44,322 --> 00:01:47,155
+to put color on him and fur on him.
+
+39
+00:01:49,155 --> 00:01:52,819
+I will spend a Saturday
+taking apart a camera,
+
+40
+00:01:52,819 --> 00:01:55,492
+taking all the old grease
+out and making it work again,
+
+41
+00:01:55,492 --> 00:01:57,242
+maybe making new parts
+of some of the old ones
+
+42
+00:01:57,242 --> 00:01:59,340
+that are broken and
+putting it back together,
+
+43
+00:01:59,340 --> 00:02:01,427
+or I'll go on a road
+trip and take pictures
+
+44
+00:02:01,427 --> 00:02:05,000
+'cause there's nothing better
+than road trips and cameras. aimozhen.com/pixarinabox
+

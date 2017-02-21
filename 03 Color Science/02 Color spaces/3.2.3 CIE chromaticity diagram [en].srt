@@ -1,0 +1,162 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:00,525 --> 00:00:03,518
+(springing)
+(thudding)
+
+3
+00:00:03,518 --> 00:00:05,875
+- Now let's return to the
+human eye for a moment.
+
+4
+00:00:05,875 --> 00:00:07,545
+Remember, the human eye is the sensor
+
+5
+00:00:07,545 --> 00:00:10,795
+which light must pass
+through to be perceived.
+
+6
+00:00:10,795 --> 00:00:12,954
+So we need to understand the limit
+
+7
+00:00:12,954 --> 00:00:15,233
+of the human visual system.
+
+8
+00:00:15,233 --> 00:00:17,102
+In the 1920s, experiments were done
+
+9
+00:00:17,102 --> 00:00:20,433
+to map the color space
+perceivable by humans.
+
+10
+00:00:20,433 --> 00:00:24,055
+From purple, all the
+way around the rainbow,
+
+11
+00:00:24,055 --> 00:00:26,581
+to this red, this defines all colors
+
+12
+00:00:26,581 --> 00:00:28,615
+of a single wavelength.
+
+13
+00:00:28,615 --> 00:00:31,663
+These are known as spectral colors,
+
+14
+00:00:31,663 --> 00:00:33,619
+and inside this region,
+
+15
+00:00:33,619 --> 00:00:37,162
+we have all combinations
+of those pure colors.
+
+16
+00:00:37,162 --> 00:00:38,956
+Scientists plotted the limit
+
+17
+00:00:38,956 --> 00:00:41,838
+of the pure colors we can perceive.
+
+18
+00:00:41,838 --> 00:00:45,255
+Notice it takes this funny looking shape.
+
+19
+00:00:45,255 --> 00:00:47,247
+One reason this shape is useful is
+
+20
+00:00:47,247 --> 00:00:50,501
+something called perceptual uniformity.
+
+21
+00:00:50,501 --> 00:00:51,476
+That's a fancy way of saying
+
+22
+00:00:51,476 --> 00:00:54,120
+that we can find the
+mixture of two colors,
+
+23
+00:00:54,120 --> 00:00:56,398
+such as this red and this green,
+
+24
+00:00:56,398 --> 00:01:00,224
+by simply looking at the
+midpoint of them, right here.
+
+25
+00:01:00,224 --> 00:01:04,010
+It's known as the CIE
+chromaticity diagram.
+
+26
+00:01:04,010 --> 00:01:06,093
+CIE refers to the scientific group
+
+27
+00:01:06,093 --> 00:01:08,416
+that published the findings.
+
+28
+00:01:08,416 --> 00:01:11,543
+Compare this to the hue
+saturation color wheel,
+
+29
+00:01:11,543 --> 00:01:13,742
+which is not perceptually uniform.
+
+30
+00:01:13,742 --> 00:01:17,076
+Pure red is here, pure green is here,
+
+31
+00:01:17,076 --> 00:01:18,377
+but the middle of these two points is
+
+32
+00:01:18,377 --> 00:01:20,328
+not pure yellow at all,
+
+33
+00:01:20,328 --> 00:01:22,855
+it's a very desaturated yellow.
+
+34
+00:01:22,855 --> 00:01:23,751
+Okay, let's pause here.
+
+35
+00:01:23,751 --> 00:01:25,054
+In this next exercise,
+
+36
+00:01:25,054 --> 00:01:26,438
+we'll challenge you to think more
+
+37
+00:01:26,438 --> 00:01:28,920
+about this CIE chromaticity diagram,
+
+38
+00:01:28,920 --> 00:01:31,000
+and perceptual uniformity. aimozhen.com/pixarinabox
+

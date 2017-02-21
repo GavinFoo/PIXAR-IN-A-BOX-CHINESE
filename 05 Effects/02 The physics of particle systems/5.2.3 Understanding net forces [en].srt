@@ -1,0 +1,223 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:00,455 --> 00:00:03,469
+(bouncing)
+
+3
+00:00:03,469 --> 00:00:05,372
+- Sir Isaac Newton famously observed
+
+4
+00:00:05,372 --> 00:00:07,391
+that objects at rest stay at rest
+
+5
+00:00:07,391 --> 00:00:10,208
+unless they're acted on by a force.
+
+6
+00:00:10,208 --> 00:00:13,331
+And objects which are in motion
+have an unchanging velocity.
+
+7
+00:00:13,331 --> 00:00:15,903
+For example, a particle
+floating through empty space
+
+8
+00:00:15,903 --> 00:00:17,498
+would never stop.
+
+9
+00:00:17,498 --> 00:00:19,189
+So whether a particle is motionless
+
+10
+00:00:19,189 --> 00:00:21,487
+or traveling at a constant velocity,
+
+11
+00:00:21,487 --> 00:00:23,581
+if no forces are applied to the particle,
+
+12
+00:00:23,581 --> 00:00:25,916
+then no change in velocity occurs.
+
+13
+00:00:25,916 --> 00:00:28,515
+That's called Newton's First Law.
+
+14
+00:00:28,515 --> 00:00:30,102
+In order to accelerate our particle,
+
+15
+00:00:30,102 --> 00:00:31,716
+that is, to change its velocity,
+
+16
+00:00:31,716 --> 00:00:33,904
+a net force must be applied.
+
+17
+00:00:33,904 --> 00:00:37,432
+As with velocity and acceleration,
+forces are also vectors.
+
+18
+00:00:37,432 --> 00:00:40,666
+The force due to gravity for
+instance, will point downward,
+
+19
+00:00:40,666 --> 00:00:44,313
+and its length will depend on
+how much gravity is present.
+
+20
+00:00:44,313 --> 00:00:46,478
+If this gravitational
+force is the only force
+
+21
+00:00:46,478 --> 00:00:49,253
+acting on the particle, then
+its velocity will change,
+
+22
+00:00:49,253 --> 00:00:50,820
+meaning it will accelerate
+in the direction
+
+23
+00:00:50,820 --> 00:00:52,810
+of the force vector.
+
+24
+00:00:52,810 --> 00:00:54,151
+But what if there are multiple forces
+
+25
+00:00:54,151 --> 00:00:55,644
+at work on the particle?
+
+26
+00:00:55,644 --> 00:00:58,922
+Like if I add a wind force
+in addition to gravity.
+
+27
+00:00:58,922 --> 00:01:01,731
+Suppose for instance, that the
+wind is blowing to the right
+
+28
+00:01:01,731 --> 00:01:04,861
+half as strongly as the force
+of gravity pointing downward.
+
+29
+00:01:04,861 --> 00:01:07,300
+We need to add these forces
+together using vector addition
+
+30
+00:01:07,300 --> 00:01:09,715
+to determine the net force.
+
+31
+00:01:09,715 --> 00:01:12,239
+Written as an equation, net force is equal
+
+32
+00:01:12,239 --> 00:01:14,197
+to gravity plus wind.
+
+33
+00:01:14,197 --> 00:01:17,063
+Since the net force is now
+pointing down and to the right,
+
+34
+00:01:17,063 --> 00:01:18,696
+that also dictates the direction that
+
+35
+00:01:18,696 --> 00:01:21,430
+that particle will accelerate.
+
+36
+00:01:21,430 --> 00:01:23,066
+If there are more forces at work,
+
+37
+00:01:23,066 --> 00:01:26,206
+we would add those forces all
+up to determine the net force.
+
+38
+00:01:26,206 --> 00:01:27,733
+And that would determine the direction
+
+39
+00:01:27,733 --> 00:01:29,735
+the particle would accelerate.
+
+40
+00:01:29,735 --> 00:01:33,690
+For instance, suppose the
+particle is sitting on a table.
+
+41
+00:01:33,690 --> 00:01:35,693
+Gravity is pulling the particle downward,
+
+42
+00:01:35,693 --> 00:01:37,058
+and the wind is pushing the particle
+
+43
+00:01:37,058 --> 00:01:38,800
+to the right, as before.
+
+44
+00:01:38,800 --> 00:01:41,592
+But there's another force at
+work on the particle, too.
+
+45
+00:01:41,592 --> 00:01:44,529
+The table is pushing up on the
+particle to resist gravity.
+
+46
+00:01:44,529 --> 00:01:47,105
+So our force diagram looks like this.
+
+47
+00:01:47,105 --> 00:01:49,955
+The forces of gravity and the
+table, cancel each other out,
+
+48
+00:01:49,955 --> 00:01:52,858
+leaving the wind force as a net force.
+
+49
+00:01:52,858 --> 00:01:55,429
+Okay, in the next exercise
+you'll get some practice
+
+50
+00:01:55,429 --> 00:01:56,729
+working with net forces.
+
+51
+00:01:56,729 --> 00:01:59,000
+(water splashing) aimozhen.com/pixarinabox
+

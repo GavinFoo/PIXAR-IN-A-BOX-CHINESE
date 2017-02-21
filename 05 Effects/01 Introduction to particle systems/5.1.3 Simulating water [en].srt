@@ -1,0 +1,255 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:00,444 --> 00:00:03,247
+(bouncing)
+
+3
+00:00:03,247 --> 00:00:05,135
+- Okay, let's dive into
+the use of particles
+
+4
+00:00:05,135 --> 00:00:06,268
+for simulating water.
+
+5
+00:00:06,268 --> 00:00:08,869
+(water splashing)
+
+6
+00:00:08,869 --> 00:00:10,922
+Before talking about how
+lots of particles move,
+
+7
+00:00:10,922 --> 00:00:13,983
+let's start by looking at
+how one particle moves.
+
+8
+00:00:13,983 --> 00:00:16,026
+If I drop a particle, or a ping pong ball,
+
+9
+00:00:16,026 --> 00:00:17,873
+it accelerates towards the ground.
+
+10
+00:00:17,873 --> 00:00:21,994
+We also saw this kind of
+motion in the animation topic.
+
+11
+00:00:21,994 --> 00:00:23,694
+Notice that it bounces back up,
+
+12
+00:00:23,694 --> 00:00:25,628
+but not quite as high as it started.
+
+13
+00:00:25,628 --> 00:00:27,700
+It loses some energy during the bounce,
+
+14
+00:00:27,700 --> 00:00:31,392
+and eventually when it loses
+all of its energy, it stops.
+
+15
+00:00:31,392 --> 00:00:34,067
+Now let's look at our
+ping pong ball simuator
+
+16
+00:00:34,067 --> 00:00:37,575
+where we model each ping pong
+ball using a virtual particle.
+
+17
+00:00:37,575 --> 00:00:39,380
+The virtual particle accelerates downward
+
+18
+00:00:39,380 --> 00:00:40,733
+until it hits an obstacle,
+
+19
+00:00:40,733 --> 00:00:44,306
+and then it bounces back up,
+only with a little less energy.
+
+20
+00:00:44,306 --> 00:00:46,444
+With this simulator,
+we can control how big
+
+21
+00:00:46,444 --> 00:00:49,566
+the particle is using this slider.
+
+22
+00:00:50,566 --> 00:00:51,867
+We can also control how strong
+
+23
+00:00:51,867 --> 00:00:54,670
+the gravity is using this slider.
+
+24
+00:00:54,670 --> 00:00:56,917
+A small gravitational value
+similar to the gravity
+
+25
+00:00:56,917 --> 00:00:58,780
+found on the moon causes the particle
+
+26
+00:00:58,780 --> 00:01:00,368
+to fall more gradually.
+
+27
+00:01:02,368 --> 00:01:03,947
+A larger gravitational value,
+
+28
+00:01:03,947 --> 00:01:05,321
+like the gravity here on Earth,
+
+29
+00:01:05,321 --> 00:01:09,792
+causes the particle to fall
+at a more familiar rate.
+
+30
+00:01:09,792 --> 00:01:12,113
+And sending it to a very
+large gravitational value,
+
+31
+00:01:12,113 --> 00:01:16,381
+like on Jupiter, makes the
+particle fall really quickly.
+
+32
+00:01:16,381 --> 00:01:18,773
+We can also control how much
+energy the particle loses
+
+33
+00:01:18,773 --> 00:01:21,634
+during a bounce, by
+controlling its elasticity.
+
+34
+00:01:21,634 --> 00:01:22,904
+It describes a fraction of energy
+
+35
+00:01:22,904 --> 00:01:26,280
+that is retained when
+the particle bounces.
+
+36
+00:01:29,280 --> 00:01:31,803
+Elasticity is a number
+between zero and one.
+
+37
+00:01:31,803 --> 00:01:34,307
+A value of one means the
+particle loses no energy.
+
+38
+00:01:34,307 --> 00:01:36,211
+It'll bounce forever.
+
+39
+00:01:36,211 --> 00:01:38,248
+This is called perfect elastic collision,
+
+40
+00:01:38,248 --> 00:01:40,962
+and it's something that
+doesn't happen in real life.
+
+41
+00:01:40,962 --> 00:01:43,751
+A value of zero means the
+particle loses all of its energy.
+
+42
+00:01:43,751 --> 00:01:45,852
+In this case, sticking to the floor.
+
+43
+00:01:45,852 --> 00:01:50,369
+Intermediate values give the
+particle more realistic motion.
+
+44
+00:01:50,369 --> 00:01:52,923
+Elasticity is also used
+to control the energy loss
+
+45
+00:01:52,923 --> 00:01:55,331
+when particles hit each other.
+
+46
+00:01:55,331 --> 00:01:58,246
+If we set elasticity to zero,
+then the particles will lose
+
+47
+00:01:58,246 --> 00:01:59,849
+all energy when they collide.
+
+48
+00:01:59,849 --> 00:02:03,920
+Like this, similar to a pile of marbles.
+
+49
+00:02:04,920 --> 00:02:06,925
+And as we increase the elasticity,
+
+50
+00:02:06,925 --> 00:02:11,574
+we get something that looks
+more like rubber balls.
+
+51
+00:02:11,574 --> 00:02:13,090
+And of course, you can also change
+
+52
+00:02:13,090 --> 00:02:15,380
+the size of the particles.
+
+53
+00:02:16,380 --> 00:02:18,547
+Let's pause here so you
+can use the next exercise
+
+54
+00:02:18,547 --> 00:02:20,805
+to get some experience with
+the range of particle behavior
+
+55
+00:02:20,805 --> 00:02:23,014
+you can achieve by
+changing the particle size,
+
+56
+00:02:23,014 --> 00:02:25,127
+gravity, and elasticity.
+
+57
+00:02:26,127 --> 00:02:28,000
+(playful music) aimozhen.com/pixarinabox
+

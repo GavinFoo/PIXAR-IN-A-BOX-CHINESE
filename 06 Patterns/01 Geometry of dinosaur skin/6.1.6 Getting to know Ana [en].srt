@@ -1,0 +1,402 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:01,925 --> 00:00:04,032
+- I grew up in Uruguay.
+
+3
+00:00:04,032 --> 00:00:06,487
+A little country between
+Brazil and Argentina.
+
+4
+00:00:06,487 --> 00:00:10,313
+There's about three million
+people in the country.
+
+5
+00:00:10,313 --> 00:00:12,809
+I did not have any experience. (laughs)
+
+6
+00:00:12,809 --> 00:00:15,276
+I came straight from school.
+
+7
+00:00:15,276 --> 00:00:17,650
+I have a duel degree in
+electrical engineering
+
+8
+00:00:17,650 --> 00:00:19,520
+and fine arts.
+
+9
+00:00:19,520 --> 00:00:23,784
+I am kind of right brain,
+left brain, kind of person.
+
+10
+00:00:23,784 --> 00:00:26,514
+I really like arts and I
+really like engineering,
+
+11
+00:00:26,514 --> 00:00:28,459
+and I found out there was a career
+
+12
+00:00:28,459 --> 00:00:31,993
+that you can combine both,
+so I thought that was great.
+
+13
+00:00:31,993 --> 00:00:35,356
+And then I just happen to
+interview with Ed Catmull,
+
+14
+00:00:35,356 --> 00:00:37,486
+was the president at the time.
+
+15
+00:00:37,486 --> 00:00:40,237
+I just thought it would be
+great to meet one of the people
+
+16
+00:00:40,237 --> 00:00:44,185
+that had written some of
+the stuff in my books.
+
+17
+00:00:44,185 --> 00:00:48,334
+And so I went for the
+interview and I got the job.
+
+18
+00:00:48,334 --> 00:00:50,002
+When I went to college,
+
+19
+00:00:50,002 --> 00:00:52,572
+I was really interested in sculpting.
+
+20
+00:00:52,572 --> 00:00:54,360
+That was my main path.
+
+21
+00:00:58,360 --> 00:01:01,106
+I worked a lot in clay, I worked on paper,
+
+22
+00:01:01,106 --> 00:01:02,007
+I worked on wire.
+
+23
+00:01:04,007 --> 00:01:05,780
+At the end of my career I started doing
+
+24
+00:01:05,780 --> 00:01:09,255
+a little bit of computer
+graphics, but not a lot.
+
+25
+00:01:09,255 --> 00:01:10,679
+So when I came to Pixar,
+
+26
+00:01:10,679 --> 00:01:13,036
+of course I wanted to be an animator,
+
+27
+00:01:13,036 --> 00:01:17,259
+but the people that know best (laughs)
+
+28
+00:01:17,259 --> 00:01:20,202
+decided that probably a
+technical director career
+
+29
+00:01:20,202 --> 00:01:22,339
+would be best for me, given that I had
+
+30
+00:01:22,339 --> 00:01:26,043
+the technical orientation
+and the art, as well.
+
+31
+00:01:26,043 --> 00:01:30,819
+But the first one I did was
+lighting TD on Geri's Game.
+
+32
+00:01:30,819 --> 00:01:32,152
+- [Interviewer] What do lighters do?
+
+33
+00:01:32,152 --> 00:01:33,266
+Lighting TDs?
+
+34
+00:01:33,266 --> 00:01:34,212
+- Lighting TD.
+
+35
+00:01:34,212 --> 00:01:37,646
+So if you can imagine a theater
+and putting up the lights
+
+36
+00:01:37,646 --> 00:01:38,837
+wherever you want the character
+
+37
+00:01:38,837 --> 00:01:41,527
+to be looking pretty for the camera,
+
+38
+00:01:41,527 --> 00:01:42,937
+that's basically what lighting TDs do.
+
+39
+00:01:42,937 --> 00:01:45,635
+We are trying to emphasize the story
+
+40
+00:01:45,635 --> 00:01:47,895
+and what we want to get across,
+
+41
+00:01:47,895 --> 00:01:50,325
+and then make our things
+look pretty, or scary,
+
+42
+00:01:50,325 --> 00:01:53,867
+or whatever they need to
+be as part of the story.
+
+43
+00:01:53,867 --> 00:01:57,374
+And then I started working in shading.
+
+44
+00:01:57,374 --> 00:02:01,269
+For shading, I did a lot of
+prop shading, I did set shading,
+
+45
+00:02:01,269 --> 00:02:05,145
+and recently I've been doing
+a lot more character shading.
+
+46
+00:02:05,145 --> 00:02:07,485
+And I also worked as a lead shading artist
+
+47
+00:02:07,485 --> 00:02:09,300
+for The Good Dinosaur.
+
+48
+00:02:09,300 --> 00:02:13,092
+Shading is basically creating
+the material qualities
+
+49
+00:02:13,092 --> 00:02:14,834
+as you see in objects.
+
+50
+00:02:14,834 --> 00:02:16,883
+So when the models come to us,
+
+51
+00:02:16,883 --> 00:02:18,896
+they're basically just white plastic,
+
+52
+00:02:18,896 --> 00:02:21,139
+and we make them look the way
+that they're supposed to look.
+
+53
+00:02:21,139 --> 00:02:24,718
+So if you have a piece of
+wood, you want to figure out
+
+54
+00:02:24,718 --> 00:02:27,240
+what kind of pattern you want on the wood,
+
+55
+00:02:27,240 --> 00:02:31,209
+or how does the light
+interact with the material.
+
+56
+00:02:31,209 --> 00:02:33,200
+If there's certain bumpiness to it,
+
+57
+00:02:33,200 --> 00:02:36,776
+if it's reflective, if it feels smooth,
+
+58
+00:02:36,776 --> 00:02:39,656
+or if the light goes into
+the wood a little bit
+
+59
+00:02:39,656 --> 00:02:41,473
+and bounces around and comes off.
+
+60
+00:02:41,473 --> 00:02:43,429
+So there's a lot of math involved
+
+61
+00:02:43,429 --> 00:02:45,839
+into trying to figure
+out that kind of system,
+
+62
+00:02:45,839 --> 00:02:49,367
+and how does the illumination
+interact with the material,
+
+63
+00:02:49,367 --> 00:02:50,859
+and how do you perceive it.
+
+64
+00:02:50,859 --> 00:02:52,390
+And a lot of the times it's really funny
+
+65
+00:02:52,390 --> 00:02:55,009
+because the idea that you have mentally
+
+66
+00:02:55,009 --> 00:02:56,797
+of what the object should look like
+
+67
+00:02:56,797 --> 00:02:58,627
+is actually really
+different from what you want
+
+68
+00:02:58,627 --> 00:03:00,325
+to put on the screen.
+
+69
+00:03:00,325 --> 00:03:03,966
+Sometimes I'm driving around
+and I'll see a cloud on the sky
+
+70
+00:03:03,966 --> 00:03:06,812
+and I'll think to myself,
+if I make that cloud
+
+71
+00:03:06,812 --> 00:03:09,169
+on the computer it will
+look completely wrong,
+
+72
+00:03:09,169 --> 00:03:11,206
+and people would not believe it's a cloud.
+
+73
+00:03:11,206 --> 00:03:13,550
+But it's up there, it's in the sky.
+
+74
+00:03:13,550 --> 00:03:15,955
+So a lot of times you have to figure out
+
+75
+00:03:15,955 --> 00:03:18,331
+what our idea of the cloud is,
+
+76
+00:03:19,331 --> 00:03:21,252
+versus what the cloud really is.
+
+77
+00:03:24,252 --> 00:03:26,747
+I just like, for me cooking is almost
+
+78
+00:03:26,747 --> 00:03:29,724
+like a little bit of a travel experience.
+
+79
+00:03:29,724 --> 00:03:30,925
+It's an adventure.
+
+80
+00:03:30,925 --> 00:03:34,603
+So I tend to do really strange dishes
+
+81
+00:03:34,603 --> 00:03:37,288
+from what we're used to having.
+
+82
+00:03:37,288 --> 00:03:41,097
+Love using new ingredients and
+stuff that I can't pronounce,
+
+83
+00:03:41,097 --> 00:03:42,186
+and just go for it.
+
+84
+00:03:44,186 --> 00:03:46,634
+Don't be afraid to say
+you don't know something
+
+85
+00:03:46,634 --> 00:03:48,330
+because that's the only way you can learn.
+
+86
+00:03:48,330 --> 00:03:50,413
+Don't be afraid to make mistakes
+
+87
+00:03:50,413 --> 00:03:52,997
+because that's the only way we learn.
+
+88
+00:03:52,997 --> 00:03:56,428
+And just keep shooting
+for what you want to be,
+
+89
+00:03:56,428 --> 00:03:57,849
+what you're passionate about.
+
+90
+00:03:57,849 --> 00:04:00,044
+That's really what's important
+
+91
+00:04:00,044 --> 00:04:03,387
+because that's what will
+make you happy in the future,
+
+92
+00:04:03,387 --> 00:04:05,000
+just working for your passion. aimozhen.com/pixarinabox
+

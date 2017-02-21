@@ -1,0 +1,327 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:02,100 --> 00:00:04,563
+(lazy western music)
+
+3
+00:00:04,563 --> 00:00:07,510
+(clock beeps)
+
+4
+00:00:08,510 --> 00:00:09,921
+- What is the holdup?
+
+5
+00:00:09,921 --> 00:00:12,127
+- Ugh, shading artists at the salad bar
+
+6
+00:00:12,127 --> 00:00:14,175
+they just get a little too involved.
+
+7
+00:00:14,175 --> 00:00:15,009
+- Is it a fractal?
+
+8
+00:00:15,009 --> 00:00:18,878
+- I think so, that puffy
+shape repeats itself.
+
+9
+00:00:18,878 --> 00:00:22,044
+Oh, maybe we should talk
+about this somewhere else.
+
+10
+00:00:22,044 --> 00:00:23,187
+- I'm Beth, I'm a shading artist.
+
+11
+00:00:23,187 --> 00:00:25,741
+- And I'm Ana, I'm also a shading artist.
+
+12
+00:00:25,741 --> 00:00:28,591
+This lesson is about patterns,
+
+13
+00:00:28,591 --> 00:00:31,521
+which we use in shading all the time.
+
+14
+00:00:31,521 --> 00:00:33,042
+- Shading is creating
+the surface appearance
+
+15
+00:00:33,042 --> 00:00:35,018
+of all the stuff you see in our films.
+
+16
+00:00:35,018 --> 00:00:36,360
+Cars,
+
+17
+00:00:36,360 --> 00:00:37,193
+bugs,
+
+18
+00:00:37,193 --> 00:00:38,063
+trees,
+
+19
+00:00:38,063 --> 00:00:39,256
+aliens,
+
+20
+00:00:39,256 --> 00:00:42,026
+they all start out modeled
+three-dimensional objects,
+
+21
+00:00:42,026 --> 00:00:44,988
+but they don't have surface
+characteristics yet.
+
+22
+00:00:44,988 --> 00:00:46,414
+- [Ana] We create and apply the textures
+
+23
+00:00:46,414 --> 00:00:47,804
+that make our characters and sets
+
+24
+00:00:47,804 --> 00:00:50,055
+seem like they're made
+out of something real.
+
+25
+00:00:50,055 --> 00:00:51,623
+- [Beth] The word seem
+is really important here,
+
+26
+00:00:51,623 --> 00:00:53,979
+because we're not trying to
+recreate reality exactly.
+
+27
+00:00:53,979 --> 00:00:55,990
+- We're trying to capture
+the essential qualities
+
+28
+00:00:55,990 --> 00:00:58,772
+of a surface that make it feel believable.
+
+29
+00:00:58,772 --> 00:00:59,855
+- [Beth] And a lot of times,
+
+30
+00:00:59,855 --> 00:01:00,688
+that quality is actually a pattern.
+
+31
+00:01:00,688 --> 00:01:04,209
+(playful bongo music)
+
+32
+00:01:04,209 --> 00:01:05,572
+- When we begin creating a surface,
+
+33
+00:01:05,572 --> 00:01:07,680
+we usually start by looking
+at reference images,
+
+34
+00:01:07,680 --> 00:01:09,741
+or things from the real world.
+
+35
+00:01:09,741 --> 00:01:11,046
+- [Beth] We look at a
+few different qualities,
+
+36
+00:01:11,046 --> 00:01:12,614
+color, illumination,
+
+37
+00:01:12,614 --> 00:01:14,342
+which is how the surface reacts to light,
+
+38
+00:01:14,342 --> 00:01:17,003
+and displacement: how
+bumpy or smooth it is.
+
+39
+00:01:17,003 --> 00:01:19,049
+- Let's talk about how
+we did that with Arlo.
+
+40
+00:01:19,049 --> 00:01:19,049
+In The Good Dinosaur,
+
+41
+00:01:19,992 --> 00:01:22,212
+Arlo was supposed to feel young and fresh.
+
+42
+00:01:22,212 --> 00:01:23,863
+We actually used the succulent plant
+
+43
+00:01:23,863 --> 00:01:27,131
+called Titanoplis, as a
+reference for his skin.
+
+44
+00:01:27,131 --> 00:01:29,706
+Looking closely at the plant,
+we were able to deconstruct
+
+45
+00:01:29,706 --> 00:01:32,657
+what made it feel right for Arlo.
+
+46
+00:01:32,657 --> 00:01:34,686
+First of all, there was a series of cells
+
+47
+00:01:34,686 --> 00:01:36,870
+that formed the main
+feature of the pattern.
+
+48
+00:01:36,870 --> 00:01:38,697
+In terms of color, these cells
+
+49
+00:01:38,697 --> 00:01:40,843
+had one color in the cell itself,
+
+50
+00:01:40,843 --> 00:01:43,398
+and the ring around the
+cell was a darker color.
+
+51
+00:01:43,398 --> 00:01:45,360
+The surface of the plant was shiny,
+
+52
+00:01:45,360 --> 00:01:48,764
+but it wasn't a sharp
+shine, it was a soft shine.
+
+53
+00:01:48,764 --> 00:01:51,423
+Finally, the cells that
+made up the main pattern
+
+54
+00:01:51,423 --> 00:01:54,947
+were displaced from the surface,
+so it was kind of bumpy.
+
+55
+00:01:54,947 --> 00:01:57,256
+Once we figure out these main features,
+
+56
+00:01:57,256 --> 00:01:58,873
+we started creating a pattern.
+
+57
+00:01:58,873 --> 00:02:01,030
+However, to make the pattern feel organic,
+
+58
+00:02:01,030 --> 00:02:04,584
+we needed to do something
+else to it: add randomness.
+
+59
+00:02:04,584 --> 00:02:06,812
+- Believable randomness can
+be surprisingly difficult
+
+60
+00:02:06,812 --> 00:02:08,381
+to achieve in computer graphics.
+
+61
+00:02:08,381 --> 00:02:10,830
+Computers are great at
+modeling regular patterns,
+
+62
+00:02:10,830 --> 00:02:13,300
+but in nature, most of
+the patterns you see
+
+63
+00:02:13,300 --> 00:02:16,490
+have some variation or irregularity
+within their structure,
+
+64
+00:02:16,490 --> 00:02:18,871
+giving them a quality of
+controlled randomness.
+
+65
+00:02:18,871 --> 00:02:20,886
+- Getting that randomness
+into Arlo's shading
+
+66
+00:02:20,886 --> 00:02:23,327
+was a big challenge, but we
+used some interesting techniques
+
+67
+00:02:23,327 --> 00:02:24,503
+that we'll share with you
+
+68
+00:02:24,503 --> 00:02:26,388
+throughout the rest of this lesson.
+
+69
+00:02:26,388 --> 00:02:27,706
+- And you'll get to use
+randomness to create
+
+70
+00:02:27,706 --> 00:02:29,597
+and manipulate patterns of your own.
+
+71
+00:02:29,597 --> 00:02:31,938
+- I bet after this they'll
+all start looking at the world
+
+72
+00:02:31,938 --> 00:02:33,404
+like a shading artist.
+
+73
+00:02:33,404 --> 00:02:36,058
+- Hey, check out the bubble
+pattern in this baguette.
+
+74
+00:02:36,058 --> 00:02:39,000
+(playful accordion music) aimozhen.com/pixarinabox
+

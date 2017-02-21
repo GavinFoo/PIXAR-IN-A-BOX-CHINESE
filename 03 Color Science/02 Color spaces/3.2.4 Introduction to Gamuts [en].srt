@@ -1,0 +1,236 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,202 --> 00:00:06,270
+- Okay, so let's step back
+to the larger problem.
+
+3
+00:00:06,270 --> 00:00:07,907
+Our finished movies are viewed
+
+4
+00:00:07,907 --> 00:00:10,054
+in a number of different ways.
+
+5
+00:00:10,054 --> 00:00:12,485
+For instance, the screen
+a movie is displayed on
+
+6
+00:00:12,485 --> 00:00:16,974
+could be a monitor, like this,
+or a projector, like this,
+
+7
+00:00:16,974 --> 00:00:19,540
+and that's where another
+problem creeps up.
+
+8
+00:00:19,540 --> 00:00:22,431
+Both of these displays are
+getting the same color signal
+
+9
+00:00:22,431 --> 00:00:23,439
+of pure red.
+
+10
+00:00:24,439 --> 00:00:26,053
+Notice these resulting colors we see
+
+11
+00:00:26,053 --> 00:00:28,677
+aren't exactly the same.
+
+12
+00:00:28,677 --> 00:00:30,347
+The problem is display devices,
+
+13
+00:00:30,347 --> 00:00:32,195
+like monitors and projectors,
+
+14
+00:00:32,195 --> 00:00:36,351
+can only reproduce some
+of the perceivable colors.
+
+15
+00:00:36,351 --> 00:00:38,775
+It's the pure, or single wavelength,
+
+16
+00:00:38,775 --> 00:00:42,423
+red, green and blue light,
+they have trouble creating.
+
+17
+00:00:42,423 --> 00:00:45,453
+Notice, this screen can
+generate a slightly purer,
+
+18
+00:00:45,453 --> 00:00:48,658
+or deeper, red compared to this one.
+
+19
+00:00:48,658 --> 00:00:51,711
+Remember, on our CIE
+diagram that the purest
+
+20
+00:00:51,711 --> 00:00:54,486
+red, green, and blue
+are way out on the edge,
+
+21
+00:00:54,486 --> 00:00:56,446
+here, here, and here.
+
+22
+00:00:57,446 --> 00:00:59,908
+But, a typical RGB monitor
+can't create anything close
+
+23
+00:00:59,908 --> 00:01:02,090
+to pure red, green, and blue light.
+
+24
+00:01:02,090 --> 00:01:03,855
+If it tries to display those colors,
+
+25
+00:01:03,855 --> 00:01:05,955
+the best it can do is hit three points
+
+26
+00:01:05,955 --> 00:01:08,509
+over here, here, and here.
+
+27
+00:01:09,509 --> 00:01:12,330
+And, since the display
+can blend those colors,
+
+28
+00:01:12,330 --> 00:01:15,310
+the device has the ability
+to create any colors
+
+29
+00:01:15,310 --> 00:01:17,520
+in this black triangle.
+
+30
+00:01:17,520 --> 00:01:20,782
+This region is called the
+Gamut of the display device.
+
+31
+00:01:20,782 --> 00:01:22,535
+It's the range of the perceivable colors
+
+32
+00:01:22,535 --> 00:01:25,357
+any give device can reproduce.
+
+33
+00:01:25,357 --> 00:01:28,538
+Mathematicians would say
+the Gamut is a subset
+
+34
+00:01:28,538 --> 00:01:30,569
+of the perceivable color space.
+
+35
+00:01:30,569 --> 00:01:32,752
+The size of this set is
+important to filmmakers
+
+36
+00:01:32,752 --> 00:01:35,248
+because they want the
+biggest palate of colors
+
+37
+00:01:35,248 --> 00:01:37,164
+to paint from.
+
+38
+00:01:37,164 --> 00:01:40,566
+More color means more artistic freedom.
+
+39
+00:01:40,566 --> 00:01:43,306
+For a long time, our movies
+were projected on film
+
+40
+00:01:43,306 --> 00:01:46,464
+which has a very large Gamut, like this.
+
+41
+00:01:46,464 --> 00:01:48,426
+Eventually, we moved to digital projectors
+
+42
+00:01:48,426 --> 00:01:51,316
+which had a different
+Gamut compared to film.
+
+43
+00:01:51,316 --> 00:01:53,906
+More recently, laser
+illuminated digital projectors
+
+44
+00:01:53,906 --> 00:01:54,739
+have been introduced
+
+45
+00:01:54,739 --> 00:01:58,027
+which have a much larger Gamut than film.
+
+46
+00:01:58,027 --> 00:02:00,140
+This is because they use laser light
+
+47
+00:02:00,140 --> 00:02:02,776
+which is very close to a single wavelength
+
+48
+00:02:02,776 --> 00:02:07,221
+allowing them to produce very
+pure reds, greens, and blues.
+
+49
+00:02:07,221 --> 00:02:09,776
+But here's a practical problem
+for you to think about.
+
+50
+00:02:09,776 --> 00:02:13,200
+How do we make sure our movies
+look good on any device,
+
+51
+00:02:13,200 --> 00:02:15,779
+especially if they have
+very different Gamuts?
+
+52
+00:02:15,779 --> 00:02:17,381
+You can think about that while working
+
+53
+00:02:17,381 --> 00:02:19,000
+on the next exercise. aimozhen.com/pixarinabox
+

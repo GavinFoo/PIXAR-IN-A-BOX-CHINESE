@@ -1,0 +1,468 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+
+2
+00:00:03,190 --> 00:00:05,535
+- So far we've been exploring
+what a software engineer
+
+3
+00:00:05,535 --> 00:00:07,945
+does at Pixar, which is
+creating the tools used
+
+4
+00:00:07,945 --> 00:00:11,068
+in the filmmaking process,
+such as a hair simulator
+
+5
+00:00:11,068 --> 00:00:13,661
+and all the parameters
+artists can't control.
+
+6
+00:00:13,661 --> 00:00:16,193
+The person actually using
+these tools in each film
+
+7
+00:00:16,193 --> 00:00:19,445
+is known at Pixar as
+the Technical Director.
+
+8
+00:00:19,445 --> 00:00:21,271
+To better understand this kind of work,
+
+9
+00:00:21,271 --> 00:00:23,580
+we've invited Jacob Brooks,
+a technical director
+
+10
+00:00:23,580 --> 00:00:26,133
+who has used hair simulation in our films.
+
+11
+00:00:26,133 --> 00:00:27,604
+Hey Jacob.
+
+12
+00:00:27,604 --> 00:00:28,776
+- Hey, how are you?
+
+13
+00:00:28,776 --> 00:00:32,521
+- Pretty good, so you worked
+on Spot for The Good Dinosaur,
+
+14
+00:00:32,521 --> 00:00:33,866
+- I did, I did, yeah.
+
+15
+00:00:33,866 --> 00:00:36,501
+- So were the artisticals for Spot's hair?
+
+16
+00:00:36,501 --> 00:00:39,375
+- Well Spot was one of those
+characters that you knew
+
+17
+00:00:39,375 --> 00:00:41,729
+we wanted to fall in love with right away.
+
+18
+00:00:41,729 --> 00:00:44,214
+So he had a lot of appeal in him,
+
+19
+00:00:44,214 --> 00:00:47,310
+but he also kind of
+straddles that world of being
+
+20
+00:00:47,310 --> 00:00:51,320
+in the wilderness so he's gotta
+wild and a little unkempt.
+
+21
+00:00:51,320 --> 00:00:54,922
+So with his hair we were
+able to kind of bridge
+
+22
+00:00:54,922 --> 00:00:57,678
+those two worlds so that you
+can still get that feeling
+
+23
+00:00:57,678 --> 00:01:01,853
+of kind of a matted tangled,
+kind of wild animal feel
+
+24
+00:01:01,853 --> 00:01:04,166
+to him but also get that appeal of like,
+
+25
+00:01:04,166 --> 00:01:06,659
+just a child that wakes up in the morning
+
+26
+00:01:06,659 --> 00:01:08,560
+and has adorable bed head.
+
+27
+00:01:08,560 --> 00:01:10,264
+So it's just super familiar to us.
+
+28
+00:01:10,264 --> 00:01:13,941
+So for the hair, as far
+as the texture goes,
+
+29
+00:01:13,941 --> 00:01:16,622
+we knew we were gonna have to have strands
+
+30
+00:01:16,622 --> 00:01:18,614
+that were intertwining
+and felt like they hadn't
+
+31
+00:01:18,614 --> 00:01:20,795
+been washed in a while, not
+going towards that gross
+
+32
+00:01:20,795 --> 00:01:22,747
+factor but something that definitely feels
+
+33
+00:01:22,747 --> 00:01:26,206
+entangled and unkempt,
+but also just kind of hit
+
+34
+00:01:28,206 --> 00:01:30,656
+those shapes that we knew
+that we'd want to just
+
+35
+00:01:30,656 --> 00:01:32,770
+frame his face nicely and be appealing,
+
+36
+00:01:32,770 --> 00:01:37,506
+so that he does have that
+genuine appeal in the film.
+
+37
+00:01:37,506 --> 00:01:40,161
+- So how did you model the
+hair to meet these artisticals?
+
+38
+00:01:40,161 --> 00:01:43,235
+- Well before we can
+actually simulate the hair
+
+39
+00:01:43,235 --> 00:01:46,055
+on a character that's moving,
+like Spot as he's running
+
+40
+00:01:46,055 --> 00:01:48,949
+around in the film, we actually
+have to groom the hair,
+
+41
+00:01:48,949 --> 00:01:51,480
+we have to model that shape, and for Spot,
+
+42
+00:01:51,480 --> 00:01:54,220
+it was an interesting
+challenge because his hair
+
+43
+00:01:54,220 --> 00:01:57,191
+is so tangled it becomes
+a very important thing
+
+44
+00:01:57,191 --> 00:01:59,429
+to make sure those hairs aren't
+intersecting in weird ways
+
+45
+00:01:59,429 --> 00:02:02,049
+and that you can feel that
+the hairs are actually
+
+46
+00:02:02,049 --> 00:02:05,187
+twisting around one another,
+in order to do that,
+
+47
+00:02:05,187 --> 00:02:07,971
+we ended up using a
+technique that was developed
+
+48
+00:02:07,971 --> 00:02:11,913
+at Disney Animation where
+we're using geometric tubes
+
+49
+00:02:11,913 --> 00:02:15,169
+to shape gross shapes in his hair,
+
+50
+00:02:15,169 --> 00:02:17,215
+so that you can really get the appeal
+
+51
+00:02:17,215 --> 00:02:21,388
+of individual clumps of hair,
+and see how it tapers along
+
+52
+00:02:21,388 --> 00:02:24,816
+towards the end of the
+hair, so with those tubes,
+
+53
+00:02:24,816 --> 00:02:26,224
+once they're shaped in a certain way,
+
+54
+00:02:26,224 --> 00:02:29,562
+we fill those tubes with
+curves, and those are the curves
+
+55
+00:02:29,562 --> 00:02:32,184
+that we end up simulating
+as we go forward.
+
+56
+00:02:32,184 --> 00:02:33,767
+- Now that you had the
+shape that you wanted,
+
+57
+00:02:33,767 --> 00:02:36,043
+how did you set up the
+hair simulation to get
+
+58
+00:02:36,043 --> 00:02:37,271
+the look that you wanted?
+
+59
+00:02:37,271 --> 00:02:39,312
+- The sim of the hair for him is obviously
+
+60
+00:02:39,312 --> 00:02:42,173
+a little bit different as
+well because you've got this
+
+61
+00:02:42,173 --> 00:02:46,480
+mangled mass of hair, it
+needs to hold that shape,
+
+62
+00:02:46,480 --> 00:02:49,252
+and it doesn't move like
+even your hair would
+
+63
+00:02:49,252 --> 00:02:50,893
+or someone with straighter
+hair, so it doesn't hang
+
+64
+00:02:50,893 --> 00:02:55,069
+with gravity like you would
+think, as a whole for Spot,
+
+65
+00:02:55,069 --> 00:02:58,122
+his hair is a little tighter
+than most of our hair,
+
+66
+00:02:58,122 --> 00:03:00,364
+the springs are a little bit
+tighter so that you don't
+
+67
+00:03:00,364 --> 00:03:02,831
+get quite as much sag
+and it really does feel
+
+68
+00:03:02,831 --> 00:03:06,069
+like it's been teased and
+frazzled and kind of holds up
+
+69
+00:03:06,069 --> 00:03:09,117
+and defies gravity a little
+bit more than natural
+
+70
+00:03:09,117 --> 00:03:10,705
+like longer hair would be.
+
+71
+00:03:10,705 --> 00:03:13,000
+- [Interviewer] So Spot
+had variation for his hair.
+
+72
+00:03:13,000 --> 00:03:16,062
+Like when he was wet, so how
+were you able to do that?
+
+73
+00:03:16,062 --> 00:03:18,580
+- Because he was in the
+wilderness and we knew
+
+74
+00:03:18,580 --> 00:03:21,008
+there was a bunch of weather
+changes where sometimes
+
+75
+00:03:21,008 --> 00:03:24,259
+it's starting to rain,
+sometimes it's in the middle
+
+76
+00:03:24,259 --> 00:03:26,190
+of the rain where it's getting heavier,
+
+77
+00:03:26,190 --> 00:03:28,376
+and sometimes he's soaking wet
+'cause he gets in the river,
+
+78
+00:03:28,376 --> 00:03:32,620
+my colleague David Liley and
+I worked on something to where
+
+79
+00:03:32,620 --> 00:03:34,818
+we started thinking
+hey, wouldn't it be cool
+
+80
+00:03:34,818 --> 00:03:37,649
+if we just changed simulation
+parameters to get the hair
+
+81
+00:03:37,649 --> 00:03:40,374
+that he started with to
+be the hair as it changes.
+
+82
+00:03:40,374 --> 00:03:44,280
+And so he started on the
+soaked version of the groom,
+
+83
+00:03:44,280 --> 00:03:47,645
+and by changing things like
+the stiffness of the springs
+
+84
+00:03:47,645 --> 00:03:51,788
+we could lose that groomed
+shape that was all spirally,
+
+85
+00:03:51,788 --> 00:03:54,117
+it would make it kind of flattened out,
+
+86
+00:03:54,117 --> 00:03:56,008
+we would turn up the
+gravity so that it hanged
+
+87
+00:03:56,008 --> 00:03:58,489
+a little bit tighter to his face.
+
+88
+00:03:58,489 --> 00:04:00,776
+So what that allowed us to
+do was change the simulation
+
+89
+00:04:00,776 --> 00:04:02,387
+parameters a little bit at a time,
+
+90
+00:04:02,387 --> 00:04:04,610
+so maybe gravity would
+get a little bit stronger
+
+91
+00:04:04,610 --> 00:04:06,900
+or the springs would
+get a little bit looser,
+
+92
+00:04:06,900 --> 00:04:10,027
+so that you can get a
+variation of that transition
+
+93
+00:04:10,027 --> 00:04:14,699
+from dry to wet, but you had
+various stages in the middle
+
+94
+00:04:14,699 --> 00:04:17,574
+that you could get which
+normally if we were just doing
+
+95
+00:04:17,574 --> 00:04:20,220
+independent grooms, we
+would have more of this kind
+
+96
+00:04:20,220 --> 00:04:23,072
+of on and off switch, of
+like, it's dry, it's wet,
+
+97
+00:04:23,072 --> 00:04:26,151
+now we can get a nice
+blend through that range.
+
+98
+00:04:26,151 --> 00:04:29,548
+- That's pretty cool,
+thanks Jacob for coming by.
+
+99
+00:04:29,548 --> 00:04:31,000
+And now onto lesson two. aimozhen.com/pixarinabox
+

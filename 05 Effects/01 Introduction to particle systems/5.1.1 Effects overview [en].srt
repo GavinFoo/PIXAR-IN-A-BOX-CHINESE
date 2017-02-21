@@ -1,0 +1,176 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:00,560 --> 00:00:02,840
+ Hello! I'm Eric and I am an effects artist at Pixar. 
+
+3
+00:00:02,840 --> 00:00:04,300
+ And I'm Sara Beth, another Pixar effects artist. 
+
+4
+00:00:05,300 --> 00:00:08,900
+ Pixar called "effects" to the creation and animation of anything that moves 
+
+5
+00:00:08,900 --> 00:00:10,280
+ but that is not a character. 
+
+6
+00:00:10,280 --> 00:00:13,780
+ Almost all natural phenomena in our films are created by teams of effects. 
+
+7
+00:00:13,780 --> 00:00:14,220
+ Things like dust 
+
+8
+00:00:15,220 --> 00:00:16,320
+ (cough) 
+
+9
+00:00:18,320 --> 00:00:19,900
+ Smoke! 
+
+10
+00:00:21,900 --> 00:00:22,560
+ (cough) 
+
+11
+00:00:23,560 --> 00:00:24,920
+ Fire 
+
+12
+00:00:27,920 --> 00:00:28,900
+ (cough) 
+
+13
+00:00:28,900 --> 00:00:29,600
+ explosions 
+
+14
+00:00:30,600 --> 00:00:31,760
+ ATTORNEY PIXAR 
+
+15
+00:00:31,760 --> 00:00:32,860
+ Do not 
+
+16
+00:00:33,860 --> 00:00:34,560
+ (Sound of explosion) 
+
+17
+00:00:38,560 --> 00:00:40,440
+ and effects created water is its different forms. 
+
+18
+00:00:41,440 --> 00:00:45,740
+ Computer make credible water is very exciting and a challenge 
+
+19
+00:00:45,740 --> 00:00:48,800
+ this is partly because water takes many forms: 
+
+20
+00:00:48,800 --> 00:00:50,700
+ the placid lake where you can swim, 
+
+21
+00:00:50,700 --> 00:00:52,200
+ or pounding river would not want to catch you. 
+
+22
+00:00:54,200 --> 00:00:56,800
+ The type of water we create depends on the story we want to tell 
+
+23
+00:00:56,800 --> 00:01:00,800
+ and how we approach the water is different depending on how you interact with characters 
+
+24
+00:01:00,800 --> 00:01:02,200
+ and how close we are to them. 
+
+25
+00:01:03,200 --> 00:01:06,500
+ One of the tools we use to create believable water on the computer are particles. 
+
+26
+00:01:07,500 --> 00:01:08,060
+ We begin with a single particle. 
+
+27
+00:01:09,060 --> 00:01:13,000
+ We can apply forces to the particle such as wind or gravity 
+
+28
+00:01:13,000 --> 00:01:15,860
+ or more particles that push and pull each other. 
+
+29
+00:01:15,860 --> 00:01:18,019
+ Adding many, many, many more particles 
+
+30
+00:01:18,019 --> 00:01:19,760
+ and applying those same forces 
+
+31
+00:01:19,760 --> 00:01:22,319
+ water started to create on the computer. 
+
+32
+00:01:24,319 --> 00:01:26,500
+ The water in the real world is also made of particles 
+
+33
+00:01:26,500 --> 00:01:29,500
+ because the molecules are just tiny particles 
+
+34
+00:01:29,500 --> 00:01:32,180
+ and although our particles are much, much larger than the molecules 
+
+35
+00:01:32,180 --> 00:01:34,739
+ physics is similar, so we simulate 
+
+36
+00:01:34,739 --> 00:01:36,340
+ those forces using real world math and code. 
+
+37
+00:01:38,340 --> 00:01:41,380
+ It takes years and years to encourage individually 
+
+38
+00:01:41,380 --> 00:01:43,780
+ the millions of particles that make water into scenes, 
+
+39
+00:01:43,780 --> 00:01:46,300
+ so it helps that we can use an existing set of rules 
+
+40
+00:01:46,300 --> 00:01:47,560
+ they can follow the particles on the computer. 
+
+41
+00:01:49,560 --> 00:01:53,500
+ You might be probably wondering how I can make water for animated films. 
+
+42
+00:01:53,500 --> 00:01:54,720
+ Sara Beth Good question! 
+
+43
+00:01:54,720 --> 00:01:58,239
+ In the following lessons you will learn all about how to create particles and water using simulation. 
+
+44
+00:01:58,239 --> 00:01:59,000
+ Have fun and remain dry!  aimozhen.com/pixarinabox
+

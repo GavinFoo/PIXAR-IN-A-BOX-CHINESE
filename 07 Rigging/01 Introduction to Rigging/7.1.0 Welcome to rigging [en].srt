@@ -1,0 +1,255 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:01,618 --> 00:00:05,353
+- What's the difference
+between motion and life?
+
+3
+00:00:05,353 --> 00:00:07,815
+What's the difference
+between this mechanical smile
+
+4
+00:00:07,815 --> 00:00:09,522
+and this friendly smile?
+
+5
+00:00:09,522 --> 00:00:10,625
+It's a little harder to find,
+
+6
+00:00:10,625 --> 00:00:11,645
+but there's just something
+
+7
+00:00:11,645 --> 00:00:13,879
+about the way a living being moves.
+
+8
+00:00:13,879 --> 00:00:15,430
+And we work incredibly hard to capture
+
+9
+00:00:15,430 --> 00:00:17,171
+with our characters here at Pixar
+
+10
+00:00:17,171 --> 00:00:19,070
+and that something start
+
+11
+00:00:19,070 --> 00:00:21,123
+with a stage we call rigging.
+
+12
+00:00:21,123 --> 00:00:22,708
+Hi, I'm Brian Green,
+
+13
+00:00:22,708 --> 00:00:25,505
+a Rigging Technical
+Director here at Pixar.
+
+14
+00:00:25,505 --> 00:00:27,975
+Rigging is a process of adding controls
+
+15
+00:00:27,975 --> 00:00:29,070
+to a digital model
+
+16
+00:00:29,070 --> 00:00:32,106
+to allow animators to
+move it around and act.
+
+17
+00:00:32,106 --> 00:00:34,376
+When you look at the way
+a living being moves,
+
+18
+00:00:34,376 --> 00:00:36,903
+every motion they make causes a reaction
+
+19
+00:00:36,903 --> 00:00:38,748
+in every other part of their body.
+
+20
+00:00:38,748 --> 00:00:40,921
+For instance, when I smile,
+
+21
+00:00:40,921 --> 00:00:42,899
+it's not just my lips have moved,
+
+22
+00:00:42,899 --> 00:00:44,217
+my cheeks bulge,
+
+23
+00:00:44,217 --> 00:00:46,084
+the skin around my eyes crinkle.
+
+24
+00:00:46,084 --> 00:00:50,055
+My chin stretches out to
+accommodate the emotion.
+
+25
+00:00:50,055 --> 00:00:52,997
+We call this defamation and displacement.
+
+26
+00:00:52,997 --> 00:00:54,379
+Arrlalalala.
+
+27
+00:00:54,379 --> 00:00:55,654
+In rigging, we have a toolbox
+
+28
+00:00:55,654 --> 00:00:57,701
+of hundreds of different deformers
+
+29
+00:00:57,701 --> 00:00:58,534
+and we can attach to
+
+30
+00:00:58,534 --> 00:01:00,578
+the surface mesh of our characters.
+
+31
+00:01:00,578 --> 00:01:02,938
+All of them represent
+mathematical formulas
+
+32
+00:01:02,938 --> 00:01:05,751
+that define a relationship
+between the many points
+
+33
+00:01:05,751 --> 00:01:07,459
+that are affected by the motion.
+
+34
+00:01:07,459 --> 00:01:10,304
+For instance, I can start
+rigging Sully's mouth
+
+35
+00:01:10,304 --> 00:01:12,766
+by adding a simple
+deformer called a rotate.
+
+36
+00:01:12,766 --> 00:01:15,239
+The underlying math here is trigonometry.
+
+37
+00:01:15,239 --> 00:01:17,498
+I'm going to add another
+tool called a repulsor.
+
+38
+00:01:17,498 --> 00:01:20,099
+This basically puffs things in and out.
+
+39
+00:01:20,099 --> 00:01:21,444
+Add this to the cheeks,
+
+40
+00:01:21,444 --> 00:01:22,488
+and link them.
+
+41
+00:01:22,488 --> 00:01:24,465
+And then when we move his jaw,
+
+42
+00:01:24,465 --> 00:01:25,659
+his cheeks bulges.
+
+43
+00:01:25,659 --> 00:01:26,538
+That's better,
+
+44
+00:01:26,538 --> 00:01:28,164
+but it's still just the beginning.
+
+45
+00:01:28,164 --> 00:01:31,331
+Sully's face alone uses over 500 deformers
+
+46
+00:01:31,331 --> 00:01:32,834
+and that's just his face.
+
+47
+00:01:32,834 --> 00:01:33,983
+We can take a similar approach to
+
+48
+00:01:33,983 --> 00:01:35,755
+rigging the characters' bodies too.
+
+49
+00:01:35,755 --> 00:01:37,941
+Adding deformers that
+define a relationship
+
+50
+00:01:37,941 --> 00:01:39,828
+between the knees and the calf,
+
+51
+00:01:39,828 --> 00:01:41,166
+the tail and the rump,
+
+52
+00:01:41,166 --> 00:01:43,286
+or this tentacle and that tentacle.
+
+53
+00:01:43,286 --> 00:01:44,932
+After we got the physiology right,
+
+54
+00:01:44,932 --> 00:01:46,395
+we need to remember that these characters
+
+55
+00:01:46,395 --> 00:01:48,096
+are film actors.
+
+56
+00:01:48,096 --> 00:01:50,678
+So the kind of motion
+that they may need to make
+
+57
+00:01:50,678 --> 00:01:53,258
+might be a little more extreme
+than a regular monster.
+
+58
+00:01:53,258 --> 00:01:54,555
+So we push it a little,
+
+59
+00:01:54,555 --> 00:01:55,492
+gives them extra life
+
+60
+00:01:55,492 --> 00:01:59,000
+so they can be extra
+exciting on the screen. aimozhen.com/pixarinabox
+

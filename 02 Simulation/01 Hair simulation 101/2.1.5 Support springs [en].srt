@@ -1,0 +1,186 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:00,709 --> 00:00:02,297
+(jumping, bouncing)
+
+3
+00:00:02,297 --> 00:00:03,265
+(light switches on)
+
+4
+00:00:03,265 --> 00:00:04,098
+- Great work.
+
+5
+00:00:04,098 --> 00:00:05,682
+So far we've built up a model of hair
+
+6
+00:00:05,682 --> 00:00:08,013
+using a series of damped springs.
+
+7
+00:00:08,013 --> 00:00:10,353
+This gives us a more realistic behavior,
+
+8
+00:00:10,353 --> 00:00:12,804
+like this style I came up with.
+
+9
+00:00:12,804 --> 00:00:14,270
+But remember, the art department
+
+10
+00:00:14,270 --> 00:00:16,901
+wants Merida's hair to be curly.
+
+11
+00:00:18,901 --> 00:00:21,640
+Sometimes it curls up
+while moving but it doesn't
+
+12
+00:00:21,640 --> 00:00:24,384
+hold that curly shape while at rest.
+
+13
+00:00:24,384 --> 00:00:25,729
+Here's an idea.
+
+14
+00:00:25,729 --> 00:00:27,812
+What if we put some
+smaller springs in between
+
+15
+00:00:27,812 --> 00:00:30,378
+the larger springs to pull them together?
+
+16
+00:00:30,378 --> 00:00:32,266
+Let's call them support springs.
+
+17
+00:00:32,266 --> 00:00:34,722
+We already have a mathematical
+model of the spring
+
+18
+00:00:34,722 --> 00:00:36,645
+so this is easy to test out.
+
+19
+00:00:36,645 --> 00:00:38,818
+If I connect a support
+spring between the larger
+
+20
+00:00:38,818 --> 00:00:41,920
+springs, I get something like this.
+
+21
+00:00:41,920 --> 00:00:44,414
+If I hide the support springs,
+you'll notice the hair
+
+22
+00:00:44,414 --> 00:00:47,034
+comes to a rest in a curly shape.
+
+23
+00:00:47,034 --> 00:00:48,426
+That's much better.
+
+24
+00:00:48,426 --> 00:00:50,104
+Adding these support springs results
+
+25
+00:00:50,104 --> 00:00:52,675
+in new parameters we can control.
+
+26
+00:00:52,675 --> 00:00:55,787
+The stiffness and length
+of the support springs.
+
+27
+00:00:55,787 --> 00:00:59,182
+Shorter support springs
+will give us smaller curls,
+
+28
+00:00:59,182 --> 00:01:02,453
+while really long support
+springs give us bigger ones.
+
+29
+00:01:02,453 --> 00:01:05,267
+And if we make the support
+springs have a higher stiffness
+
+30
+00:01:05,267 --> 00:01:07,474
+the curl pops up like this.
+
+31
+00:01:07,474 --> 00:01:09,805
+Kind of like we applied hairspray.
+
+32
+00:01:09,805 --> 00:01:12,913
+Compare this to support
+springs with lower stiffness.
+
+33
+00:01:12,913 --> 00:01:14,839
+In this case, the curls relax a bit
+
+34
+00:01:14,839 --> 00:01:17,785
+and fall downwards in a natural way.
+
+35
+00:01:17,785 --> 00:01:20,203
+Now, let's try this with a bunch of hairs.
+
+36
+00:01:20,203 --> 00:01:22,577
+Now that's starting to
+look more like Merida.
+
+37
+00:01:22,577 --> 00:01:24,911
+This isn't exactly the
+method we used on Merida
+
+38
+00:01:24,911 --> 00:01:27,040
+for the movie, but it's close.
+
+39
+00:01:27,040 --> 00:01:29,187
+In this next interactive
+you can try this out
+
+40
+00:01:29,187 --> 00:01:31,896
+with all the parameters we've introduced.
+
+41
+00:01:31,896 --> 00:01:35,629
+The two new parameters are
+support spring stiffness
+
+42
+00:01:35,629 --> 00:01:37,801
+and support spring length.
+
+43
+00:01:37,801 --> 00:01:40,000
+See what you can come up with. aimozhen.com/pixarinabox
+

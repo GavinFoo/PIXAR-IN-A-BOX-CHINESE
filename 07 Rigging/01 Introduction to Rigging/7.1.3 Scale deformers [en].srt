@@ -1,0 +1,78 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,376 --> 00:00:06,099
+- When John Lasseter
+created this animated short,
+
+3
+00:00:06,099 --> 00:00:08,199
+he wanted a younger lamp.
+
+4
+00:00:08,199 --> 00:00:10,116
+He observed that children tend to
+
+5
+00:00:10,116 --> 00:00:12,176
+have bigger heads and bottoms,
+
+6
+00:00:12,176 --> 00:00:15,365
+as compared to the rest of their bodies.
+
+7
+00:00:15,365 --> 00:00:17,183
+So to make this lamp appear younger,
+
+8
+00:00:17,183 --> 00:00:19,307
+he scaled down the
+lamp, and then he scaled
+
+9
+00:00:19,307 --> 00:00:22,645
+up the foot and head to make Jr.
+
+10
+00:00:22,645 --> 00:00:25,175
+To get a little experience
+in creating a new model,
+
+11
+00:00:25,175 --> 00:00:28,729
+let's add some scaling
+deformers to modify the lamp.
+
+12
+00:00:28,729 --> 00:00:31,397
+At Pixar, the art department often
+
+13
+00:00:31,397 --> 00:00:33,601
+gives us draw overs to guide us in
+
+14
+00:00:33,601 --> 00:00:35,521
+remodeling the character.
+
+15
+00:00:35,521 --> 00:00:38,093
+In the following exercise,
+we see a draw over,
+
+16
+00:00:38,093 --> 00:00:40,434
+like this one, that you will try to match,
+
+17
+00:00:40,434 --> 00:00:43,148
+using scaling deformers.
+
+18
+00:00:43,148 --> 00:00:47,000
+When you're done, your lamp
+should look much younger. aimozhen.com/pixarinabox
+

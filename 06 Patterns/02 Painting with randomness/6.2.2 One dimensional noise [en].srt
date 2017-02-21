@@ -1,0 +1,419 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:00,491 --> 00:00:03,607
+(soft clops and bounces)
+
+3
+00:00:03,607 --> 00:00:04,603
+- Now it's time to think about
+
+4
+00:00:04,603 --> 00:00:07,216
+how to create natural
+looking variation digitally.
+
+5
+00:00:07,216 --> 00:00:09,515
+(xylophone glissando)
+
+6
+00:00:09,515 --> 00:00:12,282
+- Well hello ladies. I'm back.
+
+7
+00:00:12,282 --> 00:00:13,985
+I have, as usual,
+
+8
+00:00:13,985 --> 00:00:17,276
+a few changes to the laying packet
+
+9
+00:00:17,276 --> 00:00:19,589
+and I thought you might wanna see it.
+
+10
+00:00:19,589 --> 00:00:20,422
+- Great timing.
+
+11
+00:00:20,422 --> 00:00:21,775
+We were just about to start talking about
+
+12
+00:00:21,775 --> 00:00:23,190
+skin and scale details.
+
+13
+00:00:23,190 --> 00:00:24,376
+- Great.
+- Thank you, Tia.
+
+14
+00:00:24,376 --> 00:00:25,842
+- [Tia] You're welcome. Good luck!
+
+15
+00:00:25,842 --> 00:00:26,675
+- [Brunette Woman] Thanks.
+
+16
+00:00:26,675 --> 00:00:27,508
+- [Curly Haired Woman] See here,
+
+17
+00:00:27,508 --> 00:00:30,399
+she's added a pattern
+reference for skin and scales.
+
+18
+00:00:30,399 --> 00:00:31,343
+- [Brunette Woman] It kinda reminds me
+
+19
+00:00:31,343 --> 00:00:33,815
+of the variation you see in clouds.
+
+20
+00:00:33,815 --> 00:00:36,379
+I noticed there's both color variation,
+
+21
+00:00:36,379 --> 00:00:37,799
+from green to yellow,
+
+22
+00:00:37,799 --> 00:00:39,540
+as well as brightness variation,
+
+23
+00:00:39,540 --> 00:00:41,564
+from dark to bright.
+
+24
+00:00:41,564 --> 00:00:42,397
+- [Curly Haired Woman] I noticed the skin
+
+25
+00:00:42,397 --> 00:00:45,039
+has a different pattern
+compared to the scales.
+
+26
+00:00:45,039 --> 00:00:47,941
+It seems smoother and darker overall.
+
+27
+00:00:47,941 --> 00:00:48,852
+- [Brunette Woman] To get started,
+
+28
+00:00:48,852 --> 00:00:50,386
+let's simplify our problem.
+
+29
+00:00:50,386 --> 00:00:52,774
+First focus on a single scale.
+
+30
+00:00:52,774 --> 00:00:53,607
+- [Curly Haired Woman] And imagine we cut
+
+31
+00:00:53,607 --> 00:00:56,104
+a thin strip across it like this.
+
+32
+00:00:56,104 --> 00:00:57,825
+Like a paint strip!
+
+33
+00:00:57,825 --> 00:01:00,048
+We can really see the
+variation going on now.
+
+34
+00:01:00,048 --> 00:01:02,674
+It flows from dark green to light green.
+
+35
+00:01:02,674 --> 00:01:06,218
+- Now our job is to represent
+this mathematically.
+
+36
+00:01:06,218 --> 00:01:07,052
+- [Curly Haired Woman] In the computer,
+
+37
+00:01:07,052 --> 00:01:08,197
+the color strip is represented
+
+38
+00:01:08,197 --> 00:01:11,153
+as a sequence of colored cells, or pixels.
+
+39
+00:01:11,153 --> 00:01:12,789
+And the color of each pixel can vary
+
+40
+00:01:12,789 --> 00:01:14,825
+from light to dark green.
+
+41
+00:01:14,825 --> 00:01:18,681
+- [Brunette Woman] Like a
+really long paint strip.
+
+42
+00:01:18,681 --> 00:01:22,262
+And it's the brightness
+variation we want to express.
+
+43
+00:01:22,262 --> 00:01:23,214
+- [Curly Haired Woman]
+It helps to think of this
+
+44
+00:01:23,214 --> 00:01:24,797
+as a 2D plot,
+
+45
+00:01:24,797 --> 00:01:27,384
+where the x-axis is the
+position in the color strip
+
+46
+00:01:27,384 --> 00:01:30,596
+and the y-axis represents
+the color of brightness.
+
+47
+00:01:30,596 --> 00:01:31,430
+- [Brunette Woman] Right now,
+
+48
+00:01:31,430 --> 00:01:33,181
+all the colors are the same
+
+49
+00:01:33,181 --> 00:01:34,636
+because we have a flat line.
+
+50
+00:01:34,636 --> 00:01:35,808
+No variation.
+
+51
+00:01:35,808 --> 00:01:38,739
+You can adjust the base color here.
+
+52
+00:01:38,739 --> 00:01:39,572
+- [Curly Haired Woman]
+And the line is built
+
+53
+00:01:39,572 --> 00:01:41,459
+out of multiple control points.
+
+54
+00:01:41,459 --> 00:01:42,293
+If you pull them up,
+
+55
+00:01:42,293 --> 00:01:44,040
+it gets brighter in that region.
+
+56
+00:01:44,040 --> 00:01:45,867
+If you pull them down, it darkens.
+
+57
+00:01:45,867 --> 00:01:48,534
+This is known as a piecewise linear curve.
+
+58
+00:01:48,534 --> 00:01:49,774
+- [Brunette Woman] Very cool.
+
+59
+00:01:49,774 --> 00:01:50,774
+And check out what happens
+
+60
+00:01:50,774 --> 00:01:53,962
+if we scatter these points randomly.
+
+61
+00:01:53,962 --> 00:01:56,081
+This is getting closer to what we want.
+
+62
+00:01:56,081 --> 00:01:57,641
+One problem with this method
+
+63
+00:01:57,641 --> 00:02:01,239
+is that transitions currently
+have a sharp boundary.
+
+64
+00:02:01,239 --> 00:02:02,072
+- [Curly Haired Woman] Yes,
+
+65
+00:02:02,072 --> 00:02:03,910
+but we can fix that by smoothing
+this collection of lines
+
+66
+00:02:03,910 --> 00:02:05,140
+into a curve.
+
+67
+00:02:05,140 --> 00:02:07,381
+This is done using a subdivide slider.
+
+68
+00:02:07,381 --> 00:02:09,610
+- We covered how the
+subdivision algorithm works
+
+69
+00:02:09,610 --> 00:02:11,074
+in our character modeling lesson.
+
+70
+00:02:11,074 --> 00:02:13,031
+(light clicks on)
+
+71
+00:02:13,031 --> 00:02:15,384
+(bright, glittery ring)
+
+72
+00:02:15,384 --> 00:02:16,218
+- [Curly Haired Woman]
+But all you need to know
+
+73
+00:02:16,218 --> 00:02:19,363
+is that this slider defines
+how much smoothing is done,
+
+74
+00:02:19,363 --> 00:02:22,295
+resulting in these more
+gradual transitions.
+
+75
+00:02:22,295 --> 00:02:24,003
+- [Brunette Woman] By
+manipulating the base color,
+
+76
+00:02:24,003 --> 00:02:26,067
+point positions, and amount of smoothing,
+
+77
+00:02:26,067 --> 00:02:29,052
+we can generate a whole
+range of cool patterns.
+
+78
+00:02:29,052 --> 00:02:30,877
+- Now it's your turn to try this out.
+
+79
+00:02:30,877 --> 00:02:31,955
+In the next exercise,
+
+80
+00:02:31,955 --> 00:02:33,839
+your job is to match
+different target patterns
+
+81
+00:02:33,839 --> 00:02:35,420
+by selecting the correct starting color
+
+82
+00:02:35,420 --> 00:02:37,226
+and defining an appropriate 2D curve
+
+83
+00:02:37,226 --> 00:02:39,321
+to define the variation of brightness.
+
+84
+00:02:39,321 --> 00:02:40,154
+- In this example,
+
+85
+00:02:40,154 --> 00:02:41,836
+we're using the curve
+to control brightness.
+
+86
+00:02:41,836 --> 00:02:43,723
+But what other things that we can control
+
+87
+00:02:43,723 --> 00:02:45,978
+with a curve like this as well?
+
+88
+00:02:45,978 --> 00:02:47,038
+- We can really control lots of things
+
+89
+00:02:47,038 --> 00:02:47,038
+with these type of curves,
+
+90
+00:02:47,871 --> 00:02:50,199
+but one fun example is wings on insects
+
+91
+00:02:50,199 --> 00:02:52,229
+like dragonflies or grasshoppers.
+
+92
+00:02:52,229 --> 00:02:53,880
+We have lots of those in The Good Dinosaur
+
+93
+00:02:53,880 --> 00:02:55,592
+but in other movies like A Bug's Life,
+
+94
+00:02:55,592 --> 00:02:57,104
+obviously have bugs too.
+
+95
+00:02:57,104 --> 00:02:58,202
+And across the wing,
+
+96
+00:02:58,202 --> 00:03:00,157
+you'll have variation transparency
+
+97
+00:03:00,157 --> 00:03:03,530
+as well as color and iridescence
+and lighting quality,
+
+98
+00:03:03,530 --> 00:03:05,166
+and all those can be controlled separately
+
+99
+00:03:05,166 --> 00:03:06,000
+by curves like this. aimozhen.com/pixarinabox
+

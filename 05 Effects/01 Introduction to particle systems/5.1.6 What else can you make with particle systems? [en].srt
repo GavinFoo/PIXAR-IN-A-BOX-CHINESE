@@ -1,0 +1,168 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:00,780 --> 00:00:03,532
+(bouncing)
+
+3
+00:00:03,532 --> 00:00:04,716
+- As we mentioned earlier,
+
+4
+00:00:04,716 --> 00:00:07,135
+particle systems can be
+used for more than water.
+
+5
+00:00:07,135 --> 00:00:09,384
+Lots of other effects
+can be created with them.
+
+6
+00:00:09,384 --> 00:00:10,540
+Like fireworks, for example.
+
+7
+00:00:10,540 --> 00:00:12,370
+(explosions)
+
+8
+00:00:12,370 --> 00:00:13,429
+To see how that works,
+
+9
+00:00:13,429 --> 00:00:15,310
+let's start by launching a few particles
+
+10
+00:00:15,310 --> 00:00:17,168
+under the influence of gravity.
+
+11
+00:00:17,168 --> 00:00:18,751
+When they reach the top of their arc,
+
+12
+00:00:18,751 --> 00:00:21,015
+they explode to create other particles.
+
+13
+00:00:21,015 --> 00:00:23,951
+We'll call these child particles.
+
+14
+00:00:23,951 --> 00:00:27,251
+You can vary the strength of
+gravity using this slider.
+
+15
+00:00:27,251 --> 00:00:30,219
+A large value keeps the
+particles from rising very high,
+
+16
+00:00:30,219 --> 00:00:34,429
+and a small value causes
+particles to fly off the screen.
+
+17
+00:00:34,429 --> 00:00:35,638
+Notice that the child particles
+
+18
+00:00:35,638 --> 00:00:37,743
+disappear after a short time.
+
+19
+00:00:37,743 --> 00:00:40,177
+This is called their lifetime.
+
+20
+00:00:40,177 --> 00:00:43,934
+We can vary the lifetime
+using this slider.
+
+21
+00:00:45,934 --> 00:00:47,222
+Let's also increase the number of
+
+22
+00:00:47,222 --> 00:00:49,706
+child particles that get created.
+
+23
+00:00:49,706 --> 00:00:51,291
+To create something more believable,
+
+24
+00:00:51,291 --> 00:00:52,907
+let's add some randomness.
+
+25
+00:00:52,907 --> 00:00:55,186
+For instance, let's add
+some random variation
+
+26
+00:00:55,186 --> 00:00:57,904
+to the speed of the child particles.
+
+27
+00:00:57,904 --> 00:00:58,921
+That's better.
+
+28
+00:00:58,921 --> 00:01:00,719
+Let's also add some variation to the angle
+
+29
+00:01:00,719 --> 00:01:03,925
+at which the initial
+particles get launched.
+
+30
+00:01:03,925 --> 00:01:04,349
+Awesome.
+
+31
+00:01:06,349 --> 00:01:08,371
+See what kind of fireworks
+display you can create
+
+32
+00:01:08,371 --> 00:01:10,031
+in the next exercise.
+
+33
+00:01:10,031 --> 00:01:14,679
+(explosions)
+(whistling)
+
+34
+00:01:16,679 --> 00:01:17,637
+And in the next lesson,
+
+35
+00:01:17,637 --> 00:01:18,470
+we'll look more closely
+
+36
+00:01:18,470 --> 00:01:21,288
+at the physics underlying
+the ping pong ball simulator,
+
+37
+00:01:21,288 --> 00:01:22,330
+which you'll need to understand
+
+38
+00:01:22,330 --> 00:01:25,040
+if you want to code up your
+own simulator from scratch.
+
+39
+00:01:25,040 --> 00:01:27,000
+(explosion) aimozhen.com/pixarinabox
+

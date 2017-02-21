@@ -1,0 +1,354 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:00,120 --> 00:00:02,800
+(lamp clatters)
+
+3
+00:00:02,800 --> 00:00:05,031
+- Great work making it this far.
+
+4
+00:00:05,031 --> 00:00:06,957
+Now it's your turn to drive.
+
+5
+00:00:06,957 --> 00:00:10,246
+So far we've built a
+two-dimensional mass spring system.
+
+6
+00:00:10,246 --> 00:00:12,457
+It's pretty cool, it's the key
+
+7
+00:00:12,457 --> 00:00:14,862
+building block for many simulations.
+
+8
+00:00:14,862 --> 00:00:17,236
+Recall in lesson one we
+used multiple springs
+
+9
+00:00:17,236 --> 00:00:19,625
+connected together like
+this to model hair.
+
+10
+00:00:19,625 --> 00:00:21,415
+In this video I'm going to show you how
+
+11
+00:00:21,415 --> 00:00:24,141
+to add a second spring
+and mass to your system.
+
+12
+00:00:24,141 --> 00:00:26,525
+First let's draw a new force diagram
+
+13
+00:00:26,525 --> 00:00:28,269
+to see what's going on.
+
+14
+00:00:28,269 --> 00:00:31,090
+Let's call our two
+masses mass 1 and mass 2,
+
+15
+00:00:31,090 --> 00:00:34,574
+and our two springs spring 1 and spring 2.
+
+16
+00:00:34,574 --> 00:00:37,391
+First let's think about the new forces
+
+17
+00:00:37,391 --> 00:00:40,178
+acting on mass 1, as before,
+
+18
+00:00:40,178 --> 00:00:42,368
+we have the gravity force acting downward,
+
+19
+00:00:42,368 --> 00:00:45,584
+a spring 1 force pulling
+up towards the anchor,
+
+20
+00:00:45,584 --> 00:00:48,638
+and a damping force acting
+in the opposite direction.
+
+21
+00:00:48,638 --> 00:00:50,912
+However, now there is a new force
+
+22
+00:00:50,912 --> 00:00:53,435
+due to the new spring connecting mass 2.
+
+23
+00:00:53,435 --> 00:00:55,532
+In this case the displacement we use
+
+24
+00:00:55,532 --> 00:00:57,642
+to calculate spring to
+force is the difference
+
+25
+00:00:57,642 --> 00:01:02,411
+between both masses, mass 2
+position minus mass 1 position,
+
+26
+00:01:02,411 --> 00:01:05,063
+and there is also a damping force
+
+27
+00:01:05,063 --> 00:01:07,498
+resisting the spring 2 force.
+
+28
+00:01:07,498 --> 00:01:10,509
+So we need to add these two
+new forces to the x and y
+
+29
+00:01:10,509 --> 00:01:13,766
+components of the mass
+1 net force calculation.
+
+30
+00:01:13,766 --> 00:01:16,778
+Now consider the new mass we've added.
+
+31
+00:01:16,778 --> 00:01:19,261
+It will experience the force of gravity
+
+32
+00:01:19,261 --> 00:01:21,640
+as well as a spring 2 force minus
+
+33
+00:01:21,640 --> 00:01:24,657
+the opposing spring 2 damping force.
+
+34
+00:01:24,657 --> 00:01:27,519
+That's it for modifying
+our force calculation.
+
+35
+00:01:27,519 --> 00:01:29,849
+At the top we'll need
+new initial variables
+
+36
+00:01:29,849 --> 00:01:33,058
+to represent both the position
+and velocity of mass 2.
+
+37
+00:01:33,058 --> 00:01:35,687
+I'll set the initial position of mass 2
+
+38
+00:01:35,687 --> 00:01:37,797
+so that it's below mass 1.
+
+39
+00:01:37,797 --> 00:01:41,290
+The initial velocity of
+mass 2 is zero as well.
+
+40
+00:01:41,290 --> 00:01:44,397
+To add a new mass 2 we have to double up
+
+41
+00:01:44,397 --> 00:01:47,438
+all of our equations used for mass 1.
+
+42
+00:01:47,438 --> 00:01:50,067
+However, there are two key differences.
+
+43
+00:01:50,067 --> 00:01:53,093
+For the mass 2 spring force calculations
+
+44
+00:01:53,093 --> 00:01:56,658
+we'll use mass2Position
+minus mass1Position
+
+45
+00:01:56,658 --> 00:01:58,232
+as our displacement.
+
+46
+00:01:58,232 --> 00:02:01,528
+And for the mass 2 net force calculations,
+
+47
+00:02:01,528 --> 00:02:05,180
+we have mass2SpringForce
+minus mass2DampingForce.
+
+48
+00:02:07,180 --> 00:02:09,895
+Finally, we just need
+to draw the new circle
+
+49
+00:02:09,895 --> 00:02:12,549
+and line for this mass and spring.
+
+50
+00:02:12,549 --> 00:02:15,614
+The new line will extend
+from mass 1 to mass 2.
+
+51
+00:02:15,614 --> 00:02:18,756
+The new circle will be the
+center of mass 2's position,
+
+52
+00:02:18,756 --> 00:02:20,782
+and that gives us this.
+
+53
+00:02:21,782 --> 00:02:24,253
+Mass spring systems are really powerful.
+
+54
+00:02:24,253 --> 00:02:26,700
+At Pixar we don't just use them for hair.
+
+55
+00:02:26,700 --> 00:02:28,752
+The trees in The Good Dinosaur
+
+56
+00:02:28,752 --> 00:02:31,021
+were also simulated with
+a mass spring system.
+
+57
+00:02:31,021 --> 00:02:32,878
+Kind of similar to hair, but it had
+
+58
+00:02:32,878 --> 00:02:34,936
+to represent a tree structure.
+
+59
+00:02:34,936 --> 00:02:37,351
+Trees have branches, so we simulated them
+
+60
+00:02:37,351 --> 00:02:40,410
+by having multiple line
+segments attached to each other
+
+61
+00:02:40,410 --> 00:02:43,151
+kind of like having
+hairs attached to hairs
+
+62
+00:02:43,151 --> 00:02:45,774
+instead of only being
+attached to the scalp.
+
+63
+00:02:45,774 --> 00:02:48,750
+Even clothing is simulated
+using masses and springs.
+
+64
+00:02:48,750 --> 00:02:51,670
+In Brave, Merida had several
+garments that we needed
+
+65
+00:02:51,670 --> 00:02:55,666
+to simulate, and each garment
+had their own spring values.
+
+66
+00:02:55,666 --> 00:02:57,974
+These values were chosen
+to mimic different
+
+67
+00:02:57,974 --> 00:03:01,645
+kinds of cloth, such as
+wool, cotton, and satin.
+
+68
+00:03:01,645 --> 00:03:04,791
+As you can see, mass spring
+systems are super useful
+
+69
+00:03:04,791 --> 00:03:07,913
+for modifying and simulating
+all kinds of different things.
+
+70
+00:03:07,913 --> 00:03:09,912
+See if you can think of other materials
+
+71
+00:03:09,912 --> 00:03:12,705
+that could be created
+using mass spring systems.
+
+72
+00:03:12,705 --> 00:03:14,859
+And that's the goal of this final project.
+
+73
+00:03:14,859 --> 00:03:16,587
+Your job is to modify this program
+
+74
+00:03:16,587 --> 00:03:18,437
+to make whatever you can dream up.
+
+75
+00:03:18,437 --> 00:03:20,670
+The program you spin off
+will automatically show up
+
+76
+00:03:20,670 --> 00:03:22,704
+below under the Spin-offs tab,
+
+77
+00:03:22,704 --> 00:03:24,834
+along with everyone else's.
+
+78
+00:03:24,834 --> 00:03:27,624
+And I really encourage you
+to check out other creations
+
+79
+00:03:27,624 --> 00:03:30,036
+to get new ideas for inspiration.
+
+80
+00:03:30,036 --> 00:03:32,000
+Have fun, and happy exploring. aimozhen.com/pixarinabox
+

@@ -1,0 +1,224 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,497 --> 00:00:05,596
+- You should now have a good
+feeling for the relationship
+
+3
+00:00:05,596 --> 00:00:08,423
+between position, speed and acceleration.
+
+4
+00:00:08,423 --> 00:00:10,632
+Before we can (mumbles)
+formulas to describe how
+
+5
+00:00:10,632 --> 00:00:13,012
+the particles will move
+based on the laws of physics,
+
+6
+00:00:13,012 --> 00:00:14,562
+We need to revisit how we think about
+
+7
+00:00:14,562 --> 00:00:16,505
+the speed of the particle.
+
+8
+00:00:16,505 --> 00:00:18,910
+We need to know not only
+how fast it's moving,
+
+9
+00:00:18,910 --> 00:00:20,528
+but also the direction of motion.
+
+10
+00:00:20,528 --> 00:00:22,825
+In this case downward.
+
+11
+00:00:22,825 --> 00:00:25,079
+We are using idea called a
+vector to represent things
+
+12
+00:00:25,079 --> 00:00:28,366
+that have both the size and the direction.
+
+13
+00:00:28,366 --> 00:00:29,903
+Vectors are joined as arrows.
+
+14
+00:00:29,903 --> 00:00:31,892
+The direction is which way it's pointing,
+
+15
+00:00:31,892 --> 00:00:33,775
+and the length of the
+arrow called the magnitude
+
+16
+00:00:33,775 --> 00:00:36,194
+of the vector, indicates it's size.
+
+17
+00:00:36,194 --> 00:00:38,550
+We call this point,
+the tail of the vector,
+
+18
+00:00:38,550 --> 00:00:41,512
+and this point, the head of the vector.
+
+19
+00:00:41,512 --> 00:00:43,650
+A vector called the
+velocity, is used to describe
+
+20
+00:00:43,650 --> 00:00:46,792
+the speed and direction of the particle.
+
+21
+00:00:46,792 --> 00:00:49,394
+A short vector means the
+particle is moving slowly.
+
+22
+00:00:49,394 --> 00:00:52,584
+A long vector indicates that
+the particle is moving quickly.
+
+23
+00:00:52,584 --> 00:00:55,097
+In this diagram the
+balls motion is downward,
+
+24
+00:00:55,097 --> 00:00:57,569
+so the velocity vector points downward.
+
+25
+00:00:57,569 --> 00:00:59,237
+If the particle is accelerating,
+
+26
+00:00:59,237 --> 00:01:00,853
+for instance due to gravity,
+
+27
+00:01:00,853 --> 00:01:03,588
+the length of the velocity
+vector will increase over time
+
+28
+00:01:03,588 --> 00:01:05,816
+since the speed is increasing.
+
+29
+00:01:05,816 --> 00:01:08,232
+Acceleration is also a
+vector because it too,
+
+30
+00:01:08,232 --> 00:01:10,177
+has a magnitude in direction.
+
+31
+00:01:10,177 --> 00:01:12,486
+But notice the size of
+the acceleration vector
+
+32
+00:01:12,486 --> 00:01:15,483
+doesn't change as the ball falls.
+
+33
+00:01:18,483 --> 00:01:20,114
+As we saw on the last video,
+
+34
+00:01:20,114 --> 00:01:22,318
+a particle falling under
+the influence of gravity
+
+35
+00:01:22,318 --> 00:01:24,179
+has a constant acceleration.
+
+36
+00:01:24,179 --> 00:01:25,898
+That is both the direction
+
+37
+00:01:25,898 --> 00:01:28,465
+and size of the acceleration
+vector is constant.
+
+38
+00:01:28,465 --> 00:01:30,450
+As shown here.
+
+39
+00:01:30,450 --> 00:01:32,497
+We also need to add vectors together.
+
+40
+00:01:32,497 --> 00:01:34,711
+We do this using the head to tail rule.
+
+41
+00:01:34,711 --> 00:01:37,763
+For example, if we need
+to add vectors v and w,
+
+42
+00:01:37,763 --> 00:01:40,759
+we move w so that v's head is at w's tail.
+
+43
+00:01:40,759 --> 00:01:42,253
+Like this.
+
+44
+00:01:42,253 --> 00:01:44,614
+The resulting vector written v+w,
+
+45
+00:01:44,614 --> 00:01:47,330
+goes from v's tail to w's head.
+
+46
+00:01:47,330 --> 00:01:49,287
+Okay, that's a lot of new ideas.
+
+47
+00:01:49,287 --> 00:01:51,911
+So let's pass here for you
+to use the next exercise
+
+48
+00:01:51,911 --> 00:01:53,671
+to try this all out.
+
+49
+00:01:53,671 --> 00:01:55,316
+We couldn't make our
+films without vectors.
+
+50
+00:01:55,316 --> 00:01:57,952
+Vectors are being used any
+time you see anything moving
+
+51
+00:01:57,952 --> 00:01:59,000
+in our films. aimozhen.com/pixarinabox
+

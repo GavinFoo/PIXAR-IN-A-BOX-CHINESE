@@ -1,0 +1,370 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,008 --> 00:00:05,317
+- You may be surprised
+that there is such a thing
+
+3
+00:00:05,317 --> 00:00:07,238
+as a color scientist, but at Pixar,
+
+4
+00:00:07,238 --> 00:00:08,814
+color plays a role in almost
+
+5
+00:00:08,814 --> 00:00:11,156
+every artistic decision that we make.
+
+6
+00:00:11,156 --> 00:00:14,255
+While this lesson will focus
+on the science of color,
+
+7
+00:00:14,255 --> 00:00:16,494
+there is obviously a whole world of color
+
+8
+00:00:16,494 --> 00:00:17,961
+that artists think about.
+
+9
+00:00:17,961 --> 00:00:20,940
+Here we are in the color mastering suite.
+
+10
+00:00:20,940 --> 00:00:22,116
+The equipment that we use
+
+11
+00:00:22,116 --> 00:00:24,805
+is basically a supercomputer
+version of Photoshop,
+
+12
+00:00:24,805 --> 00:00:26,634
+but it kinda looks a little bit
+
+13
+00:00:26,634 --> 00:00:29,807
+like the Star Trek Enterprise.
+
+14
+00:00:29,807 --> 00:00:31,863
+My goal in this lesson is to show you that
+
+15
+00:00:31,863 --> 00:00:35,372
+color is really part physics
+and part human perception,
+
+16
+00:00:35,372 --> 00:00:37,220
+and at the end of this lesson,
+
+17
+00:00:37,220 --> 00:00:39,254
+you'll have a chance
+to manipulate the color
+
+18
+00:00:39,254 --> 00:00:40,697
+using scenes from our films
+
+19
+00:00:40,697 --> 00:00:44,339
+to achieve various artistic goals.
+
+20
+00:00:44,339 --> 00:00:45,850
+But first we need to understand
+
+21
+00:00:45,850 --> 00:00:47,921
+how the tools in this room work.
+
+22
+00:00:47,921 --> 00:00:50,962
+So let's go back to a simple question.
+
+23
+00:00:50,962 --> 00:00:52,860
+What is color?
+
+24
+00:00:55,860 --> 00:00:57,632
+Color is a property of light,
+
+25
+00:00:57,632 --> 00:01:00,821
+and light comes from light sources.
+
+26
+00:01:00,821 --> 00:01:03,399
+And there are all different
+kinds of light sources.
+
+27
+00:01:03,399 --> 00:01:06,833
+For example, I'm currently
+being lit by these lamps.
+
+28
+00:01:06,833 --> 00:01:11,012
+Without these, our scene
+would look very different.
+
+29
+00:01:11,012 --> 00:01:13,653
+And using a flame as our light source,
+
+30
+00:01:13,653 --> 00:01:15,016
+like these two candles,
+
+31
+00:01:15,016 --> 00:01:17,099
+really changes the feel of the scene.
+
+32
+00:01:17,099 --> 00:01:18,749
+The light is not only dimmer,
+
+33
+00:01:18,749 --> 00:01:21,229
+but it emits a reddish-orange light.
+
+34
+00:01:21,229 --> 00:01:23,337
+Seeing this light on
+a white piece of paper
+
+35
+00:01:23,337 --> 00:01:25,037
+is a great way to show this.
+
+36
+00:01:25,037 --> 00:01:27,319
+Try pausing this video and hold your own
+
+37
+00:01:27,319 --> 00:01:30,283
+white piece of paper up
+to the screen beside mine.
+
+38
+00:01:30,283 --> 00:01:34,076
+Notice the difference between
+my white paper and yours.
+
+39
+00:01:34,076 --> 00:01:35,639
+They're not the same, right?
+
+40
+00:01:35,639 --> 00:01:38,144
+Now compare how the same
+piece of paper looks
+
+41
+00:01:38,144 --> 00:01:41,343
+under the most powerful light
+source in the solar system,
+
+42
+00:01:41,343 --> 00:01:42,459
+the sun.
+
+43
+00:01:42,459 --> 00:01:44,766
+The sun gives off really intense light,
+
+44
+00:01:44,766 --> 00:01:46,279
+especially in the middle of the day.
+
+45
+00:01:46,279 --> 00:01:49,167
+You can clearly see that
+the light on this paper
+
+46
+00:01:49,167 --> 00:01:51,858
+is much whiter than the candle light.
+
+47
+00:01:51,858 --> 00:01:54,165
+Inside, the light was more reddish.
+
+48
+00:01:54,165 --> 00:01:56,211
+So, where did the red light go?
+
+49
+00:01:56,211 --> 00:01:59,509
+Let's go back inside so I
+can show you what happened.
+
+50
+00:01:59,509 --> 00:02:01,581
+The key is to think of all light
+
+51
+00:02:01,581 --> 00:02:03,371
+as a mixture of colors.
+
+52
+00:02:03,371 --> 00:02:05,858
+Sir Isaac Newton famously
+demonstrated this
+
+53
+00:02:05,858 --> 00:02:08,932
+when he used a glass prism
+to break up sunlight.
+
+54
+00:02:08,932 --> 00:02:11,637
+When sunlight passes in
+and out of the prism,
+
+55
+00:02:11,637 --> 00:02:13,310
+it bends, or refracts,
+
+56
+00:02:13,310 --> 00:02:16,263
+and splits up into a spectrum of colors.
+
+57
+00:02:16,263 --> 00:02:19,151
+After Newton, other scientists discovered
+
+58
+00:02:19,151 --> 00:02:22,002
+that the light's wavelength
+is what determines
+
+59
+00:02:22,002 --> 00:02:25,130
+how much it will refract,
+and what color it will be.
+
+60
+00:02:25,130 --> 00:02:28,996
+Bluer light has a shorter
+wavelength and bends more.
+
+61
+00:02:28,996 --> 00:02:33,032
+Redder light, with longer
+wavelengths, bends less.
+
+62
+00:02:33,032 --> 00:02:34,462
+And this is the key point.
+
+63
+00:02:34,462 --> 00:02:35,889
+Sunlight looks white
+
+64
+00:02:35,889 --> 00:02:38,889
+because it contains all visible colors.
+
+65
+00:02:38,889 --> 00:02:41,568
+Scientists have developed a 2-D graph
+
+66
+00:02:41,568 --> 00:02:44,098
+to easily visualize the colors contained
+
+67
+00:02:44,098 --> 00:02:46,995
+in any given light source.
+
+68
+00:02:46,995 --> 00:02:50,241
+In this graph, along the
+X-axis, is the wavelength,
+
+69
+00:02:50,241 --> 00:02:54,705
+and along the Y-axis is the
+intensity of that wavelength.
+
+70
+00:02:54,705 --> 00:02:59,412
+For example, here's the graph
+of what daylight looks like.
+
+71
+00:02:59,412 --> 00:03:03,288
+This is known as the spectrum of daylight.
+
+72
+00:03:03,288 --> 00:03:05,184
+And a graph like this is called
+
+73
+00:03:05,184 --> 00:03:08,425
+a spectral power distribution.
+
+74
+00:03:08,425 --> 00:03:11,724
+And here's the spectral power
+distribution of candlelight.
+
+75
+00:03:11,724 --> 00:03:13,960
+Notice it doesn't contain
+the same intensity
+
+76
+00:03:13,960 --> 00:03:15,795
+of blue and green wavelengths.
+
+77
+00:03:15,795 --> 00:03:18,265
+If we shine candlelight through a prism,
+
+78
+00:03:18,265 --> 00:03:20,426
+we can't see a full rainbow.
+
+79
+00:03:20,426 --> 00:03:21,627
+The reds are strong,
+
+80
+00:03:21,627 --> 00:03:23,800
+but the blue wavelengths are much weaker.
+
+81
+00:03:23,800 --> 00:03:26,452
+Is this first exercise,
+you'll have a chance
+
+82
+00:03:26,452 --> 00:03:29,307
+to explore the spectrum
+of various light sources,
+
+83
+00:03:29,307 --> 00:03:31,202
+and answer some questions about them.
+
+84
+00:03:31,202 --> 00:03:33,761
+For example, what do
+you think the spectrum
+
+85
+00:03:33,761 --> 00:03:36,000
+of a laser would look like? aimozhen.com/pixarinabox
+

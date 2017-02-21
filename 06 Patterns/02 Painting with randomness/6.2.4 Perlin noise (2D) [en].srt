@@ -1,0 +1,309 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,314 --> 00:00:04,745
+- So far we've been working with
+
+3
+00:00:04,745 --> 00:00:06,684
+Perlin noise in one dimension.
+
+4
+00:00:06,684 --> 00:00:08,182
+- But remember, the problem we really
+
+5
+00:00:08,182 --> 00:00:09,884
+wanna solve is in two dimensions.
+
+6
+00:00:09,884 --> 00:00:13,249
+- Luckily, we can apply
+the exact same idea in 2D.
+
+7
+00:00:13,249 --> 00:00:14,937
+This part is really fun.
+
+8
+00:00:14,937 --> 00:00:17,097
+- [Woman 2] Remember, to
+generate 1D variation,
+
+9
+00:00:17,097 --> 00:00:19,786
+we used a 2D curve to define the variation
+
+10
+00:00:19,786 --> 00:00:21,874
+of the base color along the line.
+
+11
+00:00:21,874 --> 00:00:23,652
+- [Woman 1] We used the
+x component of the curve
+
+12
+00:00:23,652 --> 00:00:25,533
+to define the horizontal pixel position,
+
+13
+00:00:25,533 --> 00:00:28,520
+and the y component defined
+the brightness of each pixel.
+
+14
+00:00:28,520 --> 00:00:29,959
+- [Woman 2] But to make 2D noise,
+
+15
+00:00:29,959 --> 00:00:31,564
+we'll need to start with a 3D surface
+
+16
+00:00:31,564 --> 00:00:33,637
+to define the variation across the plane.
+
+17
+00:00:33,637 --> 00:00:35,539
+Think of a 3D surface as
+a collection of points
+
+18
+00:00:35,539 --> 00:00:38,190
+which have an x, y, and z component.
+
+19
+00:00:38,190 --> 00:00:40,426
+For example, here is a surface defined
+
+20
+00:00:40,426 --> 00:00:42,094
+by a bunch of random points.
+
+21
+00:00:42,094 --> 00:00:43,850
+- [Woman 1] Think about the x and y
+
+22
+00:00:43,850 --> 00:00:45,698
+coordinates of each point as the finding
+
+23
+00:00:45,698 --> 00:00:48,108
+the pixel position in a 2D
+plane, and the z coordinate
+
+24
+00:00:48,108 --> 00:00:51,624
+will define the brightness of each pixel.
+
+25
+00:00:51,624 --> 00:00:52,883
+- [Woman 2] If we do that, we get
+
+26
+00:00:52,883 --> 00:00:55,403
+a 2D output which looks like this.
+
+27
+00:00:55,403 --> 00:00:57,122
+Notice the peaks of this surface result
+
+28
+00:00:57,122 --> 00:00:59,940
+in lighter points, and
+the valleys are darker.
+
+29
+00:00:59,940 --> 00:01:02,052
+- [Woman 1] As before,
+the output has very sharp
+
+30
+00:01:02,052 --> 00:01:04,510
+boundaries between light and dark areas.
+
+31
+00:01:04,510 --> 00:01:07,700
+That's because the surface isn't smooth.
+
+32
+00:01:07,700 --> 00:01:09,805
+- [Woman 2] Luckily we
+can subdivide this surface
+
+33
+00:01:09,805 --> 00:01:12,522
+in the exact same way we
+smoothed our 2D curve.
+
+34
+00:01:12,522 --> 00:01:15,091
+This will add new in-between
+points to our surface,
+
+35
+00:01:15,091 --> 00:01:17,310
+resulting in smoother transitions.
+
+36
+00:01:17,310 --> 00:01:18,370
+- [Woman 1] And that gives us this
+
+37
+00:01:18,370 --> 00:01:20,308
+very natural looking variation.
+
+38
+00:01:20,308 --> 00:01:22,085
+It's exactly the kind of cloudy pattern
+
+39
+00:01:22,085 --> 00:01:24,212
+identified in the shading packet.
+
+40
+00:01:24,212 --> 00:01:26,177
+- You probably wanna try
+this out for yourself.
+
+41
+00:01:26,177 --> 00:01:28,150
+In the next exercise,
+you can try matching some
+
+42
+00:01:28,150 --> 00:01:30,172
+2D patterns using this technique.
+
+43
+00:01:30,172 --> 00:01:31,964
+- [Woman 1] We will give
+you a target pattern,
+
+44
+00:01:31,964 --> 00:01:35,052
+and you can match this by
+adjusting one the base color.
+
+45
+00:01:35,052 --> 00:01:38,727
+Two the resolution, this is how far
+
+46
+00:01:38,727 --> 00:01:41,819
+we zoom in or out of our surface.
+
+47
+00:01:41,819 --> 00:01:43,758
+Three, the subdivision, or how much
+
+48
+00:01:43,758 --> 00:01:46,352
+smoothing we apply to the curve.
+
+49
+00:01:46,352 --> 00:01:47,849
+- In this example we're manipulating
+
+50
+00:01:47,849 --> 00:01:49,325
+a few parameters to get our look.
+
+51
+00:01:49,325 --> 00:01:50,921
+But in a real production shading project,
+
+52
+00:01:50,921 --> 00:01:53,327
+how many parameters would you adjust?
+
+53
+00:01:53,327 --> 00:01:55,390
+- Well, background
+characters would actually
+
+54
+00:01:55,390 --> 00:01:58,812
+be usually in the hundreds
+but main characters,
+
+55
+00:01:58,812 --> 00:02:02,361
+like Arlo, you would have up to thousands.
+
+56
+00:02:02,361 --> 00:02:04,584
+If he's in mud, you would control
+
+57
+00:02:04,584 --> 00:02:07,581
+how much mud he gets,
+or the color of the mud,
+
+58
+00:02:07,581 --> 00:02:09,841
+or how dry the mud is supposed to be.
+
+59
+00:02:09,841 --> 00:02:11,619
+He could have rain, and so you would
+
+60
+00:02:11,619 --> 00:02:14,098
+control maybe how fast it is,
+
+61
+00:02:14,098 --> 00:02:17,925
+or the different parts where
+you want the rain to show up.
+
+62
+00:02:17,925 --> 00:02:20,334
+He could have bruises,
+like throughout the journey
+
+63
+00:02:20,334 --> 00:02:23,179
+he gets bruises and he gets part of
+
+64
+00:02:23,179 --> 00:02:25,770
+the journey represented on his body.
+
+65
+00:02:25,770 --> 00:02:28,473
+And you would have controls
+for all of those things,
+
+66
+00:02:28,473 --> 00:02:32,596
+besides colors or maybe
+in certain environments
+
+67
+00:02:33,596 --> 00:02:35,831
+he looks a little bit
+too shiny so you want to
+
+68
+00:02:35,831 --> 00:02:38,645
+bring the shininess down,
+or things like that.
+
+69
+00:02:38,645 --> 00:02:41,441
+So there's just controls
+for pretty much everything.
+
+70
+00:02:41,441 --> 00:02:42,365
+- [Woman 2] Sounds complicated.
+
+71
+00:02:42,365 --> 00:02:43,000
+- [Woman 1] It is! aimozhen.com/pixarinabox
+

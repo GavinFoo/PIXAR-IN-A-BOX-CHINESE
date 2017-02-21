@@ -1,0 +1,417 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,425 --> 00:00:07,494
+- Hi, I'm Valerie Lapointe and
+I'm a story artist at Pixar.
+
+3
+00:00:07,494 --> 00:00:09,207
+I'm going to be your host for our
+
+4
+00:00:09,207 --> 00:00:12,594
+first lesson on storytelling,
+designed to introduce you
+
+5
+00:00:12,594 --> 00:00:14,530
+to how we tell stories at Pixar.
+
+6
+00:00:14,530 --> 00:00:16,208
+Throughout the next six lessons
+
+7
+00:00:16,208 --> 00:00:18,534
+you'll have a chance to
+create your own stories
+
+8
+00:00:18,534 --> 00:00:20,227
+and you'll go from a rough idea
+
+9
+00:00:20,227 --> 00:00:23,068
+to having real storyboards
+like we use at Pixar.
+
+10
+00:00:23,068 --> 00:00:25,397
+Each lesson features Pixar story artists
+
+11
+00:00:25,397 --> 00:00:28,357
+sharing their insights about
+the story development process.
+
+12
+00:00:28,357 --> 00:00:31,913
+- My name is Domee Shi
+and I'm a story artist.
+
+13
+00:00:31,913 --> 00:00:33,209
+- Hi, my name is Sanjay Patel.
+
+14
+00:00:33,209 --> 00:00:34,739
+I'm an animator and storyboard artist.
+
+15
+00:00:34,739 --> 00:00:35,898
+- I'm Kristen Lester.
+
+16
+00:00:35,898 --> 00:00:37,248
+I'm as storyboard artist.
+
+17
+00:00:37,248 --> 00:00:38,829
+- Hello, my name is Mark Andrews and
+
+18
+00:00:38,829 --> 00:00:41,950
+I'm a director at Pixar Animation Studios.
+
+19
+00:00:41,950 --> 00:00:43,858
+The goal of this video is to remind you
+
+20
+00:00:43,858 --> 00:00:46,938
+that you already are a storyteller.
+
+21
+00:00:46,938 --> 00:00:48,500
+It's something we do naturally,
+
+22
+00:00:48,500 --> 00:00:50,456
+and start doing as children.
+
+23
+00:00:50,456 --> 00:00:52,779
+To kick this lesson off, let's hear how
+
+24
+00:00:52,779 --> 00:00:54,572
+some of Pixar's storytellers first
+
+25
+00:00:54,572 --> 00:00:57,980
+started telling their own stories.
+
+26
+00:00:58,980 --> 00:01:00,962
+- Out on the playground where you're
+
+27
+00:01:00,962 --> 00:01:03,485
+making up stories or
+playing in the backyard
+
+28
+00:01:03,485 --> 00:01:05,892
+where we're making up whole worlds.
+
+29
+00:01:05,892 --> 00:01:08,516
+From then on I started
+drawing my own comic books
+
+30
+00:01:08,516 --> 00:01:12,230
+and I would fake being sick
+to stay home from school
+
+31
+00:01:12,230 --> 00:01:15,900
+so I could draw my comic books
+and come up with my stories.
+
+32
+00:01:15,900 --> 00:01:18,371
+- What I did is I would take a drawing
+
+33
+00:01:18,371 --> 00:01:20,354
+of Betty and Veronica that
+was in the comic books
+
+34
+00:01:20,354 --> 00:01:22,517
+and I would trace it,
+and then I would draw
+
+35
+00:01:22,517 --> 00:01:24,846
+fashion on them, and I did this thing
+
+36
+00:01:24,846 --> 00:01:26,932
+called Betty and Veronica Fashions.
+
+37
+00:01:26,932 --> 00:01:28,971
+Somewhere in my mother's
+basement there are
+
+38
+00:01:28,971 --> 00:01:30,830
+thousands and thousands and thousands
+
+39
+00:01:30,830 --> 00:01:32,944
+of these drawings of Betty and Veronica.
+
+40
+00:01:32,944 --> 00:01:35,081
+- These poster assignments that my
+
+41
+00:01:35,081 --> 00:01:37,030
+art teacher would give me in high school,
+
+42
+00:01:37,030 --> 00:01:38,926
+and even in junior high school as well,
+
+43
+00:01:38,926 --> 00:01:40,790
+they were always around a theme
+
+44
+00:01:40,790 --> 00:01:43,741
+of American history, and so the idea
+
+45
+00:01:43,741 --> 00:01:45,462
+of this kinda homework of doing
+
+46
+00:01:45,462 --> 00:01:48,031
+American history in a visual form
+
+47
+00:01:48,031 --> 00:01:49,465
+was the kinda the first avenue
+
+48
+00:01:49,465 --> 00:01:52,915
+into telling stories in just one picture.
+
+49
+00:01:52,915 --> 00:01:54,031
+- When I was really young I would
+
+50
+00:01:54,031 --> 00:01:57,012
+draw pictures and I
+would show them to people
+
+51
+00:01:57,012 --> 00:01:59,971
+and they would react,
+and I'd really like that.
+
+52
+00:01:59,971 --> 00:02:01,896
+Like I'd love getting
+reactions out of people
+
+53
+00:02:01,896 --> 00:02:05,523
+with the things that drew
+and the stories that I tell,
+
+54
+00:02:05,523 --> 00:02:08,268
+and I wanted to get more
+reactions out of people
+
+55
+00:02:08,268 --> 00:02:11,444
+so I drew more and more and more.
+
+56
+00:02:13,444 --> 00:02:15,381
+- I have to say, like
+growing up I felt like
+
+57
+00:02:15,381 --> 00:02:17,555
+I had no ideas, like I was just the most
+
+58
+00:02:17,555 --> 00:02:19,944
+unoriginal, like, I
+always felt like artists
+
+59
+00:02:19,944 --> 00:02:22,431
+have to have like these
+kinda waterfalls of ideas,
+
+60
+00:02:22,431 --> 00:02:25,038
+endless amount of ideas,
+and I had like zero I felt.
+
+61
+00:02:25,038 --> 00:02:29,574
+- So I get most of my stories
+and my ideas from my life.
+
+62
+00:02:29,574 --> 00:02:32,795
+I think about a lot of
+stuff that's happened to me,
+
+63
+00:02:32,795 --> 00:02:36,311
+like when was the last time I was happy?
+
+64
+00:02:36,311 --> 00:02:39,386
+When was the last time I felt really sad?
+
+65
+00:02:39,386 --> 00:02:43,973
+When was the last time I
+cried or got really angry?
+
+66
+00:02:43,973 --> 00:02:47,491
+- Most of my stories originate from
+
+67
+00:02:47,491 --> 00:02:50,529
+my own personal experiences, and I think
+
+68
+00:02:50,529 --> 00:02:54,270
+there's a touchstone there
+that is very important
+
+69
+00:02:54,270 --> 00:02:59,224
+to the storyteller to find
+because it makes us honest.
+
+70
+00:02:59,224 --> 00:03:01,388
+I'm not just gathering kind of ideas
+
+71
+00:03:01,388 --> 00:03:03,675
+and chucking them together
+and there's a story.
+
+72
+00:03:03,675 --> 00:03:06,002
+No story comes ready made.
+
+73
+00:03:06,002 --> 00:03:09,014
+- One way is that I think long and hard
+
+74
+00:03:09,014 --> 00:03:11,861
+about my experiences in life and
+
+75
+00:03:11,861 --> 00:03:15,022
+moments in my life where I've had
+
+76
+00:03:15,022 --> 00:03:19,267
+what I kind of consider to be an epiphany.
+
+77
+00:03:19,267 --> 00:03:21,679
+I have gained some sort of insight
+
+78
+00:03:21,679 --> 00:03:24,747
+or learned something that I think
+
+79
+00:03:24,747 --> 00:03:27,406
+is really important to
+share with the world.
+
+80
+00:03:27,406 --> 00:03:28,828
+I think those are the kind of stories
+
+81
+00:03:28,828 --> 00:03:30,394
+that are really fun because they
+
+82
+00:03:30,394 --> 00:03:33,729
+only can come from you
+and your experience.
+
+83
+00:03:33,729 --> 00:03:35,972
+Nobody else can have the same insights
+
+84
+00:03:35,972 --> 00:03:38,305
+as you because they haven't
+lived the same life as you.
+
+85
+00:03:38,305 --> 00:03:40,669
+- No two people will
+experience life the same,
+
+86
+00:03:40,669 --> 00:03:43,532
+so no two people will
+tell a story the same way.
+
+87
+00:03:43,532 --> 00:03:46,192
+Think of this as a superpower we all have,
+
+88
+00:03:46,192 --> 00:03:48,846
+your unique perspective.
+
+89
+00:03:48,846 --> 00:03:51,145
+Only you see the world this way.
+
+90
+00:03:51,145 --> 00:03:53,705
+Now I want you to think
+about a memory you have.
+
+91
+00:03:53,705 --> 00:03:56,405
+It can be your most embarrassing memory,
+
+92
+00:03:56,405 --> 00:04:00,323
+a frightening memory, or a
+time you were very surprised.
+
+93
+00:04:00,323 --> 00:04:04,163
+Whatever it is, it's a
+memory you remember vividly.
+
+94
+00:04:04,163 --> 00:04:05,922
+In this first exercise
+you'll have a chance
+
+95
+00:04:05,922 --> 00:04:09,000
+to express this memory in various ways. aimozhen.com/pixarinabox
+

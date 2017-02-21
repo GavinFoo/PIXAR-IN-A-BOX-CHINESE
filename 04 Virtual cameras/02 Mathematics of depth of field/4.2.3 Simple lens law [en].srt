@@ -1,0 +1,213 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:00,477 --> 00:00:02,227
+(metal clanking)
+(ball thudding)
+
+3
+00:00:02,227 --> 00:00:03,147
+(bell dings)
+
+4
+00:00:03,147 --> 00:00:04,439
+- Great work!
+
+5
+00:00:04,439 --> 00:00:06,344
+Now that you know what's going
+on to make a sharp image,
+
+6
+00:00:06,344 --> 00:00:08,287
+let's calculate exactly where the point
+
+7
+00:00:08,287 --> 00:00:09,780
+of sharp focus is.
+
+8
+00:00:10,780 --> 00:00:11,975
+We know the point where the medial
+
+9
+00:00:11,975 --> 00:00:14,441
+and parallel rays intersect.
+
+10
+00:00:14,441 --> 00:00:16,666
+Again, let's put the origin
+of our coordinate system
+
+11
+00:00:16,666 --> 00:00:18,538
+at the center of the lens.
+
+12
+00:00:18,538 --> 00:00:19,847
+And let the point to be focused
+
+13
+00:00:19,847 --> 00:00:23,420
+have coordinates X zero and Y zero.
+
+14
+00:00:23,420 --> 00:00:25,496
+The medial ray passes through the origin
+
+15
+00:00:25,496 --> 00:00:27,651
+and the point X zero Y zero.
+
+16
+00:00:27,651 --> 00:00:29,000
+So the line equation for it
+
+17
+00:00:29,000 --> 00:00:33,635
+is just Y equals Y zero
+divided by X zero times X.
+
+18
+00:00:34,635 --> 00:00:37,521
+The parallel ray passes
+through two points we know.
+
+19
+00:00:37,521 --> 00:00:41,239
+The point on the lens it
+hits, which is at zero Y zero,
+
+20
+00:00:41,239 --> 00:00:45,500
+and the focal point of the
+lens, which is at minus F zero.
+
+21
+00:00:45,500 --> 00:00:47,489
+It has a slope Y zero over F,
+
+22
+00:00:47,489 --> 00:00:49,489
+and a Y-intercept at Y zero.
+
+23
+00:00:49,489 --> 00:00:51,242
+So the equation of this line
+
+24
+00:00:51,242 --> 00:00:53,574
+is Y equals Y zero over F
+
+25
+00:00:54,574 --> 00:00:56,517
+times X plus Y zero.
+
+26
+00:00:57,517 --> 00:00:58,487
+To intersect these lines
+
+27
+00:00:58,487 --> 00:01:01,645
+we set these equations
+equal to one another.
+
+28
+00:01:01,645 --> 00:01:04,721
+We have Y zero over X zero times X
+
+29
+00:01:05,721 --> 00:01:09,256
+equals Y zero over F times X plus Y zero.
+
+30
+00:01:10,256 --> 00:01:11,962
+Then we divide through by Y zero
+
+31
+00:01:11,962 --> 00:01:15,199
+to give one over X zero times X
+
+32
+00:01:15,199 --> 00:01:18,186
+equals one over F times X plus one.
+
+33
+00:01:19,186 --> 00:01:20,746
+And now let's divide through by X,
+
+34
+00:01:20,746 --> 00:01:22,780
+which give us one over X zero
+
+35
+00:01:22,780 --> 00:01:25,648
+equals one over F, plus one over X.
+
+36
+00:01:25,648 --> 00:01:28,578
+Notice the X in this
+equation is the X coordinate
+
+37
+00:01:28,578 --> 00:01:30,169
+where the lines intersect.
+
+38
+00:01:30,169 --> 00:01:34,427
+According to our diagram this
+happens when X equals minus I.
+
+39
+00:01:34,427 --> 00:01:37,242
+Our diagram also tells us that X zero
+
+40
+00:01:37,242 --> 00:01:40,750
+is equal to the object distance, O.
+
+41
+00:01:40,750 --> 00:01:44,178
+So we have one over O equals
+one over F minus one over I,
+
+42
+00:01:46,178 --> 00:01:48,979
+which we usually rewrite as one over O
+
+43
+00:01:48,979 --> 00:01:52,509
+plus one over I equals one over F.
+
+44
+00:01:52,509 --> 00:01:53,345
+Ta-da!
+
+45
+00:01:53,345 --> 00:01:55,397
+This is called the simple lens law.
+
+46
+00:01:55,397 --> 00:01:58,221
+It says that an object at
+distance O from the lens,
+
+47
+00:01:58,221 --> 00:01:59,681
+with focal length F,
+
+48
+00:01:59,681 --> 00:02:02,506
+comes into focus at distance I.
+
+49
+00:02:02,506 --> 00:02:03,839
+In the next exercise
+
+50
+00:02:03,839 --> 00:02:07,000
+we'll test your
+understanding of this idea. aimozhen.com/pixarinabox
+

@@ -1,0 +1,262 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,190 --> 00:00:04,748
+- In the last lesson, we explored
+
+3
+00:00:04,748 --> 00:00:06,933
+the geometric behavior of cameras.
+
+4
+00:00:06,933 --> 00:00:09,124
+We saw how light bounces off objects,
+
+5
+00:00:09,124 --> 00:00:11,258
+passes through a small hole or aperture,
+
+6
+00:00:11,258 --> 00:00:13,329
+and hits an image plane.
+
+7
+00:00:13,329 --> 00:00:15,206
+One of the important concepts we covered
+
+8
+00:00:15,206 --> 00:00:17,062
+was depth of field,
+which is a region where
+
+9
+00:00:17,062 --> 00:00:19,223
+objects appear in focus.
+
+10
+00:00:19,223 --> 00:00:22,334
+Outside that region,
+objects appear blurry.
+
+11
+00:00:22,334 --> 00:00:24,328
+When a point at an image is out of focus,
+
+12
+00:00:24,328 --> 00:00:25,955
+it grows into a blurry circle
+
+13
+00:00:25,955 --> 00:00:28,588
+known as the circle of confusion.
+
+14
+00:00:28,588 --> 00:00:30,825
+In this lesson, we'll develop
+the algebraic equations
+
+15
+00:00:30,825 --> 00:00:34,349
+which tell us exactly where
+things come into focus,
+
+16
+00:00:34,349 --> 00:00:36,369
+and how big the circle
+of confusion will be
+
+17
+00:00:36,369 --> 00:00:38,470
+if something isn't in focus.
+
+18
+00:00:38,470 --> 00:00:40,241
+And these equations
+will allow us to create
+
+19
+00:00:40,241 --> 00:00:43,009
+virtual cameras to create stunning images,
+
+20
+00:00:43,009 --> 00:00:44,476
+such as this shot.
+
+21
+00:00:45,476 --> 00:00:48,691
+To begin, let's return
+to our pinhole camera.
+
+22
+00:00:48,691 --> 00:00:50,507
+As usual, when bridging the gap
+
+23
+00:00:50,507 --> 00:00:52,227
+between geometry and algebra,
+
+24
+00:00:52,227 --> 00:00:55,106
+we'll need to introduce
+a coordinate system.
+
+25
+00:00:55,106 --> 00:00:56,907
+It's convenient to choose
+our coordinate system
+
+26
+00:00:56,907 --> 00:01:00,395
+so that the pinhole is at
+the origin, right here.
+
+27
+00:01:00,395 --> 00:01:03,786
+And let's imagine that our
+scene is off to the right.
+
+28
+00:01:03,786 --> 00:01:05,549
+Suppose the image plane inside our camera
+
+29
+00:01:05,549 --> 00:01:08,045
+is at some distance to
+the left of the pinhole.
+
+30
+00:01:08,045 --> 00:01:10,072
+Let's call this distance i.
+
+31
+00:01:10,072 --> 00:01:13,374
+Now consider a point on
+some object in our scene.
+
+32
+00:01:13,374 --> 00:01:15,418
+Call this point x zero, y zero.
+
+33
+00:01:15,418 --> 00:01:17,953
+When light in the
+environment hits this point,
+
+34
+00:01:17,953 --> 00:01:20,417
+some of it will bounce toward the camera,
+
+35
+00:01:20,417 --> 00:01:23,307
+through the pinhole and
+hit the image plane.
+
+36
+00:01:23,307 --> 00:01:27,339
+Let's call the place it hits
+the image plane x one, y one.
+
+37
+00:01:27,339 --> 00:01:31,307
+So our first question is
+what is x one and y one?
+
+38
+00:01:31,307 --> 00:01:32,636
+One way to solve this is to use
+
+39
+00:01:32,636 --> 00:01:35,027
+the slope intercept form of a line.
+
+40
+00:01:35,027 --> 00:01:37,950
+The slope of the ray
+is y zero over x zero,
+
+41
+00:01:37,950 --> 00:01:39,422
+and the y-intercept is zero
+
+42
+00:01:39,422 --> 00:01:42,311
+because we said this ray
+passes through the origin.
+
+43
+00:01:42,311 --> 00:01:44,605
+That is, the equation of the ray is just
+
+44
+00:01:44,605 --> 00:01:48,607
+y equals y zero over x
+zero, times x, plus zero.
+
+45
+00:01:50,607 --> 00:01:54,797
+Or, simply, y equals y
+zero over x zero, times x.
+
+46
+00:01:56,797 --> 00:01:59,739
+Now the point we're
+looking for, x one, y one,
+
+47
+00:01:59,739 --> 00:02:04,000
+is also on this ray, so it must
+satisfy that line equation.
+
+48
+00:02:04,000 --> 00:02:08,553
+Meaning y one equals y zero
+over x zero, times x one.
+
+49
+00:02:09,553 --> 00:02:12,255
+And notice the diagram tells
+us that x one is negative
+
+50
+00:02:12,255 --> 00:02:14,650
+and a distance i away from the origin.
+
+51
+00:02:14,650 --> 00:02:17,729
+That is, we know x one equals minus i.
+
+52
+00:02:17,729 --> 00:02:20,353
+Finally, to get y one, we
+just substitute to give us
+
+53
+00:02:20,353 --> 00:02:24,407
+y one equals minus y zero
+over x zero, times i.
+
+54
+00:02:26,407 --> 00:02:29,519
+Notice that the point
+was originally positive
+
+55
+00:02:29,519 --> 00:02:31,788
+but the corresponding point
+on the plane is negative.
+
+56
+00:02:31,788 --> 00:02:34,104
+And that's the image flip.
+
+57
+00:02:34,104 --> 00:02:36,526
+Okay, let's pause here to give
+you some experience with this
+
+58
+00:02:36,526 --> 00:02:39,000
+before we add a lens to our camera. aimozhen.com/pixarinabox
+

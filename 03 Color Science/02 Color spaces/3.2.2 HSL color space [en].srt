@@ -1,0 +1,236 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,301 --> 00:00:04,340
+- Although RGB triples
+
+3
+00:00:04,340 --> 00:00:07,343
+are great for representing
+how we can generate colors,
+
+4
+00:00:07,343 --> 00:00:10,055
+they aren't natural for artists to use.
+
+5
+00:00:10,055 --> 00:00:14,026
+Instead, we use the concept of
+hue, saturation and lightness
+
+6
+00:00:14,026 --> 00:00:16,779
+to find the exact color we need.
+
+7
+00:00:16,779 --> 00:00:18,615
+On the hue saturation wheel,
+
+8
+00:00:18,615 --> 00:00:21,067
+the angle around the
+circle defines the hue,
+
+9
+00:00:21,067 --> 00:00:23,802
+and the radius defines the saturation.
+
+10
+00:00:23,802 --> 00:00:26,121
+The position in this
+circle is then combined
+
+11
+00:00:26,121 --> 00:00:27,868
+with the setting of the Lightness slider
+
+12
+00:00:27,868 --> 00:00:30,528
+to define a final color.
+
+13
+00:00:30,528 --> 00:00:32,593
+From now on I'm gonna
+call this Lightness slider
+
+14
+00:00:32,593 --> 00:00:34,106
+the Lightness Dimension,
+
+15
+00:00:34,106 --> 00:00:37,463
+since it only requires a
+single number to define,
+
+16
+00:00:37,463 --> 00:00:42,104
+and this color, which is defined
+using these HSL settings,
+
+17
+00:00:42,104 --> 00:00:45,220
+is also some position
+in the RGB color cube.
+
+18
+00:00:47,220 --> 00:00:50,120
+That brings us to a key
+problem in this lesson.
+
+19
+00:00:50,120 --> 00:00:52,601
+How does each HSL setting
+
+20
+00:00:52,601 --> 00:00:56,992
+convert into a unique
+point in the RGB cube?
+
+21
+00:00:56,992 --> 00:00:59,911
+First, let's think about
+how we can go from a 3D cube
+
+22
+00:00:59,911 --> 00:01:01,926
+to a 2D circle.
+
+23
+00:01:01,926 --> 00:01:04,257
+The trick is to think
+about where the grays are
+
+24
+00:01:04,257 --> 00:01:05,649
+in our color cube.
+
+25
+00:01:05,649 --> 00:01:09,906
+Anywhere in our color cube
+where the RGB values are equal,
+
+26
+00:01:09,906 --> 00:01:12,166
+we get some shade of gray.
+
+27
+00:01:12,166 --> 00:01:16,578
+For example, 20%, 20%, 20%,
+gives us this darker gray,
+
+28
+00:01:17,578 --> 00:01:21,199
+and 80%, 80%, 80%, gives
+us this lighter gray.
+
+29
+00:01:23,199 --> 00:01:27,288
+That means there's a line
+of gray within our RGB cube,
+
+30
+00:01:28,288 --> 00:01:30,333
+meaning that there's
+only one dimension needed
+
+31
+00:01:30,333 --> 00:01:32,867
+to describe all grays.
+
+32
+00:01:32,867 --> 00:01:35,223
+So let's rotate the color cube
+
+33
+00:01:35,223 --> 00:01:38,631
+so that we're looking directly
+down at the gray line.
+
+34
+00:01:38,631 --> 00:01:40,085
+Does it look familiar?
+
+35
+00:01:40,085 --> 00:01:43,913
+Mathematicians cheat a bit
+and deform this into a circle.
+
+36
+00:01:43,913 --> 00:01:46,441
+There's some fancy math to
+make this stretching happen,
+
+37
+00:01:46,441 --> 00:01:48,163
+but we'll ignore it here.
+
+38
+00:01:48,163 --> 00:01:51,809
+And that's where the hue
+saturation wheel comes from.
+
+39
+00:01:51,809 --> 00:01:55,042
+Finally, we can get to
+the Lightness Dimension.
+
+40
+00:01:55,042 --> 00:01:57,590
+To do this, we pop back into 3D space
+
+41
+00:01:57,590 --> 00:02:01,524
+by growing our circle into a cylinder.
+
+42
+00:02:01,524 --> 00:02:04,349
+The Lightness Dimension defines what slice
+
+43
+00:02:04,349 --> 00:02:06,843
+we take out of our color cylinder.
+
+44
+00:02:06,843 --> 00:02:10,835
+A Lightness value of 50% takes
+a slice out of the middle,
+
+45
+00:02:10,835 --> 00:02:13,424
+and to lighten the shade
+of any color on this wheel,
+
+46
+00:02:13,424 --> 00:02:16,556
+we're moving up the Lightness
+Dimension to a higher slice,
+
+47
+00:02:16,556 --> 00:02:17,886
+and to darken the color,
+
+48
+00:02:17,886 --> 00:02:21,698
+we move down the Lightness
+Dimension to a lower slice.
+
+49
+00:02:21,698 --> 00:02:25,306
+Okay, this is important,
+so let's pause here.
+
+50
+00:02:25,306 --> 00:02:26,572
+In the next exercise,
+
+51
+00:02:26,572 --> 00:02:29,452
+we'll challenge you to think
+about this model a little more.
+
+52
+00:02:29,452 --> 00:02:31,000
+Take your time and have fun. aimozhen.com/pixarinabox
+

@@ -1,0 +1,303 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:01,633 --> 00:00:02,466
+(chiming music)
+
+3
+00:00:02,466 --> 00:00:04,523
+- What do I think color is?
+
+4
+00:00:04,523 --> 00:00:06,883
+(laughing)
+
+5
+00:00:06,883 --> 00:00:08,462
+What is color?
+
+6
+00:00:08,462 --> 00:00:11,562
+(gentle cheerful music)
+
+7
+00:00:11,562 --> 00:00:15,065
+- (laughing) I can't answer that question.
+
+8
+00:00:17,065 --> 00:00:19,851
+- (laughing) What is color?
+
+9
+00:00:19,851 --> 00:00:21,250
+Color is a sensation.
+
+10
+00:00:21,250 --> 00:00:23,003
+(chiming)
+
+11
+00:00:23,003 --> 00:00:24,668
+- Color is a very personal thing.
+
+12
+00:00:24,668 --> 00:00:26,539
+Color is very subjective.
+
+13
+00:00:26,539 --> 00:00:29,644
+It can trigger like a visceral response.
+
+14
+00:00:29,644 --> 00:00:31,660
+Like if you smell bacon,
+
+15
+00:00:33,660 --> 00:00:34,529
+ah, bacon.
+
+16
+00:00:34,529 --> 00:00:36,703
+You know, it's like if you
+see certain kinds of colors,
+
+17
+00:00:36,703 --> 00:00:38,914
+the same exact feeling.
+
+18
+00:00:38,914 --> 00:00:39,747
+- I don't know.
+
+19
+00:00:39,747 --> 00:00:40,993
+Ask some smart person here.
+
+20
+00:00:40,993 --> 00:00:42,769
+Pick-- (laughing)
+
+21
+00:00:42,769 --> 00:00:44,479
+- Color is a term that we use
+
+22
+00:00:44,479 --> 00:00:47,601
+to describe a collection of attributes,
+
+23
+00:00:48,601 --> 00:00:50,832
+hue and saturation and value,
+
+24
+00:00:50,832 --> 00:00:52,887
+that describes how we see things.
+
+25
+00:00:52,887 --> 00:00:57,066
+Hue is what the actual color
+is in the rainbow spectrum.
+
+26
+00:00:57,066 --> 00:00:58,104
+Is it more yellow,
+
+27
+00:00:58,104 --> 00:00:59,151
+or is it more orange?
+
+28
+00:00:59,151 --> 00:01:00,569
+Bluer or redder?
+
+29
+00:01:01,569 --> 00:01:05,273
+Value is how bright something
+is relative to something else.
+
+30
+00:01:05,273 --> 00:01:06,296
+Is it white?
+
+31
+00:01:06,296 --> 00:01:07,328
+Is it black?
+
+32
+00:01:07,328 --> 00:01:09,889
+Is it some sort of middle grey?
+
+33
+00:01:09,889 --> 00:01:12,953
+Saturation is how intense the color is?
+
+34
+00:01:12,953 --> 00:01:15,154
+Is it more subdued and grey,
+
+35
+00:01:15,154 --> 00:01:18,683
+or is it more vibrant, almost
+fluorescence, you know?
+
+36
+00:01:18,683 --> 00:01:22,151
+A fully saturated color
+is quite eye popping.
+
+37
+00:01:22,151 --> 00:01:24,583
+(electricity crackling)
+
+38
+00:01:24,583 --> 00:01:27,485
+Color is everything to artists.
+
+39
+00:01:28,485 --> 00:01:30,690
+- It wasn't until I
+started working at Pixar
+
+40
+00:01:30,690 --> 00:01:32,165
+that I think I had to think about color
+
+41
+00:01:32,165 --> 00:01:34,116
+in a different way,
+
+42
+00:01:34,116 --> 00:01:35,654
+to apply it to a narrative
+
+43
+00:01:35,654 --> 00:01:37,908
+and it can mean something.
+
+44
+00:01:39,908 --> 00:01:43,277
+- On Up, there was a
+scene where Carl's house
+
+45
+00:01:43,277 --> 00:01:45,343
+got burned by Muntz.
+
+46
+00:01:45,343 --> 00:01:47,601
+It's really one of the
+lowest points of the film,
+
+47
+00:01:47,601 --> 00:01:49,752
+and it's this sunrise.
+
+48
+00:01:51,752 --> 00:01:53,229
+Normally sunrises are very beautiful.
+
+49
+00:01:53,229 --> 00:01:54,488
+It's the start of a new day,
+
+50
+00:01:54,488 --> 00:01:57,652
+but for this one, we
+wanted an angry sunrise.
+
+51
+00:01:57,652 --> 00:01:59,608
+It was just this beautiful tone of red
+
+52
+00:01:59,608 --> 00:02:00,976
+that was so dramatic for me.
+
+53
+00:02:00,976 --> 00:02:03,934
+I think that was really cool.
+
+54
+00:02:05,934 --> 00:02:07,666
+- Because the choice
+of color is so critical
+
+55
+00:02:07,666 --> 00:02:09,429
+to the story telling process,
+
+56
+00:02:09,429 --> 00:02:10,822
+it's really important that we understand
+
+57
+00:02:10,822 --> 00:02:13,889
+the science of the
+choosing of those colors.
+
+58
+00:02:13,889 --> 00:02:15,223
+The first thing to realize about color
+
+59
+00:02:15,223 --> 00:02:18,572
+is that color is really made up of light.
+
+60
+00:02:19,572 --> 00:02:22,348
+Light comprises different
+wavelengths of energy,
+
+61
+00:02:22,348 --> 00:02:24,823
+and when that energy
+comes through our pupil
+
+62
+00:02:24,823 --> 00:02:26,454
+onto our retina inside our eye,
+
+63
+00:02:26,454 --> 00:02:28,983
+it becomes nerve impulses, signals,
+
+64
+00:02:28,983 --> 00:02:31,519
+and eventually gets
+processed by the brain.
+
+65
+00:02:31,519 --> 00:02:33,448
+So the light is out in the real world.
+
+66
+00:02:33,448 --> 00:02:35,997
+The color only really
+exists inside your brain
+
+67
+00:02:35,997 --> 00:02:37,082
+when you perceive it.
+
+68
+00:02:37,082 --> 00:02:39,455
+(fireworks popping)
+
+69
+00:02:39,455 --> 00:02:40,535
+In the rest of this lesson,
+
+70
+00:02:40,535 --> 00:02:42,261
+we're gonna dive more into the science
+
+71
+00:02:42,261 --> 00:02:43,904
+and perception of color.
+
+72
+00:02:43,904 --> 00:02:44,000
+Let's go. aimozhen.com/pixarinabox
+

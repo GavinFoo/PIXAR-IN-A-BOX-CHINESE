@@ -1,0 +1,400 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:04,623 --> 00:00:06,588
+- Hi, I'm Patrick Lin, the
+director of photography
+
+3
+00:00:06,588 --> 00:00:08,225
+for camera on Inside Out.
+
+4
+00:00:08,225 --> 00:00:10,634
+- And I'm Adam Habib,
+camera lead on Inside Out.
+
+5
+00:00:10,634 --> 00:00:13,310
+This lesson is about cameras,
+the art of using them,
+
+6
+00:00:13,310 --> 00:00:14,750
+and the science behind them.
+
+7
+00:00:14,750 --> 00:00:16,741
+We're talking about physical cameras first
+
+8
+00:00:16,741 --> 00:00:18,296
+because the virtual cameras we use to make
+
+9
+00:00:18,296 --> 00:00:20,909
+our movies are modeled
+after the real thing.
+
+10
+00:00:20,909 --> 00:00:22,511
+- First, let's talk about lenses.
+
+11
+00:00:22,511 --> 00:00:24,624
+The kind of lenses we put
+in front of the camera
+
+12
+00:00:24,624 --> 00:00:26,348
+and how we adjust the amount of light
+
+13
+00:00:26,348 --> 00:00:28,001
+that is traveling through that lens
+
+14
+00:00:28,001 --> 00:00:30,013
+affects the image we record.
+
+15
+00:00:30,013 --> 00:00:30,013
+Cheese.
+
+16
+00:00:30,847 --> 00:00:31,732
+(camera shutter clicks)
+
+17
+00:00:31,732 --> 00:00:33,190
+- [Adam] For instance, for this selfie
+
+18
+00:00:33,190 --> 00:00:34,855
+we used a wide angle lens.
+
+19
+00:00:34,855 --> 00:00:37,378
+If we change out the lens for a narrower
+
+20
+00:00:37,378 --> 00:00:39,771
+long lens, like this 75 millimeter,
+
+21
+00:00:39,771 --> 00:00:41,342
+the picture will look very different.
+
+22
+00:00:41,342 --> 00:00:42,497
+- Smile.
+
+23
+00:00:42,497 --> 00:00:44,314
+(camera shutter clicks)
+
+24
+00:00:44,314 --> 00:00:47,269
+Whoa, we're barely in the shot.
+
+25
+00:00:47,269 --> 00:00:49,922
+Looks like we have moved
+the camera but we haven't.
+
+26
+00:00:49,922 --> 00:00:52,018
+In fact, to get the
+environment and ourself
+
+27
+00:00:52,018 --> 00:00:53,718
+in this shot, with this lens,
+
+28
+00:00:53,718 --> 00:00:56,432
+we have to move the camera a lot.
+
+29
+00:00:56,432 --> 00:00:57,390
+Hey, Sylvia.
+
+30
+00:00:57,390 --> 00:00:58,524
+- Hi.
+
+31
+00:00:58,524 --> 00:01:00,115
+- Do you mind taking a photo for us?
+
+32
+00:01:00,115 --> 00:01:02,353
+- Sure, were guys trying to take a selfie
+
+33
+00:01:02,353 --> 00:01:03,842
+with this long lens?
+
+34
+00:01:03,842 --> 00:01:06,459
+- Maybe.
+- Maybe.
+
+35
+00:01:06,459 --> 00:01:08,668
+(drum roll)
+
+36
+00:01:13,668 --> 00:01:15,558
+(camera shutter clicks)
+
+37
+00:01:15,558 --> 00:01:18,121
+- Good thing they had a ladder here.
+
+38
+00:01:18,121 --> 00:01:19,909
+- [Adam] Now that the
+shot is composed the same,
+
+39
+00:01:19,909 --> 00:01:21,697
+you can see what else
+changes about the image
+
+40
+00:01:21,697 --> 00:01:23,276
+because of our lens choice.
+
+41
+00:01:23,276 --> 00:01:26,590
+For instance, notice what
+is in focus or out of focus.
+
+42
+00:01:26,590 --> 00:01:27,819
+- [Patrick] In the wide angle image,
+
+43
+00:01:27,819 --> 00:01:29,882
+almost everything is in focus
+
+44
+00:01:29,882 --> 00:01:31,771
+and in the picture taken
+with the long lens,
+
+45
+00:01:31,771 --> 00:01:34,415
+only a small part of
+the image is in focus.
+
+46
+00:01:34,415 --> 00:01:35,785
+Another thing that changes is the
+
+47
+00:01:35,785 --> 00:01:37,921
+feeling of perspective in the image.
+
+48
+00:01:37,921 --> 00:01:41,188
+This means how close or far
+away the objects appear.
+
+49
+00:01:41,188 --> 00:01:42,408
+- [Adam] In the wide angle shot,
+
+50
+00:01:42,408 --> 00:01:43,552
+when the camera is closer,
+
+51
+00:01:43,552 --> 00:01:45,346
+the nearer subjects appear a lot bigger
+
+52
+00:01:45,346 --> 00:01:47,616
+and more remote objects feel farther away.
+
+53
+00:01:47,616 --> 00:01:49,253
+- [Patrick] In the long lens shot,
+
+54
+00:01:49,253 --> 00:01:50,349
+when the camera is farther away,
+
+55
+00:01:50,349 --> 00:01:51,673
+there appears to be less distance
+
+56
+00:01:51,673 --> 00:01:53,920
+between the nearer and
+the farther objects.
+
+57
+00:01:53,920 --> 00:01:55,766
+Every choice you make with the camera
+
+58
+00:01:55,766 --> 00:01:57,367
+changes the feeling of the shot
+
+59
+00:01:57,367 --> 00:01:59,246
+and our job is to makes choices
+
+60
+00:01:59,246 --> 00:02:01,815
+that supports the emotion of a story.
+
+61
+00:02:01,815 --> 00:02:03,773
+- Let's go show them how
+it worked on Inside Out.
+
+62
+00:02:03,773 --> 00:02:04,833
+(camera shutter clicks)
+
+63
+00:02:04,833 --> 00:02:07,364
+This is the virtual camera
+we use to make our movies.
+
+64
+00:02:07,364 --> 00:02:09,279
+It has interchangeable
+lenses just like the camera
+
+65
+00:02:09,279 --> 00:02:10,812
+we used to take our selfie.
+
+66
+00:02:10,812 --> 00:02:12,419
+- So depending on the lens we use
+
+67
+00:02:12,419 --> 00:02:13,703
+and the placement of the camera,
+
+68
+00:02:13,703 --> 00:02:15,990
+we should see a similar
+effect on the image.
+
+69
+00:02:15,990 --> 00:02:17,324
+- [Adam] Here's a shot from Inside Out
+
+70
+00:02:17,324 --> 00:02:19,449
+that is compositionally
+a lot like our selfie.
+
+71
+00:02:19,449 --> 00:02:21,039
+Let's start with that same wide lens
+
+72
+00:02:21,039 --> 00:02:24,122
+we used for the first
+selfie, the 18 millimeter.
+
+73
+00:02:24,122 --> 00:02:26,549
+It looks okay, but we
+don't want to choose a lens
+
+74
+00:02:26,549 --> 00:02:28,627
+just based on what we
+can fit in the frame.
+
+75
+00:02:28,627 --> 00:02:31,472
+We want to ask ourselves,
+what is this scene about?
+
+76
+00:02:31,472 --> 00:02:33,649
+- The core of the scene is about empathy,
+
+77
+00:02:33,649 --> 00:02:35,857
+so all of our decisions in framing,
+
+78
+00:02:35,857 --> 00:02:38,133
+composition, staging and lens choices
+
+79
+00:02:38,133 --> 00:02:40,346
+should be guided by that idea.
+
+80
+00:02:40,346 --> 00:02:42,738
+- [Adam] I think I'll try
+the 50 millimeter lens.
+
+81
+00:02:42,738 --> 00:02:45,070
+Using this lens, and
+adjusting the depth of field,
+
+82
+00:02:45,070 --> 00:02:47,782
+which determines what's
+in or out of focus,
+
+83
+00:02:47,782 --> 00:02:49,553
+I think we'll get the right look.
+
+84
+00:02:49,553 --> 00:02:51,550
+An image that focuses on the characters
+
+85
+00:02:51,550 --> 00:02:54,312
+so the background just falls away.
+
+86
+00:02:54,312 --> 00:02:55,688
+- There are many different feelings
+
+87
+00:02:55,688 --> 00:02:58,049
+we support through our camera choices,
+
+88
+00:02:58,049 --> 00:03:02,181
+fear, happiness, insecurity, wonder.
+
+89
+00:03:03,181 --> 00:03:04,958
+In each case, we thought about how we
+
+90
+00:03:04,958 --> 00:03:07,050
+could use the camera
+to amplify the emotions
+
+91
+00:03:07,050 --> 00:03:10,430
+we wanted to achieve in that scene.
+
+92
+00:03:10,430 --> 00:03:12,435
+There is a lot of cool stuff to learn
+
+93
+00:03:12,435 --> 00:03:13,000
+so stay with us. aimozhen.com/pixarinabox
+

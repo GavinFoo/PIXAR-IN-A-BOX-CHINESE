@@ -1,0 +1,597 @@
+1
+00:00:00,772 --> 00:00:02,183
+- Welcome to Pixar In A Box
+
+2
+00:00:02,183 --> 00:00:04,459
+a collaboration between
+Pixar Animation Studios
+
+3
+00:00:04,459 --> 00:00:06,263
+- and the Khan Academy.
+
+4
+00:00:06,263 --> 00:00:08,516
+- I'm Fran, I work here on
+the technical side of things.
+
+5
+00:00:08,516 --> 00:00:09,519
+- And I'm Alex, I work here
+
+6
+00:00:09,816 --> 00:00:11,565
+on the art and story side of things.
+
+7
+00:00:11,565 --> 00:00:13,081
+- (Fran) Pixar In A Box will introduce you
+
+8
+00:00:13,081 --> 00:00:15,257
+to some of the fundamental
+skills we use to make our movies.
+
+9
+00:00:15,257 --> 00:00:17,319
+- (Alex) There's examples
+of real life film challenges
+
+10
+00:00:17,319 --> 00:00:19,152
+that show how an artist's idea can create
+
+11
+00:00:19,152 --> 00:00:20,979
+a tidal wave of technical creativity.
+
+12
+00:00:20,979 --> 00:00:22,767
+And how technical advances can inspire
+
+13
+00:00:22,767 --> 00:00:24,773
+artists to think of new
+ideas to bring to the screen.
+
+14
+00:00:25,367 --> 00:00:27,875
+You'll meet artists, scientists,
+
+15
+00:00:27,875 --> 00:00:30,001
+animators, coders, sculptors,
+
+16
+00:00:30,001 --> 00:00:31,590
+all kinds of different people.
+
+17
+00:00:31,059 --> 00:00:33,078
+- And the thing is, most of them use
+
+18
+00:00:33,609 --> 00:00:35,712
+skills you may already
+be learning in school.
+
+19
+00:00:35,712 --> 00:00:37,825
+But here in the Box, you can see how
+
+20
+00:00:37,825 --> 00:00:40,296
+we use those skills to make cool stuff.
+
+21
+00:00:40,296 --> 00:00:41,340
+Before you dive into these lessons,
+
+22
+00:00:41,736 --> 00:00:43,865
+you should see how it all
+fits together inside Pixar,
+
+23
+00:00:43,865 --> 00:00:44,917
+the real Pixar.
+
+24
+00:00:44,917 --> 00:00:45,780
+Come on, check it out.
+
+25
+00:00:45,078 --> 00:00:49,887
+(light, flittering music)
+
+26
+00:00:50,589 --> 00:00:52,464
+- At Pixar on any given day
+
+27
+00:00:52,464 --> 00:00:54,888
+we're working on various
+stages of many films.
+
+28
+00:00:56,868 --> 00:00:59,102
+- But it all begins with an idea.
+
+29
+00:00:59,102 --> 00:01:02,134
+For example, "Toy Story" could
+have started like this.
+
+30
+00:01:03,523 --> 00:01:06,528
+[John Lasseter] When kids leave the room
+the toys come to life.
+
+31
+00:01:07,023 --> 00:01:09,949
+See I always knew that my toys did that.
+
+32
+00:01:11,779 --> 00:01:16,770
+(scampering instrumental music)
+
+33
+00:01:17,076 --> 00:01:18,794
+- Our films start in story,
+
+34
+00:01:19,478 --> 00:01:21,122
+along with the director and the writer
+
+35
+00:01:21,122 --> 00:01:23,176
+we figure out what happens
+using simple drawings.
+
+36
+00:01:23,662 --> 00:01:25,337
+- (Fran) It's kind of like a comic book.
+
+37
+00:01:25,337 --> 00:01:27,594
+- (Alex) Exactly, and while we're drawing,
+
+38
+00:01:27,594 --> 00:01:29,359
+production designers and their team start
+
+39
+00:01:29,359 --> 00:01:31,640
+designing the world and the characters.
+
+40
+00:01:31,064 --> 00:01:36,016
+(smooth, cheerful orchestral music)
+
+41
+00:01:38,098 --> 00:01:40,099
+While they're painting
+and drawing and scultping
+
+42
+00:01:40,198 --> 00:01:42,195
+our storyboards go to editorial,
+
+43
+00:01:42,195 --> 00:01:43,518
+where they string together all
+
+44
+00:01:43,518 --> 00:01:45,167
+the drawings that we've created.
+
+45
+00:01:45,167 --> 00:01:48,448
+- We time them out, add music,
+dialogue and sound effects.
+
+46
+00:01:48,448 --> 00:01:49,029
+(clicking)
+
+47
+00:01:49,029 --> 00:01:50,124
+- He's the only one who
+knew what the heck was going
+
+48
+00:01:50,979 --> 00:01:52,061
+aaaaaaahhhhhhh!
+
+49
+00:01:52,061 --> 00:01:54,517
+- And as these shots go through
+each stage in production,
+
+50
+00:01:54,517 --> 00:01:57,164
+we'll update the scene
+over and over again.
+
+51
+00:01:57,164 --> 00:01:59,765
+And this is where the
+science and the math come in.
+
+52
+00:01:59,765 --> 00:02:00,741
+- Who knew what the heck was going
+
+53
+00:02:00,741 --> 00:02:02,436
+aaaaaaahhhhhhh!
+
+54
+00:02:03,896 --> 00:02:05,364
+(mischevious music)
+
+55
+00:02:05,364 --> 00:02:07,477
+- What's next?
+
+56
+00:02:07,477 --> 00:02:10,240
+Pipeline, we're ready to start
+making the film you'll see
+
+57
+00:02:10,024 --> 00:02:12,555
+in the theater and this
+happens in a particular order.
+
+58
+00:02:12,771 --> 00:02:14,787
+It's time for our technical
+artist to figure out
+
+59
+00:02:14,931 --> 00:02:16,934
+how we're going to create
+the movie in the computer.
+
+60
+00:02:16,934 --> 00:02:19,408
+- I've been here for nine
+years and I still have no idea
+
+61
+00:02:19,408 --> 00:02:22,032
+how you guys turn our drawings
+into the finished film.
+
+62
+00:02:22,032 --> 00:02:25,097
+- To be honest, something
+stumps us on every movie.
+
+63
+00:02:25,097 --> 00:02:26,165
+- Hey Galyn.
+
+64
+00:02:26,165 --> 00:02:26,223
+- Hey.
+
+65
+00:02:26,745 --> 00:02:28,463
+- You've been here since Toy Story,
+
+66
+00:02:28,463 --> 00:02:29,666
+what's been hard on each film?
+
+67
+00:02:29,666 --> 00:02:31,450
+- Well on Toy Story everything.
+
+68
+00:02:31,045 --> 00:02:32,171
+Here let me show you.
+
+69
+00:02:33,909 --> 00:02:35,595
+On Toy Story we were inventing
+
+70
+00:02:35,595 --> 00:02:38,288
+the entire process from scratch.
+
+71
+00:02:38,288 --> 00:02:41,121
+Monsters Incorporated, fur and clothing.
+
+72
+00:02:41,121 --> 00:02:44,130
+On Cars, reflective metal surfaces.
+
+73
+00:02:44,211 --> 00:02:47,762
+On every new film there's
+a new technical challenge.
+
+74
+00:02:47,762 --> 00:02:49,280
+On Inside Out we had to
+deal with a character
+
+75
+00:02:49,028 --> 00:02:51,575
+made of glowing particles and it took lots
+
+76
+00:02:51,827 --> 00:02:54,876
+of people to figure out
+just that one thing.
+
+77
+00:02:54,876 --> 00:02:56,524
+- (Alex) Whoa, what is she made of?
+
+78
+00:02:56,524 --> 00:03:00,239
+- Her shape will be made of
+points and particles of light.
+
+79
+00:03:00,239 --> 00:03:02,965
+She was tough, this is the 17th version.
+
+80
+00:03:05,048 --> 00:03:06,604
+- And the characters have to move,
+
+81
+00:03:06,604 --> 00:03:08,277
+so someone has to add
+controls to the model.
+
+82
+00:03:08,277 --> 00:03:10,652
+- Like a puppet, right?
+
+83
+00:03:10,652 --> 00:03:11,744
+- Yes, except instead of strings,
+
+84
+00:03:12,572 --> 00:03:14,503
+our animators will use a computer program
+
+85
+00:03:14,503 --> 00:03:15,935
+to move the characters in a digital world.
+
+86
+00:03:15,935 --> 00:03:17,653
+(bemused music)
+
+87
+00:03:17,653 --> 00:03:19,409
+Next in the pipeline, sets.
+
+88
+00:03:19,409 --> 00:03:20,582
+(playful music)
+
+89
+00:03:20,582 --> 00:03:23,667
+- (Alex) So for Cars 2 you
+built the entire city of London?
+
+90
+00:03:23,667 --> 00:03:25,669
+- We needed a huge chunk of the city
+
+91
+00:03:25,687 --> 00:03:27,753
+because Mayor and
+McQueen speed through it.
+
+92
+00:03:27,753 --> 00:03:29,959
+So we figured out to grow buildings
+
+93
+00:03:29,959 --> 00:03:33,250
+with enough variation
+for them to look real.
+
+94
+00:03:33,025 --> 00:03:34,418
+- (Fran) And we move through that set
+
+95
+00:03:34,643 --> 00:03:37,128
+with our virtual cameras.
+
+96
+00:03:37,128 --> 00:03:38,753
+Next up, animation.
+
+97
+00:03:38,753 --> 00:03:39,821
+- I do know what the animators do.
+
+98
+00:03:40,433 --> 00:03:42,894
+They bring the characters to life.
+
+99
+00:03:42,894 --> 00:03:43,920
+- (Fran) You see how she's moving but
+
+100
+00:03:44,154 --> 00:03:45,657
+her clothes and hair are missing?
+
+101
+00:03:45,657 --> 00:03:47,846
+Adding and moving those
+elements is going to be
+
+102
+00:03:47,846 --> 00:03:49,697
+someone else's job
+further down the pipeline.
+
+103
+00:03:50,407 --> 00:03:52,144
+And by somebody else, I mean me
+
+104
+00:03:52,144 --> 00:03:54,698
+and about 20 other
+simulation technical artists.
+
+105
+00:03:55,438 --> 00:03:57,700
+Where are you getting all these shirts?
+
+106
+00:03:57,007 --> 00:03:58,934
+We have to build everything you see,
+
+107
+00:03:59,627 --> 00:04:01,111
+including the textures and surfaces
+
+108
+00:04:01,111 --> 00:04:03,850
+which help make the world
+and characters believable.
+
+109
+00:04:04,095 --> 00:04:05,712
+Next stop, lighting.
+
+110
+00:04:06,567 --> 00:04:08,630
+- Ironically it's really dark
+in the lighting department.
+
+111
+00:04:09,197 --> 00:04:10,531
+(playful music)
+
+112
+00:04:10,531 --> 00:04:12,424
+So when you start, there are no lights?
+
+113
+00:04:12,424 --> 00:04:14,798
+- No any source of light is something
+
+114
+00:04:14,798 --> 00:04:16,751
+we have to add into the scene.
+
+115
+00:04:16,751 --> 00:04:20,765
+In this shot alone there are 230 lights.
+
+116
+00:04:20,765 --> 00:04:22,762
+- (Fran) Last stop, the Renderfarm.
+
+117
+00:04:22,762 --> 00:04:25,571
+- A film is really a
+series of images or frames.
+
+118
+00:04:25,571 --> 00:04:27,274
+There's 24 of them every second.
+
+119
+00:04:27,274 --> 00:04:28,333
+(light, moving music)
+
+120
+00:04:28,864 --> 00:04:29,932
+- (Fran) This is where we make the frames.
+
+121
+00:04:30,544 --> 00:04:31,841
+Everything comes together here,
+
+122
+00:04:31,841 --> 00:04:34,302
+all the art, math and science.
+
+123
+00:04:35,482 --> 00:04:38,040
+A single frame can take more
+than 24 hours to render,
+
+124
+00:04:38,004 --> 00:04:39,769
+and that's just one frame,
+
+125
+00:04:39,805 --> 00:04:41,662
+and that's assuming we
+don't run into any snags.
+
+126
+00:04:41,662 --> 00:04:43,377
+- Whoa! (thuds)
+
+127
+00:04:44,147 --> 00:04:49,069
+(soaring orchestral music)
+
+128
+00:04:50,647 --> 00:04:53,486
+- Wow, it's incredible seeing final shots.
+
+129
+00:04:53,486 --> 00:04:56,130
+And now that I know how
+they're made, even cooler.
+
+130
+00:04:56,013 --> 00:04:57,790
+- So that's the tour, our next step is to
+
+131
+00:04:57,907 --> 00:04:59,896
+jump back into the Box
+and choose a lesson.
+
+132
+00:04:59,896 --> 00:05:01,447
+What do you want to try?
+
+133
+00:05:01,447 --> 00:05:03,838
+- Well this one on building
+robots using combinatorics,
+
+134
+00:05:03,838 --> 00:05:05,440
+that looks pretty cool.
+
+135
+00:05:05,044 --> 00:05:06,855
+- What about the one on sets and staging?
+
+136
+00:05:07,251 --> 00:05:09,543
+- Yeah or the one on
+animating The Incredibles.
+
+137
+00:05:09,543 --> 00:05:11,935
+- (Fran) Awesome, I
+always wanted to animate.
+
+138
+00:05:11,935 --> 00:05:13,739
+(silly trumpet music)
+

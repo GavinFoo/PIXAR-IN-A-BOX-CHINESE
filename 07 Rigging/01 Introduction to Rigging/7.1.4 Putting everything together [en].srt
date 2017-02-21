@@ -1,0 +1,112 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:00,822 --> 00:00:01,861
+(clicking noises)
+
+3
+00:00:01,861 --> 00:00:03,922
+(ding)
+
+4
+00:00:03,922 --> 00:00:04,999
+- Great work.
+
+5
+00:00:04,999 --> 00:00:07,221
+You probably discovered
+that changing the base scale
+
+6
+00:00:07,221 --> 00:00:10,905
+changes the arm scale and the head scale.
+
+7
+00:00:10,905 --> 00:00:14,603
+This is because the
+scales affect each other.
+
+8
+00:00:14,603 --> 00:00:16,621
+When you're working with
+controls like a scale deformer
+
+9
+00:00:16,621 --> 00:00:19,180
+that affects a whole
+model or a bunch of parts,
+
+10
+00:00:19,180 --> 00:00:21,780
+it's best to get the overall scale right
+
+11
+00:00:21,780 --> 00:00:24,184
+before the individual parts.
+
+12
+00:00:24,184 --> 00:00:28,079
+We call this working from rough to fine.
+
+13
+00:00:28,079 --> 00:00:29,443
+We now have all the
+concepts we need to model
+
+14
+00:00:29,443 --> 00:00:30,840
+and rig our lamp.
+
+15
+00:00:31,840 --> 00:00:33,193
+Go ahead and add scales to your lamp
+
+16
+00:00:33,193 --> 00:00:36,101
+to make it appear younger or older.
+
+17
+00:00:36,101 --> 00:00:39,683
+Add rotates to all the joints
+so you can pose the lamp.
+
+18
+00:00:39,683 --> 00:00:42,079
+Add translates and a rotate to the base
+
+19
+00:00:42,079 --> 00:00:44,375
+so you can move the lamp around.
+
+20
+00:00:44,375 --> 00:00:46,260
+And after the exercise,
+we have a bonus tip
+
+21
+00:00:46,260 --> 00:00:47,363
+which we will allow you
+
+22
+00:00:47,363 --> 00:00:49,760
+to try animating your fully rigged lamp.
+
+23
+00:00:49,760 --> 00:00:52,884
+You should definitely check
+out the animation lesson
+
+24
+00:00:52,884 --> 00:00:54,602
+before trying that one.
+
+25
+00:00:54,602 --> 00:00:55,600
+(ding)
+
+26
+00:00:55,600 --> 00:00:58,000
+(xylophone sound) aimozhen.com/pixarinabox
+

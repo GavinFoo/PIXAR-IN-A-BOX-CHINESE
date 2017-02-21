@@ -1,0 +1,387 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,360 --> 00:00:04,996
+- In the previous lesson, we focused
+
+3
+00:00:04,996 --> 00:00:07,848
+on the geometry of
+dinosaur skins and scales.
+
+4
+00:00:07,848 --> 00:00:09,275
+- (Blonde Woman) And we
+used voronoi diagrams
+
+5
+00:00:09,275 --> 00:00:11,391
+to get the overall structure
+we were looking for.
+
+6
+00:00:11,391 --> 00:00:12,423
+- (Brunette Woman) But
+we simplified a shading
+
+7
+00:00:12,423 --> 00:00:16,659
+of our skin using only two
+solid colors with no texture.
+
+8
+00:00:16,659 --> 00:00:17,678
+- This is why our final result
+
+9
+00:00:17,678 --> 00:00:19,062
+wasn't very realistic.
+
+10
+00:00:19,062 --> 00:00:21,710
+We ignored the finer details
+we see in actual skin.
+
+11
+00:00:21,710 --> 00:00:22,932
+When you look at your own skin,
+
+12
+00:00:22,932 --> 00:00:23,952
+do you see one color?
+
+13
+00:00:23,952 --> 00:00:27,006
+- No, I see a subtle variation
+in color and texture.
+
+14
+00:00:27,006 --> 00:00:27,006
+- (Blonde Woman) This variation
+
+15
+00:00:27,839 --> 00:00:28,923
+becomes really clear when we look
+
+16
+00:00:28,923 --> 00:00:32,100
+at things under different
+magnifications or resolutions.
+
+17
+00:00:32,100 --> 00:00:35,446
+Here's an image of human skin
+at a very high resolution.
+
+18
+00:00:35,446 --> 00:00:36,625
+- (Brunette Woman) Wow, it reveals
+
+19
+00:00:36,625 --> 00:00:39,600
+a whole new world of
+texture and color variation.
+
+20
+00:00:39,600 --> 00:00:42,773
+There's nothing smooth
+or solid about this.
+
+21
+00:00:42,773 --> 00:00:44,072
+- (Blonde Woman) Right, and because we see
+
+22
+00:00:44,072 --> 00:00:46,639
+different patterns at
+different resolutions,
+
+23
+00:00:46,639 --> 00:00:48,270
+we say that natural surfaces have
+
+24
+00:00:48,270 --> 00:00:50,467
+a multiresolution structure.
+
+25
+00:00:50,467 --> 00:00:52,217
+- (Brunette Woman) Let's
+do another example of this.
+
+26
+00:00:52,217 --> 00:00:53,601
+- (Blonde Woman) In our shading packet,
+
+27
+00:00:53,601 --> 00:00:55,637
+we have an image of a Maximo alligator
+
+28
+00:00:55,637 --> 00:00:57,589
+as reference for our dino scales.
+
+29
+00:00:57,589 --> 00:01:00,033
+Here's what we see at low resolution.
+
+30
+00:01:00,033 --> 00:01:03,332
+The skin looks very bumpy
+and the color's interesting.
+
+31
+00:01:03,332 --> 00:01:04,596
+- (Brunette Woman) Notice
+the checkerboard pattern
+
+32
+00:01:04,596 --> 00:01:07,042
+across the scales, and within each scale
+
+33
+00:01:07,042 --> 00:01:09,406
+the color looks fairly solid.
+
+34
+00:01:09,406 --> 00:01:11,523
+- (Blonde Woman) Let's zoom
+in to a higher resolution.
+
+35
+00:01:11,523 --> 00:01:13,348
+Here we see smaller scales
+
+36
+00:01:13,348 --> 00:01:15,996
+which look quite smooth and rounded.
+
+37
+00:01:15,996 --> 00:01:17,218
+- (Brunette Woman) And
+notice there's much more
+
+38
+00:01:17,218 --> 00:01:19,619
+color variation that we didn't see before.
+
+39
+00:01:19,619 --> 00:01:21,370
+It looks like a speckling of color
+
+40
+00:01:21,370 --> 00:01:25,073
+due to natural pigmentation
+as well as dirt.
+
+41
+00:01:25,073 --> 00:01:25,073
+- (Blonde Woman) Another reference
+
+42
+00:01:25,968 --> 00:01:27,840
+for our dino skin is snake skin.
+
+43
+00:01:27,840 --> 00:01:29,351
+At this low resolution it looks like
+
+44
+00:01:29,351 --> 00:01:32,412
+a collection of solid
+white and black scales.
+
+45
+00:01:32,412 --> 00:01:33,796
+- (Brunette Woman) But
+at higher resolutions
+
+46
+00:01:33,796 --> 00:01:36,694
+we see new color details.
+
+47
+00:01:36,694 --> 00:01:39,678
+The white scales contain tiny brown dots
+
+48
+00:01:39,678 --> 00:01:40,980
+and the black scales have
+
+49
+00:01:40,980 --> 00:01:43,337
+a light coloration around the edges.
+
+50
+00:01:43,337 --> 00:01:44,515
+- (Blonde Woman) And if we keep zooming in
+
+51
+00:01:44,515 --> 00:01:46,758
+things get (laughs) really crazy.
+
+52
+00:01:46,758 --> 00:01:48,033
+- (Brunette Woman) Aggh! That's scary!
+
+53
+00:01:48,033 --> 00:01:48,033
+(laughs)
+
+54
+00:01:48,926 --> 00:01:52,551
+It seems like the closer
+you look, the more you find.
+
+55
+00:01:52,551 --> 00:01:54,013
+- Exactly, and that's the essence
+
+56
+00:01:54,013 --> 00:01:55,886
+of multiresolution structures.
+
+57
+00:01:55,886 --> 00:01:57,434
+The color and texture of an object
+
+58
+00:01:57,434 --> 00:01:58,419
+is the result of adding all
+
+59
+00:01:58,419 --> 00:02:00,617
+of the different details together.
+
+60
+00:02:00,617 --> 00:02:01,649
+- Before applying these different ideas
+
+61
+00:02:01,649 --> 00:02:03,483
+to our dino skin, let's pause
+
+62
+00:02:03,483 --> 00:02:05,108
+for a moment and get you comfortable
+
+63
+00:02:05,108 --> 00:02:07,837
+look at the world at
+different resolutions.
+
+64
+00:02:07,837 --> 00:02:09,674
+- In the next exercise,
+we'll challenge you
+
+65
+00:02:09,674 --> 00:02:12,279
+to identify surfaces at
+different resolutions.
+
+66
+00:02:12,279 --> 00:02:14,886
+And remember, things aren't
+always what they seem.
+
+67
+00:02:14,886 --> 00:02:17,122
+What's your favorite example
+of something you worked
+
+68
+00:02:17,122 --> 00:02:19,113
+on that had a really
+interesting mix of patterns?
+
+69
+00:02:19,113 --> 00:02:21,062
+- For The Good Dinosaur,
+on the pterodactyls,
+
+70
+00:02:21,062 --> 00:02:22,687
+each part of their body had a bunch
+
+71
+00:02:22,687 --> 00:02:24,440
+of different textures like the crest
+
+72
+00:02:24,440 --> 00:02:26,473
+had this brain-like texture,
+
+73
+00:02:26,473 --> 00:02:29,124
+it was kind of icky (laughs) and gross,
+
+74
+00:02:29,124 --> 00:02:31,527
+and then the neck we used almost like a
+
+75
+00:02:31,527 --> 00:02:35,842
+dried lava texture to give
+that feeling of wrinkles.
+
+76
+00:02:35,842 --> 00:02:39,061
+On the wings we based it on elephant skin
+
+77
+00:02:39,061 --> 00:02:41,016
+so it would be kind of softer.
+
+78
+00:02:41,016 --> 00:02:45,494
+And then the body was more
+like a dry skin feeling,
+
+79
+00:02:45,494 --> 00:02:47,768
+almost like E.T. phone home (laughs)
+
+80
+00:02:47,768 --> 00:02:49,276
+kind of feel to it.
+
+81
+00:02:49,276 --> 00:02:50,172
+It was pretty nice.
+
+82
+00:02:50,172 --> 00:02:52,086
+It all came back together and we used
+
+83
+00:02:52,086 --> 00:02:53,507
+different illumination techniques
+
+84
+00:02:53,507 --> 00:02:55,503
+to make it feel more interesting.
+
+85
+00:02:55,503 --> 00:02:57,413
+But we used quite a few textures
+
+86
+00:02:57,413 --> 00:02:59,977
+to mix and match and kind of flow
+
+87
+00:02:59,977 --> 00:03:02,461
+from one part of the body to the other.
+
+88
+00:03:02,461 --> 00:03:03,497
+- Pretty cool.
+- It turned out okay.
+
+89
+00:03:03,497 --> 00:03:05,000
+(laughs) aimozhen.com/pixarinabox
+

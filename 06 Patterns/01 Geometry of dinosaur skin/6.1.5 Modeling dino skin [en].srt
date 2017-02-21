@@ -1,0 +1,298 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:02,933 --> 00:00:04,392
+- Now that we're comfortable with
+
+3
+00:00:04,392 --> 00:00:07,845
+the geometry of our cells
+let's flesh out some details.
+
+4
+00:00:07,845 --> 00:00:10,618
+Let's take a closer look
+at the shading packet.
+
+5
+00:00:10,618 --> 00:00:12,400
+- [Red Haired Woman] Notice
+each cell contains some skin
+
+6
+00:00:12,400 --> 00:00:15,536
+around the edge with the scale
+sticking out in the middle.
+
+7
+00:00:15,536 --> 00:00:17,436
+- [Brunette Woman] We need
+to decide how far it is
+
+8
+00:00:17,436 --> 00:00:20,422
+between the edge of the cell
+and the start of a scale.
+
+9
+00:00:20,422 --> 00:00:22,835
+This gap will expose the skin
+
+10
+00:00:22,835 --> 00:00:24,957
+that the scales are growing out of.
+
+11
+00:00:24,957 --> 00:00:26,458
+- [Red Haired Woman] In
+our program we can do this
+
+12
+00:00:26,458 --> 00:00:28,788
+with this parameter called scale size.
+
+13
+00:00:28,788 --> 00:00:30,532
+If we maximize the scale size
+
+14
+00:00:30,532 --> 00:00:32,925
+it covers all the skin which looks wrong.
+
+15
+00:00:32,925 --> 00:00:34,385
+So we need to pull it back slightly
+
+16
+00:00:34,385 --> 00:00:36,018
+to get the gap we need.
+
+17
+00:00:36,018 --> 00:00:38,076
+- [Brunette Woman] That looks
+nice but notice the distance
+
+18
+00:00:38,076 --> 00:00:41,084
+between the scales is the same everywhere.
+
+19
+00:00:41,084 --> 00:00:42,805
+- [Red Haired Woman] Right,
+that's not very natural.
+
+20
+00:00:42,805 --> 00:00:44,082
+We've added a control here to vary
+
+21
+00:00:44,082 --> 00:00:46,906
+the distance between scale edges.
+
+22
+00:00:46,906 --> 00:00:48,878
+- [Brunette Woman] That look perfect.
+
+23
+00:00:48,878 --> 00:00:50,836
+Next, we need to make the scales look
+
+24
+00:00:50,836 --> 00:00:54,448
+like they're extruding,
+sticking out from the skin.
+
+25
+00:00:54,448 --> 00:00:55,983
+- [Red Haired Woman] In our
+program we can control how far
+
+26
+00:00:55,983 --> 00:00:58,278
+they stick out with
+this extrude parameter.
+
+27
+00:00:58,278 --> 00:01:00,313
+- Now we have a model for our dino-skin
+
+28
+00:01:00,313 --> 00:01:01,732
+that we can start shading.
+
+29
+00:01:01,732 --> 00:01:03,104
+- Let's take a look at the shading packet
+
+30
+00:01:03,104 --> 00:01:04,687
+and examine the color notes.
+
+31
+00:01:04,687 --> 00:01:06,852
+- [Brunette Woman] It says
+each scale should have
+
+32
+00:01:06,852 --> 00:01:08,175
+a slightly different color
+
+33
+00:01:08,175 --> 00:01:11,715
+and the skin should be
+darker and leathery.
+
+34
+00:01:11,715 --> 00:01:14,122
+- [Red Haired Woman] So we'll
+add some color controls here.
+
+35
+00:01:14,122 --> 00:01:16,288
+One for the skin and one for scales.
+
+36
+00:01:16,288 --> 00:01:17,834
+- [Brunette Woman] To pull this off
+
+37
+00:01:17,834 --> 00:01:19,934
+we have a really cool trick.
+
+38
+00:01:19,934 --> 00:01:24,172
+We define a range of colors
+from the smallest scale, here,
+
+39
+00:01:24,172 --> 00:01:26,803
+to the largest scale, here.
+
+40
+00:01:26,803 --> 00:01:28,257
+- [Red Haired Woman] And now
+our program will color each
+
+41
+00:01:28,257 --> 00:01:29,927
+scale based on its size.
+
+42
+00:01:29,927 --> 00:01:33,467
+So the smaller scales will
+look more like this color,
+
+43
+00:01:33,467 --> 00:01:36,226
+and the larger scales will
+look more like this color.
+
+44
+00:01:36,226 --> 00:01:38,907
+And all of the other scales
+will be somewhere in between.
+
+45
+00:01:38,907 --> 00:01:40,191
+- [Brunette Woman] That's very cool.
+
+46
+00:01:40,191 --> 00:01:41,726
+It saves us time because we don't have
+
+47
+00:01:41,726 --> 00:01:45,268
+to define the color of
+each scale individually.
+
+48
+00:01:45,268 --> 00:01:46,726
+- [Red Haired Woman] Now,
+see how the color varies
+
+49
+00:01:46,726 --> 00:01:49,031
+very naturally according
+to the scale size.
+
+50
+00:01:49,031 --> 00:01:50,403
+- [Brunette Woman] We also
+added a preview button
+
+51
+00:01:50,403 --> 00:01:53,980
+to give us a rough idea on
+how our pattern will look.
+
+52
+00:01:53,980 --> 00:01:55,903
+- Neat. Okay, now it's your turn to use
+
+53
+00:01:55,903 --> 00:01:58,274
+all these ideas to create
+your own dino-skin.
+
+54
+00:01:58,274 --> 00:01:59,941
+- And in the final exercise we can
+
+55
+00:01:59,941 --> 00:02:02,503
+use all the tools we
+introduced in this lesson.
+
+56
+00:02:02,503 --> 00:02:03,706
+- And when you're happy with your creation
+
+57
+00:02:03,706 --> 00:02:05,385
+move onto the next lesson where we'll
+
+58
+00:02:05,385 --> 00:02:07,505
+be adding microscopic level detail.
+
+59
+00:02:07,505 --> 00:02:09,609
+This should really make
+our dino leg look great.
+
+60
+00:02:09,609 --> 00:02:11,562
+Do you always have a model
+first and then start shading?
+
+61
+00:02:11,562 --> 00:02:13,521
+- Most of the time we have the model first
+
+62
+00:02:13,521 --> 00:02:15,883
+and then we realize that
+we need something that has
+
+63
+00:02:15,883 --> 00:02:17,559
+a little bit of a different geometry
+
+64
+00:02:17,559 --> 00:02:19,137
+and we wanna add certain details
+
+65
+00:02:19,137 --> 00:02:21,099
+in certain areas of the model.
+
+66
+00:02:21,099 --> 00:02:22,895
+So sometimes we end up changing the model
+
+67
+00:02:22,895 --> 00:02:25,000
+after shading has already started. aimozhen.com/pixarinabox
+

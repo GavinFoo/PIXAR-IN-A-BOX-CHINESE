@@ -1,0 +1,127 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,403 --> 00:00:06,930
+- We can express so much
+emotion through our bodies.
+
+3
+00:00:06,930 --> 00:00:08,842
+But I really love using rigging to
+
+4
+00:00:08,842 --> 00:00:10,669
+make expressive faces.
+
+5
+00:00:11,669 --> 00:00:13,424
+It is fascinating to learn about how
+
+6
+00:00:13,424 --> 00:00:16,740
+faces display emotions or ideas.
+
+7
+00:00:16,740 --> 00:00:20,588
+There's so much detail
+in every expression.
+
+8
+00:00:20,588 --> 00:00:23,858
+In our next exercise, we're
+gonna rig a snowman face.
+
+9
+00:00:23,858 --> 00:00:26,044
+And we need some new deformers to do that.
+
+10
+00:00:26,044 --> 00:00:28,286
+First, let's add a direction scale.
+
+11
+00:00:28,286 --> 00:00:30,390
+A directional scale allows us to
+
+12
+00:00:30,390 --> 00:00:33,258
+scale in just one direction.
+
+13
+00:00:33,258 --> 00:00:35,501
+If you scale the hat using Scale Y,
+
+14
+00:00:35,501 --> 00:00:38,393
+you'll get a taller hate
+that looks like a top hat.
+
+15
+00:00:38,393 --> 00:00:40,375
+If you scale the face with Scale X,
+
+16
+00:00:40,375 --> 00:00:42,442
+you will get a wider face.
+
+17
+00:00:42,442 --> 00:00:45,408
+You also need shear deformers.
+
+18
+00:00:45,408 --> 00:00:48,628
+Shear deformers are similar
+to directional scales,
+
+19
+00:00:48,628 --> 00:00:52,876
+in the sense that they work
+in a specific direction.
+
+20
+00:00:52,876 --> 00:00:54,769
+We also have our set of rotates,
+
+21
+00:00:54,769 --> 00:00:58,376
+and translates, and scales,
+that we already used.
+
+22
+00:00:58,376 --> 00:01:01,070
+Just as before, you
+should work rough to fine,
+
+23
+00:01:01,070 --> 00:01:02,861
+with retaining the head to begin with.
+
+24
+00:01:02,861 --> 00:01:06,280
+And then, translating
+and rotating the hat.
+
+25
+00:01:06,280 --> 00:01:09,412
+Remember, the order of
+your deformers matters,
+
+26
+00:01:09,412 --> 00:01:12,378
+to test your controls as you work.
+
+27
+00:01:12,378 --> 00:01:13,792
+When you finish rigging the head,
+
+28
+00:01:13,792 --> 00:01:15,152
+move on to the next lesson where
+
+29
+00:01:15,152 --> 00:01:19,000
+you'll learn to write code
+to make your own character. aimozhen.com/pixarinabox
+

@@ -1,0 +1,391 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:00,541 --> 00:00:03,744
+(metal clanging)
+
+3
+00:00:03,744 --> 00:00:05,565
+- We finished going over
+the first of three things
+
+4
+00:00:05,565 --> 00:00:08,152
+you need to create a particle simulator.
+
+5
+00:00:08,152 --> 00:00:10,288
+We have formulas that describe
+how particles will move
+
+6
+00:00:10,288 --> 00:00:12,349
+based on the laws of physics.
+
+7
+00:00:12,349 --> 00:00:14,201
+In this video, we'll develop formulas
+
+8
+00:00:14,201 --> 00:00:17,127
+that describe how particles
+will behave during collisions.
+
+9
+00:00:17,127 --> 00:00:19,223
+If velocity is perpendicular to the floor
+
+10
+00:00:19,223 --> 00:00:20,615
+at the moment of collision,
+
+11
+00:00:20,615 --> 00:00:22,263
+and the collision is perfect,
+
+12
+00:00:22,263 --> 00:00:24,347
+then the velocity reverses.
+
+13
+00:00:24,347 --> 00:00:26,983
+In the real world, its direction reverses,
+
+14
+00:00:26,983 --> 00:00:28,848
+and the magnitude is slightly reduced
+
+15
+00:00:28,848 --> 00:00:30,305
+due to friction.
+
+16
+00:00:30,305 --> 00:00:31,952
+As we introduced in lesson one,
+
+17
+00:00:31,952 --> 00:00:33,337
+we can model the frictional losses
+
+18
+00:00:33,337 --> 00:00:35,027
+by multiplying by a factor that measures
+
+19
+00:00:35,027 --> 00:00:37,355
+the elasticity of the collision.
+
+20
+00:00:37,355 --> 00:00:39,236
+So if V is the downward velocity
+
+21
+00:00:39,236 --> 00:00:40,929
+before the collision with the floor,
+
+22
+00:00:40,929 --> 00:00:42,799
+then the velocity, called V prime,
+
+23
+00:00:42,799 --> 00:00:45,335
+after the collision is given by
+
+24
+00:00:45,335 --> 00:00:47,767
+V prime is equal to negative E
+
+25
+00:00:47,767 --> 00:00:48,820
+times V.
+
+26
+00:00:48,820 --> 00:00:50,597
+Here E is the elasticity,
+
+27
+00:00:50,597 --> 00:00:52,605
+a number between zero and one,
+
+28
+00:00:52,605 --> 00:00:55,158
+and the minus sign indicates
+the direction reverses
+
+29
+00:00:55,158 --> 00:00:56,582
+after the collision.
+
+30
+00:00:56,582 --> 00:00:57,864
+If E equals one,
+
+31
+00:00:57,864 --> 00:00:59,030
+the collision is perfect,
+
+32
+00:00:59,030 --> 00:01:00,686
+and no energy is lost.
+
+33
+00:01:00,686 --> 00:01:02,102
+If E is less than one,
+
+34
+00:01:02,102 --> 00:01:04,604
+then some energy will be lost,
+
+35
+00:01:04,604 --> 00:01:07,245
+but what if the velocity
+makes an angle with the floor.
+
+36
+00:01:07,245 --> 00:01:10,345
+Let's observe what happens on video.
+
+37
+00:01:10,345 --> 00:01:12,440
+Notice that the ball bounces
+just like a light ray
+
+38
+00:01:12,440 --> 00:01:14,584
+reflects off a mirror.
+
+39
+00:01:14,584 --> 00:01:17,031
+That is, if the incoming velocity V
+
+40
+00:01:17,031 --> 00:01:18,949
+makes an angle Theta with the floor,
+
+41
+00:01:18,949 --> 00:01:21,168
+then the outgoing velocity called V prime
+
+42
+00:01:21,168 --> 00:01:23,111
+makes the same angle.
+
+43
+00:01:23,111 --> 00:01:24,881
+To compute V prime from V,
+
+44
+00:01:24,881 --> 00:01:27,263
+let's write V as the sum of two vectors,
+
+45
+00:01:27,263 --> 00:01:30,191
+a velocity parallel to
+the floor, V parallel,
+
+46
+00:01:30,191 --> 00:01:32,406
+and the velocity
+perpendicular to the floor,
+
+47
+00:01:32,406 --> 00:01:34,310
+V perpendicular.
+
+48
+00:01:34,310 --> 00:01:36,556
+The only force during the
+collision is perpendicular
+
+49
+00:01:36,556 --> 00:01:39,632
+to the floor because the
+floor pushes up on the ball.
+
+50
+00:01:39,632 --> 00:01:41,590
+So the parallel component won't change,
+
+51
+00:01:41,590 --> 00:01:43,492
+and the perpendicular
+component, as before,
+
+52
+00:01:43,492 --> 00:01:45,233
+will be reversed,
+
+53
+00:01:45,233 --> 00:01:48,181
+meaning that V prime is equal V parallel
+
+54
+00:01:48,181 --> 00:01:50,650
+minus V perpendicular.
+
+55
+00:01:51,650 --> 00:01:53,888
+Adding elasticity into the mix,
+
+56
+00:01:53,888 --> 00:01:55,049
+we get this equation.
+
+57
+00:01:57,049 --> 00:01:59,871
+Cool, we can use the idea
+of writing the velocity
+
+58
+00:01:59,871 --> 00:02:02,563
+as the sum of parallel and
+perpendicular components
+
+59
+00:02:02,563 --> 00:02:05,322
+to study the case when
+two particles I and J
+
+60
+00:02:05,322 --> 00:02:07,458
+of the same mass collide.
+
+61
+00:02:07,458 --> 00:02:09,782
+Let's draw a picture to make this clear.
+
+62
+00:02:09,782 --> 00:02:12,229
+The line I, J from the
+center of particle I
+
+63
+00:02:12,229 --> 00:02:13,901
+to the center of particle J
+
+64
+00:02:13,901 --> 00:02:16,145
+plays the role of the
+perpendicular to the floor.
+
+65
+00:02:16,145 --> 00:02:17,495
+(bell dinging)
+
+66
+00:02:17,495 --> 00:02:20,022
+So we write V, I as a sum of two vectors,
+
+67
+00:02:20,022 --> 00:02:21,184
+as shown here.
+
+68
+00:02:23,184 --> 00:02:25,823
+We can do the same for V, J.
+
+69
+00:02:26,823 --> 00:02:28,460
+The only force acting on the particles
+
+70
+00:02:28,460 --> 00:02:32,226
+during the collision
+is along the line I, J.
+
+71
+00:02:32,226 --> 00:02:33,968
+As before, since no force is acting
+
+72
+00:02:33,968 --> 00:02:35,583
+in the parallel direction,
+
+73
+00:02:35,583 --> 00:02:39,229
+the velocities in the parallel
+directions won't change.
+
+74
+00:02:39,229 --> 00:02:40,720
+To figure out exactly what happens
+
+75
+00:02:40,720 --> 00:02:41,967
+in the perpendicular direction
+
+76
+00:02:41,967 --> 00:02:44,178
+requires using more advanced topics,
+
+77
+00:02:44,178 --> 00:02:46,769
+namely, conservation
+of energy and momentum.
+
+78
+00:02:46,769 --> 00:02:48,245
+(chiming)
+
+79
+00:02:51,245 --> 00:02:52,533
+If we apply those concepts
+
+80
+00:02:52,533 --> 00:02:54,728
+and assume that the
+particles have the same mass,
+
+81
+00:02:54,728 --> 00:02:58,483
+we find that particle I gets
+J's perpendicular velocity,
+
+82
+00:02:58,483 --> 00:03:00,104
+and vice versa.
+
+83
+00:03:00,104 --> 00:03:02,634
+That is, they swap
+perpendicular velocities.
+
+84
+00:03:02,634 --> 00:03:03,822
+(bell chiming)
+
+85
+00:03:03,822 --> 00:03:05,282
+That means after the collision,
+
+86
+00:03:05,282 --> 00:03:08,497
+the velocities V prime I and V prime J
+
+87
+00:03:08,497 --> 00:03:10,245
+are given by these equations.
+
+88
+00:03:13,245 --> 00:03:14,883
+That's it for particle collisions.
+
+89
+00:03:14,883 --> 00:03:16,114
+In the next exercise,
+
+90
+00:03:16,114 --> 00:03:17,992
+you'll have a chance to
+review these equations,
+
+91
+00:03:17,992 --> 00:03:19,584
+which describe collisions.
+
+92
+00:03:19,584 --> 00:03:22,000
+(cheerful music) aimozhen.com/pixarinabox
+

@@ -1,0 +1,297 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:00,491 --> 00:00:03,348
+(clicking noise)
+
+3
+00:00:03,348 --> 00:00:04,557
+- Good work!
+
+4
+00:00:04,557 --> 00:00:08,925
+Now that we now how to
+partition the space into cells,
+
+5
+00:00:08,925 --> 00:00:11,449
+we can write a program to
+do all the drawing for us.
+
+6
+00:00:11,449 --> 00:00:13,595
+Plus my hand is getting tired!
+
+7
+00:00:13,595 --> 00:00:15,277
+- [Woman 2] Then you'll love this program.
+
+8
+00:00:15,277 --> 00:00:17,229
+It generates a uniform grid of sites,
+
+9
+00:00:17,229 --> 00:00:20,338
+then it draws the resulting
+Voronoi partition for us.
+
+10
+00:00:20,338 --> 00:00:22,511
+- [Woman 1] That looks like a chess board.
+
+11
+00:00:22,511 --> 00:00:24,563
+If we shift every other line of sites,
+
+12
+00:00:24,563 --> 00:00:27,433
+we get this, like a beehive.
+
+13
+00:00:27,433 --> 00:00:30,909
+Definitely getting us
+closer to the dino scales.
+
+14
+00:00:30,909 --> 00:00:31,978
+- [Woman 2] Notice it's following
+
+15
+00:00:31,978 --> 00:00:34,357
+the Voronoi rules we saw
+in the previous video.
+
+16
+00:00:34,357 --> 00:00:36,084
+Any point you pick on these lines is
+
+17
+00:00:36,084 --> 00:00:38,927
+equidistant to two or three of our sites.
+
+18
+00:00:38,927 --> 00:00:40,849
+- [Woman 1] Okay, so how many sites
+
+19
+00:00:40,849 --> 00:00:43,597
+do we need, and where do they go?
+
+20
+00:00:43,597 --> 00:00:46,163
+- [Woman 2] Well, let's
+check the shading packet.
+
+21
+00:00:46,163 --> 00:00:48,191
+- [Woman 1] Our dino's
+quite young, so she has
+
+22
+00:00:48,191 --> 00:00:50,473
+relatively few scales on her legs.
+
+23
+00:00:50,473 --> 00:00:53,196
+Perhaps five or seven would work.
+
+24
+00:00:53,196 --> 00:00:54,875
+- [Woman 2] There are more
+scales around the claws,
+
+25
+00:00:54,875 --> 00:00:56,484
+but we can deal with that later.
+
+26
+00:00:56,484 --> 00:00:57,575
+What's important is that the
+
+27
+00:00:57,575 --> 00:00:59,324
+cells aren't all the same shape.
+
+28
+00:00:59,324 --> 00:01:00,754
+- [Woman 1] Yes, we have a subtle
+
+29
+00:01:00,754 --> 00:01:03,384
+variation in both cell size and shape,
+
+30
+00:01:03,384 --> 00:01:07,703
+unlike the perfect honeycomb
+our program is generating.
+
+31
+00:01:07,703 --> 00:01:09,884
+- This is where the power
+of random numbers comes in.
+
+32
+00:01:09,884 --> 00:01:11,374
+- But applying randomness
+in a way that makes
+
+33
+00:01:11,374 --> 00:01:14,328
+organic look and variation
+is really tricky.
+
+34
+00:01:14,328 --> 00:01:16,654
+Look what happens when
+we scatter the sites
+
+35
+00:01:16,654 --> 00:01:19,918
+completely randomly and
+then draw the lines.
+
+36
+00:01:19,918 --> 00:01:21,406
+- [Woman 2] That doesn't look right.
+
+37
+00:01:21,406 --> 00:01:22,988
+Way too clumpy.
+
+38
+00:01:22,988 --> 00:01:25,163
+- [Woman 1] Yes, it's too random.
+
+39
+00:01:25,163 --> 00:01:28,500
+We need more of a balance
+between randomness and structure.
+
+40
+00:01:28,500 --> 00:01:32,444
+I think a Poisson Disk
+Process will work well here.
+
+41
+00:01:32,444 --> 00:01:34,474
+- [Woman 2] It sounds fancy,
+but it's quite simple.
+
+42
+00:01:34,474 --> 00:01:36,477
+It uses a new parameter we can control,
+
+43
+00:01:36,477 --> 00:01:38,221
+minimum site distance.
+
+44
+00:01:38,221 --> 00:01:41,337
+We can visualize this as
+a disk around each site.
+
+45
+00:01:41,337 --> 00:01:44,590
+Think of this disk as the no drop zone.
+
+46
+00:01:44,590 --> 00:01:46,067
+- [Woman 1] It works like this.
+
+47
+00:01:46,067 --> 00:01:49,537
+A random site is generated,
+then we generate another site
+
+48
+00:01:49,537 --> 00:01:53,455
+anywhere outside the disc,
+and we repeat this over
+
+49
+00:01:53,455 --> 00:01:56,215
+and over until the plane is filled.
+
+50
+00:01:57,215 --> 00:02:01,304
+Notice it's a smoother way
+of distributing the points.
+
+51
+00:02:01,304 --> 00:02:03,236
+- [Woman 2] There's much
+less clumping happening now.
+
+52
+00:02:03,236 --> 00:02:06,090
+- [Woman 1] Watch what happens
+when we draw the partition.
+
+53
+00:02:06,090 --> 00:02:09,569
+We get really close to the
+geometry of the dino scales.
+
+54
+00:02:09,569 --> 00:02:10,601
+- Beautiful!
+
+55
+00:02:10,601 --> 00:02:11,990
+Okay, in the next exercise,
+
+56
+00:02:11,990 --> 00:02:13,716
+you'll have a chance to
+play with these ideas.
+
+57
+00:02:13,716 --> 00:02:15,037
+- What was the most unexpected use
+
+58
+00:02:15,037 --> 00:02:17,401
+of randomness you've encountered at Pixar?
+
+59
+00:02:17,401 --> 00:02:19,682
+- I think the most surprising
+thing about randomness
+
+60
+00:02:19,682 --> 00:02:21,185
+is that it's really everywhere.
+
+61
+00:02:21,185 --> 00:02:23,804
+Even in materials that you
+might think are really constant,
+
+62
+00:02:23,804 --> 00:02:26,968
+like metallic car paint or
+brick work or something,
+
+63
+00:02:26,968 --> 00:02:29,651
+let alone something like
+human skin or dino skin.
+
+64
+00:02:29,651 --> 00:02:30,916
+There's really randomness in every
+
+65
+00:02:30,916 --> 00:02:32,645
+single material that we create.
+
+66
+00:02:32,645 --> 00:02:34,616
+(gentle orchestral music)
+
+67
+00:02:34,616 --> 00:02:35,000
+- Woah! aimozhen.com/pixarinabox
+

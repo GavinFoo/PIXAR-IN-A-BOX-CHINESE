@@ -1,0 +1,221 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,005 --> 00:00:05,353
+- In the previous exercise
+you probably noticed
+
+3
+00:00:05,353 --> 00:00:08,718
+that a very small aperture
+results in a sharper image.
+
+4
+00:00:08,718 --> 00:00:10,317
+But it's a dim image,
+
+5
+00:00:10,317 --> 00:00:11,859
+because very few light rays
+
+6
+00:00:11,859 --> 00:00:13,550
+are making it through that pinhole
+
+7
+00:00:13,550 --> 00:00:15,890
+and entering the camera.
+
+8
+00:00:15,890 --> 00:00:17,484
+We can make the image brighter
+
+9
+00:00:17,484 --> 00:00:19,260
+by expanding our aperture size,
+
+10
+00:00:19,260 --> 00:00:20,932
+but there is a trade-off:
+
+11
+00:00:20,932 --> 00:00:24,116
+when we do this, it results
+in a blurrier image.
+
+12
+00:00:24,116 --> 00:00:25,154
+Here is why.
+
+13
+00:00:25,154 --> 00:00:26,550
+Let's look at our scene again
+
+14
+00:00:26,550 --> 00:00:28,928
+and look at one point in that scene.
+
+15
+00:00:28,928 --> 00:00:31,301
+There is light bouncing
+all around our scene,
+
+16
+00:00:31,301 --> 00:00:35,140
+and at that point light rays
+are going in all directions.
+
+17
+00:00:35,140 --> 00:00:38,285
+Our pinhole only lets light
+from one direction through.
+
+18
+00:00:38,285 --> 00:00:40,954
+As we make it bigger, it
+lets more light rays through,
+
+19
+00:00:40,954 --> 00:00:42,713
+making the image brighter.
+
+20
+00:00:42,713 --> 00:00:44,666
+But this presents a new problem:
+
+21
+00:00:44,666 --> 00:00:45,795
+it lets light from our point
+
+22
+00:00:45,795 --> 00:00:48,299
+spread across more of the image plane.
+
+23
+00:00:48,299 --> 00:00:50,097
+That tiny point in our scene
+
+24
+00:00:50,097 --> 00:00:53,266
+now covers a big area at our image.
+
+25
+00:00:53,266 --> 00:00:55,946
+That's the image blur.
+
+26
+00:00:55,946 --> 00:00:57,974
+Aside from the size of our aperture,
+
+27
+00:00:57,974 --> 00:01:00,265
+there is another important
+feature of this camera
+
+28
+00:01:00,265 --> 00:01:02,327
+that we can manipulate.
+
+29
+00:01:02,327 --> 00:01:04,665
+That's the distance
+between our image plane
+
+30
+00:01:04,665 --> 00:01:05,846
+and the aperture.
+
+31
+00:01:05,846 --> 00:01:08,441
+I'm gonna call that
+distance the focal distance.
+
+32
+00:01:08,441 --> 00:01:10,697
+If we move the image plane
+closer to the aperture,
+
+33
+00:01:10,697 --> 00:01:12,976
+the objects in our scene appear smaller,
+
+34
+00:01:12,976 --> 00:01:14,885
+but we see more of the scene.
+
+35
+00:01:14,885 --> 00:01:19,269
+So we say our field of view
+widens when we do this.
+
+36
+00:01:19,269 --> 00:01:21,886
+If we move the image plane
+farther away from the aperture,
+
+37
+00:01:21,886 --> 00:01:23,682
+the opposite happens.
+
+38
+00:01:23,682 --> 00:01:26,025
+Now the objects in our
+scene appear bigger,
+
+39
+00:01:26,025 --> 00:01:28,135
+but we don't capture as much of the scene.
+
+40
+00:01:28,135 --> 00:01:32,380
+In this case, we'd say the
+field of view is narrower.
+
+41
+00:01:39,380 --> 00:01:42,063
+So, there is some kind of relationship
+
+42
+00:01:42,063 --> 00:01:44,212
+between the focal distance of the camera
+
+43
+00:01:44,212 --> 00:01:46,453
+and its field of view.
+
+44
+00:01:47,453 --> 00:01:49,333
+This is a really important concept.
+
+45
+00:01:49,333 --> 00:01:50,892
+So let's pause here.
+
+46
+00:01:50,892 --> 00:01:52,526
+In the next exercise you'll have a chance
+
+47
+00:01:52,526 --> 00:01:55,637
+to develop your understanding
+about what's going on here
+
+48
+00:01:55,637 --> 00:01:58,482
+by playing with a virtual pinhole camera
+
+49
+00:01:58,482 --> 00:02:00,218
+with a variable distance
+between the aperture
+
+50
+00:02:00,218 --> 00:02:02,485
+and the image plane.
+
+51
+00:02:02,485 --> 00:02:03,000
+Give it a try! aimozhen.com/pixarinabox
+

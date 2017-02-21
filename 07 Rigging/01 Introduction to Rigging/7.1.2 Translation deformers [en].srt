@@ -1,0 +1,284 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,858 --> 00:00:06,592
+- The area I'm posing in
+is our drawing classroom.
+
+3
+00:00:06,592 --> 00:00:11,427
+We call it big art because
+it's a really big space.
+
+4
+00:00:11,427 --> 00:00:13,453
+This is where artists
+practice drawing models
+
+5
+00:00:13,453 --> 00:00:15,206
+and different poses.
+
+6
+00:00:15,206 --> 00:00:16,831
+The artists want to
+draw not only the shape
+
+7
+00:00:16,831 --> 00:00:20,266
+of the character, but the
+emotions they're expressing.
+
+8
+00:00:20,266 --> 00:00:22,281
+Typically the pose is
+only held for a minute,
+
+9
+00:00:22,281 --> 00:00:24,349
+so you have to draw quickly and loosely.
+
+10
+00:00:24,349 --> 00:00:27,082
+We call this style of
+drawing gestural drawing
+
+11
+00:00:27,082 --> 00:00:29,553
+and it's a great way to capture the idea
+
+12
+00:00:29,553 --> 00:00:31,755
+behind the drawing without worrying about
+
+13
+00:00:31,755 --> 00:00:34,699
+capturing all the little
+details within the drawing.
+
+14
+00:00:34,699 --> 00:00:37,141
+Speaking of posing, I hope
+you enjoyed how expressive
+
+15
+00:00:37,141 --> 00:00:39,581
+your lamp could be with
+just a few controls.
+
+16
+00:00:39,581 --> 00:00:41,943
+Now we're gonna add action to the emotion
+
+17
+00:00:41,943 --> 00:00:43,592
+and make your lamp jump.
+
+18
+00:00:43,592 --> 00:00:45,160
+Think about what you do when you jump
+
+19
+00:00:45,160 --> 00:00:46,462
+from standing still.
+
+20
+00:00:46,462 --> 00:00:49,422
+First you bend and squash down,
+
+21
+00:00:49,422 --> 00:00:51,877
+then you jump stretching out.
+
+22
+00:00:52,877 --> 00:00:55,368
+These are two different poses
+we're gonna need for our lamp,
+
+23
+00:00:55,368 --> 00:00:56,102
+squash and stretch.
+
+24
+00:00:58,102 --> 00:00:59,871
+So we need to add controls to the lamp
+
+25
+00:00:59,871 --> 00:01:01,671
+so it can move to a new location.
+
+26
+00:01:01,671 --> 00:01:04,685
+We can do this by adding rotation
+and translation deformers
+
+27
+00:01:04,685 --> 00:01:06,179
+to the base of the lamp.
+
+28
+00:01:06,179 --> 00:01:08,634
+One thing we need to be
+aware of when add deformers
+
+29
+00:01:08,634 --> 00:01:12,012
+is that some deformers need
+to operate in a certain order.
+
+30
+00:01:12,012 --> 00:01:14,938
+This might be a little hard to
+picture, so let me show you.
+
+31
+00:01:14,938 --> 00:01:18,040
+If we Rotate before we Translate,
+we get a different effect
+
+32
+00:01:18,040 --> 00:01:20,883
+than if Translate and then Rotate.
+
+33
+00:01:21,883 --> 00:01:25,256
+Notice that we can arrange
+the order of these deformers
+
+34
+00:01:25,256 --> 00:01:27,709
+by clicking and dragging like this.
+
+35
+00:01:27,709 --> 00:01:30,873
+The order in which they operate
+flows in this direction.
+
+36
+00:01:30,873 --> 00:01:33,494
+The animators who use this
+are moving to a position
+
+37
+00:01:33,494 --> 00:01:36,608
+and then posing with Rotates,
+moving to another position,
+
+38
+00:01:36,608 --> 00:01:39,497
+and posing a Rotate again, and so on.
+
+39
+00:01:39,497 --> 00:01:41,518
+So they should be able
+to Rotate about the base
+
+40
+00:01:41,518 --> 00:01:44,483
+no matter where they Translate it.
+
+41
+00:01:44,483 --> 00:01:47,299
+But if our deformers
+operate in the wrong order,
+
+42
+00:01:47,299 --> 00:01:50,330
+Translate then Rotate, we
+will run into a problem.
+
+43
+00:01:50,330 --> 00:01:52,884
+The rotation of the lamp will move away
+
+44
+00:01:52,884 --> 00:01:54,955
+from the pose like this.
+
+45
+00:01:54,955 --> 00:01:56,819
+That's because we moved the lamp away
+
+46
+00:01:56,819 --> 00:01:58,613
+from the axis of rotation,
+
+47
+00:01:58,613 --> 00:02:01,712
+which is the initial position of the base.
+
+48
+00:02:01,712 --> 00:02:04,114
+We solve this problem by
+having our deformers operate
+
+49
+00:02:04,114 --> 00:02:05,661
+in the opposite order.
+
+50
+00:02:05,661 --> 00:02:07,895
+First we Rotate about
+the origin of the base,
+
+51
+00:02:07,895 --> 00:02:10,131
+and then we move the base.
+
+52
+00:02:10,131 --> 00:02:14,956
+This dependence on ordering
+is called non-commutativity.
+
+53
+00:02:14,956 --> 00:02:16,562
+(drum beat)
+
+54
+00:02:16,562 --> 00:02:17,965
+Well, you can learn more about this
+
+55
+00:02:17,965 --> 00:02:21,251
+in the set and staging lesson.
+
+56
+00:02:21,251 --> 00:02:22,242
+(laughs)
+
+57
+00:02:22,242 --> 00:02:24,444
+(xylophone notes)
+
+58
+00:02:24,444 --> 00:02:26,175
+In this next exercise our goal
+
+59
+00:02:26,175 --> 00:02:28,375
+is to move our lamp into place
+
+60
+00:02:28,375 --> 00:02:30,428
+and then pose him with rotations.
+
+61
+00:02:30,428 --> 00:02:32,367
+So you'll need to pay
+attention to the ordering
+
+62
+00:02:32,367 --> 00:02:36,010
+of your translation and
+rotational deformers.
+
+63
+00:02:36,010 --> 00:02:36,051
+Have fun!
+
+64
+00:02:39,051 --> 00:02:41,000
+(laughs) aimozhen.com/pixarinabox
+

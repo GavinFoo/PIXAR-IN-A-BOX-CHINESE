@@ -1,0 +1,488 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,362 --> 00:00:05,306
+- In the last lesson, we
+came up with the model
+
+3
+00:00:05,306 --> 00:00:08,095
+that mimicked the behavior of curly hair.
+
+4
+00:00:08,095 --> 00:00:10,273
+Our model used a variety of
+springs connected together
+
+5
+00:00:10,273 --> 00:00:12,792
+with weights to give us this effect.
+
+6
+00:00:12,792 --> 00:00:14,786
+The goal of this lesson is
+to write the computer code
+
+7
+00:00:14,786 --> 00:00:16,937
+powering this simulation.
+
+8
+00:00:16,937 --> 00:00:19,175
+One thing to consider
+before starting this lesson,
+
+9
+00:00:19,175 --> 00:00:21,536
+we will be using some
+of Newton's equations
+
+10
+00:00:21,536 --> 00:00:24,210
+to animate our simulation,
+and we explored how these
+
+11
+00:00:24,210 --> 00:00:27,400
+equations worked in our effects lesson.
+
+12
+00:00:30,400 --> 00:00:33,852
+To begin, let's simulate
+a very simple model.
+
+13
+00:00:33,852 --> 00:00:35,876
+A particle which is only
+experiencing gravity,
+
+14
+00:00:35,876 --> 00:00:39,462
+and it's dropped from some
+position on the screen.
+
+15
+00:00:39,462 --> 00:00:41,927
+The program I'll write to
+simulate this situation
+
+16
+00:00:41,927 --> 00:00:44,426
+will divide into two parts.
+
+17
+00:00:44,426 --> 00:00:47,052
+At the top, I'll put our
+initial system settings,
+
+18
+00:00:47,052 --> 00:00:49,445
+such as the starting position
+and force of gravity,
+
+19
+00:00:49,445 --> 00:00:52,121
+and below that we'll use
+a function called draw
+
+20
+00:00:52,121 --> 00:00:53,660
+to do the animating.
+
+21
+00:00:53,660 --> 00:00:56,198
+First, let's define our initial settings.
+
+22
+00:00:56,198 --> 00:00:58,168
+Gravity is a force we'll want to control,
+
+23
+00:00:58,168 --> 00:01:00,905
+so let's define a variable called gravity,
+
+24
+00:01:00,905 --> 00:01:02,397
+and set it to, say, 10.
+
+25
+00:01:02,397 --> 00:01:03,954
+We can play with it later.
+
+26
+00:01:03,954 --> 00:01:06,874
+We'll want another variable
+to store the particle's mass.
+
+27
+00:01:06,874 --> 00:01:09,352
+I'll set this at 30 for
+now, plus a variable for
+
+28
+00:01:09,352 --> 00:01:12,199
+the initial height we
+dropped the particle from.
+
+29
+00:01:12,199 --> 00:01:15,078
+I'll call this position Y.
+
+30
+00:01:15,078 --> 00:01:17,773
+We'll also need an initial
+velocity for our particle.
+
+31
+00:01:17,773 --> 00:01:20,703
+I'll call this velocity Y,
+and at the very beginning
+
+32
+00:01:20,703 --> 00:01:23,461
+of our simulation right before we drop it,
+
+33
+00:01:23,461 --> 00:01:26,028
+we set this to be zero.
+
+34
+00:01:26,028 --> 00:01:28,129
+Finally, we need a way
+to control the speed
+
+35
+00:01:28,129 --> 00:01:29,795
+of our simulation.
+
+36
+00:01:29,795 --> 00:01:32,629
+We'll do this with a
+variable called time step.
+
+37
+00:01:32,629 --> 00:01:34,950
+Think of time step as how
+much time elapses between
+
+38
+00:01:34,950 --> 00:01:37,096
+each drawing update.
+
+39
+00:01:37,096 --> 00:01:39,164
+A larger time step will
+make the particle speed up
+
+40
+00:01:39,164 --> 00:01:41,191
+between frames, and a
+smaller time step will
+
+41
+00:01:41,191 --> 00:01:42,705
+slow it down.
+
+42
+00:01:42,705 --> 00:01:47,203
+Now let's consider what goes
+on inside the draw function.
+
+43
+00:01:47,203 --> 00:01:49,549
+When we run our program,
+the computer will first
+
+44
+00:01:49,549 --> 00:01:52,379
+execute the initial
+settings once, and then loop
+
+45
+00:01:52,379 --> 00:01:56,084
+through the draw function
+multiple times per second.
+
+46
+00:01:56,084 --> 00:01:58,364
+So each frame of our animation
+will be a single pass
+
+47
+00:01:58,364 --> 00:02:00,768
+of this draw function.
+
+48
+00:02:00,768 --> 00:02:03,929
+First, I'll compute the
+forces acting on the particle.
+
+49
+00:02:03,929 --> 00:02:06,711
+For now, the only force
+acting on it is gravity,
+
+50
+00:02:06,711 --> 00:02:08,681
+which is pointing downwards.
+
+51
+00:02:08,681 --> 00:02:10,805
+I'll store this downward
+force using a variable
+
+52
+00:02:10,805 --> 00:02:12,562
+called force Y.
+
+53
+00:02:12,562 --> 00:02:15,581
+And from Newton's second
+law, we know that this force
+
+54
+00:02:15,581 --> 00:02:18,360
+will be equal to the particle's
+mass times acceleration
+
+55
+00:02:18,360 --> 00:02:20,288
+due to gravity.
+
+56
+00:02:20,288 --> 00:02:22,431
+Next, I'll use that
+force to define how fast
+
+57
+00:02:22,431 --> 00:02:25,384
+our particle will accelerate downward.
+
+58
+00:02:25,384 --> 00:02:28,317
+I'll store this value
+in a new variable called
+
+59
+00:02:28,317 --> 00:02:29,138
+acceleration Y.
+
+60
+00:02:31,138 --> 00:02:33,824
+To do that, I'll rearrange
+the handy formula,
+
+61
+00:02:33,824 --> 00:02:37,686
+f equals m a, to give
+acceleration y equals force y
+
+62
+00:02:37,686 --> 00:02:39,526
+divided by mass.
+
+63
+00:02:39,526 --> 00:02:41,322
+Notice we've already calculated force y
+
+64
+00:02:41,322 --> 00:02:43,640
+in the previous step.
+
+65
+00:02:43,640 --> 00:02:46,572
+Now that we know how fast
+our particle's accelerating,
+
+66
+00:02:46,572 --> 00:02:48,833
+we can update its
+velocity using the formula
+
+67
+00:02:48,833 --> 00:02:52,455
+velocity equals velocity
+plus acceleration times
+
+68
+00:02:52,455 --> 00:02:53,926
+time step.
+
+69
+00:02:54,926 --> 00:02:57,425
+We derived this formula
+in our effects lesson.
+
+70
+00:02:57,425 --> 00:02:59,828
+Check it out for more details.
+
+71
+00:02:59,828 --> 00:03:02,006
+Note that the velocity
+variable on the right-hand side
+
+72
+00:03:02,006 --> 00:03:04,294
+of this equation initially
+stores the previous
+
+73
+00:03:04,294 --> 00:03:05,479
+velocity value.
+
+74
+00:03:06,479 --> 00:03:08,895
+After this line is executed,
+the velocity variable
+
+75
+00:03:08,895 --> 00:03:12,628
+on the left stores the
+updated velocity value.
+
+76
+00:03:12,628 --> 00:03:15,312
+Finally, we can use this
+velocity to draw our particle
+
+77
+00:03:15,312 --> 00:03:19,042
+in a new position using
+the equation, position Y
+
+78
+00:03:19,042 --> 00:03:23,167
+equals position Y plus
+velocity Y times time step.
+
+79
+00:03:24,167 --> 00:03:26,964
+As before, the position Y
+variable on the right-hand side
+
+80
+00:03:26,964 --> 00:03:29,246
+of this equation initially
+stores the previous
+
+81
+00:03:29,246 --> 00:03:30,965
+position value.
+
+82
+00:03:30,965 --> 00:03:33,651
+After this line is executed,
+the position Y variable
+
+83
+00:03:33,651 --> 00:03:36,871
+on the left stores the
+next position value.
+
+84
+00:03:36,871 --> 00:03:40,366
+Notice how each step in our
+calculation uses the result
+
+85
+00:03:40,366 --> 00:03:42,395
+of the previous step.
+
+86
+00:03:42,395 --> 00:03:46,706
+The initial force calculation
+is used to find acceleration.
+
+87
+00:03:46,706 --> 00:03:48,860
+Acceleration is used to find velocity,
+
+88
+00:03:48,860 --> 00:03:51,376
+and velocity is used
+to update the position.
+
+89
+00:03:51,376 --> 00:03:52,911
+Now the fun part.
+
+90
+00:03:52,911 --> 00:03:55,178
+We just draw our particle
+in that new position.
+
+91
+00:03:55,178 --> 00:03:58,199
+To do that, we just draw a
+circle using the position Y
+
+92
+00:03:58,199 --> 00:04:00,022
+variable as its height.
+
+93
+00:04:00,022 --> 00:04:02,405
+Here I'm drawing a circle
+using the ellipse function
+
+94
+00:04:02,405 --> 00:04:05,412
+with equal width and height.
+
+95
+00:04:05,412 --> 00:04:08,661
+Now let's run our program
+to see what happens.
+
+96
+00:04:08,661 --> 00:04:10,970
+Oops, I want to erase the
+previous circle every time
+
+97
+00:04:10,970 --> 00:04:13,163
+we move it so it looks
+like one thing falling
+
+98
+00:04:13,163 --> 00:04:15,812
+instead of this snakey thing.
+
+99
+00:04:15,812 --> 00:04:18,415
+I'll fix this by erasing
+or redrawing the screen
+
+100
+00:04:18,415 --> 00:04:21,410
+every time I draw a new circle.
+
+101
+00:04:21,410 --> 00:04:23,211
+Let's try that.
+
+102
+00:04:23,211 --> 00:04:24,613
+Nice.
+
+103
+00:04:24,613 --> 00:04:26,738
+If I increase the force of
+gravity, our particle falls
+
+104
+00:04:26,738 --> 00:04:28,267
+faster as we'd expect.
+
+105
+00:04:31,267 --> 00:04:33,389
+That's Newton's laws of motion in action.
+
+106
+00:04:33,389 --> 00:04:36,000
+Let's pause here so you can
+get comfortable with this code. aimozhen.com/pixarinabox
+

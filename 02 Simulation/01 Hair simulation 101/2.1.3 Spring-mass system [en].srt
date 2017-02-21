@@ -1,0 +1,316 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:00,318 --> 00:00:02,883
+(bouncy Pixar theme)
+
+3
+00:00:02,883 --> 00:00:05,428
+- In the last exercise
+you probably noticed
+
+4
+00:00:05,428 --> 00:00:08,780
+that the simulation lacked the
+natural bounciness of hair.
+
+5
+00:00:08,780 --> 00:00:11,678
+But what makes something
+look bouncy anyway?
+
+6
+00:00:11,678 --> 00:00:14,978
+To make this model bouncy,
+we need each strand of hair
+
+7
+00:00:14,978 --> 00:00:16,804
+to expand and contract slightly
+
+8
+00:00:16,804 --> 00:00:18,611
+when forces are applied to them.
+
+9
+00:00:18,611 --> 00:00:21,860
+This required a new physical
+analogy to base our model on,
+
+10
+00:00:21,860 --> 00:00:23,500
+so we tried springs.
+
+11
+00:00:23,500 --> 00:00:25,877
+Springs are great because
+they can change length
+
+12
+00:00:25,877 --> 00:00:27,259
+when you pull on them,
+
+13
+00:00:27,259 --> 00:00:28,986
+and to give the hair a
+little bit of weight,
+
+14
+00:00:28,986 --> 00:00:31,999
+we add a small weight to
+the end of the spring.
+
+15
+00:00:31,999 --> 00:00:34,460
+This is known as a mass spring system.
+
+16
+00:00:34,460 --> 00:00:36,781
+We can actually draw a mathematical model
+
+17
+00:00:36,781 --> 00:00:41,161
+to explain what happens when a
+spring expands and contracts.
+
+18
+00:00:41,161 --> 00:00:44,647
+The model we use is based on a
+law developed by Robert Hooke
+
+19
+00:00:44,647 --> 00:00:46,961
+a 17th century physicist.
+
+20
+00:00:46,961 --> 00:00:49,343
+Hooke noticed that there
+are two things to consider
+
+21
+00:00:49,343 --> 00:00:51,903
+when a spring expands and contracts.
+
+22
+00:00:51,903 --> 00:00:55,173
+One, if we pull on a
+spring and it expands,
+
+23
+00:00:55,173 --> 00:00:58,875
+we will increase its length
+and it will pull back together.
+
+24
+00:00:58,875 --> 00:01:02,541
+Two, if the spring contracts,
+its length will decrease
+
+25
+00:01:02,541 --> 00:01:04,292
+and it will push apart.
+
+26
+00:01:04,292 --> 00:01:06,125
+How much a spring pushes and pulls
+
+27
+00:01:06,125 --> 00:01:08,877
+is known as the spring force.
+
+28
+00:01:08,877 --> 00:01:11,085
+Robert Hooke was looking for relationship
+
+29
+00:01:11,085 --> 00:01:12,503
+between the spring force
+
+30
+00:01:12,503 --> 00:01:15,520
+in the amount the spring
+contracts or expands.
+
+31
+00:01:15,520 --> 00:01:18,735
+We call this change in
+length displacement.
+
+32
+00:01:18,735 --> 00:01:21,429
+Displacement is defined
+as the current length
+
+33
+00:01:21,429 --> 00:01:23,749
+minus the rest length of the spring.
+
+34
+00:01:23,749 --> 00:01:27,520
+When we stretch a spring,
+the displacement is positive
+
+35
+00:01:27,520 --> 00:01:30,046
+and the resulting spring
+force is negative.
+
+36
+00:01:30,046 --> 00:01:32,775
+This is known as the pull force.
+
+37
+00:01:32,775 --> 00:01:36,027
+When we compress a spring,
+the displacement is negative
+
+38
+00:01:36,027 --> 00:01:38,382
+and the resulting spring
+force is positive.
+
+39
+00:01:38,382 --> 00:01:40,392
+This is called the push force.
+
+40
+00:01:40,392 --> 00:01:43,292
+So Hooke's observation was quite simple,
+
+41
+00:01:43,292 --> 00:01:45,530
+he noticed that a larger displacement
+
+42
+00:01:45,530 --> 00:01:47,730
+results in a larger force,
+
+43
+00:01:47,730 --> 00:01:51,681
+while a smaller displacement
+results in a smaller force.
+
+44
+00:01:51,681 --> 00:01:53,881
+That is, he noticed that the displacement
+
+45
+00:01:53,881 --> 00:01:56,346
+is proportional to the force.
+
+46
+00:01:56,346 --> 00:01:58,486
+However, every spring is different,
+
+47
+00:01:58,486 --> 00:02:01,066
+some take a lot of force to displace,
+
+48
+00:02:01,066 --> 00:02:03,616
+and some are really easy to displace.
+
+49
+00:02:03,616 --> 00:02:07,084
+So Robert Hooke introduced
+the idea of stiffness
+
+50
+00:02:07,084 --> 00:02:10,398
+to account for how hard it is
+to displace a given spring.
+
+51
+00:02:10,398 --> 00:02:12,698
+It is represented with the letter k.
+
+52
+00:02:12,698 --> 00:02:14,782
+This led Hooke to his final equation
+
+53
+00:02:14,782 --> 00:02:16,575
+which is known as Hooke's Law.
+
+54
+00:02:16,575 --> 00:02:18,374
+The spring force is proportional
+
+55
+00:02:18,374 --> 00:02:20,972
+to a stiffness times the displacement.
+
+56
+00:02:20,972 --> 00:02:23,107
+Notice that there is
+a negative sign there,
+
+57
+00:02:23,107 --> 00:02:25,343
+that's because we want a positive force
+
+58
+00:02:25,343 --> 00:02:27,169
+when the displacement is negative,
+
+59
+00:02:27,169 --> 00:02:29,781
+and a negative force when it's positive.
+
+60
+00:02:29,781 --> 00:02:31,847
+If we plug this equation into the computer
+
+61
+00:02:31,847 --> 00:02:34,215
+we get this realistic spring behavior.
+
+62
+00:02:34,215 --> 00:02:36,935
+For Brave, we modeled the horse's hair
+
+63
+00:02:36,935 --> 00:02:38,507
+using a mass spring system
+
+64
+00:02:38,507 --> 00:02:41,318
+similar to what we are
+describing in this tutorial,
+
+65
+00:02:41,318 --> 00:02:44,541
+nearly 10,000 simulated hairs in total.
+
+66
+00:02:44,541 --> 00:02:47,144
+In the next exercise you can explore
+
+67
+00:02:47,144 --> 00:02:49,163
+a simple mass spring system.
+
+68
+00:02:49,163 --> 00:02:51,817
+You'll be able to adjust
+the following parameters,
+
+69
+00:02:51,817 --> 00:02:54,823
+mass of the particle, spring stiffness, k,
+
+70
+00:02:54,823 --> 00:02:56,634
+and the force of gravity,
+
+71
+00:02:56,634 --> 00:02:58,715
+and we'll ask you some challenge questions
+
+72
+00:02:58,715 --> 00:03:02,000
+to make sure you understand
+the basics of Hooke's Law. aimozhen.com/pixarinabox
+

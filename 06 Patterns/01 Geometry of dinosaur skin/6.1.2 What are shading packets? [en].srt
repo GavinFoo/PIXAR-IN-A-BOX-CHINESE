@@ -1,0 +1,350 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,879 --> 00:00:06,622
+(footsteps)
+
+3
+00:00:06,622 --> 00:00:08,650
+- We're on our way to the art department,
+
+4
+00:00:08,650 --> 00:00:10,031
+but we can't show you much of it
+
+5
+00:00:10,031 --> 00:00:12,676
+because everything there is super secret.
+
+6
+00:00:12,676 --> 00:00:13,898
+- In the previous video, we saw
+
+7
+00:00:13,898 --> 00:00:15,525
+how patterns were created to texture
+
+8
+00:00:15,525 --> 00:00:18,452
+the dinosaur, Arlo, for the
+movie The Good Dinosaur.
+
+9
+00:00:18,452 --> 00:00:19,834
+In this lesson, it will be your turn
+
+10
+00:00:19,834 --> 00:00:21,708
+to make some convincing dinosaur skin
+
+11
+00:00:21,708 --> 00:00:25,044
+using patterns, colors, and randomness.
+
+12
+00:00:25,044 --> 00:00:26,223
+- (Tall Woman) We're
+going to introduce you
+
+13
+00:00:26,223 --> 00:00:29,358
+to some techniques used
+here at Pixar to do this.
+
+14
+00:00:29,358 --> 00:00:31,352
+- (Blonde Woman) Such as voronoi diagrams.
+
+15
+00:00:31,352 --> 00:00:33,185
+- (Tall Woman) And how we use randomness
+
+16
+00:00:33,185 --> 00:00:35,836
+to make it look more organic.
+
+17
+00:00:35,836 --> 00:00:37,018
+- (Blonde Woman) By the end of this lesson
+
+18
+00:00:37,018 --> 00:00:39,021
+you'll be ready to make
+your own dino skin.
+
+19
+00:00:39,021 --> 00:00:40,443
+- And no matter what we're building,
+
+20
+00:00:40,443 --> 00:00:42,356
+it all starts with a shading packet.
+
+21
+00:00:42,356 --> 00:00:43,290
+- And the shading packet comes
+
+22
+00:00:43,290 --> 00:00:46,012
+from one of the artists in the
+art department such as Tia.
+
+23
+00:00:46,012 --> 00:00:48,532
+(knocking)
+
+24
+00:00:50,532 --> 00:00:51,874
+- Hi!
+- Hey.
+
+25
+00:00:51,874 --> 00:00:53,335
+- How are you guys?
+- Great.
+
+26
+00:00:53,335 --> 00:00:56,110
+- Good, I have a present for you.
+
+27
+00:00:56,110 --> 00:00:58,361
+The dino leg shader packet.
+
+28
+00:00:59,361 --> 00:01:02,331
+There's a few pieces here for you.
+
+29
+00:01:02,331 --> 00:01:05,154
+Some reference, some color specs,
+
+30
+00:01:06,154 --> 00:01:07,417
+and some real reference.
+
+31
+00:01:07,417 --> 00:01:09,349
+Those are for the claws.
+
+32
+00:01:10,349 --> 00:01:12,266
+I don't have all the answers.
+
+33
+00:01:12,266 --> 00:01:14,992
+I'm leaving it up to
+you guys to do the rest.
+
+34
+00:01:14,992 --> 00:01:18,616
+I've got to go run and teach a class,
+
+35
+00:01:18,616 --> 00:01:20,492
+so can I leave this with you?
+
+36
+00:01:20,492 --> 00:01:23,055
+And you're welcome to use my office.
+
+37
+00:01:23,055 --> 00:01:24,199
+Have a blast.
+
+38
+00:01:24,199 --> 00:01:25,297
+- Great.
+- Thank you.
+
+39
+00:01:25,297 --> 00:01:26,102
+- Thank you! Bye.
+
+40
+00:01:30,102 --> 00:01:31,611
+- The shading packet is a collection
+
+41
+00:01:31,611 --> 00:01:33,608
+of drawings and images that will guide us
+
+42
+00:01:33,608 --> 00:01:36,535
+through the process of
+creating our dino skin.
+
+43
+00:01:36,535 --> 00:01:37,593
+- (Blonde Woman) It all begins on paper
+
+44
+00:01:37,593 --> 00:01:40,117
+because it's much faster
+to iterate that way.
+
+45
+00:01:40,117 --> 00:01:41,419
+- (Tall Woman) Shading
+packets also contain
+
+46
+00:01:41,419 --> 00:01:43,700
+reference photographs like this cactus,
+
+47
+00:01:43,700 --> 00:01:45,250
+which is a real-life approximation
+
+48
+00:01:45,250 --> 00:01:48,304
+of the look and feel we're going for.
+
+49
+00:01:48,304 --> 00:01:49,318
+- (Blonde Woman) This is a wonderful
+
+50
+00:01:49,318 --> 00:01:51,559
+inspiration for the
+scales of our dinosaur,
+
+51
+00:01:51,559 --> 00:01:53,307
+but it's just a starting point.
+
+52
+00:01:53,307 --> 00:01:55,378
+- (Tall Woman) Let's
+examine these drawings
+
+53
+00:01:55,378 --> 00:01:57,371
+a little more closely and see what kind
+
+54
+00:01:57,371 --> 00:02:00,220
+of things Tia has identified.
+
+55
+00:02:00,220 --> 00:02:01,400
+- (Blonde Woman) First notice there are
+
+56
+00:02:01,400 --> 00:02:03,762
+a number of scales of
+varying sizes sticking out,
+
+57
+00:02:03,762 --> 00:02:05,715
+or extruding from the skin.
+
+58
+00:02:05,715 --> 00:02:07,915
+We'll need to figure
+out how to build these.
+
+59
+00:02:07,915 --> 00:02:10,639
+- (Tall Woman) Also notice
+the scales vary in size,
+
+60
+00:02:10,639 --> 00:02:13,119
+some bigger and some smaller.
+
+61
+00:02:13,119 --> 00:02:15,562
+The bigger scales
+correspond to rigid areas,
+
+62
+00:02:15,562 --> 00:02:17,437
+such as the middle of the leg.
+
+63
+00:02:17,437 --> 00:02:20,575
+Smaller scales are found
+in areas near the claws,
+
+64
+00:02:20,575 --> 00:02:23,631
+which is an area that
+is much more flexible.
+
+65
+00:02:23,631 --> 00:02:24,935
+- (Blonde Woman) Aside from the size,
+
+66
+00:02:24,935 --> 00:02:26,607
+position, and shape of the scales
+
+67
+00:02:26,607 --> 00:02:29,740
+we also have to start
+thinking about color.
+
+68
+00:02:29,740 --> 00:02:31,184
+- (Tall Woman) Notice she wants each scale
+
+69
+00:02:31,184 --> 00:02:33,792
+to vary in color and a reminder to make
+
+70
+00:02:33,792 --> 00:02:38,150
+the skin beneath the
+scales a different color.
+
+71
+00:02:38,150 --> 00:02:38,150
+- (Blonde Woman) The final touch
+
+72
+00:02:38,983 --> 00:02:40,685
+is to pay attention to different kinds
+
+73
+00:02:40,685 --> 00:02:42,639
+of random variations we'll need.
+
+74
+00:02:42,639 --> 00:02:45,375
+For example, some scales
+extrude more than the others.
+
+75
+00:02:45,375 --> 00:02:46,758
+Plus, the position and size
+
+76
+00:02:46,758 --> 00:02:48,636
+of the scale should vary as well.
+
+77
+00:02:48,636 --> 00:02:50,793
+So there's lots of
+variation going on here.
+
+78
+00:02:50,793 --> 00:02:51,626
+- (Tall Woman) Now it's your turn
+
+79
+00:02:51,626 --> 00:02:53,529
+to examine the shading packet.
+
+80
+00:02:53,529 --> 00:02:55,281
+- Once you're comfortable
+studying shading packets,
+
+81
+00:02:55,281 --> 00:02:59,000
+we'll get to work creating
+the patterns in the computer. aimozhen.com/pixarinabox
+

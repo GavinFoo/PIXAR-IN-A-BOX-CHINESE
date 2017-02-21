@@ -1,0 +1,216 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:00,427 --> 00:00:03,212
+(bouncing)
+
+3
+00:00:03,212 --> 00:00:04,911
+- In the last video, we saw this preview
+
+4
+00:00:04,911 --> 00:00:06,237
+of a shot from Finding Nemo
+
+5
+00:00:06,237 --> 00:00:08,013
+where we've drawn the particles as balls
+
+6
+00:00:08,013 --> 00:00:10,179
+to illustrate their motion.
+
+7
+00:00:10,179 --> 00:00:12,287
+For the final shot, we
+used the particle positions
+
+8
+00:00:12,287 --> 00:00:13,668
+to compute a surface.
+
+9
+00:00:13,668 --> 00:00:17,791
+Then we rendered that surface
+to look more like water.
+
+10
+00:00:19,791 --> 00:00:22,648
+To draw a smooth surface
+using individual particles,
+
+11
+00:00:22,648 --> 00:00:25,341
+we use an analogy involving heat.
+
+12
+00:00:25,341 --> 00:00:28,117
+First, imagine these
+particles are little heaters.
+
+13
+00:00:28,117 --> 00:00:29,742
+Next, pretend we have a thermometer
+
+14
+00:00:29,742 --> 00:00:32,923
+which tells us the temperature
+at any point in space.
+
+15
+00:00:32,923 --> 00:00:36,400
+For example, the particles
+might be exactly 1,000 degrees,
+
+16
+00:00:36,400 --> 00:00:39,135
+and as we move away, things cooled down.
+
+17
+00:00:39,135 --> 00:00:42,360
+Let's say this point over
+here is exactly 100 degrees,
+
+18
+00:00:42,360 --> 00:00:43,860
+and there isn't just one point in space
+
+19
+00:00:43,860 --> 00:00:46,310
+which is 100 degrees, but many points.
+
+20
+00:00:46,310 --> 00:00:48,136
+So if we connect all points
+where the thermometer
+
+21
+00:00:48,136 --> 00:00:51,851
+says 100 degrees, we get a
+curve shown here in yellow.
+
+22
+00:00:51,851 --> 00:00:53,216
+And that's the trick.
+
+23
+00:00:53,216 --> 00:00:55,910
+Now we can fill in this yellow
+curve with a solid blue color
+
+24
+00:00:55,910 --> 00:00:59,084
+to give us something that looks
+more like a puddle of water.
+
+25
+00:00:59,084 --> 00:01:00,652
+If the particles are far apart,
+
+26
+00:01:00,652 --> 00:01:04,327
+they each form their own
+isolated region, like a droplet.
+
+27
+00:01:04,327 --> 00:01:06,858
+As they get closer, the
+droplets start to glob together,
+
+28
+00:01:06,858 --> 00:01:08,373
+mimicking real water.
+
+29
+00:01:08,373 --> 00:01:10,316
+Here's a version with
+a few more particles.
+
+30
+00:01:10,316 --> 00:01:12,151
+This is starting to look like water.
+
+31
+00:01:12,151 --> 00:01:13,522
+It would really look like water
+
+32
+00:01:13,522 --> 00:01:16,297
+if we had a few thousand particles.
+
+33
+00:01:16,297 --> 00:01:18,758
+For use in our movies, we
+work in three dimensions,
+
+34
+00:01:18,758 --> 00:01:20,639
+and the curve becomes a surface
+
+35
+00:01:20,639 --> 00:01:22,565
+like in this shot from Finding Dory,
+
+36
+00:01:22,565 --> 00:01:24,482
+or in this more extreme water simulation
+
+37
+00:01:24,482 --> 00:01:26,983
+also from Finding Dory.
+
+38
+00:01:30,983 --> 00:01:33,590
+Here's an example from
+Monsters University.
+
+39
+00:01:33,590 --> 00:01:35,999
+Here we're simulating
+paint, instead of water.
+
+40
+00:01:35,999 --> 00:01:37,282
+We've turned up the viscosity
+
+41
+00:01:37,282 --> 00:01:40,324
+since paint is more viscous than water.
+
+42
+00:01:40,324 --> 00:01:42,197
+We weren't exactly sure
+how paint would behave
+
+43
+00:01:42,197 --> 00:01:44,527
+so one of the first things
+we did to create this shot
+
+44
+00:01:44,527 --> 00:01:47,145
+is to videotape reference of real paint.
+
+45
+00:01:47,145 --> 00:01:50,377
+The reference really helped
+us create a believable look.
+
+46
+00:01:50,377 --> 00:01:51,787
+Let's pause here so you can practice
+
+47
+00:01:51,787 --> 00:01:53,298
+using the next exercise.
+
+48
+00:01:53,298 --> 00:01:54,131
+Good luck.
+
+49
+00:01:54,131 --> 00:01:56,000
+(playful music) aimozhen.com/pixarinabox
+

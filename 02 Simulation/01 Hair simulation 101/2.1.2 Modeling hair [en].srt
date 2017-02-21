@@ -1,0 +1,240 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,202 --> 00:00:05,803
+- We actually do a lot
+of simulation at Pixar.
+
+3
+00:00:05,803 --> 00:00:07,416
+Things like fire, water, and explosions
+
+4
+00:00:07,416 --> 00:00:09,373
+are handled by the effects department.
+
+5
+00:00:09,373 --> 00:00:13,731
+You can learn more about
+that in the effects lesson.
+
+6
+00:00:15,731 --> 00:00:17,477
+The simulation department,
+who I work with,
+
+7
+00:00:17,477 --> 00:00:20,732
+handles any motion attached
+to the characters at Pixar,
+
+8
+00:00:20,732 --> 00:00:22,320
+like clothing and hair.
+
+9
+00:00:22,320 --> 00:00:23,660
+But we can't move every hair
+
+10
+00:00:23,660 --> 00:00:25,836
+on a Pixar character's head by hand,
+
+11
+00:00:25,836 --> 00:00:28,036
+that would drive our animators crazy.
+
+12
+00:00:28,036 --> 00:00:30,360
+Instead, we use Physics
+and Computer Programming.
+
+13
+00:00:30,360 --> 00:00:31,932
+In this lesson, you'll learn how to
+
+14
+00:00:31,932 --> 00:00:34,349
+simulate hair the same
+way we did for Merida
+
+15
+00:00:34,349 --> 00:00:36,058
+in the movie "Brave".
+
+16
+00:00:36,058 --> 00:00:37,429
+Here is an example of a shot of Merida
+
+17
+00:00:37,429 --> 00:00:39,168
+that the simulation department got
+
+18
+00:00:39,168 --> 00:00:40,498
+from the animation department
+
+19
+00:00:40,498 --> 00:00:42,397
+on the film "Brave".
+
+20
+00:00:42,397 --> 00:00:44,658
+The animators have created
+the main action in the scene
+
+21
+00:00:44,658 --> 00:00:47,008
+and now it's our job to
+fill in the missing details
+
+22
+00:00:47,008 --> 00:00:50,486
+such as the motion of cloth and hair.
+
+23
+00:00:50,486 --> 00:00:52,673
+Everything we do begins
+with modeling the problem
+
+24
+00:00:52,673 --> 00:00:54,131
+we want to solve.
+
+25
+00:00:54,131 --> 00:00:56,018
+In this case, we need a physical model
+
+26
+00:00:56,018 --> 00:00:57,748
+of Merida's curly hair.
+
+27
+00:00:57,748 --> 00:01:00,088
+So let's begin with the very basics.
+
+28
+00:01:00,088 --> 00:01:02,498
+What should our model of hair look like?
+
+29
+00:01:02,498 --> 00:01:05,165
+Well, hair is kind of like a mop,
+
+30
+00:01:05,165 --> 00:01:07,203
+just a bunch of strings.
+
+31
+00:01:07,203 --> 00:01:09,794
+But strings are actually quite complex
+
+32
+00:01:09,794 --> 00:01:12,671
+to model mathematically
+because they are so bendy.
+
+33
+00:01:12,671 --> 00:01:14,895
+Modeling them requires a
+lot of computational power
+
+34
+00:01:14,895 --> 00:01:17,082
+due to all the calculations involved.
+
+35
+00:01:17,082 --> 00:01:18,947
+This is why we are always looking for ways
+
+36
+00:01:18,947 --> 00:01:20,499
+to simplify our models.
+
+37
+00:01:20,499 --> 00:01:22,937
+For example, we could take
+a bunch of paper clips
+
+38
+00:01:22,937 --> 00:01:24,736
+to model a strand of hair.
+
+39
+00:01:24,736 --> 00:01:26,950
+We first draw a series of line segments
+
+40
+00:01:26,950 --> 00:01:29,060
+connected to particles, like this.
+
+41
+00:01:29,060 --> 00:01:31,070
+The computer needs to
+calculate the positions
+
+42
+00:01:31,070 --> 00:01:32,617
+of these particles.
+
+43
+00:01:32,617 --> 00:01:34,545
+But first we need to describe what forces
+
+44
+00:01:34,545 --> 00:01:36,262
+are acting on them.
+
+45
+00:01:36,262 --> 00:01:38,489
+In the real world, each
+particle is affected
+
+46
+00:01:38,489 --> 00:01:40,206
+by three forces.
+
+47
+00:01:40,206 --> 00:01:41,456
+The force of gravity,
+
+48
+00:01:41,456 --> 00:01:45,084
+and the forces from neighboring
+connections, like this.
+
+49
+00:01:45,084 --> 00:01:47,072
+Next step, I have an interactive program
+
+50
+00:01:47,072 --> 00:01:49,153
+for you to see this in action.
+
+51
+00:01:49,153 --> 00:01:51,173
+You can adjust the following parameters:
+
+52
+00:01:51,173 --> 00:01:54,292
+size of each segment,
+number of segments per hair,
+
+53
+00:01:54,292 --> 00:01:57,943
+number of hairs, and the force of gravity.
+
+54
+00:01:57,943 --> 00:01:59,670
+Explore these parameters to see what kinds
+
+55
+00:01:59,670 --> 00:02:01,242
+of looks you can come up with.
+
+56
+00:02:01,242 --> 00:02:02,000
+Have fun. aimozhen.com/pixarinabox
+

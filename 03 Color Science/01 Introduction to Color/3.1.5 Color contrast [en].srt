@@ -1,0 +1,373 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,273 --> 00:00:05,140
+- So far, we've been talking about color
+
+3
+00:00:05,140 --> 00:00:09,118
+in terms of wavelength of light
+and human color receptors.
+
+4
+00:00:09,118 --> 00:00:11,104
+That's the physics part of color.
+
+5
+00:00:11,104 --> 00:00:13,668
+Now let's turn to the perceptual part.
+
+6
+00:00:13,668 --> 00:00:15,211
+We just learned that every color
+
+7
+00:00:15,211 --> 00:00:18,174
+has a hue, saturation, and lightness.
+
+8
+00:00:18,174 --> 00:00:21,588
+But colors appear in our
+world alongside other colors,
+
+9
+00:00:21,588 --> 00:00:24,720
+and that can really
+affect how they appear.
+
+10
+00:00:24,720 --> 00:00:27,970
+It's also when things can
+get really, really weird.
+
+11
+00:00:27,970 --> 00:00:30,571
+For example, look at this image.
+
+12
+00:00:30,571 --> 00:00:33,958
+Notice the two inner color rings.
+
+13
+00:00:33,958 --> 00:00:35,626
+The one on the left looks green.
+
+14
+00:00:35,626 --> 00:00:37,657
+The one on the right looks blue.
+
+15
+00:00:37,657 --> 00:00:39,404
+They're different colors, right?
+
+16
+00:00:39,404 --> 00:00:42,003
+No, if you take away the other colors
+
+17
+00:00:42,003 --> 00:00:45,663
+you'll see that they are
+in fact the same color.
+
+18
+00:00:45,663 --> 00:00:48,589
+And it's not only color
+which can trick us.
+
+19
+00:00:48,589 --> 00:00:50,864
+Different brightness
+levels will also affect
+
+20
+00:00:50,864 --> 00:00:53,097
+how we perceive an image.
+
+21
+00:00:53,097 --> 00:00:57,158
+For example, look at the
+following greyscale image.
+
+22
+00:00:57,158 --> 00:01:01,591
+Take a closer looks at
+these two squares, A and B.
+
+23
+00:01:01,591 --> 00:01:04,357
+One is a black square in the light.
+
+24
+00:01:04,357 --> 00:01:08,013
+The other is a light square in shadow.
+
+25
+00:01:08,013 --> 00:01:10,777
+Do you think they are
+different shades of grey?
+
+26
+00:01:10,777 --> 00:01:12,523
+Nope, let me show you.
+
+27
+00:01:12,523 --> 00:01:15,488
+They are in fact the same shade of grey.
+
+28
+00:01:15,488 --> 00:01:18,048
+So clearly not everything
+is what it seems.
+
+29
+00:01:18,048 --> 00:01:20,529
+How we perceive contrast or brightness
+
+30
+00:01:20,529 --> 00:01:23,575
+depends very much on
+the surrounding image.
+
+31
+00:01:23,575 --> 00:01:26,296
+And it brings us back to
+how the brain processes
+
+32
+00:01:26,296 --> 00:01:28,179
+incoming image signals.
+
+33
+00:01:29,179 --> 00:01:32,108
+The structure of our
+visual system is optimized
+
+34
+00:01:32,108 --> 00:01:33,776
+so that we can do important things,
+
+35
+00:01:33,776 --> 00:01:34,254
+like survive.
+
+36
+00:01:36,254 --> 00:01:38,532
+But a key survival trait is the ability
+
+37
+00:01:38,532 --> 00:01:41,215
+to very quickly identify danger.
+
+38
+00:01:41,215 --> 00:01:42,556
+This requires the ability
+
+39
+00:01:42,556 --> 00:01:46,256
+to rapidly refocus our
+attention when we need to.
+
+40
+00:01:46,256 --> 00:01:48,028
+Our brain does this by
+
+41
+00:01:48,028 --> 00:01:49,899
+automatically refocusing our attention
+
+42
+00:01:49,899 --> 00:01:54,301
+to dramatic changes in color,
+brightness or movement.
+
+43
+00:01:55,301 --> 00:02:00,258
+We call this difference in
+color or illumination contrast.
+
+44
+00:02:00,258 --> 00:02:02,045
+Our brains are hard-wired to notice
+
+45
+00:02:02,045 --> 00:02:05,453
+when colors contrast with each other.
+
+46
+00:02:05,453 --> 00:02:06,914
+In the color mastering suite,
+
+47
+00:02:06,914 --> 00:02:09,268
+we can adjust the contrast
+of an entire image
+
+48
+00:02:09,268 --> 00:02:11,663
+using a contrast slider.
+
+49
+00:02:11,663 --> 00:02:15,115
+It works by increasing or decreasing
+
+50
+00:02:15,115 --> 00:02:17,269
+the differences in brightness,
+
+51
+00:02:17,269 --> 00:02:20,116
+or the illumination
+levels across the image.
+
+52
+00:02:20,116 --> 00:02:22,792
+For example, notice the
+left half of this image
+
+53
+00:02:22,792 --> 00:02:27,258
+has a lower contrast
+level than the right half.
+
+54
+00:02:27,258 --> 00:02:29,247
+Getting this contrast level right
+
+55
+00:02:29,247 --> 00:02:32,499
+is really important in Pixar movies.
+
+56
+00:02:32,499 --> 00:02:34,288
+For example, at the end of Inside Out,
+
+57
+00:02:34,288 --> 00:02:36,151
+in the headquarters there's a scene
+
+58
+00:02:36,151 --> 00:02:39,399
+where the character Anger
+gets really, really angry
+
+59
+00:02:39,399 --> 00:02:41,553
+and to sort of heighten this sense of him,
+
+60
+00:02:41,553 --> 00:02:43,705
+flames exploding from his head,
+
+61
+00:02:43,705 --> 00:02:46,954
+the surrounding area of
+the image is darkened
+
+62
+00:02:46,954 --> 00:02:48,744
+so that the contrast difference
+
+63
+00:02:48,744 --> 00:02:50,978
+is really quite extreme in that moment.
+
+64
+00:02:50,978 --> 00:02:52,562
+These kinds of decisions are made
+
+65
+00:02:52,562 --> 00:02:55,202
+by the Director of Photography.
+
+66
+00:02:55,202 --> 00:02:58,694
+And casually, we refer to them as the DPs.
+
+67
+00:02:58,694 --> 00:03:00,848
+Any decision that involves colors
+
+68
+00:03:00,848 --> 00:03:03,893
+or lighting of any kind
+will involve the DP.
+
+69
+00:03:03,893 --> 00:03:07,222
+Another great example is
+from the movie Toy Story 3.
+
+70
+00:03:07,222 --> 00:03:09,491
+Lotso the bear has sort
+of, in this whole sequence,
+
+71
+00:03:09,491 --> 00:03:11,644
+been the only really
+pink thing in the scene.
+
+72
+00:03:11,644 --> 00:03:14,079
+It's very much about an emotion of love
+
+73
+00:03:14,079 --> 00:03:16,554
+between Lotso's owner and the bear.
+
+74
+00:03:16,554 --> 00:03:18,506
+And then as the bear is lost,
+
+75
+00:03:18,506 --> 00:03:21,020
+there's a scene at the
+end where Lotso's looking
+
+76
+00:03:21,020 --> 00:03:24,762
+in the window at his owner
+and the replacement bear
+
+77
+00:03:24,762 --> 00:03:27,119
+and then what we're trying to do there
+
+78
+00:03:27,119 --> 00:03:29,353
+is sort of have Lotso, the original,
+
+79
+00:03:29,353 --> 00:03:31,544
+seem far less pink than the new bear
+
+80
+00:03:31,544 --> 00:03:33,495
+which is pretty much
+now the sort of center
+
+81
+00:03:33,495 --> 00:03:35,931
+of attention of love and
+heightening that perception
+
+82
+00:03:35,931 --> 00:03:37,882
+of the difference between how pink
+
+83
+00:03:37,882 --> 00:03:42,723
+each of them are was very
+much central to the emotion.
+
+84
+00:03:42,723 --> 00:03:43,611
+In the next exercise,
+
+85
+00:03:43,611 --> 00:03:47,000
+you'll have a chance
+to play with contrast. aimozhen.com/pixarinabox
+

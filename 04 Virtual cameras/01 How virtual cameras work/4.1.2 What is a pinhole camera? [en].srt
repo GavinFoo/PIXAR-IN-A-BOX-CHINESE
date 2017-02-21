@@ -1,0 +1,318 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,217 --> 00:00:05,094
+- Hey. My name is Eben Ostby.
+
+3
+00:00:05,094 --> 00:00:07,167
+I've been working at
+Pixar since we were just
+
+4
+00:00:07,167 --> 00:00:11,583
+half a dozen people working
+on experimental short films.
+
+5
+00:00:11,583 --> 00:00:13,616
+One thing that hasn't changed since then
+
+6
+00:00:13,616 --> 00:00:15,739
+is the need for virtual cameras.
+
+7
+00:00:15,739 --> 00:00:17,551
+And to understand virtual cameras,
+
+8
+00:00:17,551 --> 00:00:20,910
+you need a firm grasp of
+how physical cameras work.
+
+9
+00:00:20,910 --> 00:00:22,595
+And I love cameras.
+
+10
+00:00:22,595 --> 00:00:26,649
+In fact, I collect and fix
+and sometimes even build them.
+
+11
+00:00:27,649 --> 00:00:30,001
+I built this in a CAD system.
+
+12
+00:00:31,001 --> 00:00:33,551
+And printed it out with 3D
+printing and it takes pictures.
+
+13
+00:00:33,551 --> 00:00:36,434
+(camera clicks) Like that.
+
+14
+00:00:36,434 --> 00:00:38,210
+And cameras come in all shapes and sizes,
+
+15
+00:00:38,210 --> 00:00:40,435
+like this little, baby twin-lens.
+
+16
+00:00:44,435 --> 00:00:49,101
+And this Classic American
+Argus. (camera clicks)
+
+17
+00:00:49,101 --> 00:00:51,499
+So at Pixar, when we
+design a virtual camera
+
+18
+00:00:51,499 --> 00:00:56,398
+our job is model what happens
+inside physical cameras.
+
+19
+00:00:56,398 --> 00:00:58,678
+Have you ever thought about
+what a camera really does
+
+20
+00:00:58,678 --> 00:01:01,403
+when we take a picture? (camera clicks)
+
+21
+00:01:01,403 --> 00:01:03,957
+You probably know that
+a camera captures light
+
+22
+00:01:03,957 --> 00:01:06,406
+on a piece of film or image sensor.
+
+23
+00:01:06,406 --> 00:01:07,909
+But to understand how this works,
+
+24
+00:01:07,909 --> 00:01:10,267
+let's build a very simple camera.
+
+25
+00:01:10,267 --> 00:01:13,045
+We'll start with a box.
+This is our camera body.
+
+26
+00:01:13,045 --> 00:01:14,700
+And a single piece of paper,
+
+27
+00:01:14,700 --> 00:01:16,947
+which represents our image sensor or film.
+
+28
+00:01:16,947 --> 00:01:19,764
+We'll call this the "image plane."
+
+29
+00:01:19,764 --> 00:01:20,663
+You know what?
+
+30
+00:01:20,663 --> 00:01:22,684
+Let's do this at a larger scale,
+
+31
+00:01:22,684 --> 00:01:26,009
+like using an office as our box.
+
+32
+00:01:26,009 --> 00:01:28,235
+Our scene is now outside the window.
+
+33
+00:01:28,235 --> 00:01:30,890
+And our image plane is the opposite wall.
+
+34
+00:01:30,890 --> 00:01:32,712
+We don't see a clear image.
+
+35
+00:01:32,712 --> 00:01:35,296
+The problem is any
+point on our image plane
+
+36
+00:01:35,296 --> 00:01:37,496
+is getting hit by light from
+everywhere in the scene.
+
+37
+00:01:37,496 --> 00:01:39,706
+What we want is for each
+point on our image plane
+
+38
+00:01:39,706 --> 00:01:43,539
+to be hit by light from a
+tiny region of the scene.
+
+39
+00:01:43,539 --> 00:01:45,471
+Look at what happens if
+we cover up the window
+
+40
+00:01:45,471 --> 00:01:48,043
+except for a little hole.
+
+41
+00:01:48,043 --> 00:01:51,565
+We call this small hole the
+"aperture" of our camera.
+
+42
+00:01:51,565 --> 00:01:54,733
+If you wait a few minutes for
+your eyes to adjust, voila.
+
+43
+00:01:54,733 --> 00:01:55,968
+An image.
+
+44
+00:01:55,968 --> 00:01:58,069
+The reason it works,
+is because the aperture
+
+45
+00:01:58,069 --> 00:02:01,186
+only lets certain light rays through.
+
+46
+00:02:01,186 --> 00:02:04,042
+At this point, here, on the image plane,
+
+47
+00:02:04,042 --> 00:02:05,899
+only light rays from one direction
+
+48
+00:02:05,899 --> 00:02:08,524
+can make it through the aperture.
+
+49
+00:02:08,524 --> 00:02:10,585
+And those light rays come
+from light bouncing off
+
+50
+00:02:10,585 --> 00:02:13,067
+this place in the scene.
+
+51
+00:02:13,067 --> 00:02:15,310
+So the aperture is
+filtering out any light rays
+
+52
+00:02:15,310 --> 00:02:17,705
+that don't come from the right direction.
+
+53
+00:02:17,705 --> 00:02:20,514
+This simple camera design is
+known as a "pinhole camera."
+
+54
+00:02:20,514 --> 00:02:22,682
+If we replace the back wall of the room
+
+55
+00:02:22,682 --> 00:02:25,043
+with a great big sheet
+of photographic film,
+
+56
+00:02:25,043 --> 00:02:27,639
+we could take a great picture that way.
+
+57
+00:02:27,639 --> 00:02:28,962
+Did you know that the word camera
+
+58
+00:02:28,962 --> 00:02:31,245
+comes from the Latin word for room?
+
+59
+00:02:31,245 --> 00:02:33,943
+The first cameras were
+known as "camera obscura"
+
+60
+00:02:33,943 --> 00:02:35,961
+meaning "darkened room."
+
+61
+00:02:35,961 --> 00:02:39,038
+They were in fact,
+room-sized like our office.
+
+62
+00:02:39,038 --> 00:02:42,518
+In the next exercise, you can
+use this pinhole simulator
+
+63
+00:02:42,518 --> 00:02:45,002
+to take some virtual pictures.
+
+64
+00:02:45,002 --> 00:02:47,997
+You can adjust the size of
+your pinhole, or aperture,
+
+65
+00:02:47,997 --> 00:02:52,024
+and press here to capture
+an image. (camera clicks)
+
+66
+00:02:52,024 --> 00:02:54,318
+While doing so, you'll have
+to answer some questions
+
+67
+00:02:54,318 --> 00:02:56,008
+about what's going on.
+
+68
+00:02:56,008 --> 00:02:58,336
+Such as, why is the image flipped?
+
+69
+00:02:58,336 --> 00:02:59,352
+And more importantly,
+
+70
+00:02:59,352 --> 00:03:02,729
+what happens if we change
+the size of our aperture?
+
+71
+00:03:02,729 --> 00:03:03,913
+(camera snaps)
+
+72
+00:03:03,913 --> 00:03:05,000
+See you in a moment. aimozhen.com/pixarinabox
+

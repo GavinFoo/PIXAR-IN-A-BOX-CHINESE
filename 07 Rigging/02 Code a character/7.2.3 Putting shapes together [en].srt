@@ -1,0 +1,169 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,219 --> 00:00:06,152
+- [Narrator] Okay, so far you've
+made a single shape object
+
+3
+00:00:06,152 --> 00:00:09,057
+which contains information
+to draw a circle,
+
+4
+00:00:09,057 --> 00:00:12,138
+but we'll need more shapes
+to build our snowman,
+
+5
+00:00:12,138 --> 00:00:13,992
+and we'll want to store
+all of these shapes
+
+6
+00:00:13,992 --> 00:00:15,276
+inside one data structure,
+
+7
+00:00:15,276 --> 00:00:17,816
+which represents our snowman model.
+
+8
+00:00:17,816 --> 00:00:20,170
+One way we can do this is with an array,
+
+9
+00:00:20,170 --> 00:00:24,891
+where each position in the
+array holds one shape object.
+
+10
+00:00:29,891 --> 00:00:32,512
+In the next exercise, you'll
+define an array called
+
+11
+00:00:32,512 --> 00:00:34,643
+shapes array to do this.
+
+12
+00:00:34,643 --> 00:00:37,493
+Think of this shapes
+array as our entire model.
+
+13
+00:00:37,493 --> 00:00:39,058
+It has everything the computer needs
+
+14
+00:00:39,058 --> 00:00:42,310
+to draw all the pieces of the model.
+
+15
+00:00:42,310 --> 00:00:43,776
+But what about a hat for Nick?
+
+16
+00:00:43,776 --> 00:00:45,155
+We can't draw that with circles...
+
+17
+00:00:45,155 --> 00:00:46,920
+That would be crazy!
+
+18
+00:00:48,920 --> 00:00:50,036
+The short film, Nick Nack,
+
+19
+00:00:50,036 --> 00:00:52,646
+was made with simple geometric shapes.
+
+20
+00:00:52,646 --> 00:00:53,979
+One easy way to draw any shape
+
+21
+00:00:53,979 --> 00:00:57,295
+is to define a series of
+points called vertices.
+
+22
+00:00:57,295 --> 00:01:01,383
+For example, the hat would
+need eight vertices like this.
+
+23
+00:01:01,383 --> 00:01:02,216
+Each of these points
+
+24
+00:01:02,216 --> 00:01:05,424
+is represented by a pair of coordinates.
+
+25
+00:01:06,424 --> 00:01:08,676
+And then, the entire
+list of these vertices
+
+26
+00:01:08,676 --> 00:01:11,908
+can be stored in a larger array.
+
+27
+00:01:12,908 --> 00:01:17,614
+So we'll have an array of arrays
+to store any shape we want.
+
+28
+00:01:17,614 --> 00:01:19,236
+And we'll let another part of the program
+
+29
+00:01:19,236 --> 00:01:21,653
+actually connect these dots for us.
+
+30
+00:01:21,653 --> 00:01:24,064
+First up, we have two exercises for you.
+
+31
+00:01:24,064 --> 00:01:25,121
+In the first exercise,
+
+32
+00:01:25,121 --> 00:01:26,375
+you'll be creating a shapes array
+
+33
+00:01:26,375 --> 00:01:28,746
+to hold each of your shape objects.
+
+34
+00:01:28,746 --> 00:01:31,864
+This will allow you to add
+your head and your body.
+
+35
+00:01:31,864 --> 00:01:34,524
+After that, you'll have a
+chance to create any shape,
+
+36
+00:01:34,524 --> 00:01:37,642
+starting with a classic, black hat.
+
+37
+00:01:39,642 --> 00:01:40,599
+Have fun! (laughs)
+
+38
+00:01:40,599 --> 00:01:41,497
+Yay!
+
+39
+00:01:41,497 --> 00:01:42,000
+Go for it! aimozhen.com/pixarinabox
+
