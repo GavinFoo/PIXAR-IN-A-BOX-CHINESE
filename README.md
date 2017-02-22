@@ -1,6 +1,9 @@
 # Pixar in a Box 中文翻译计划
 
 ------
+Pixar in a Box 中文翻译计划介绍 [https://shimo.im/doc/1gXmnIZOzL4biwRS](https://shimo.im/doc/1gXmnIZOzL4biwRS)
+
+------
 
 Pixar in a Box is a behind-the-scenes look at how Pixar artists do their jobs. You will be able to animate bouncing balls, build a swarm of robots, and make virtual fireworks explode. The subjects you learn in school — math, science, computer science, and humanities — are used every day to create amazing movies at Pixar. This collaboration between Pixar Animation Studios and Khan Academy is sponsored by Disney. 
 
