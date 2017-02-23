@@ -4,8 +4,7 @@
 
 2
 00:00:02,183 --> 00:00:04,459
-a collaboration between
-Pixar Animation Studios
+a collaboration between Pixar Animation Studios
 
 3
 00:00:04,459 --> 00:00:06,263

@@ -1,0 +1,212 @@
+1
+00:00:00,000 --> 00:00:03,465
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,465 --> 00:00:05,346
+- In the previous video, we saw how to compute
+
+3
+00:00:05,346 --> 00:00:07,598
+an intersection point, I, that lies in the plane
+
+4
+00:00:07,598 --> 00:00:09,386
+of a triangle.
+
+5
+00:00:09,386 --> 00:00:11,882
+But how can we tell if the point is like this one,
+
+6
+00:00:11,882 --> 00:00:15,470
+that's inside the triangle; or like this one,
+
+7
+00:00:15,470 --> 00:00:17,314
+that's outside the triangle?
+
+8
+00:00:18,314 --> 00:00:20,567
+The method our ray tracer actually uses makes use
+
+9
+00:00:20,567 --> 00:00:22,320
+of vector algebra.
+
+10
+00:00:22,320 --> 00:00:24,619
+But a method that is essentially the same is easy
+
+11
+00:00:24,619 --> 00:00:27,576
+to explain if you understand weighted averages.
+
+12
+00:00:29,576 --> 00:00:31,293
+(bell)
+
+13
+00:00:32,293 --> 00:00:34,708
+Notice that as I change the weights in the average,
+
+14
+00:00:34,708 --> 00:00:37,831
+the intersection point, I, moves.
+
+15
+00:00:37,831 --> 00:00:40,082
+And if all the weights are positive,
+
+16
+00:00:40,082 --> 00:00:42,591
+I is inside the triangle.
+
+17
+00:00:42,591 --> 00:00:43,717
+But look what happens when one
+
+18
+00:00:43,717 --> 00:00:45,958
+or more weights is negative:
+
+19
+00:00:45,958 --> 00:00:48,175
+I escapes from the triangle.
+
+20
+00:00:48,175 --> 00:00:49,476
+Bingo!
+
+21
+00:00:49,476 --> 00:00:52,471
+If we can determine the weights needed to produce I,
+
+22
+00:00:52,471 --> 00:00:55,060
+we can simply check their signs.
+
+23
+00:00:55,060 --> 00:00:57,231
+If one or two of them is negative,
+
+24
+00:00:57,231 --> 00:00:59,262
+I is outside the triangle,
+
+25
+00:00:59,262 --> 00:01:02,140
+and otherwise, I is inside.
+
+26
+00:01:03,140 --> 00:01:05,404
+But how can we determine the weights?
+
+27
+00:01:05,404 --> 00:01:07,367
+Let's leave them as unknowns for the moment,
+
+28
+00:01:07,367 --> 00:01:10,697
+and we'll call them little a, little b, and little c.
+
+29
+00:01:11,697 --> 00:01:16,033
+Every point I in the plane of big A, big B, and big C
+
+30
+00:01:17,033 --> 00:01:19,084
+can be written as a weighted average
+
+31
+00:01:19,084 --> 00:01:22,298
+of big A, big B, and big C.
+
+32
+00:01:23,298 --> 00:01:26,921
+If I pick little a, little b, and little c,
+
+33
+00:01:26,921 --> 00:01:28,581
+so that they add to one,
+
+34
+00:01:28,581 --> 00:01:30,471
+then I can forget about the denominator.
+
+35
+00:01:31,471 --> 00:01:33,422
+The resulting equation,
+
+36
+00:01:33,422 --> 00:01:36,172
+I equals little a times big A
+
+37
+00:01:36,172 --> 00:01:38,438
+plus little b times big B
+
+38
+00:01:38,438 --> 00:01:40,771
+plus little c times big C
+
+39
+00:01:40,771 --> 00:01:43,441
+represents the following three equations:
+
+40
+00:01:43,441 --> 00:01:45,031
+one for the x-coordinate,
+
+41
+00:01:45,031 --> 00:01:46,402
+one for the y-coordinate,
+
+42
+00:01:46,402 --> 00:01:48,527
+and one for the z.
+
+43
+00:01:48,527 --> 00:01:52,614
+We know I, big A, big B, and big C,
+
+44
+00:01:52,614 --> 00:01:57,117
+so the only unknowns are little a, little b, and little c.
+
+45
+00:01:57,117 --> 00:01:59,672
+So this is three equations and three unknowns
+
+46
+00:01:59,672 --> 00:02:02,215
+that can be solved for the values of little a,
+
+47
+00:02:02,215 --> 00:02:04,885
+little b, and little c.
+
+48
+00:02:04,885 --> 00:02:07,544
+Once you know little a, little b, and little c,
+
+49
+00:02:07,544 --> 00:02:10,175
+check their signs to determine if I is inside the triangle.
+
+50
+00:02:12,175 --> 00:02:14,104
+In this final exercise, you'll be asked
+
+51
+00:02:14,104 --> 00:02:16,146
+to compute intersection points I,
+
+52
+00:02:16,146 --> 00:02:19,816
+and determine if they lie inside or outside the triangle.
+
+53
+00:02:19,816 --> 00:02:23,000
+Now, after all that, go forth and write your own ray tracer. aimozhen.com/pixarinabox
+

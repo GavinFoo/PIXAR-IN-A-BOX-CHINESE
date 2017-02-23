@@ -1,0 +1,196 @@
+1
+00:00:00,000 --> 00:00:03,254
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,254 --> 00:00:05,900
+- Recall that to figure out where a two-dimensional ray
+
+3
+00:00:05,900 --> 00:00:08,037
+intersects a line segment, we started by
+
+4
+00:00:08,037 --> 00:00:11,514
+first introducing a coordinate system.
+
+5
+00:00:11,514 --> 00:00:13,227
+Once we have our coordinate system,
+
+6
+00:00:13,227 --> 00:00:16,342
+we can write our line AB in slope intercept form.
+
+7
+00:00:21,342 --> 00:00:24,894
+Since in this example A has coordinates three two,
+
+8
+00:00:24,894 --> 00:00:28,093
+and B has coordinates four negative one,
+
+9
+00:00:28,093 --> 00:00:30,531
+the slope intercept form of AB
+
+10
+00:00:30,531 --> 00:00:34,912
+is y equals negative three x plus 11.
+
+11
+00:00:35,912 --> 00:00:40,974
+Similarly, if I pick P to have coordinates two, one half,
+
+12
+00:00:40,974 --> 00:00:44,015
+then the slope intercept form of the ray CP
+
+13
+00:00:44,015 --> 00:00:48,351
+is y equals one quarter x.
+
+14
+00:00:48,351 --> 00:00:52,136
+The point I we're looking for is on both of these lines.
+
+15
+00:00:52,136 --> 00:00:57,175
+So if I sub x and I sub y represent the coordinates of I,
+
+16
+00:00:57,175 --> 00:01:02,254
+then I sub y equals negative three I sub x plus eleven,
+
+17
+00:01:02,254 --> 00:01:05,104
+because I lies on AB.
+
+18
+00:01:05,104 --> 00:01:09,260
+And I sub y equals one quarter I sub x,
+
+19
+00:01:09,260 --> 00:01:13,393
+because I lies on the ray CP.
+
+20
+00:01:13,393 --> 00:01:15,901
+Solving these two equations for the two unknowns
+
+21
+00:01:15,901 --> 00:01:20,311
+gives us the coordinates I sub x and I sub y.
+
+22
+00:01:21,311 --> 00:01:22,420
+Using the slope intercept form
+
+23
+00:01:22,420 --> 00:01:24,324
+of the ray works in two dimensions,
+
+24
+00:01:24,324 --> 00:01:26,623
+and is fairly simple to understand, but there's a problem
+
+25
+00:01:26,623 --> 00:01:28,875
+when we generalize it to three dimensions.
+
+26
+00:01:28,875 --> 00:01:30,686
+The problem is that in three dimensions,
+
+27
+00:01:30,686 --> 00:01:33,239
+the ray doesn't have a slope intercept form.
+
+28
+00:01:33,239 --> 00:01:36,282
+So we'll have to throw out this representation of our ray
+
+29
+00:01:36,282 --> 00:01:40,995
+in preparation for three dimensional raytracing.
+
+30
+00:01:40,995 --> 00:01:43,468
+To represent our ray CP, we'll use
+
+31
+00:01:43,468 --> 00:01:46,348
+something called a parametric function.
+
+32
+00:01:46,348 --> 00:01:49,203
+What I'm about to write looks a little strange at first,
+
+33
+00:01:49,203 --> 00:01:51,084
+but bear with me, these functions start to
+
+34
+00:01:51,084 --> 00:01:53,778
+become familiar with practice.
+
+35
+00:01:53,778 --> 00:01:57,771
+My ray will be represented by a new function, R of t,
+
+36
+00:01:57,771 --> 00:02:00,558
+that is the weighted average of C and P,
+
+37
+00:02:00,558 --> 00:02:03,489
+where t is the weight.
+
+38
+00:02:07,489 --> 00:02:10,829
+In particular, I'm going to write R of t
+
+39
+00:02:10,829 --> 00:02:15,261
+as one minus t times C, plus t times P.
+
+40
+00:02:16,261 --> 00:02:19,069
+Notice what happens when t equals zero.
+
+41
+00:02:19,069 --> 00:02:23,503
+One minus t is just one. So R of zero is C.
+
+42
+00:02:24,503 --> 00:02:29,442
+And when t equals one, R of one equals P.
+
+43
+00:02:30,442 --> 00:02:34,877
+That's convenient, because I can relabel C as R of zero,
+
+44
+00:02:34,877 --> 00:02:38,627
+and I can relabel P as R of one.
+
+45
+00:02:38,627 --> 00:02:43,639
+R of one half would be exactly halfway between C and P.
+
+46
+00:02:45,639 --> 00:02:48,032
+Values of t greater than one name points
+
+47
+00:02:48,032 --> 00:02:52,390
+on the ray off in the scene beyond P.
+
+48
+00:02:52,390 --> 00:02:54,411
+Before we continue, get some experience
+
+49
+00:02:54,411 --> 00:02:58,000
+using this kind of parametric function in the next exercise. aimozhen.com/pixarinabox
+

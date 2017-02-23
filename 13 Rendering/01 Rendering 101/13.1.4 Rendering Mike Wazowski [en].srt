@@ -1,0 +1,164 @@
+1
+00:00:00,000 --> 00:00:03,138
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,138 --> 00:00:04,737
+- In the first few videos, we discussed
+
+3
+00:00:04,737 --> 00:00:06,739
+the basic job of a ray tracer:
+
+4
+00:00:06,739 --> 00:00:08,119
+determine the final pixel color
+
+5
+00:00:08,119 --> 00:00:10,916
+for each pixel in an image.
+
+6
+00:00:11,916 --> 00:00:13,836
+Let's look at a "real-world" example
+
+7
+00:00:13,836 --> 00:00:15,690
+from Monster's University.
+
+8
+00:00:15,690 --> 00:00:17,807
+First, for each pixel, we need to find
+
+9
+00:00:17,807 --> 00:00:19,922
+the intersection point between a ray,
+
+10
+00:00:19,922 --> 00:00:22,767
+starting at the camera,
+shooting through a pixel,
+
+11
+00:00:22,767 --> 00:00:24,923
+and shooting into the scene.
+
+12
+00:00:24,923 --> 00:00:26,196
+The next step is to ask,
+
+13
+00:00:26,196 --> 00:00:28,955
+"What color is each of these surfaces?"
+
+14
+00:00:28,955 --> 00:00:30,481
+It turns out that color, alone
+
+15
+00:00:30,481 --> 00:00:33,662
+isn't very interesting to look at, right?
+
+16
+00:00:33,662 --> 00:00:35,421
+Next, we need to determine how
+
+17
+00:00:35,421 --> 00:00:37,233
+the surface will respond to light.
+
+18
+00:00:37,233 --> 00:00:39,659
+As we discussed earlier,
+the two basic components
+
+19
+00:00:39,659 --> 00:00:43,793
+of surface response are
+called diffuse and specular.
+
+20
+00:00:43,793 --> 00:00:47,801
+This is a picture of how
+diffuse, or dull, each object is.
+
+21
+00:00:47,801 --> 00:00:49,758
+Where this image is bright white
+
+22
+00:00:49,758 --> 00:00:53,261
+is gonna be where the dullest
+surface in the scene is.
+
+23
+00:00:53,261 --> 00:00:56,488
+For example, the hat is really dull.
+
+24
+00:00:56,488 --> 00:00:58,125
+And this is a picture of how specular,
+
+25
+00:00:58,125 --> 00:01:00,793
+or shiny, each object is.
+
+26
+00:01:00,793 --> 00:01:02,526
+Now, from this image, can you tell
+
+27
+00:01:02,526 --> 00:01:05,111
+where the main light source is?
+
+28
+00:01:05,111 --> 00:01:08,800
+Pause the video now, if
+you need some more time.
+
+29
+00:01:08,800 --> 00:01:11,090
+The light source is off to
+the left side of the screen.
+
+30
+00:01:11,090 --> 00:01:15,066
+You can actually see it
+reflected in Mike's eye, here.
+
+31
+00:01:15,066 --> 00:01:18,270
+Now, each object in the scene
+receives directing lighting,
+
+32
+00:01:18,270 --> 00:01:21,322
+which we see here in these
+images of diffuse and specular.
+
+33
+00:01:21,322 --> 00:01:23,831
+But they also received indirect lighting,
+
+34
+00:01:23,831 --> 00:01:27,767
+which is light bouncing off
+of other objects in the scene.
+
+35
+00:01:27,767 --> 00:01:31,325
+So what happens when we put all
+these calculations together?
+
+36
+00:01:40,325 --> 00:01:41,831
+It's kind of magical, right?
+
+37
+00:01:41,831 --> 00:01:42,958
+That's what we do.
+
+38
+00:01:42,958 --> 00:01:46,000
+It's math, but used to create magic! aimozhen.com/pixarinabox
+

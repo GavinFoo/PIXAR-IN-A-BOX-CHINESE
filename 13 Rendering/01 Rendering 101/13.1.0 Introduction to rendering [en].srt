@@ -1,0 +1,175 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:00,450 --> 00:00:04,979
+Hello. Hold on for just a second, please.
+Welcome to "Rendering."
+
+3
+00:00:04,979 --> 00:00:08,400
+I'm Christophe Hery and
+I'm a researcher at Pixar.
+
+4
+00:00:08,400 --> 00:00:11,309
+Rendering is the last phase of
+the pipline and film production
+
+5
+00:00:11,309 --> 00:00:15,820
+that takes our movies
+from this to this.
+
+6
+00:00:15,820 --> 00:00:19,850
+Rendering is where the world we've created
+in the virtual three-dimensional space
+
+7
+00:00:19,850 --> 00:00:24,039
+of the computer is finally realized
+as a series of perfectly rendered
+
+8
+00:00:24,039 --> 00:00:26,990
+two-dimensional images
+that play one after another
+
+9
+00:00:26,990 --> 00:00:31,100
+for 96 minutes and
+become our movie.
+
+10
+00:00:31,100 --> 00:00:34,510
+Rendering is an incredibly
+time-consuming process,
+
+11
+00:00:34,510 --> 00:00:37,310
+all focused on answering
+one simple question:
+
+12
+00:00:37,310 --> 00:00:41,000
+"What color is this pixel –
+and then this pixel –
+
+13
+00:00:41,000 --> 00:00:44,049
+and then this pixel
+and this pixel?"
+
+14
+00:00:44,049 --> 00:00:45,100
+Seems simple enough.
+
+15
+00:00:45,100 --> 00:00:52,260
+I mean, the balloon is blue,
+so the pixel will be blue, right?
+
+16
+00:00:52,260 --> 00:00:53,000
+Well not exactly.
+
+17
+00:00:53,000 --> 00:00:56,899
+A pixel is a tiny portion
+of the final image.
+
+18
+00:00:56,899 --> 00:01:01,000
+It acts like a little window
+into the virtual 3D world.
+
+19
+00:01:01,000 --> 00:01:03,058
+To understand what
+color it should be,
+
+20
+00:01:03,058 --> 00:01:05,139
+we have to figure out
+what part of the picture
+
+21
+00:01:05,139 --> 00:01:06,920
+we see through that window.
+
+22
+00:01:06,920 --> 00:01:11,170
+We translate this question,
+"What color is this pixel?", into math.
+
+23
+00:01:11,170 --> 00:01:14,438
+This equation is called
+the "rendering equation."
+
+24
+00:01:14,438 --> 00:01:18,039
+It's a mathematical description of how
+light bounces around in the environment.
+
+25
+00:01:18,039 --> 00:01:21,709
+I know we said "color."
+And this equation is about light.
+
+26
+00:01:21,709 --> 00:01:23,509
+But there's a good reason for that.
+
+27
+00:01:23,509 --> 00:01:28,759
+Color is light – just light
++of different wavelengths.
+
+28
+00:01:28,759 --> 00:01:32,450
+So when we ask the question,
+"What color is this pixel?",
+
+29
+00:01:32,450 --> 00:01:38,218
+we're really asking "What light is coming
+through this pixel towards the camera?"
+
+30
+00:01:38,218 --> 00:01:41,599
+The solution to the equation
+will be the answer to our question.
+
+31
+00:01:41,599 --> 00:01:45,509
+"This pixel is – purple?"
+[Asks in an unsure way.]
+
+32
+00:01:45,509 --> 00:01:48,090
+To render a movie like "Up,"
+we have to ask this question:
+
+33
+00:01:48,090 --> 00:01:51,880
+"What color is this pixel?"
+billions and billions of times.
+
+34
+00:01:51,880 --> 00:01:57,259
+But just like every part of this process,
+each little calculation isn't hard to do.
+
+35
+00:01:57,259 --> 00:02:01,459
+It's the layer upon layer
+of calculation that makes it complex,
+
+36
+00:02:01,459 --> 00:02:07,000
+but also makes it possible to bring
+something this beautiful to the screen. aimozhen.com/pixarinabox
+
