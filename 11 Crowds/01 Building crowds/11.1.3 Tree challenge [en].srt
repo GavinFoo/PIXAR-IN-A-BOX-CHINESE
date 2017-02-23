@@ -1,0 +1,113 @@
+1
+00:00:00,000 --> 00:00:03,395
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,395 --> 00:00:06,140
+- Great work, but suppose
+the director decides
+
+3
+00:00:06,140 --> 00:00:08,883
+that we need robots made
+up of a little more variety
+
+4
+00:00:08,883 --> 00:00:11,210
+and now, we need three kinds of parts;
+
+5
+00:00:11,210 --> 00:00:15,087
+heads, bodies, and arms.
+
+6
+00:00:15,087 --> 00:00:16,553
+When there are three parts to combine,
+
+7
+00:00:16,553 --> 00:00:18,504
+the table doesn't work anymore.
+
+8
+00:00:18,504 --> 00:00:20,872
+We need some other way to think
+about all the different ways
+
+9
+00:00:20,872 --> 00:00:23,664
+that three parts can be combined.
+
+10
+00:00:23,664 --> 00:00:26,307
+It would be even better if we
+can think of a way that works
+
+11
+00:00:26,307 --> 00:00:31,983
+for two, or three, or four,
+or even more kinds of parts.
+
+12
+00:00:31,983 --> 00:00:34,148
+When I first start trying
+to solve a new problem,
+
+13
+00:00:34,148 --> 00:00:35,440
+I like to break that problem down
+
+14
+00:00:35,440 --> 00:00:39,340
+into a bunch of smaller parts
+that are easier to solve.
+
+15
+00:00:39,340 --> 00:00:41,887
+In this case, counting
+the number of robots made
+
+16
+00:00:41,887 --> 00:00:44,776
+from two heads and three bodies.
+
+17
+00:00:44,776 --> 00:00:47,307
+I can illustrate the two
+ways of selecting a head
+
+18
+00:00:47,307 --> 00:00:50,170
+using a picture like this.
+
+19
+00:00:50,170 --> 00:00:53,014
+And, I can illustrate the
+three ways of selecting a body
+
+20
+00:00:53,014 --> 00:00:55,930
+using a picture like this.
+
+21
+00:00:55,930 --> 00:00:58,437
+The problem with these picture
+so far is, they make it look
+
+22
+00:00:58,437 --> 00:01:01,846
+like there are only five
+possible combinations.
+
+23
+00:01:01,846 --> 00:01:03,862
+Before moving on to the next video,
+
+24
+00:01:03,862 --> 00:01:05,976
+see if you can combine these two diagrams
+
+25
+00:01:05,976 --> 00:01:09,000
+to show that there are six
+different combinations of robots. aimozhen.com/pixarinabox
+

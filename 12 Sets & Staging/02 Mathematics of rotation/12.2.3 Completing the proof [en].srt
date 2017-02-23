@@ -1,0 +1,272 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:00,434 --> 00:00:03,302
+(Springing sound)
+
+3
+00:00:03,302 --> 00:00:05,204
+- In the previous exercise, you should have found
+
+4
+00:00:05,204 --> 00:00:07,531
+that length OA is R cosine theta.
+
+5
+00:00:08,531 --> 00:00:12,357
+But why? First notice that OPA is a right triangle.
+
+6
+00:00:12,357 --> 00:00:14,569
+So we can use sine and cosine.
+
+7
+00:00:15,569 --> 00:00:18,158
+OA is the side adjacent to theta.
+
+8
+00:00:18,158 --> 00:00:21,748
+Meaning that OA equals R cosine theta.
+
+9
+00:00:22,748 --> 00:00:28,655
+Similarly, AP prime equals R sine theta. Good.
+
+10
+00:00:28,655 --> 00:00:32,528
+So we need to show that angle DP prime A is phi.
+
+11
+00:00:33,528 --> 00:00:36,842
+That's because there are similar triangles lurking in there.
+
+12
+00:00:36,842 --> 00:00:42,264
+In particular, this triangle, and this triangle are similar.
+
+13
+00:00:43,264 --> 00:00:47,895
+To see that, notice that this angle is equal to this angle.
+
+14
+00:00:47,895 --> 00:00:49,496
+Because of the opposite angle theorem,
+
+15
+00:00:50,496 --> 00:00:54,416
+notice also that this angle is 90 degrees, as is this angle.
+
+16
+00:00:54,416 --> 00:00:57,328
+Meaning that the two triangles share two angles.
+
+17
+00:00:58,328 --> 00:01:00,465
+They must also share the third angle,
+
+18
+00:01:00,465 --> 00:01:04,193
+because all three angles must add up to 180 degrees.
+
+19
+00:01:05,193 --> 00:01:09,064
+Thus, CP prime A is phi. Now we're set.
+
+20
+00:01:11,064 --> 00:01:13,042
+One thing we're looking for is this distance,
+
+21
+00:01:13,042 --> 00:01:15,947
+OC, because that's X prime.
+
+22
+00:01:15,947 --> 00:01:20,230
+As we observed earlier, OC is equal to OB minus BC.
+
+23
+00:01:21,230 --> 00:01:24,331
+So X prime equals OB minus BC.
+
+24
+00:01:25,331 --> 00:01:28,509
+And since BC equals AD, we can write
+
+25
+00:01:28,509 --> 00:01:32,905
+X prime equals OB minus AD.
+
+26
+00:01:32,905 --> 00:01:36,301
+But what's OB? It's adjacent to phi,
+
+27
+00:01:36,301 --> 00:01:40,825
+so cosine phi equals OB over OA.
+
+28
+00:01:40,825 --> 00:01:44,461
+And we know that OA equals R cosine theta.
+
+29
+00:01:44,461 --> 00:01:49,983
+So cosine phi equals OB over R cosine theta.
+
+30
+00:01:49,983 --> 00:01:54,290
+And OB equals R cosine theta, cosine phi.
+
+31
+00:01:55,290 --> 00:01:59,685
+So OB equals R cosine phi times cosine theta.
+
+32
+00:01:59,685 --> 00:02:02,180
+But we know that R cosine phi is just X,
+
+33
+00:02:02,180 --> 00:02:08,151
+so OB equals X cosine theta. Now what's AD?
+
+34
+00:02:09,151 --> 00:02:13,497
+Well, AD is opposite phi in the triangle DP prime A.
+
+35
+00:02:13,497 --> 00:02:17,388
+So sine phi equals AD over AP prime.
+
+36
+00:02:19,388 --> 00:02:22,270
+And we know that AP prime equals R sine theta.
+
+37
+00:02:23,270 --> 00:02:28,527
+So sine phi equals AD over R sine theta,
+
+38
+00:02:29,527 --> 00:02:33,194
+which means that AD equals R sine theta sine phi.
+
+39
+00:02:34,194 --> 00:02:37,292
+Which can be rearranged to be R sine phi times sine theta,
+
+40
+00:02:38,292 --> 00:02:40,865
+and we know that R sine phi is just Y.
+
+41
+00:02:40,865 --> 00:02:45,961
+So AD equals Y sine theta. Okay, so that means
+
+42
+00:02:45,961 --> 00:02:50,172
+X prime equals X cosine theta minus Y sine theta.
+
+43
+00:02:51,172 --> 00:02:52,560
+So we're halfway there.
+
+44
+00:02:52,560 --> 00:02:54,039
+Now we just need to know what Y prime is.
+
+45
+00:02:57,039 --> 00:03:00,571
+CP prime is Y prime, and it can be written as
+
+46
+00:03:00,571 --> 00:03:04,014
+CP prime equals DP prime plus AB.
+
+47
+00:03:06,014 --> 00:03:08,718
+DP prime is adjacent to phi,
+
+48
+00:03:08,718 --> 00:03:12,836
+so cosine phi equals DP prime over AP prime.
+
+49
+00:03:13,836 --> 00:03:16,199
+But AP prime is R sine theta.
+
+50
+00:03:17,199 --> 00:03:20,442
+So, cosine phi equals DP prime over R sine theta.
+
+51
+00:03:21,442 --> 00:03:25,349
+And DP prime equals R sine theta times cosine phi,
+
+52
+00:03:25,349 --> 00:03:27,598
+which equals X sine theta.
+
+53
+00:03:28,598 --> 00:03:34,392
+AB is opposite phi, so sine phi equals AB divided by OA.
+
+54
+00:03:35,392 --> 00:03:37,394
+But OA is R cosine theta,
+
+55
+00:03:37,394 --> 00:03:42,348
+so sine phi equals AB over R cosine theta.
+
+56
+00:03:43,348 --> 00:03:47,914
+And that means AB equals R sine phi times cosine theta.
+
+57
+00:03:47,914 --> 00:03:53,786
+But R sine phi is just Y, so AB equals Y cosine theta.
+
+58
+00:03:53,786 --> 00:03:57,166
+Putting this together Y prime equals X sine theta
+
+59
+00:03:57,166 --> 00:04:01,782
+plus Y cosine theta. Yay! We did it!
+
+60
+00:04:01,782 --> 00:04:07,480
+In summary, X prime equals X cosine theta minus Y sine theta
+
+61
+00:04:07,480 --> 00:04:11,279
+and Y prime equals X sine theta plus Y cosine theta.
+
+62
+00:04:13,279 --> 00:04:15,454
+You hung in there, and now you've seen a super useful
+
+63
+00:04:15,454 --> 00:04:16,826
+and prevalent formula.
+
+64
+00:04:16,826 --> 00:04:18,855
+Whether you're doing computer graphics
+
+65
+00:04:18,855 --> 00:04:21,394
+or building bridges or triangulating positions,
+
+66
+00:04:21,394 --> 00:04:23,048
+you're gonna see these formulas come up again
+
+67
+00:04:23,048 --> 00:04:24,305
+and again and again.
+
+68
+00:04:25,305 --> 00:04:27,000
+Use the next exercise to get some practice with them. aimozhen.com/pixarinabox
+

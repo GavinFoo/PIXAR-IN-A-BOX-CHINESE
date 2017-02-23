@@ -1,0 +1,208 @@
+1
+00:00:00,000 --> 00:00:03,406
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,406 --> 00:00:06,179
+- So far we've talked about how to create a blade of grass
+
+3
+00:00:06,179 --> 00:00:08,810
+using a parabolic arc and a width parameter.
+
+4
+00:00:08,810 --> 00:00:10,557
+We refer to this kind of geometry
+
+5
+00:00:10,557 --> 00:00:13,016
+creation here at Pixar as Modeling.
+
+6
+00:00:13,016 --> 00:00:15,809
+We've also talked about how to create a color,
+
+7
+00:00:15,809 --> 00:00:18,400
+and we refer to that as Shading.
+
+8
+00:00:18,400 --> 00:00:21,030
+Next we're going to talk about something even more exciting,
+
+9
+00:00:21,030 --> 00:00:24,150
+that is Animation, how to make the blade of grass move.
+
+10
+00:00:24,150 --> 00:00:26,618
+Notice in this shot how the grass is moving gently
+
+11
+00:00:26,618 --> 00:00:29,656
+indicating a gentle breeze.
+
+12
+00:00:29,656 --> 00:00:32,663
+We call this kind of subtle motion Keep Alive
+
+13
+00:00:32,663 --> 00:00:34,705
+because if there was no motion at all
+
+14
+00:00:34,705 --> 00:00:37,498
+it would appear stale or dead.
+
+15
+00:00:37,498 --> 00:00:39,124
+But we don't want so much motion
+
+16
+00:00:39,124 --> 00:00:40,292
+that it draws attention away
+
+17
+00:00:40,292 --> 00:00:42,723
+from where the director wants you to be looking.
+
+18
+00:00:43,723 --> 00:00:46,500
+So how are we going to animate each blade?
+
+19
+00:00:46,500 --> 00:00:48,683
+Well to animate, I just need to know
+
+20
+00:00:48,683 --> 00:00:52,604
+where each control point is in each frame of the animation.
+
+21
+00:00:52,604 --> 00:00:55,896
+So, I can just record the motion as I move them around.
+
+22
+00:00:55,896 --> 00:00:58,730
+So here's a simple little animation,
+
+23
+00:00:58,730 --> 00:01:01,229
+and that's probably enough frames right there.
+
+24
+00:01:01,229 --> 00:01:03,027
+And now I can replay that animation
+
+25
+00:01:03,027 --> 00:01:04,950
+as many times as I like.
+
+26
+00:01:04,950 --> 00:01:06,483
+In this case, I'm just cycling
+
+27
+00:01:06,483 --> 00:01:09,318
+back and forth through the animation.
+
+28
+00:01:09,318 --> 00:01:12,660
+So, this is how this one blade looks when animated,
+
+29
+00:01:12,660 --> 00:01:13,950
+and here's how that motion looks
+
+30
+00:01:13,950 --> 00:01:16,866
+when it's copied out to a bunch of blades of grass.
+
+31
+00:01:16,866 --> 00:01:17,872
+Starts to give you a feeling
+
+32
+00:01:17,872 --> 00:01:20,422
+for how a field of grass might move.
+
+33
+00:01:20,422 --> 00:01:22,209
+But in this case, all the blades
+
+34
+00:01:22,209 --> 00:01:24,627
+of grass are moving exactly the same
+
+35
+00:01:24,627 --> 00:01:26,964
+which isn't very realistic,
+
+36
+00:01:26,964 --> 00:01:29,209
+but we can add a little bit of variation
+
+37
+00:01:29,209 --> 00:01:30,601
+by having each blade start the
+
+38
+00:01:30,601 --> 00:01:33,262
+animation at a slightly different time,
+
+39
+00:01:33,262 --> 00:01:35,974
+and that's what I can control with this slider here.
+
+40
+00:01:35,974 --> 00:01:38,230
+So, I can add just a little bit of variation,
+
+41
+00:01:38,230 --> 00:01:40,526
+or I can add a lot of variation.
+
+42
+00:01:40,526 --> 00:01:43,238
+And now it's starting to look a lot more realistic.
+
+43
+00:01:43,238 --> 00:01:45,321
+That's one way to add variation,
+
+44
+00:01:45,321 --> 00:01:48,367
+but another way to add variation is using randomness.
+
+45
+00:01:48,367 --> 00:01:50,492
+In fact, we use randomness so often
+
+46
+00:01:50,492 --> 00:01:52,197
+and in so many different ways
+
+47
+00:01:52,197 --> 00:01:54,870
+that we're going to devote an entire tutorial to it.
+
+48
+00:01:54,870 --> 00:01:56,739
+But for now, use this interactive
+
+49
+00:01:56,739 --> 00:01:59,208
+to see if you can animate two different shots.
+
+50
+00:01:59,208 --> 00:02:01,666
+One with just a little bit of gentle Keep Alive
+
+51
+00:02:01,666 --> 00:02:03,129
+like on a calm day,
+
+52
+00:02:03,129 --> 00:02:06,000
+and another that looks like a very windy or stormy day. aimozhen.com/pixarinabox
+

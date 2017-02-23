@@ -1,0 +1,171 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:00,540 --> 00:00:02,478
+(clicking)
+
+3
+00:00:03,478 --> 00:00:04,452
+Great work!
+
+4
+00:00:04,452 --> 00:00:06,972
+Now we've got all the math we
+need for a computer program
+
+5
+00:00:06,972 --> 00:00:09,448
+to draw as many lines as we need
+
+6
+00:00:09,448 --> 00:00:11,683
+to create a good
+approximation to a parabola.
+
+7
+00:00:12,683 --> 00:00:15,376
+Let's return to some of the
+artistic aspects of grass
+
+8
+00:00:15,376 --> 00:00:17,313
+starting with the width.
+
+9
+00:00:17,313 --> 00:00:20,213
+In this interactive, I
+can move the points around
+
+10
+00:00:20,213 --> 00:00:22,785
+and I haven't drawn the
+legs of the control polygon
+
+11
+00:00:22,785 --> 00:00:25,157
+just to make it look a little bit simpler
+
+12
+00:00:25,157 --> 00:00:27,348
+and, let's see,
+
+13
+00:00:27,348 --> 00:00:29,641
+that kind of shape for the
+spine looks pretty good.
+
+14
+00:00:30,641 --> 00:00:32,419
+So let me move on to the next step
+
+15
+00:00:32,419 --> 00:00:34,446
+which is to define the width.
+
+16
+00:00:34,446 --> 00:00:37,989
+I'm going to do that using
+something we'll call a Skeleton.
+
+17
+00:00:37,989 --> 00:00:40,641
+The Skeleton is a set
+of lines, like these,
+
+18
+00:00:40,641 --> 00:00:44,055
+that cut across the blade
+of grass at 90 degree angles
+
+19
+00:00:44,055 --> 00:00:46,529
+so here's a Skeleton line,
+here's a Skeleton line
+
+20
+00:00:46,529 --> 00:00:48,143
+and so on.
+
+21
+00:00:48,143 --> 00:00:51,433
+If I connect all the left
+sides of the Skeleton lines
+
+22
+00:00:52,433 --> 00:00:54,611
+and the right side of the Skeleton lines,
+
+23
+00:00:54,611 --> 00:00:57,773
+I create a region, let me fill that in,
+
+24
+00:00:57,773 --> 00:01:00,901
+and that region looks a lot
+more like a blade of grass.
+
+25
+00:01:00,901 --> 00:01:04,407
+(click)
+(tinkling)
+
+26
+00:01:05,407 --> 00:01:08,412
+I can control the width
+using this slider here
+
+27
+00:01:08,412 --> 00:01:11,953
+so that's just adjusting the
+length of those Skeleton lines
+
+28
+00:01:11,953 --> 00:01:14,331
+and that width there looks pretty good.
+
+29
+00:01:15,331 --> 00:01:17,510
+Finally, I can control the color.
+
+30
+00:01:17,510 --> 00:01:20,151
+I can go from a deep green
+
+31
+00:01:20,151 --> 00:01:22,105
+to a lighter green
+
+32
+00:01:22,105 --> 00:01:24,025
+to a really light green.
+
+33
+00:01:24,025 --> 00:01:26,124
+Our artists control parameters like this
+
+34
+00:01:26,124 --> 00:01:27,788
+to create the kind of convincing grass
+
+35
+00:01:27,788 --> 00:01:29,223
+that you see in "Brave."
+
+36
+00:01:30,223 --> 00:01:31,977
+Use this interactive to see what kinds of
+
+37
+00:01:31,977 --> 00:01:33,970
+blades of grass you can create
+
+38
+00:01:33,970 --> 00:01:35,306
+and then, in the next video,
+
+39
+00:01:35,306 --> 00:01:36,000
+we'll talk about how to animate it. aimozhen.com/pixarinabox
+

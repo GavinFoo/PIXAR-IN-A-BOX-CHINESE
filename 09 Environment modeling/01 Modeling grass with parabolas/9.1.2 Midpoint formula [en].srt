@@ -1,0 +1,236 @@
+1
+00:00:00,000 --> 00:00:03,231
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,231 --> 00:00:05,066
+- In the previous video, we saw how to use
+
+3
+00:00:05,066 --> 00:00:07,457
+three points to define a parabolic arc.
+
+4
+00:00:07,457 --> 00:00:10,197
+Later we'll talk about how to define the width,
+
+5
+00:00:10,197 --> 00:00:13,471
+the color, the motion, and the variety that would be needed
+
+6
+00:00:13,471 --> 00:00:15,816
+to create a convincing field of grass.
+
+7
+00:00:15,816 --> 00:00:18,440
+But first, let's talk about what math we would need
+
+8
+00:00:18,440 --> 00:00:21,923
+to create a computer program that our artists could use.
+
+9
+00:00:21,923 --> 00:00:24,918
+A program like this one, for instance,
+
+10
+00:00:24,918 --> 00:00:28,377
+where I can pull points around,
+
+11
+00:00:28,377 --> 00:00:30,955
+and the parabola updates.
+
+12
+00:00:30,955 --> 00:00:34,252
+So what kind of math is required underneath this program?
+
+13
+00:00:34,252 --> 00:00:36,829
+First we need to talk about computing the locations
+
+14
+00:00:36,829 --> 00:00:38,780
+of the points that we're going to connect together
+
+15
+00:00:38,780 --> 00:00:41,218
+with the string art lines.
+
+16
+00:00:41,218 --> 00:00:43,145
+Now, some of these points are a little bit easier
+
+17
+00:00:43,145 --> 00:00:45,652
+to construct than others, and the easiest ones are
+
+18
+00:00:45,652 --> 00:00:47,696
+the ones here, at the midpoints.
+
+19
+00:00:47,696 --> 00:00:50,250
+So this point here is on the midpoint of this leg,
+
+20
+00:00:50,250 --> 00:00:53,686
+and this point here is on the midpoint of this leg,
+
+21
+00:00:53,686 --> 00:00:54,940
+and so on.
+
+22
+00:00:54,940 --> 00:00:57,517
+So let's look at the mathematics of midpoints.
+
+23
+00:00:57,517 --> 00:01:00,420
+So here I have a line segment, A B.
+
+24
+00:01:00,420 --> 00:01:02,608
+The midpoint of that line segment is going to be
+
+25
+00:01:02,608 --> 00:01:04,052
+somewhere in the middle.
+
+26
+00:01:04,052 --> 00:01:05,753
+Like this yellow point here.
+
+27
+00:01:05,753 --> 00:01:07,895
+Let's call that point Q.
+
+28
+00:01:07,895 --> 00:01:10,759
+Now the question is, if I know the coordinates of A,
+
+29
+00:01:10,759 --> 00:01:17,352
+suppose the coordinates of A are A sub x, and A sub y.
+
+30
+00:01:17,352 --> 00:01:22,066
+Similarly suppose the coordinates of B are B sub x,
+
+31
+00:01:22,066 --> 00:01:25,061
+and B sub y, then the question is,
+
+32
+00:01:25,061 --> 00:01:27,197
+what are the coordinates of the midpoint Q?
+
+33
+00:01:27,197 --> 00:01:28,916
+Well, if you think about it for a minute,
+
+34
+00:01:28,916 --> 00:01:31,633
+you'll realize that Q is halfway between A and B
+
+35
+00:01:31,633 --> 00:01:33,235
+in the x direction,
+
+36
+00:01:33,235 --> 00:01:35,905
+and halfway between A and B in the y direction.
+
+37
+00:01:35,905 --> 00:01:38,924
+We can compute a point like that by simple averaging.
+
+38
+00:01:38,924 --> 00:01:42,778
+It is the x coordinate of Q is going to be the average
+
+39
+00:01:42,778 --> 00:01:45,331
+of the x coordinates of A and B.
+
+40
+00:01:45,331 --> 00:01:48,443
+So that's going to be Ax plus Bx over two.
+
+41
+00:01:48,443 --> 00:01:54,202
+The y coordinate is going to be Ay plus By over 2.
+
+42
+00:01:54,202 --> 00:01:56,569
+That's a very simple calculation.
+
+43
+00:01:56,569 --> 00:01:59,148
+^I can abbreviate it and make it look a little bit simpler,
+
+44
+00:01:59,148 --> 00:02:03,922
+^by writing Q as A plus B over 2.
+
+45
+00:02:03,922 --> 00:02:05,667
+^What this means is,
+
+46
+00:02:05,667 --> 00:02:07,593
+^take the average of x and the average of y.
+
+47
+00:02:07,593 --> 00:02:10,334
+^So these two expressions just mean the same thing.
+
+48
+00:02:10,334 --> 00:02:12,749
+Now our string art construction requires more
+
+49
+00:02:12,749 --> 00:02:14,978
+than just a pair of midpoints.
+
+50
+00:02:14,978 --> 00:02:16,997
+But we can create as many points as we want,
+
+51
+00:02:16,997 --> 00:02:19,366
+by computing midpoints of midpoints.
+
+52
+00:02:19,366 --> 00:02:23,940
+For instance, here is just a pair of midpoints,
+
+53
+00:02:23,940 --> 00:02:27,423
+and now I'm going to compute a midpoint on this subsegment,
+
+54
+00:02:27,423 --> 00:02:29,327
+and another midpoint on this subsegment.
+
+55
+00:02:29,327 --> 00:02:31,858
+Similarly for these two subsegments.
+
+56
+00:02:31,858 --> 00:02:34,203
+So that gives me three points on each leg,
+
+57
+00:02:34,203 --> 00:02:36,502
+and I can create as many as I want just by continuing
+
+58
+00:02:36,502 --> 00:02:40,054
+this midpoint of midpoint process.
+
+59
+00:02:40,054 --> 00:02:43,000
+Next, you'll have a chance to experiment with these ideas. aimozhen.com/pixarinabox
+

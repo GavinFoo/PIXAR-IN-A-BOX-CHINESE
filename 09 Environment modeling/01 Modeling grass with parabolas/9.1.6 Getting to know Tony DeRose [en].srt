@@ -1,0 +1,396 @@
+1
+00:00:00,000 --> 00:00:01,469
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:01,469 --> 00:00:03,355
+- Well as a child I grew up
+
+3
+00:00:03,355 --> 00:00:06,261
+in the age of Apollo, the moon mission.
+
+4
+00:00:06,261 --> 00:00:09,143
+So I always knew I wanted to go into science.
+
+5
+00:00:09,143 --> 00:00:10,495
+First I thought I wanted to be
+
+6
+00:00:10,495 --> 00:00:12,720
+an astronaut like everybody my age.
+
+7
+00:00:12,720 --> 00:00:14,272
+I didn't really discover mathematics
+
+8
+00:00:14,272 --> 00:00:15,692
+until I was in 7th grade.
+
+9
+00:00:15,692 --> 00:00:17,870
+I was building model rockets at the time
+
+10
+00:00:17,870 --> 00:00:20,585
+and my 7th grade science teacher showed me how
+
+11
+00:00:20,585 --> 00:00:22,246
+to use trigonometry to calculate
+
+12
+00:00:22,246 --> 00:00:24,103
+how high the rockets were going.
+
+13
+00:00:24,103 --> 00:00:27,065
+And I thought that was just so cool that I could, with math,
+
+14
+00:00:27,065 --> 00:00:28,924
+figure out how high something went
+
+15
+00:00:28,924 --> 00:00:31,233
+without having to get a big ladder or a ruler.
+
+16
+00:00:34,233 --> 00:00:36,675
+And then in graduate school I discovered that you could
+
+17
+00:00:36,675 --> 00:00:39,423
+put math, science, and computers together.
+
+18
+00:00:39,423 --> 00:00:41,055
+That was computer graphics.
+
+19
+00:00:41,055 --> 00:00:42,825
+And I was lucky enough to be there really
+
+20
+00:00:42,825 --> 00:00:45,586
+at the beginning of computer graphics in the early 80s.
+
+21
+00:00:45,586 --> 00:00:47,981
+So I was hooked immediately.
+
+22
+00:00:48,981 --> 00:00:52,342
+After graduate school I went to the University of Washington
+
+23
+00:00:52,342 --> 00:00:53,864
+and started as a professor there,
+
+24
+00:00:53,864 --> 00:00:56,320
+where I started a computer graphics laboratory.
+
+25
+00:00:56,320 --> 00:00:59,909
+Stayed there for about 10 years but the computer graphics
+
+26
+00:00:59,909 --> 00:01:01,983
+community was really small at that time
+
+27
+00:01:01,983 --> 00:01:03,562
+and everybody knew everybody.
+
+28
+00:01:03,562 --> 00:01:06,792
+So I really stayed in touch with a lot of people at Pixar.
+
+29
+00:01:06,792 --> 00:01:09,549
+About 10 years after I got to Washington,
+
+30
+00:01:09,549 --> 00:01:12,025
+that was about when "Toy Story" was being finished.
+
+31
+00:01:12,025 --> 00:01:13,709
+And I thought, "Gee, if I'm ever gonna
+
+32
+00:01:13,709 --> 00:01:16,288
+"try something different, this is a good time."
+
+33
+00:01:16,288 --> 00:01:19,389
+So I did the unthinkable I left an academic position
+
+34
+00:01:19,389 --> 00:01:21,583
+and joined this little startup called Pixar.
+
+35
+00:01:21,583 --> 00:01:23,938
+When I got to Pixar one of the first projects
+
+36
+00:01:23,938 --> 00:01:26,772
+I got to work on was the short film "Gerri's Game".
+
+37
+00:01:26,772 --> 00:01:29,004
+Which was really exciting because it was a chance
+
+38
+00:01:29,004 --> 00:01:31,787
+to take some of the technology I'd been working on
+
+39
+00:01:31,787 --> 00:01:33,377
+at the University of Washington
+
+40
+00:01:33,377 --> 00:01:35,637
+and really apply it in the film industry.
+
+41
+00:01:35,637 --> 00:01:38,468
+It was really successful both creatively and technically.
+
+42
+00:01:38,468 --> 00:01:42,188
+It won an Academy Award for Best Short Film that year.
+
+43
+00:01:42,188 --> 00:01:44,543
+And later I won an Academy Award for the work
+
+44
+00:01:44,543 --> 00:01:46,596
+that I did on "Gerri's Game", the technical work.
+
+45
+00:01:47,596 --> 00:01:50,510
+The technical work I did on "Gerri's Game" is talked
+
+46
+00:01:50,510 --> 00:01:53,575
+about in the character modelling lesson with Alonzo.
+
+47
+00:01:53,575 --> 00:01:55,388
+It's the mathematics of sub-division.
+
+48
+00:01:57,388 --> 00:01:59,528
+So I've done various things at different times
+
+49
+00:01:59,528 --> 00:02:01,664
+in my almost 20 years at Pixar.
+
+50
+00:02:01,664 --> 00:02:03,997
+For the last 10 years I've been leading
+
+51
+00:02:03,997 --> 00:02:06,590
+the computer graphics research group here.
+
+52
+00:02:06,590 --> 00:02:08,925
+So it's our job to get out in front
+
+53
+00:02:08,925 --> 00:02:11,544
+of technology needs of future films.
+
+54
+00:02:11,544 --> 00:02:13,343
+We built a new hair simulator
+
+55
+00:02:13,343 --> 00:02:15,364
+for Merida in the film "Brave".
+
+56
+00:02:15,364 --> 00:02:18,222
+More recently in "Inside Out" one of the researchers
+
+57
+00:02:18,222 --> 00:02:20,855
+Kurt Fleischer developed some new technology
+
+58
+00:02:20,855 --> 00:02:22,934
+for helping animators get even stronger
+
+59
+00:02:22,934 --> 00:02:25,037
+performances out of their characters.
+
+60
+00:02:25,037 --> 00:02:28,216
+Looking ahead over the next five to 10 years
+
+61
+00:02:28,216 --> 00:02:29,597
+one thing we're working on hard
+
+62
+00:02:29,597 --> 00:02:31,275
+in the research group is how to make
+
+63
+00:02:31,275 --> 00:02:34,680
+all these complex calculations go in real time.
+
+64
+00:02:34,680 --> 00:02:37,479
+That is at least 24 updates per second.
+
+65
+00:02:37,479 --> 00:02:40,669
+Right now in some areas, including simulation, the updates
+
+66
+00:02:40,669 --> 00:02:43,151
+can take minutes or hours per frame.
+
+67
+00:02:45,151 --> 00:02:46,949
+Getting into computer graphics these days
+
+68
+00:02:46,949 --> 00:02:49,352
+is so much easier then when I was a kid.
+
+69
+00:02:49,352 --> 00:02:50,783
+In fact, when I was a kid,
+
+70
+00:02:50,783 --> 00:02:53,218
+computer graphics didn't really exist.
+
+71
+00:02:53,218 --> 00:02:56,038
+These days if you're interested in computer graphics
+
+72
+00:02:56,038 --> 00:02:58,256
+there are lots of opportunities online.
+
+73
+00:02:58,256 --> 00:03:00,709
+You can go to Blender dot org for instance,
+
+74
+00:03:00,709 --> 00:03:03,624
+download a free software package that does
+
+75
+00:03:03,624 --> 00:03:07,170
+animation very much like the tools that we use in-house.
+
+76
+00:03:07,170 --> 00:03:09,930
+It's free, there are lots of great tutorials.
+
+77
+00:03:09,930 --> 00:03:11,811
+Using Blender you can get an idea
+
+78
+00:03:11,811 --> 00:03:13,889
+of how the artists here at Pixar work.
+
+79
+00:03:13,889 --> 00:03:15,871
+And then using Pixar in a Box you can
+
+80
+00:03:15,871 --> 00:03:19,228
+understand some of the mathematics that Blender requires.
+
+81
+00:03:21,228 --> 00:03:24,306
+Well for fun for the last 10 years or so
+
+82
+00:03:24,306 --> 00:03:26,965
+my two sons and I, in fact our whole family,
+
+83
+00:03:26,965 --> 00:03:29,067
+have been building kind of wacky projects
+
+84
+00:03:29,067 --> 00:03:31,152
+to take to this big event every year
+
+85
+00:03:31,152 --> 00:03:33,180
+in the Bay area called Maker Faire.
+
+86
+00:03:33,180 --> 00:03:37,283
+In 2010 for instance we built and eight and a half foot tall
+
+87
+00:03:37,283 --> 00:03:39,593
+animatronic fire breathing dragon.
+
+88
+00:03:39,593 --> 00:03:40,876
+Why not, right?
+
+89
+00:03:40,876 --> 00:03:45,489
+In 2012 we built a flight-simulator based on
+
+90
+00:03:45,489 --> 00:03:47,607
+the TV show "Battlestar Galactica".
+
+91
+00:03:47,607 --> 00:03:51,920
+And just this past year we took a powered exoskeleton,
+
+92
+00:03:51,920 --> 00:03:53,488
+kind of inspired by movies like
+
+93
+00:03:53,488 --> 00:03:56,124
+"Elysium" and "Edge of Tomorrow."
+
+94
+00:03:56,124 --> 00:03:59,556
+In those films the exoskeletons are props
+
+95
+00:03:59,556 --> 00:04:01,597
+and we wondered, "Hmm, could we build one
+
+96
+00:04:01,597 --> 00:04:03,698
+"of these things that actually really works?"
+
+97
+00:04:03,698 --> 00:04:06,874
+So my youngest son brought together seven of his friends
+
+98
+00:04:06,874 --> 00:04:08,638
+and we took something to the faire
+
+99
+00:04:08,638 --> 00:04:11,000
+that really put a lot of smiles on people's faces. aimozhen.com/pixarinabox
+

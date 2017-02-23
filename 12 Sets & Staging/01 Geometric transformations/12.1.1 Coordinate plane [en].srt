@@ -1,0 +1,172 @@
+1
+00:00:00,000 --> 00:00:03,455
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,455 --> 00:00:05,783
+- Hi, I'm Fran, a technical director
+
+3
+00:00:05,783 --> 00:00:08,006
+here at Pixar Animation Studios.
+
+4
+00:00:08,006 --> 00:00:09,580
+I'm talking to you today from the lobby
+
+5
+00:00:09,580 --> 00:00:13,350
+of one of the beautiful buildings of the Pixar campus.
+
+6
+00:00:13,350 --> 00:00:14,923
+As we learned in the previous video,
+
+7
+00:00:14,923 --> 00:00:16,928
+when we create shots to make up our movies
+
+8
+00:00:16,928 --> 00:00:18,354
+we need to assemble the environment
+
+9
+00:00:18,354 --> 00:00:20,464
+where the story takes place.
+
+10
+00:00:20,464 --> 00:00:22,876
+If I were to build this kind of environment,
+
+11
+00:00:22,876 --> 00:00:24,799
+I'd start by placing the really big forms
+
+12
+00:00:24,799 --> 00:00:27,197
+like the walls and the floor.
+
+13
+00:00:27,197 --> 00:00:28,872
+Then I'd place the dramatic elements
+
+14
+00:00:28,872 --> 00:00:32,034
+like this gargantuan fireplace behind me.
+
+15
+00:00:32,034 --> 00:00:35,148
+Then I'd move down to the medium sized elements
+
+16
+00:00:35,148 --> 00:00:38,136
+and do selection and placement of the couches,
+
+17
+00:00:38,136 --> 00:00:41,055
+tables and chairs.
+
+18
+00:00:41,055 --> 00:00:43,178
+Finally, I'd move down to the really small details
+
+19
+00:00:43,178 --> 00:00:44,794
+like the magazines on the table
+
+20
+00:00:44,794 --> 00:00:47,563
+and the pieces of wood in the fireplace.
+
+21
+00:00:47,563 --> 00:00:49,530
+All of these items need to be positioned
+
+22
+00:00:49,530 --> 00:00:52,443
+using the mathematical operation of translation,
+
+23
+00:00:52,443 --> 00:00:55,103
+properly sized using the scaling operation
+
+24
+00:00:55,103 --> 00:00:57,239
+and oriented using rotations.
+
+25
+00:00:57,239 --> 00:00:58,792
+These operations are all examples of
+
+26
+00:00:58,792 --> 00:01:01,219
+fundamental geometric transformations.
+
+27
+00:01:01,219 --> 00:01:02,506
+We'll spend the remainder of this lesson
+
+28
+00:01:02,506 --> 00:01:04,721
+looking more closely at them.
+
+29
+00:01:04,721 --> 00:01:06,721
+For our films, these transformations control
+
+30
+00:01:06,721 --> 00:01:09,455
+what's going on in a virtual three-dimensional space.
+
+31
+00:01:09,455 --> 00:01:11,730
+^Meaning that each point has three coordinates,
+
+32
+00:01:11,730 --> 00:01:14,553
+^X, Y and Z.
+
+33
+00:01:14,553 --> 00:01:16,400
+^But for this lesson we're gonna simplify a bit
+
+34
+00:01:16,400 --> 00:01:18,503
+and look at laying out floor plans in two dimensions,
+
+35
+00:01:18,503 --> 00:01:20,094
+like we're viewing them from above.
+
+36
+00:01:20,094 --> 00:01:23,824
+^So points need only two coordinates, X and Y.
+
+37
+00:01:23,824 --> 00:01:26,620
+^The X coordinate says how far to the right a point is,
+
+38
+00:01:26,620 --> 00:01:29,303
+^and the Y coordinate says how far up it is.
+
+39
+00:01:29,303 --> 00:01:31,751
+^This point for instance has X coordinate three
+
+40
+00:01:31,751 --> 00:01:34,620
+^and Y coordinate five.
+
+41
+00:01:34,620 --> 00:01:37,042
+^Before we begin building our own shot from Toy Story,
+
+42
+00:01:37,042 --> 00:01:39,012
+^let's review how to plot points in 2D
+
+43
+00:01:39,012 --> 00:01:41,000
+using the next exercise. aimozhen.com/pixarinabox
+

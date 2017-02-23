@@ -1,0 +1,72 @@
+1
+00:00:00,000 --> 00:00:03,506
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,506 --> 00:00:05,433
+- To see how to put the diagrams together,
+
+3
+00:00:05,433 --> 00:00:07,314
+let's go back to the example where we had
+
+4
+00:00:07,314 --> 00:00:11,274
+just two kinds of parts, heads and bodies.
+
+5
+00:00:11,274 --> 00:00:15,534
+Suppose I pick, umm,
+this head and this body.
+
+6
+00:00:15,534 --> 00:00:18,205
+Or, I can pick this body, or this one,
+
+7
+00:00:18,205 --> 00:00:21,374
+let's finish off all the possibilities.
+
+8
+00:00:21,374 --> 00:00:22,575
+Notice that the bottom of the diagram
+
+9
+00:00:22,575 --> 00:00:25,945
+has six combinations as before.
+
+10
+00:00:25,945 --> 00:00:27,937
+And the diagram, hopefully, makes it clear
+
+11
+00:00:27,937 --> 00:00:30,454
+that we have two choices of
+heads and for each of those,
+
+12
+00:00:30,454 --> 00:00:32,378
+we have three choices of bodies.
+
+13
+00:00:32,378 --> 00:00:37,137
+Or, two times three combinations.
+
+14
+00:00:37,137 --> 00:00:38,711
+Use the next interactive to figure out
+
+15
+00:00:38,711 --> 00:00:40,719
+what the diagram would look
+like if there were a different
+
+16
+00:00:40,719 --> 00:00:43,006
+number of heads and a
+different number of bodies.
+
+17
+00:00:43,006 --> 00:00:46,000
+(squeak, boing, squeak, squeak, squeak) aimozhen.com/pixarinabox
+

@@ -1,0 +1,104 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:00,500 --> 00:00:02,457
+ Hi, my name is Inigo Quilez 
+
+3
+00:00:02,457 --> 00:00:03,967
+ I'm working on Brave, 
+
+4
+00:00:03,967 --> 00:00:07,907
+ creating forests, trees and the environment as a whole in the film 
+
+5
+00:00:07,907 --> 00:00:10,100
+ and I use a lot of math. 
+
+6
+00:00:11,100 --> 00:00:13,098
+ I think most people think of mathematics 
+
+7
+00:00:13,098 --> 00:00:16,263
+ as something boring, mechanical, but 
+
+8
+00:00:16,263 --> 00:00:18,807
+ at Pixar we do not think so. 
+
+9
+00:00:18,807 --> 00:00:24,539
+ For us, math is a tool for creating images, movement, splendor, fun. 
+
+10
+00:00:26,539 --> 00:00:29,459
+ This lesson will focus on one of the places where we use mathematics 
+
+11
+00:00:29,459 --> 00:00:31,189
+ to create landscapes in Merida fighter. 
+
+12
+00:00:31,189 --> 00:00:34,884
+ Let's start with the simplest things you can find in this landscape - 
+
+13
+00:00:34,884 --> 00:00:35,875
+ blades of grass. 
+
+14
+00:00:35,875 --> 00:00:39,431
+ A blade of grass is something that begins at a point, rising to one side 
+
+15
+00:00:39,431 --> 00:00:40,437
+ and bent downward. 
+
+16
+00:00:40,437 --> 00:00:42,804
+ It looks like a small, narrow curve. 
+
+17
+00:00:43,804 --> 00:00:45,949
+ This is good news because the mathematics 
+
+18
+00:00:45,949 --> 00:00:47,036
+ It has a lot of tools to describe curves. 
+
+19
+00:00:48,036 --> 00:00:49,922
+ In this case, we chose a parabola, 
+
+20
+00:00:49,922 --> 00:00:51,554
+ which is a very specific curve. 
+
+21
+00:00:51,554 --> 00:00:53,865
+ The curve gives us, however, only the core, 
+
+22
+00:00:53,865 --> 00:00:57,904
+ Besides, we need to have a blade thickness and color. 
+
+23
+00:00:57,904 --> 00:01:02,655
+ And to fill the forest, we need to create millions of these curves, and give them 
+
+24
+00:01:02,655 --> 00:01:06,262
+ appropriate thicknesses, colors to make them look natural. 
+
+25
+00:01:07,262 --> 00:01:08,560
+ Want to know more? 
+
+26
+00:01:08,560 --> 00:01:10,000
+ Stay with us to the end of the lesson.  aimozhen.com/pixarinabox
+

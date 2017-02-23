@@ -1,0 +1,288 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:00,401 --> 00:00:03,301
+(bouncing noises)
+
+3
+00:00:03,301 --> 00:00:04,707
+- Now we know the coordinates of a few
+
+4
+00:00:04,707 --> 00:00:07,278
+^special points when they're rotated.
+
+5
+00:00:07,278 --> 00:00:09,450
+To create our software tools for setting up shots,
+
+6
+00:00:09,450 --> 00:00:10,935
+we need to have formulas for where
+
+7
+00:00:10,935 --> 00:00:13,367
+every point goes when rotated.
+
+8
+00:00:13,367 --> 00:00:15,684
+That is if we start with an arbitrary point,
+
+9
+00:00:15,684 --> 00:00:19,177
+x y, we'd like to know the coordinates of x prime y prime,
+
+10
+00:00:19,177 --> 00:00:22,071
+with a point where it ends up after rotation.
+
+11
+00:00:22,071 --> 00:00:25,361
+The formulas we'll come up with aren't too complicated,
+
+12
+00:00:25,361 --> 00:00:27,364
+in fact, here they are.
+
+13
+00:00:27,364 --> 00:00:31,275
+X prime equals x cosine theta minus y sine theta.
+
+14
+00:00:31,275 --> 00:00:36,571
+Y prime equals x sine theta plus y cosine theta.
+
+15
+00:00:36,571 --> 00:00:39,392
+So knowing x, y, and theta, you can compute
+
+16
+00:00:39,392 --> 00:00:43,090
+x prime and y prime, but where do these formulas come from?
+
+17
+00:00:43,090 --> 00:00:44,461
+Well there's a couple of different
+
+18
+00:00:44,461 --> 00:00:46,197
+ways to get these formulas.
+
+19
+00:00:46,197 --> 00:00:48,729
+One is to use properties of linear transformations.
+
+20
+00:00:48,729 --> 00:00:50,686
+(light turns on)
+
+21
+00:00:50,686 --> 00:00:52,909
+^(xylophone sound)
+
+22
+00:00:52,909 --> 00:00:55,212
+A more elementary way to derive these formulas
+
+23
+00:00:55,212 --> 00:00:57,589
+is using the basic definitions of Trigonometry.
+
+24
+00:00:57,589 --> 00:00:59,448
+And it'll take us a little work to get there,
+
+25
+00:00:59,448 --> 00:01:01,890
+so roll up your sleeves and tie back your hair.
+
+26
+00:01:01,890 --> 00:01:03,339
+(wind whistling)
+
+27
+00:01:03,339 --> 00:01:04,621
+(gun cocking)
+
+28
+00:01:04,621 --> 00:01:06,409
+Let's call the point we start with, p,
+
+29
+00:01:06,409 --> 00:01:09,140
+and the point it gets rotated to, p prime.
+
+30
+00:01:09,140 --> 00:01:12,033
+We need to construct some other points to help us,
+
+31
+00:01:12,033 --> 00:01:13,831
+so let's go back to what we already know,
+
+32
+00:01:13,831 --> 00:01:15,655
+and break down the problem.
+
+33
+00:01:15,655 --> 00:01:17,888
+First, let's rotate the diagram,
+
+34
+00:01:17,888 --> 00:01:20,690
+and imagine OP is the X-axis.
+
+35
+00:01:20,690 --> 00:01:22,438
+This looks like the situation
+
+36
+00:01:22,438 --> 00:01:24,247
+we saw in the previous video when we
+
+37
+00:01:24,247 --> 00:01:27,316
+rotated the point one zero on the x-axis.
+
+38
+00:01:27,316 --> 00:01:30,238
+So, we drop a perpendicular from P prime
+
+39
+00:01:30,238 --> 00:01:32,873
+to the x-axis to define a new point A.
+
+40
+00:01:32,873 --> 00:01:35,914
+^Now, let's reverse the rotation,
+
+41
+00:01:35,914 --> 00:01:38,307
+^and drop a perpendicular from A,
+
+42
+00:01:38,307 --> 00:01:41,511
+^to the x-axis to define a point B.
+
+43
+00:01:41,511 --> 00:01:44,009
+^Similarly, drop a perpendicular
+
+44
+00:01:44,009 --> 00:01:47,337
+^from P prime to get point C.
+
+45
+00:01:47,337 --> 00:01:50,105
+^Observe that the X coordinate of A,
+
+46
+00:01:50,105 --> 00:01:52,465
+^line OB, is greater than the
+
+47
+00:01:52,465 --> 00:01:56,220
+^ x-coordinate of P prime, line OC.
+
+48
+00:01:56,220 --> 00:01:59,974
+^So we must subtract a certain amount.
+
+49
+00:01:59,974 --> 00:02:04,028
+^The amount we subtract is the length of the new line AD.
+
+50
+00:02:04,028 --> 00:02:06,587
+^Recall the coordinates of P prime we're looking for
+
+51
+00:02:06,587 --> 00:02:09,276
+^are defined by OC for the x-coordinate,
+
+52
+00:02:09,276 --> 00:02:12,562
+^and CP prime for the y-coordinate.
+
+53
+00:02:12,562 --> 00:02:15,238
+^Finally, drop a perpendicular from P,
+
+54
+00:02:15,238 --> 00:02:18,791
+^to the x-axis, to create a point E.
+
+55
+00:02:18,791 --> 00:02:22,108
+^This diagram now has all the information we need.
+
+56
+00:02:22,108 --> 00:02:24,959
+^Let's get some practice using this diagram,
+
+57
+00:02:24,959 --> 00:02:27,960
+^by deriving a couple of formulas we'll need later.
+
+58
+00:02:27,960 --> 00:02:31,288
+^Supposed r is the distance from the origin O to P.
+
+59
+00:02:31,288 --> 00:02:35,967
+^And let phi be the angle OP makes with the x-axis.
+
+60
+00:02:35,967 --> 00:02:40,084
+^The distance EP is y, and the distance OE is x.
+
+61
+00:02:40,084 --> 00:02:45,175
+^EP is opposite phi, so sine phi equals EP over r.
+
+62
+00:02:45,175 --> 00:02:50,943
+^But EP is y, so sine phi equals y over r.
+
+63
+00:02:50,943 --> 00:02:55,124
+^And that means y equals r sine phi.
+
+64
+00:02:55,124 --> 00:02:57,220
+^Similarly, OE is adjacent to phi,
+
+65
+00:02:57,220 --> 00:03:01,514
+^so cosine phi equals OE over r.
+
+66
+00:03:01,514 --> 00:03:06,680
+^But OE is just x, so cosine phi equals x over r,
+
+67
+00:03:06,680 --> 00:03:11,241
+^and that means x equals r cosine phi.
+
+68
+00:03:11,241 --> 00:03:14,229
+Wow, that was a lot of Trigonometry!
+
+69
+00:03:14,229 --> 00:03:16,414
+Before we proceed, see if you can answer
+
+70
+00:03:16,414 --> 00:03:17,645
+a few general questions about
+
+71
+00:03:17,645 --> 00:03:19,660
+^this diagram in the next exercise.
+
+72
+00:03:19,660 --> 00:03:22,000
+^Good luck. aimozhen.com/pixarinabox
+

@@ -1,0 +1,272 @@
+1
+00:00:00,000 --> 00:00:03,366
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,366 --> 00:00:05,053
+- So far, in this lesson, we've learned
+
+3
+00:00:05,053 --> 00:00:07,731
+how to model curves in two dimensions.
+
+4
+00:00:08,731 --> 00:00:11,068
+And, now, it's time to go
+back to the real problem
+
+5
+00:00:11,068 --> 00:00:13,891
+that we wanna address:
+how to model the fun part,
+
+6
+00:00:13,891 --> 00:00:17,564
+characters, using surfaces
+in three dimensions.
+
+7
+00:00:18,564 --> 00:00:21,180
+And that is where
+subdivision really shines.
+
+8
+00:00:22,180 --> 00:00:23,968
+The same ideas of splitting
+
+9
+00:00:23,968 --> 00:00:26,893
+and averaging still apply
+in three dimensions.
+
+10
+00:00:26,893 --> 00:00:29,530
+And that means that
+subdivision applies as well.
+
+11
+00:00:30,530 --> 00:00:33,659
+For example, suppose
+that I start with a cube.
+
+12
+00:00:33,659 --> 00:00:35,508
+I can look at the cube
+from different angles
+
+13
+00:00:35,508 --> 00:00:38,494
+by clicking on the
+background and dragging.
+
+14
+00:00:38,494 --> 00:00:39,552
+The splitting step is a little bit
+
+15
+00:00:39,552 --> 00:00:42,517
+more complicated than for curves.
+
+16
+00:00:42,517 --> 00:00:46,145
+In addition to adding new
+midpoints of edges, like this one,
+
+17
+00:00:46,145 --> 00:00:50,787
+I also need to add midpoints
+of the facets, like this one.
+
+18
+00:00:50,787 --> 00:00:52,189
+Midpoints of facets are computed
+
+19
+00:00:52,189 --> 00:00:54,444
+by averaging all of the coordinates
+
+20
+00:00:54,444 --> 00:00:57,450
+of the control points
+surrounding that facet.
+
+21
+00:00:57,450 --> 00:00:59,991
+For instance, this midpoint is computed
+
+22
+00:00:59,991 --> 00:01:02,809
+as the average of these four points.
+
+23
+00:01:03,809 --> 00:01:06,568
+And this one, is the average
+of these four points.
+
+24
+00:01:07,568 --> 00:01:10,048
+The averaging step is a
+little bit more complicated
+
+25
+00:01:10,048 --> 00:01:11,262
+than the curve case, too.
+
+26
+00:01:12,262 --> 00:01:15,107
+Each point is, again,
+repositioned using averaging,
+
+27
+00:01:15,107 --> 00:01:17,870
+but, now, it isn't a straight average.
+
+28
+00:01:17,870 --> 00:01:20,389
+We need to use the weighted
+average of all of the points
+
+29
+00:01:20,389 --> 00:01:22,936
+next to the one that we are repositioning.
+
+30
+00:01:25,936 --> 00:01:29,486
+We'll talk more about weighted
+averages in the next lesson.
+
+31
+00:01:30,486 --> 00:01:32,477
+And, just like the curves, we can combine
+
+32
+00:01:32,477 --> 00:01:35,175
+split and average into
+a subdivide operation.
+
+33
+00:01:36,175 --> 00:01:38,043
+And, if we subdivide it enough times,
+
+34
+00:01:38,043 --> 00:01:40,555
+the shape becomes a smooth surface.
+
+35
+00:01:42,555 --> 00:01:44,643
+Now, let's try this on a doughnut shape.
+
+36
+00:01:45,643 --> 00:01:47,427
+Subdividing once gives me this.
+
+37
+00:01:48,427 --> 00:01:50,149
+Subdividing again gives me that.
+
+38
+00:01:51,149 --> 00:01:54,093
+In practice, we subdivide
+as many times as we need to,
+
+39
+00:01:54,093 --> 00:01:55,751
+to create a smooth image.
+
+40
+00:01:57,751 --> 00:01:59,559
+Subdivision was first used to create
+
+41
+00:01:59,559 --> 00:02:01,287
+the character named Geri,
+
+42
+00:02:01,287 --> 00:02:03,517
+from the short film called "Geri's game".
+
+43
+00:02:04,517 --> 00:02:07,941
+Here's Geri's hand before the subdivision.
+
+44
+00:02:07,941 --> 00:02:10,992
+And here it is after subdivision.
+
+45
+00:02:10,992 --> 00:02:13,329
+Since "Geri's game",
+we've used subdivision
+
+46
+00:02:13,329 --> 00:02:16,396
+to create practically
+all of our characters.
+
+47
+00:02:16,396 --> 00:02:19,931
+We even used subdivision for
+things besides characters,
+
+48
+00:02:19,931 --> 00:02:22,817
+like the buildings in "The Incredibles",
+
+49
+00:02:22,817 --> 00:02:26,099
+because subdivision surfaces
+are so easy for artists to use.
+
+50
+00:02:28,099 --> 00:02:30,816
+Next up, we have a simplified 3D program
+
+51
+00:02:30,816 --> 00:02:32,124
+for you to play with.
+
+52
+00:02:32,124 --> 00:02:32,124
+Really.
+
+53
+00:02:32,996 --> 00:02:34,865
+Go play!
+
+54
+00:02:34,865 --> 00:02:38,157
+Try anything and everything
+you can think of.
+
+55
+00:02:38,157 --> 00:02:40,037
+You can't break it and
+you can always restart.
+
+56
+00:02:42,037 --> 00:02:43,562
+Once you start to feel comfortable
+
+57
+00:02:43,562 --> 00:02:45,735
+with how the subdivision
+operation behaves,
+
+58
+00:02:45,735 --> 00:02:48,782
+move on and we'll try the final exercise.
+
+59
+00:02:48,782 --> 00:02:50,651
+After that, you can check
+out the next lesson,
+
+60
+00:02:50,651 --> 00:02:54,715
+which goes a bit deeper into
+the mathematics of subdivision.
+
+61
+00:02:54,715 --> 00:02:56,000
+Go do something awesome! aimozhen.com/pixarinabox
+

@@ -1,0 +1,276 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:00,110 --> 00:00:02,370
+(tapping and cymbal beats)
+
+3
+00:00:03,370 --> 00:00:03,370
+- Great.
+
+4
+00:00:03,710 --> 00:00:07,450
+So hopefully you're closer to developing a hypothesis
+
+5
+00:00:07,450 --> 00:00:10,230
+for the relationship between the lengths of the segments
+
+6
+00:00:10,230 --> 00:00:12,590
+in the diagram that describe exactly where
+
+7
+00:00:12,590 --> 00:00:14,290
+the touching point is.
+
+8
+00:00:14,290 --> 00:00:16,630
+Now, recall that we're interested in the formula
+
+9
+00:00:16,630 --> 00:00:18,810
+for a touching point because that'll let us write a
+
+10
+00:00:18,810 --> 00:00:22,610
+computer program to compute just points on the parabolic arc
+
+11
+00:00:22,610 --> 00:00:25,270
+and not have to worry about where the string art lines are
+
+12
+00:00:25,270 --> 00:00:27,490
+or even where the control points are.
+
+13
+00:00:27,490 --> 00:00:29,270
+Let me tell you a little bit about how I came up
+
+14
+00:00:29,270 --> 00:00:31,130
+with my hypothesis.
+
+15
+00:00:31,130 --> 00:00:32,910
+So when we look at the diagram here
+
+16
+00:00:32,910 --> 00:00:37,030
+with t set to the midpoint, that is, we're talking about
+
+17
+00:00:37,030 --> 00:00:39,510
+a string art line that's halfway along the way
+
+18
+00:00:39,510 --> 00:00:40,910
+in the construction.
+
+19
+00:00:40,910 --> 00:00:43,610
+That is, this point is the midpoint of this segment.
+
+20
+00:00:43,610 --> 00:00:45,870
+This point's the midpoint of this segment,
+
+21
+00:00:45,870 --> 00:00:47,490
+and finally, the touching point looks like
+
+22
+00:00:47,490 --> 00:00:50,750
+it's the midpoint of this string art line.
+
+23
+00:00:50,750 --> 00:00:54,330
+So, in this case, all those ratios are the same.
+
+24
+00:00:54,330 --> 00:00:57,650
+Let's go back to, say, t equals around a quarter,
+
+25
+00:00:57,650 --> 00:01:01,049
+so this point is a quarter along the way here,
+
+26
+00:01:01,049 --> 00:01:03,810
+this point is a quarter along the way here,
+
+27
+00:01:03,810 --> 00:01:06,121
+and in this case, it looks like the touching point
+
+28
+00:01:06,121 --> 00:01:09,049
+is also a quarter along the way of the string art line.
+
+29
+00:01:09,049 --> 00:01:11,489
+So again, all the ratios are equal.
+
+30
+00:01:11,489 --> 00:01:13,810
+Let's try one other value of t, say,
+
+31
+00:01:13,810 --> 00:01:15,830
+something around 0.7,
+
+32
+00:01:15,830 --> 00:01:18,290
+so this point is 0.7 along the way,
+
+33
+00:01:18,290 --> 00:01:20,250
+this point is 0.7 along the way,
+
+34
+00:01:20,250 --> 00:01:22,290
+and again, it looks like the touching point
+
+35
+00:01:22,290 --> 00:01:26,270
+is about that same ratio, about 0.7 along the way.
+
+36
+00:01:26,270 --> 00:01:28,650
+That leads us to guess that if this point
+
+37
+00:01:28,650 --> 00:01:31,290
+is a fraction t along this line segment,
+
+38
+00:01:31,290 --> 00:01:34,019
+and this point is a fraction t along this line segment
+
+39
+00:01:34,019 --> 00:01:35,760
+that the touching point that we're after
+
+40
+00:01:35,760 --> 00:01:39,640
+is that same fraction along this string art line.
+
+41
+00:01:39,640 --> 00:01:41,200
+Now to turn this into formulas,
+
+42
+00:01:41,200 --> 00:01:42,959
+let's start by labeling our points.
+
+43
+00:01:42,959 --> 00:01:46,000
+Let's call the control points A
+
+44
+00:01:46,000 --> 00:01:48,160
+B and C.
+
+45
+00:01:48,160 --> 00:01:51,500
+This point here on AB, I'll point Q.
+
+46
+00:01:51,500 --> 00:01:54,840
+This point here on BC, I'll call point R.
+
+47
+00:01:54,840 --> 00:01:56,620
+We'll call the touching point that we're after
+
+48
+00:01:56,620 --> 00:01:58,440
+point P.
+
+49
+00:01:58,440 --> 00:02:01,780
+So the geometry says that if this is a fraction t
+
+50
+00:02:01,780 --> 00:02:06,220
+along the way, that this in ratio t to one minus t.
+
+51
+00:02:07,220 --> 00:02:10,580
+This is in ratio t to one minus t,
+
+52
+00:02:10,580 --> 00:02:14,599
+and this is in ratio t to one minus t.
+
+53
+00:02:14,599 --> 00:02:16,979
+The algebra that goes along with this geometry
+
+54
+00:02:16,979 --> 00:02:21,139
+is that Q can be written as one minus t
+
+55
+00:02:21,139 --> 00:02:24,120
+times A plus t times B
+
+56
+00:02:24,120 --> 00:02:27,419
+because it's on the line segment AB.
+
+57
+00:02:27,419 --> 00:02:30,139
+The point R is on the line segment BC,
+
+58
+00:02:30,139 --> 00:02:31,699
+a fraction t along the way,
+
+59
+00:02:31,699 --> 00:02:34,780
+so it can be written as one minus t times B,
+
+60
+00:02:34,780 --> 00:02:36,940
+plus t times C.
+
+61
+00:02:36,940 --> 00:02:41,460
+If P is a fraction t along the line segment QR,
+
+62
+00:02:41,460 --> 00:02:43,560
+then it can be written again as
+
+63
+00:02:43,560 --> 00:02:46,139
+one minus t times Q
+
+64
+00:02:46,139 --> 00:02:48,660
+plus t times R.
+
+65
+00:02:48,660 --> 00:02:50,580
+So with these three formulas
+
+66
+00:02:50,580 --> 00:02:53,520
+taken together, we can compute any point on the parabola
+
+67
+00:02:53,520 --> 00:02:57,360
+we like just by varying the value of t.
+
+68
+00:02:57,360 --> 00:02:59,060
+The next exercise will give you some practice
+
+69
+00:02:59,060 --> 00:03:01,000
+using these formulas to solve a few problems. aimozhen.com/pixarinabox
+

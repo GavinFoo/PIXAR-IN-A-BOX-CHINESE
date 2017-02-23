@@ -1,0 +1,164 @@
+1
+00:00:00,000 --> 00:00:03,340
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,340 --> 00:00:04,630
+- Good work!
+
+3
+00:00:04,630 --> 00:00:06,630
+I left you with this question:
+
+4
+00:00:06,630 --> 00:00:09,560
+Why are there exactly six
+combinations of each cast
+
+5
+00:00:09,560 --> 00:00:12,890
+when you select three
+actors from a group of four?
+
+6
+00:00:13,890 --> 00:00:15,597
+To get a feeling for what's up,
+
+7
+00:00:15,597 --> 00:00:17,770
+let's look at the first two boxes.
+
+8
+00:00:17,770 --> 00:00:20,353
+Notice that in the first cast, or box,
+
+9
+00:00:20,353 --> 00:00:25,070
+we have all possible
+orderings of A, B, and C.
+
+10
+00:00:25,070 --> 00:00:28,160
+Mathematicians call each of
+these orderings a permutation.
+
+11
+00:00:30,160 --> 00:00:32,580
+Now, the number of
+permutations is represented
+
+12
+00:00:32,580 --> 00:00:35,920
+by the number of rows in each box.
+
+13
+00:00:35,920 --> 00:00:40,380
+The same is true in the second
+cast involving A, B, and D.
+
+14
+00:00:41,380 --> 00:00:43,510
+How many orderings, or permutations,
+
+15
+00:00:43,510 --> 00:00:46,009
+are there of three things?
+
+16
+00:00:46,009 --> 00:00:47,470
+We saw earlier that there are three
+
+17
+00:00:47,470 --> 00:00:49,340
+factorial, or six permutations.
+
+18
+00:00:51,340 --> 00:00:53,060
+Bingo! That's it!
+
+19
+00:00:53,060 --> 00:00:54,980
+To keep order for
+mattering, we need to take
+
+20
+00:00:54,980 --> 00:00:57,560
+the total number of combinations
+where order does matter
+
+21
+00:00:57,560 --> 00:01:00,780
+and divide that by all
+the possible permutations.
+
+22
+00:01:01,780 --> 00:01:05,030
+So when choosing three actors
+from four actors total,
+
+23
+00:01:05,030 --> 00:01:07,690
+we can write our calculation as
+
+24
+00:01:07,690 --> 00:01:10,450
+four times three times two
+
+25
+00:01:10,450 --> 00:01:13,790
+over three factorial, which equals four.
+
+26
+00:01:14,790 --> 00:01:17,330
+Let's do another example and
+figure out how many casts
+
+27
+00:01:17,330 --> 00:01:21,200
+we can form with three actors
+from a pool of six actors.
+
+28
+00:01:23,200 --> 00:01:27,510
+In this case, there would be
+six times five times four.
+
+29
+00:01:27,510 --> 00:01:29,959
+We then have to again
+divide by three factorial
+
+30
+00:01:29,959 --> 00:01:32,550
+to keep the order from mattering,
+
+31
+00:01:32,550 --> 00:01:35,640
+leaving six times five times four
+
+32
+00:01:35,640 --> 00:01:39,099
+over three factorial, which equals 20.
+
+33
+00:01:39,099 --> 00:01:41,610
+So there are 20 different
+casts in this case.
+
+34
+00:01:41,610 --> 00:01:43,360
+Use the next exercise to get some practice
+
+35
+00:01:43,360 --> 00:01:45,150
+with some other examples.
+
+36
+00:01:45,150 --> 00:01:47,060
+And perhaps you'll
+recognize our good friend
+
+37
+00:01:47,060 --> 00:01:51,000
+M-O in the cast. (robotic sounds) aimozhen.com/pixarinabox
+

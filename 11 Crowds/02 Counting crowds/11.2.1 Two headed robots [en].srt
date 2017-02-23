@@ -1,0 +1,138 @@
+1
+00:00:00,000 --> 00:00:03,180
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,180 --> 00:00:05,340
+- Great job completing the last tutorial!
+
+3
+00:00:05,340 --> 00:00:08,340
+You made both the director
+and the producer very happy.
+
+4
+00:00:08,340 --> 00:00:10,270
+Sometimes our directors change
+their minds when they see
+
+5
+00:00:10,270 --> 00:00:13,120
+their drawings translated
+to 3D computer graphics.
+
+6
+00:00:13,120 --> 00:00:16,770
+In fact, sometimes our directors
+change their minds a lot,
+
+7
+00:00:16,770 --> 00:00:19,302
+and we need to be able to
+adapt to those changes.
+
+8
+00:00:19,302 --> 00:00:21,390
+So let's say we have a
+director that wants a robot
+
+9
+00:00:21,390 --> 00:00:24,610
+with two heads, but each
+head has to be different.
+
+10
+00:00:24,610 --> 00:00:27,273
+That is, the director doesn't want a robot
+
+11
+00:00:27,273 --> 00:00:29,660
+with two copies of the same head.
+
+12
+00:00:29,660 --> 00:00:33,750
+Now a robot consists of two
+heads, a body, and arms.
+
+13
+00:00:33,750 --> 00:00:36,210
+We'd like to know how
+many of those we can have
+
+14
+00:00:36,210 --> 00:00:39,370
+if we have H heads, B bodies, and A arms.
+
+15
+00:00:41,370 --> 00:00:44,130
+We saw that by using a Tree
+Diagram we could multiply
+
+16
+00:00:44,130 --> 00:00:46,380
+the number of each kind of part together
+
+17
+00:00:46,380 --> 00:00:49,260
+to get the total number of combinations.
+
+18
+00:00:49,260 --> 00:00:53,480
+Well, we have H choices
+for the first head,
+
+19
+00:00:53,480 --> 00:00:56,310
+but since the second
+head has to be different,
+
+20
+00:00:56,310 --> 00:01:00,690
+we only have H minus one
+choices for the second head.
+
+21
+00:01:00,690 --> 00:01:04,069
+As before, we have B choices for bodies
+
+22
+00:01:04,069 --> 00:01:06,860
+and A choices for arms, for a total
+
+23
+00:01:06,860 --> 00:01:09,739
+of H times H minus one
+
+24
+00:01:09,739 --> 00:01:13,330
+times B times A combinations.
+
+25
+00:01:13,330 --> 00:01:15,079
+So it's all about multiplying together
+
+26
+00:01:15,079 --> 00:01:18,040
+all the choices you have at each stage.
+
+27
+00:01:18,040 --> 00:01:20,670
+Mathematicians make up
+words for everything.
+
+28
+00:01:20,670 --> 00:01:22,709
+They use the word combinatorics
+
+29
+00:01:22,709 --> 00:01:25,130
+to refer to this type of counting.
+
+30
+00:01:25,130 --> 00:01:26,630
+The next exercise will give you a chance
+
+31
+00:01:26,630 --> 00:01:28,000
+to practice with other combinations. aimozhen.com/pixarinabox
+

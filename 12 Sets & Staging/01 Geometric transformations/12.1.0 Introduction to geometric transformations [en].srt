@@ -1,0 +1,304 @@
+1
+00:00:00,000 --> 00:00:01,142
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:01,142 --> 00:00:03,639
+- At Pixar we build our movies shot-by-shot.
+
+3
+00:00:03,639 --> 00:00:04,858
+A shot is something we make
+
+4
+00:00:04,858 --> 00:00:06,920
+^by staging our characters in a set
+
+5
+00:00:06,920 --> 00:00:09,257
+^and then framing them up through a camera.
+
+6
+00:00:09,257 --> 00:00:12,424
+Every time the cameras point-of-view changes...
+
+7
+00:00:12,424 --> 00:00:14,052
+^- That's a new shot.
+
+8
+00:00:14,052 --> 00:00:17,482
+^On average, a Pixar movie is made of about 1,800 shots.
+
+9
+00:00:17,482 --> 00:00:20,553
+That's a new shot almost every three seconds.
+
+10
+00:00:20,553 --> 00:00:22,050
+- In animation we don't just dive in
+
+11
+00:00:22,050 --> 00:00:23,591
+and start creating shots.
+
+12
+00:00:23,591 --> 00:00:25,534
+First we need to figure out the story.
+
+13
+00:00:25,534 --> 00:00:27,761
+And we do this by making a story reel.
+
+14
+00:00:27,761 --> 00:00:29,853
+It'a a fast, rough version of the film
+
+15
+00:00:29,853 --> 00:00:32,255
+made of tens of thousands of drawings.
+
+16
+00:00:32,255 --> 00:00:34,799
+- The story reel does more than just tell the story.
+
+17
+00:00:34,799 --> 00:00:37,511
+It hints at a lot of things, such as composition,
+
+18
+00:00:37,511 --> 00:00:41,191
+camera movement, performance and location.
+
+19
+00:00:41,191 --> 00:00:43,211
+- The story reel gives us a good place to start thinking
+
+20
+00:00:43,211 --> 00:00:45,718
+about how we're gonna make these shots for real.
+
+21
+00:00:45,718 --> 00:00:47,738
+Real, like in the virtual, three-dimensional world
+
+22
+00:00:47,738 --> 00:00:49,264
+of computer graphics.
+
+23
+00:00:49,264 --> 00:00:52,835
+- And math is literally the foundation for all the processes
+
+24
+00:00:52,835 --> 00:00:55,297
+we use to create these films in the computer.
+
+25
+00:00:55,297 --> 00:00:57,851
+This lesson will show you how geometric transformations,
+
+26
+00:00:57,851 --> 00:01:00,755
+which are basic functions to manipulate the position,
+
+27
+00:01:00,755 --> 00:01:03,214
+orientation, and size of an object,
+
+28
+00:01:03,214 --> 00:01:05,768
+are an essential part of building our shots.
+
+29
+00:01:05,768 --> 00:01:06,638
+You ready?
+
+30
+00:01:06,638 --> 00:01:09,151
+- Of course. Let's go.
+
+31
+00:01:09,151 --> 00:01:11,492
+- I work in the Set's Department as a Set Dresser.
+
+32
+00:01:11,492 --> 00:01:14,538
+Often, the set starts as just an empty room.
+
+33
+00:01:14,538 --> 00:01:17,955
+Using the story reel, and reference from the art department,
+
+34
+00:01:17,955 --> 00:01:19,572
+I will work out what objects we need
+
+35
+00:01:19,572 --> 00:01:21,534
+to include in the set initially.
+
+36
+00:01:21,534 --> 00:01:23,809
+At this stage, before cameras are in there,
+
+37
+00:01:23,809 --> 00:01:26,049
+it's not about making the set pretty.
+
+38
+00:01:26,049 --> 00:01:27,815
+It's about supporting the action.
+
+39
+00:01:27,815 --> 00:01:30,171
+So I only include things that are essential
+
+40
+00:01:30,171 --> 00:01:33,515
+in staging the shot. I select the virtual models I need,
+
+41
+00:01:33,515 --> 00:01:35,476
+and they appear in the center of the set.
+
+42
+00:01:35,476 --> 00:01:37,648
+I move them into place around the room,
+
+43
+00:01:37,648 --> 00:01:39,946
+turning them and re-sizing them if necessary.
+
+44
+00:01:39,946 --> 00:01:41,607
+Each of these changes to the model
+
+45
+00:01:41,607 --> 00:01:45,135
+is accomplished using geometric transformations.
+
+46
+00:01:45,135 --> 00:01:48,164
+When I'm done with this first pass I send it to staging.
+
+47
+00:01:48,164 --> 00:01:49,953
+- My department, Camera and Staging,
+
+48
+00:01:49,953 --> 00:01:51,869
+is where we figure out how to shoot the movie
+
+49
+00:01:51,869 --> 00:01:53,941
+through the lens of a virtual camera.
+
+50
+00:01:53,941 --> 00:01:56,003
+So let's take a look at the shot we're gonna make.
+
+51
+00:01:57,003 --> 00:01:59,774
+- Oh no! Our dinosaur has escaped.
+
+52
+00:01:59,774 --> 00:02:01,992
+- In film-making, camera movement is a powerful tool
+
+53
+00:02:01,992 --> 00:02:05,019
+to convey emotion in your audience in a subconscious way.
+
+54
+00:02:05,019 --> 00:02:09,253
+Is the camera hand-held? On a dolly or a crane?
+
+55
+00:02:09,253 --> 00:02:11,907
+Is the character experiencing some important moment?
+
+56
+00:02:11,907 --> 00:02:14,931
+A moment of significance that we're pushing in on?
+
+57
+00:02:14,931 --> 00:02:17,108
+For this shot we're gonna follow the action with our camera,
+
+58
+00:02:17,108 --> 00:02:19,991
+panning with Bonnie as she moves through the space.
+
+59
+00:02:19,991 --> 00:02:23,673
+- Oh no! Our dinosaur has escaped.
+
+60
+00:02:24,673 --> 00:02:25,907
+When we're done setting up the camera,
+
+61
+00:02:25,907 --> 00:02:28,206
+the shot goes back to Set Dressing.
+
+62
+00:02:28,206 --> 00:02:29,751
+- Now that I know what the set looks like
+
+63
+00:02:29,751 --> 00:02:32,704
+through the camera, I can take a more detailed pass.
+
+64
+00:02:32,704 --> 00:02:35,184
+I'll add objects to make the set feel more believable
+
+65
+00:02:35,184 --> 00:02:36,980
+and support the story.
+
+66
+00:02:36,980 --> 00:02:40,349
+Sometimes this means adding a lot of stuff in messy piles
+
+67
+00:02:40,349 --> 00:02:42,405
+to feel like a teenagers room.
+
+68
+00:02:42,405 --> 00:02:45,551
+Or fill the crates in a bookshelf so it looks like a daycare
+
+69
+00:02:45,551 --> 00:02:48,104
+but feels like a prison. And all that math?
+
+70
+00:02:48,104 --> 00:02:50,335
+Well, we use geometric transformations
+
+71
+00:02:50,335 --> 00:02:52,505
+at every step of building the shot.
+
+72
+00:02:52,505 --> 00:02:54,211
+- In this lesson, you'll get a chance
+
+73
+00:02:54,211 --> 00:02:55,744
+to use geometric transformations,
+
+74
+00:02:55,744 --> 00:02:58,008
+and explore concepts as simple as addition
+
+75
+00:02:58,008 --> 00:03:00,110
+and as spicy as trigonometry
+
+76
+00:03:00,110 --> 00:03:02,000
+to build your own shot. aimozhen.com/pixarinabox
+

@@ -1,0 +1,485 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:00,461 --> 00:00:02,169
+- I remember, when I was a kid,
+
+3
+00:00:02,169 --> 00:00:05,032
+I used to, like, run
+out of shoe to draw on.
+
+4
+00:00:05,032 --> 00:00:07,775
+And I would just, like,
+continue drawing up my leg
+
+5
+00:00:07,775 --> 00:00:10,111
+and just, like, just continue drawing.
+
+6
+00:00:10,111 --> 00:00:13,565
+And, you know, my dad
+didn't really want me
+
+7
+00:00:13,565 --> 00:00:16,186
+to do too much art stuff.
+
+8
+00:00:16,186 --> 00:00:18,666
+He was like, "Oh, maybe
+you should try architecture
+
+9
+00:00:18,666 --> 00:00:20,418
+or something like that."
+
+10
+00:00:20,418 --> 00:00:23,382
+And, I had to, kind of, prove to him
+
+11
+00:00:23,382 --> 00:00:28,950
+that there was money, that I
+could make a living from art.
+
+12
+00:00:28,950 --> 00:00:31,368
+And, what I found out early on was that,
+
+13
+00:00:31,368 --> 00:00:33,784
+when you combine art with technology,
+
+14
+00:00:33,784 --> 00:00:35,572
+which kind of made it more relevant
+
+15
+00:00:35,572 --> 00:00:37,808
+to the world that we live in today,
+
+16
+00:00:37,808 --> 00:00:40,794
+that there was a lot more job stability.
+
+17
+00:00:40,794 --> 00:00:41,831
+You know, stuff like that.
+
+18
+00:00:41,831 --> 00:00:44,126
+And, so, when I was making websites,
+
+19
+00:00:44,126 --> 00:00:46,686
+there was, like, animations.
+
+20
+00:00:46,686 --> 00:00:47,823
+You could, like, click on a button
+
+21
+00:00:47,823 --> 00:00:49,700
+and it would make a little animation.
+
+22
+00:00:49,700 --> 00:00:52,199
+And I was like, "Oh, what's
+this animation thing?"
+
+23
+00:00:52,199 --> 00:00:54,494
+And then I got more and more curious
+
+24
+00:00:54,494 --> 00:00:57,685
+and then, as my websites
+got fancier and fancier,
+
+25
+00:00:57,685 --> 00:01:00,407
+there was like, "Oh, what if
+I could, like, make a logo
+
+26
+00:01:00,407 --> 00:01:02,619
+and it was, like, spinning in 3D.
+
+27
+00:01:02,619 --> 00:01:05,626
+Like, how do I make stuff in 3D?"
+
+28
+00:01:05,626 --> 00:01:09,431
+I went to this thing, called
+the National Portfolio Day,
+
+29
+00:01:09,431 --> 00:01:11,340
+which is where all the
+art schools, kind of,
+
+30
+00:01:11,340 --> 00:01:13,251
+look at students' portfolios.
+
+31
+00:01:13,251 --> 00:01:14,813
+And I had some 3D stuff
+
+32
+00:01:14,813 --> 00:01:17,639
+but I didn't really, I was
+just like, "I'm an artist
+
+33
+00:01:17,639 --> 00:01:21,194
+and I happen to have some of
+this stuff in my portfolio."
+
+34
+00:01:21,194 --> 00:01:23,491
+And, then, when a University saw it,
+
+35
+00:01:23,491 --> 00:01:25,318
+they were like, "Whoa."
+
+36
+00:01:25,318 --> 00:01:27,309
+They were like, "You need to do 3D."
+
+37
+00:01:27,309 --> 00:01:28,834
+And I was like, "3D what?"
+
+38
+00:01:28,834 --> 00:01:31,292
+And they were like, "No,
+3D computer animation."
+
+39
+00:01:31,292 --> 00:01:33,385
+I didn't know too much technology stuff,
+
+40
+00:01:33,385 --> 00:01:35,482
+so, like, University was like, just,
+
+41
+00:01:35,482 --> 00:01:37,325
+I was like a sponge
+
+42
+00:01:37,325 --> 00:01:41,742
+and, yeah, I learned a lot in University.
+
+43
+00:01:41,742 --> 00:01:43,226
+At school, we had to come up
+
+44
+00:01:43,226 --> 00:01:45,562
+with a two and a half minute short film.
+
+45
+00:01:45,562 --> 00:01:48,875
+And mine was about a lighthouse keeper
+
+46
+00:01:48,875 --> 00:01:52,714
+that, the mechanism that
+he turns on his light,
+
+47
+00:01:52,714 --> 00:01:55,294
+it needs repair because it's frozen.
+
+48
+00:01:55,294 --> 00:01:57,042
+And, so, this boat is gunna come crashing
+
+49
+00:01:57,042 --> 00:02:00,230
+into the reef that he's on.
+
+50
+00:02:00,230 --> 00:02:02,974
+And, so, in trying to fix the thing,
+
+51
+00:02:02,974 --> 00:02:05,920
+he electrocutes himself and dies.
+
+52
+00:02:05,920 --> 00:02:08,014
+And he pops up as a ghost
+
+53
+00:02:08,014 --> 00:02:11,121
+and he's trying to fix the switch
+
+54
+00:02:11,121 --> 00:02:12,889
+but he's, like, going though the switch
+
+55
+00:02:12,889 --> 00:02:14,717
+because now he's a ghost.
+
+56
+00:02:14,717 --> 00:02:16,709
+And he turns around,
+
+57
+00:02:16,709 --> 00:02:18,943
+the boat blows his horn.
+
+58
+00:02:18,943 --> 00:02:22,377
+He turns around, sees his dead
+body, and is in crazy shock.
+
+59
+00:02:22,377 --> 00:02:24,958
+He needs to snap out of it really quickly
+
+60
+00:02:24,958 --> 00:02:27,069
+because, if he doesn't,
+the boat's gunna crash.
+
+61
+00:02:27,069 --> 00:02:29,670
+And, so, what he realizes is that
+
+62
+00:02:29,670 --> 00:02:34,934
+he can go inside of the lens
+that amplifies the light.
+
+63
+00:02:34,934 --> 00:02:37,574
+And, so, the ghost jumps into the lens
+
+64
+00:02:37,574 --> 00:02:40,399
+and it explodes in light.
+
+65
+00:02:40,399 --> 00:02:43,405
+And, finally, the boat can see the rocks
+
+66
+00:02:43,405 --> 00:02:44,991
+and, sort of, avoids them.
+
+67
+00:02:44,991 --> 00:02:47,224
+But there was, I think,
+some golden nuggets,
+
+68
+00:02:47,224 --> 00:02:48,883
+sort of, inside of there.
+
+69
+00:02:49,883 --> 00:02:51,967
+I think my character, that I made,
+
+70
+00:02:51,967 --> 00:02:54,181
+I had a lot of fun making it.
+
+71
+00:02:54,181 --> 00:02:55,764
+And, when I applied to Pixar,
+
+72
+00:02:56,764 --> 00:02:58,852
+I was applying for a
+different job position
+
+73
+00:02:58,852 --> 00:03:02,367
+and I happened to have a little video
+
+74
+00:03:02,367 --> 00:03:05,049
+of my character, kind
+of like, moving around
+
+75
+00:03:05,049 --> 00:03:08,037
+and having all these,
+like, facial expressions.
+
+76
+00:03:08,037 --> 00:03:10,738
+And they were like, "We
+want you for rigging."
+
+77
+00:03:10,738 --> 00:03:12,161
+And I was like, "What's rigging?"
+
+78
+00:03:12,161 --> 00:03:13,949
+(laughs)
+
+79
+00:03:13,949 --> 00:03:17,767
+And, so, rigging, also
+known as reticulation,
+
+80
+00:03:17,767 --> 00:03:22,279
+is, basically, designing an
+interface of a bunch of, like,
+
+81
+00:03:22,279 --> 00:03:25,468
+knobs that when you,
+like, move them around
+
+82
+00:03:25,468 --> 00:03:29,450
+it's, like, moving the character,
+and blinking the eyelid
+
+83
+00:03:29,450 --> 00:03:30,688
+and stuff like that.
+
+84
+00:03:30,688 --> 00:03:33,067
+(laughs)
+
+85
+00:03:33,067 --> 00:03:35,119
+I love making robots
+
+86
+00:03:35,119 --> 00:03:38,491
+and I love making robots because
+
+87
+00:03:38,491 --> 00:03:42,209
+it's a continuation of
+what I love here at Pixar.
+
+88
+00:03:42,209 --> 00:03:45,114
+Which is making these characters that,
+
+89
+00:03:45,114 --> 00:03:49,259
+hopefully, in the minds
+of people, they're alive.
+
+90
+00:03:49,259 --> 00:03:52,592
+And, for me, robotics is just like ,
+
+91
+00:03:52,592 --> 00:03:57,590
+"What if I couldn't make
+characters seem alive
+
+92
+00:03:57,590 --> 00:03:59,662
+for just two hours?
+
+93
+00:03:59,662 --> 00:04:03,420
+What if I could just make them
+seem alive for a lot longer?
+
+94
+00:04:03,420 --> 00:04:05,573
+Like, hopefully, many years."
+
+95
+00:04:05,573 --> 00:04:08,539
+And, so, yeah, it's exciting,
+
+96
+00:04:08,539 --> 00:04:12,217
+just, you know, tinkering
+with a bunch of things
+
+97
+00:04:12,217 --> 00:04:13,334
+that I don't know about
+
+98
+00:04:13,334 --> 00:04:16,382
+because it's literally, I
+came from an art background.
+
+99
+00:04:16,382 --> 00:04:19,043
+And, so, it's mechanical engineering,
+
+100
+00:04:19,043 --> 00:04:24,870
+electrical engineering,
+computer science, fabrication.
+
+101
+00:04:25,870 --> 00:04:28,125
+There's so many things
+that I just don't know.
+
+102
+00:04:28,125 --> 00:04:30,666
+And, literally, just
+looking on the internet.
+
+103
+00:04:30,666 --> 00:04:33,660
+Like, I haven't taken a single class
+
+104
+00:04:33,660 --> 00:04:35,235
+because I'm such a visual learner.
+
+105
+00:04:35,235 --> 00:04:38,122
+I always, you know,
+search on YouTube first.
+
+106
+00:04:38,122 --> 00:04:41,697
+For me, like, videos are what help me.
+
+107
+00:04:41,697 --> 00:04:46,077
+And, text, I only resort to text
+when there isn't any video stuff.
+
+108
+00:04:48,077 --> 00:04:50,940
+And, so it's just, kind of, an experiment
+
+109
+00:04:50,940 --> 00:04:55,127
+with robots and humans and the kind of
+
+110
+00:04:55,127 --> 00:04:58,134
+interactions that you can have
+
+111
+00:04:58,134 --> 00:05:01,059
+with, kind of, an artifical being.
+
+112
+00:05:01,059 --> 00:05:02,000
+Just, pretty cool. aimozhen.com/pixarinabox
+

@@ -1,0 +1,235 @@
+1
+00:00:00,000 --> 00:00:03,273
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,273 --> 00:00:06,891
+- Congratulations you're in
+the last step of this lesson.
+
+3
+00:00:06,891 --> 00:00:08,733
+To finish our look at weighted averages
+
+4
+00:00:08,733 --> 00:00:11,264
+recall that if I pick weights one one
+
+5
+00:00:11,264 --> 00:00:14,552
+I get subdivision curves
+that look like this.
+
+6
+00:00:14,552 --> 00:00:17,021
+And we learn that these
+shapes are pieces of degree
+
+7
+00:00:17,021 --> 00:00:21,625
+two curves like Y equals X
+squared stitched together.
+
+8
+00:00:22,625 --> 00:00:25,532
+And if I pick the weights one-two-one,
+
+9
+00:00:25,532 --> 00:00:27,050
+I get curves that look smoother.
+
+10
+00:00:27,050 --> 00:00:28,349
+Just like this.
+
+11
+00:00:29,349 --> 00:00:32,288
+These curves turn out to be
+pieces of degree three curves
+
+12
+00:00:32,288 --> 00:00:35,634
+like Y equals X cubed stitched together.
+
+13
+00:00:36,634 --> 00:00:40,087
+In this example there are four
+different degree three pieces
+
+14
+00:00:41,087 --> 00:00:42,518
+I can even get smoother curves
+
+15
+00:00:42,518 --> 00:00:45,346
+by picking the weights
+one-three-three-one.
+
+16
+00:00:47,346 --> 00:00:51,623
+Which are degree four curves
+like Y equals X to the fourth.
+
+17
+00:00:53,623 --> 00:00:56,339
+And it turns out that the
+weights have to be chosen
+
+18
+00:00:56,339 --> 00:00:59,704
+very carefully for the
+curves to be smooth.
+
+19
+00:00:59,704 --> 00:01:02,288
+So what exactly does carefully mean?
+
+20
+00:01:03,288 --> 00:01:08,555
+These numbers one-one,
+one-two-one, one-three-three-one
+
+21
+00:01:08,555 --> 00:01:11,880
+all come from a pattern
+called Pascal's Triangle.
+
+22
+00:01:16,880 --> 00:01:18,849
+Let's see what happens if I pick weights
+
+23
+00:01:18,849 --> 00:01:21,617
+that aren't from Pascal's Triangle.
+
+24
+00:01:21,617 --> 00:01:23,709
+I don't even have to
+pick positive weights,
+
+25
+00:01:23,709 --> 00:01:27,319
+so supposed I pick one-negative two-three?
+
+26
+00:01:28,319 --> 00:01:31,440
+Nothing new with split, it
+always just adds mid points.
+
+27
+00:01:33,440 --> 00:01:37,432
+But when I do the averaging stuff, whoa!
+
+28
+00:01:38,432 --> 00:01:42,654
+As I keep subdividing the curve
+gets less and less smooth.
+
+29
+00:01:42,654 --> 00:01:45,111
+It's something called a fractal.
+
+30
+00:01:46,111 --> 00:01:48,480
+We don't have all of
+the mathematical tools
+
+31
+00:01:48,480 --> 00:01:50,034
+that we require to show this,
+
+32
+00:01:50,034 --> 00:01:53,309
+there's some more advanced
+concepts from linear algebra
+
+33
+00:01:53,309 --> 00:01:56,057
+and something called eigenanalysis.
+
+34
+00:01:56,057 --> 00:02:00,248
+Eigenanalysis sounds kinda scary
+but mathematicians are just
+
+35
+00:02:00,248 --> 00:02:03,870
+really good at coming up with
+names that are kinda scary.
+
+36
+00:02:03,870 --> 00:02:06,366
+And just like we've done so far
+
+37
+00:02:06,366 --> 00:02:08,950
+you just learn one step at a time.
+
+38
+00:02:08,950 --> 00:02:11,393
+The main thing that I
+want you to walk away with
+
+39
+00:02:11,393 --> 00:02:14,121
+is that the surfaces
+that you see in our films
+
+40
+00:02:14,121 --> 00:02:16,662
+are actually pretty easy to create.
+
+41
+00:02:17,662 --> 00:02:20,426
+The art department creates
+sketches for the modelers
+
+42
+00:02:20,426 --> 00:02:24,192
+to refer to when determining
+control point positions.
+
+43
+00:02:24,192 --> 00:02:27,359
+From there the software tools
+do the splitting and averaging
+
+44
+00:02:27,359 --> 00:02:28,973
+to produce the beautiful surfaces
+
+45
+00:02:28,973 --> 00:02:30,443
+that you see in the theater.
+
+46
+00:02:31,443 --> 00:02:33,768
+Of course when you're
+watching one of our films
+
+47
+00:02:33,768 --> 00:02:36,113
+we don't want you to
+think about any of that.
+
+48
+00:02:36,113 --> 00:02:38,686
+We just want you to sit back, relax,
+
+49
+00:02:38,686 --> 00:02:40,258
+and let the movie take you away.
+
+50
+00:02:41,258 --> 00:02:43,098
+So play around with the weights.
+
+51
+00:02:43,098 --> 00:02:45,640
+See what weird results you can get.
+
+52
+00:02:45,640 --> 00:02:49,000
+And when you're done you can
+move onto the final exercise. aimozhen.com/pixarinabox
+

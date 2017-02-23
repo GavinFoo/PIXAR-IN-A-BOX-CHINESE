@@ -1,0 +1,150 @@
+1
+00:00:00,000 --> 00:00:03,469
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,469 --> 00:00:06,273
+- One of the cool things about
+splitting and averaging is
+
+3
+00:00:06,273 --> 00:00:08,589
+that it's pretty easy to program.
+
+4
+00:00:08,589 --> 00:00:10,416
+So, you just need to find the midpoint,
+
+5
+00:00:10,416 --> 00:00:12,899
+which is just averaging coordinates.
+
+6
+00:00:16,899 --> 00:00:18,219
+This makes it pretty easy
+
+7
+00:00:18,219 --> 00:00:19,844
+for the people that write our software
+
+8
+00:00:19,844 --> 00:00:21,978
+to create intuitive tools for artists,
+
+9
+00:00:21,978 --> 00:00:24,394
+like myself, to create characters.
+
+10
+00:00:24,394 --> 00:00:26,504
+Kinda like you used on the smiley face.
+
+11
+00:00:27,504 --> 00:00:29,027
+In this next version of the interactive,
+
+12
+00:00:29,027 --> 00:00:32,055
+we've replaced the split
+and average buttons
+
+13
+00:00:32,055 --> 00:00:34,459
+with a single button, called "Subdivide".
+
+14
+00:00:35,459 --> 00:00:39,685
+Clicking it simply does
+split followed by average.
+
+15
+00:00:41,685 --> 00:00:44,996
+Focus your attention on
+this region of the curve.
+
+16
+00:00:44,996 --> 00:00:46,276
+Now, let's extend these lines
+
+17
+00:00:46,276 --> 00:00:48,239
+until they hit the control polygon.
+
+18
+00:00:50,239 --> 00:00:52,594
+Hmm. Doesn't this look, suspiciously,
+
+19
+00:00:52,594 --> 00:00:53,958
+like the string art construction
+
+20
+00:00:53,958 --> 00:00:56,311
+we saw in the parabolic arcs?
+
+21
+00:01:01,311 --> 00:01:04,656
+Now, watch what happens
+when I subdivide again.
+
+22
+00:01:04,656 --> 00:01:07,687
+The string art pattern
+continues to emerge.
+
+23
+00:01:08,687 --> 00:01:10,515
+Now, every time you hit subdivide,
+
+24
+00:01:10,515 --> 00:01:12,318
+you get twice as many strings.
+
+25
+00:01:13,318 --> 00:01:14,843
+And that means that the curve
+
+26
+00:01:14,843 --> 00:01:18,637
+that we're creating is a
+parabolic arc in this region.
+
+27
+00:01:19,637 --> 00:01:21,669
+And there's another
+parabolic arc over here
+
+28
+00:01:21,669 --> 00:01:23,127
+and over here and over here.
+
+29
+00:01:24,127 --> 00:01:26,605
+But, magically, these
+four arcs are smoothly
+
+30
+00:01:26,605 --> 00:01:28,552
+blending from one to another.
+
+31
+00:01:29,552 --> 00:01:32,925
+I think that's just so cool.
+
+32
+00:01:32,925 --> 00:01:34,549
+As someone interested in mathematics,
+
+33
+00:01:34,549 --> 00:01:37,137
+this is the kind of surprise
+that I find exciting.
+
+34
+00:01:40,137 --> 00:01:41,681
+This next exercise will test
+
+35
+00:01:41,681 --> 00:01:43,000
+how well you understand this concept. aimozhen.com/pixarinabox
+
