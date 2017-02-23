@@ -8,8 +8,7 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 3
 00:00:05,140 --> 00:00:09,118
-in terms of wavelength of light
-and human color receptors.
+in terms of wavelength of light and human color receptors.
 
 4
 00:00:09,118 --> 00:00:11,104
@@ -29,18 +28,15 @@ has a hue, saturation, and lightness.
 
 8
 00:00:18,174 --> 00:00:21,588
-But colors appear in our
-world alongside other colors,
+But colors appear in our world alongside other colors,
 
 9
 00:00:21,588 --> 00:00:24,720
-and that can really
-affect how they appear.
+and that can really affect how they appear.
 
 10
 00:00:24,720 --> 00:00:27,970
-It's also when things can
-get really, really weird.
+It's also when things can get really, really weird.
 
 11
 00:00:27,970 --> 00:00:30,571
@@ -68,18 +64,15 @@ No, if you take away the other colors
 
 17
 00:00:42,003 --> 00:00:45,663
-you'll see that they are
-in fact the same color.
+you'll see that they are in fact the same color.
 
 18
 00:00:45,663 --> 00:00:48,589
-And it's not only color
-which can trick us.
+And it's not only color which can trick us.
 
 19
 00:00:48,589 --> 00:00:50,864
-Different brightness
-levels will also affect
+Different brightness levels will also affect
 
 20
 00:00:50,864 --> 00:00:53,097
@@ -87,13 +80,11 @@ how we perceive an image.
 
 21
 00:00:53,097 --> 00:00:57,158
-For example, look at the
-following greyscale image.
+For example, look at the following greyscale image.
 
 22
 00:00:57,158 --> 00:01:01,591
-Take a closer looks at
-these two squares, A and B.
+Take a closer looks at these two squares, A and B.
 
 23
 00:01:01,591 --> 00:01:04,357
@@ -105,8 +96,7 @@ The other is a light square in shadow.
 
 25
 00:01:08,013 --> 00:01:10,777
-Do you think they are
-different shades of grey?
+Do you think they are different shades of grey?
 
 26
 00:01:10,777 --> 00:01:12,523
@@ -118,8 +108,7 @@ They are in fact the same shade of grey.
 
 28
 00:01:15,488 --> 00:01:18,048
-So clearly not everything
-is what it seems.
+So clearly not everything is what it seems.
 
 29
 00:01:18,048 --> 00:01:20,529
@@ -127,13 +116,11 @@ How we perceive contrast or brightness
 
 30
 00:01:20,529 --> 00:01:23,575
-depends very much on
-the surrounding image.
+depends very much on the surrounding image.
 
 31
 00:01:23,575 --> 00:01:26,296
-And it brings us back to
-how the brain processes
+And it brings us back to how the brain processes
 
 32
 00:01:26,296 --> 00:01:28,179
@@ -141,8 +128,7 @@ incoming image signals.
 
 33
 00:01:29,179 --> 00:01:32,108
-The structure of our
-visual system is optimized
+The structure of our visual system is optimized
 
 34
 00:01:32,108 --> 00:01:33,776
@@ -166,8 +152,7 @@ This requires the ability
 
 39
 00:01:42,556 --> 00:01:46,256
-to rapidly refocus our
-attention when we need to.
+to rapidly refocus our attention when we need to.
 
 40
 00:01:46,256 --> 00:01:48,028
@@ -179,13 +164,11 @@ automatically refocusing our attention
 
 42
 00:01:49,899 --> 00:01:54,301
-to dramatic changes in color,
-brightness or movement.
+to dramatic changes in color, brightness or movement.
 
 43
 00:01:55,301 --> 00:02:00,258
-We call this difference in
-color or illumination contrast.
+We call this difference in color or illumination contrast.
 
 44
 00:02:00,258 --> 00:02:02,045
@@ -201,8 +184,7 @@ In the color mastering suite,
 
 47
 00:02:06,914 --> 00:02:09,268
-we can adjust the contrast
-of an entire image
+we can adjust the contrast of an entire image
 
 48
 00:02:09,268 --> 00:02:11,663
@@ -218,18 +200,15 @@ the differences in brightness,
 
 51
 00:02:17,269 --> 00:02:20,116
-or the illumination
-levels across the image.
+or the illumination levels across the image.
 
 52
 00:02:20,116 --> 00:02:22,792
-For example, notice the
-left half of this image
+For example, notice the left half of this image
 
 53
 00:02:22,792 --> 00:02:27,258
-has a lower contrast
-level than the right half.
+has a lower contrast level than the right half.
 
 54
 00:02:27,258 --> 00:02:29,247
@@ -249,8 +228,7 @@ in the headquarters there's a scene
 
 58
 00:02:36,151 --> 00:02:39,399
-where the character Anger
-gets really, really angry
+where the character Anger gets really, really angry
 
 59
 00:02:39,399 --> 00:02:41,553
@@ -262,8 +240,7 @@ flames exploding from his head,
 
 61
 00:02:43,705 --> 00:02:46,954
-the surrounding area of
-the image is darkened
+the surrounding area of the image is darkened
 
 62
 00:02:46,954 --> 00:02:48,744
@@ -291,23 +268,19 @@ Any decision that involves colors
 
 68
 00:03:00,848 --> 00:03:03,893
-or lighting of any kind
-will involve the DP.
+or lighting of any kind will involve the DP.
 
 69
 00:03:03,893 --> 00:03:07,222
-Another great example is
-from the movie Toy Story 3.
+Another great example is from the movie Toy Story 3.
 
 70
 00:03:07,222 --> 00:03:09,491
-Lotso the bear has sort
-of, in this whole sequence,
+Lotso the bear has sort of, in this whole sequence,
 
 71
 00:03:09,491 --> 00:03:11,644
-been the only really
-pink thing in the scene.
+been the only really pink thing in the scene.
 
 72
 00:03:11,644 --> 00:03:14,079
@@ -323,13 +296,11 @@ And then as the bear is lost,
 
 75
 00:03:18,506 --> 00:03:21,020
-there's a scene at the
-end where Lotso's looking
+there's a scene at the end where Lotso's looking
 
 76
 00:03:21,020 --> 00:03:24,762
-in the window at his owner
-and the replacement bear
+in the window at his owner and the replacement bear
 
 77
 00:03:24,762 --> 00:03:27,119
@@ -345,13 +316,11 @@ seem far less pink than the new bear
 
 80
 00:03:31,544 --> 00:03:33,495
-which is pretty much
-now the sort of center
+which is pretty much now the sort of center
 
 81
 00:03:33,495 --> 00:03:35,931
-of attention of love and
-heightening that perception
+of attention of love and heightening that perception
 
 82
 00:03:35,931 --> 00:03:37,882
@@ -359,8 +328,7 @@ of the difference between how pink
 
 83
 00:03:37,882 --> 00:03:42,723
-each of them are was very
-much central to the emotion.
+each of them are was very much central to the emotion.
 
 84
 00:03:42,723 --> 00:03:43,611
@@ -368,6 +336,5 @@ In the next exercise,
 
 85
 00:03:43,611 --> 00:03:47,000
-you'll have a chance
-to play with contrast. aimozhen.com/pixarinabox
+you'll have a chance to play with contrast. aimozhen.com/pixarinabox
 

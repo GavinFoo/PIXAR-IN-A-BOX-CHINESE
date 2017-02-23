@@ -16,8 +16,7 @@ from the story department,
 
 5
 00:00:05,960 --> 00:00:08,468
-we'll also have to resize
-objects in our scene.
+we'll also have to resize objects in our scene.
 
 6
 00:00:08,468 --> 00:00:11,509
@@ -25,8 +24,7 @@ For example, I can put Buzz into the shot,
 
 7
 00:00:11,509 --> 00:00:15,003
-but he's clearly not the
-size indicated in the sketch.
+but he's clearly not the size indicated in the sketch.
 
 8
 00:00:15,003 --> 00:00:17,558
@@ -34,18 +32,15 @@ We can change the size of Buzz, say making
 
 9
 00:00:17,558 --> 00:00:21,099
-him twice as big by using
-the scaling operation.
+him twice as big by using the scaling operation.
 
 10
 00:00:21,099 --> 00:00:23,479
-To scale the object to
-twice its initial size,
+To scale the object to twice its initial size,
 
 11
 00:00:23,479 --> 00:00:25,696
-I have to multiply the
-coordinates of each point
+I have to multiply the coordinates of each point
 
 12
 00:00:25,696 --> 00:00:27,856
@@ -53,8 +48,7 @@ in the object by a factor of two.
 
 13
 00:00:27,856 --> 00:00:32,058
-As before with translation,
-I can pick any initial point.
+As before with translation, I can pick any initial point.
 
 14
 00:00:32,058 --> 00:00:34,444
@@ -82,13 +76,11 @@ as big means multiplying by s.
 
 20
 00:00:48,180 --> 00:00:52,789
-If s is larger than
-one, things get bigger.
+If s is larger than one, things get bigger.
 
 21
 00:00:52,789 --> 00:00:55,808
-And if s is less than
-one, but still positive,
+And if s is less than one, but still positive,
 
 22
 00:00:55,808 --> 00:00:57,721
@@ -104,8 +96,7 @@ mathematics of scaling is multiplication.
 
 25
 00:01:04,406 --> 00:01:07,773
-If the scaling factor in x
-is bigger than the one in y,
+If the scaling factor in x is bigger than the one in y,
 
 26
 00:01:07,773 --> 00:01:10,072
@@ -121,13 +112,11 @@ the y factor is bigger than x.
 
 29
 00:01:14,925 --> 00:01:18,533
-Also, think about what would
-happen if s is negative.
+Also, think about what would happen if s is negative.
 
 30
 00:01:19,533 --> 00:01:21,587
-We generally need to
-both scale and translate
+We generally need to both scale and translate
 
 31
 00:01:21,587 --> 00:01:23,527
@@ -167,8 +156,7 @@ In this next exercise, your assignment
 
 40
 00:01:41,414 --> 00:01:44,282
-is to add to the shot you
-created in the last exercise
+is to add to the shot you created in the last exercise
 
 41
 00:01:44,282 --> 00:01:46,232
@@ -184,8 +172,7 @@ Remember if they require rotation,
 
 44
 00:01:51,870 --> 00:01:54,194
-you shouldn't place them
-in the shot just yet.
+you shouldn't place them in the shot just yet.
 
 45
 00:01:54,194 --> 00:01:55,182

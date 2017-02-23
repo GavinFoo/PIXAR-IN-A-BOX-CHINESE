@@ -24,13 +24,11 @@ Hair was a really big deal in Brave.
 
 7
 00:00:09,752 --> 00:00:11,518
-It was a symbol of
-freedom that was intrinsic
+It was a symbol of freedom that was intrinsic
 
 8
 00:00:11,518 --> 00:00:14,514
-to our main character
-Merida's personality.
+to our main character Merida's personality.
 
 9
 00:00:14,514 --> 00:00:16,297
@@ -50,8 +48,7 @@ In our movies, hair is a simulated effect.
 
 13
 00:00:23,501 --> 00:00:26,248
-That means no one animates
-its movement by hand.
+That means no one animates its movement by hand.
 
 14
 00:00:26,248 --> 00:00:28,030
@@ -63,8 +60,7 @@ and programmed into the computer.
 
 16
 00:00:30,314 --> 00:00:32,535
-To figure out what hair
-simulation should look like,
+To figure out what hair simulation should look like,
 
 17
 00:00:32,535 --> 00:00:34,240
@@ -84,8 +80,7 @@ Curly hair forms together in locks
 
 21
 00:00:39,006 --> 00:00:41,232
-that reshape themselves
-when you pull on them,
+that reshape themselves when you pull on them,
 
 22
 00:00:41,232 --> 00:00:42,757
@@ -113,8 +108,7 @@ From the computer's perspective,
 
 28
 00:00:51,293 --> 00:00:53,524
-Merida's hair is just
-lots and lots of springs
+Merida's hair is just lots and lots of springs
 
 29
 00:00:53,524 --> 00:00:55,765
@@ -126,8 +120,7 @@ as Merida moves.
 
 31
 00:00:57,468 --> 00:01:00,023
-The tests we ran using this
-approach were pretty good,
+The tests we ran using this approach were pretty good,
 
 32
 00:01:00,023 --> 00:01:01,798
@@ -135,8 +128,7 @@ but not quite natural enough.
 
 33
 00:01:01,798 --> 00:01:04,483
-While stiffer springs held
-the shape of the curl,
+While stiffer springs held the shape of the curl,
 
 34
 00:01:04,483 --> 00:01:06,553
@@ -156,8 +148,7 @@ This was even more obvious at high,
 
 38
 00:01:12,245 --> 00:01:15,245
-often unrealistic speeds,
-found in animation.
+often unrealistic speeds, found in animation.
 
 39
 00:01:15,245 --> 00:01:16,785
@@ -169,8 +160,7 @@ to preserve the structure of the curl,
 
 41
 00:01:18,747 --> 00:01:21,508
-but not impede the overall
-motion of the hair,
+but not impede the overall motion of the hair,
 
 42
 00:01:21,508 --> 00:01:22,988
@@ -187,8 +177,7 @@ We came up with the idea of connecting
 
 45
 00:01:27,241 --> 00:01:29,763
-the springs that make up
-Merida's on-screen hair
+the springs that make up Merida's on-screen hair
 
 46
 00:01:29,763 --> 00:01:32,985
@@ -208,8 +197,7 @@ when the motion was more extreme.
 
 50
 00:01:37,504 --> 00:01:39,787
-This way, we could have
-the best of both worlds.
+This way, we could have the best of both worlds.
 
 51
 00:01:39,787 --> 00:01:41,754
@@ -229,13 +217,11 @@ from unwinding too much.
 
 55
 00:01:49,001 --> 00:01:51,483
-Figuring out how to make
-a hair simulation system
+Figuring out how to make a hair simulation system
 
 56
 00:01:51,483 --> 00:01:53,238
-that could help us achieve
-the feeling we wanted
+that could help us achieve the feeling we wanted
 
 57
 00:01:53,238 --> 00:01:54,768
@@ -243,8 +229,7 @@ for Merida's hair was hard.
 
 58
 00:01:54,768 --> 00:01:57,039
-It took a lot of
-iterations to get it right,
+It took a lot of iterations to get it right,
 
 59
 00:01:57,039 --> 00:01:58,302

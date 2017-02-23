@@ -24,8 +24,7 @@ red, green and blue.
 
 7
 00:00:10,537 --> 00:00:14,591
-For example, the RGB
-value of this gold color
+For example, the RGB value of this gold color
 
 8
 00:00:14,591 --> 00:00:17,271
@@ -37,13 +36,11 @@ and no blue,
 
 10
 00:00:19,372 --> 00:00:21,746
-but as you may have noticed
-in the previous exercise,
+but as you may have noticed in the previous exercise,
 
 11
 00:00:21,746 --> 00:00:24,680
-it's fairly difficult to
-find the correct RGB values
+it's fairly difficult to find the correct RGB values
 
 12
 00:00:24,680 --> 00:00:26,776
@@ -83,8 +80,7 @@ Hue is what we normally call color,
 
 21
 00:00:50,903 --> 00:00:54,599
-is based on the position
-around this wheel,
+is based on the position around this wheel,
 
 22
 00:00:54,599 --> 00:00:56,347
@@ -120,13 +116,11 @@ we move outward.
 
 30
 00:01:12,522 --> 00:01:15,523
-For example, to saturate
-this shade of red,
+For example, to saturate this shade of red,
 
 31
 00:01:15,523 --> 00:01:18,614
-we remove any contribution
-of green and blue,
+we remove any contribution of green and blue,
 
 32
 00:01:18,614 --> 00:01:21,093
@@ -142,13 +136,11 @@ of green and blue.
 
 35
 00:01:25,119 --> 00:01:28,170
-Taken to the extreme,
-this trends towards grey
+Taken to the extreme, this trends towards grey
 
 36
 00:01:28,170 --> 00:01:31,260
-because the three color
-contributions are equal.
+because the three color contributions are equal.
 
 37
 00:01:31,260 --> 00:01:34,069
@@ -164,8 +156,7 @@ If an artist wants to use a strong yellow,
 
 40
 00:01:40,518 --> 00:01:43,468
-they first have to find
-the yellow hue they want.
+they first have to find the yellow hue they want.
 
 41
 00:01:43,468 --> 00:01:46,580
@@ -197,8 +188,7 @@ to a very high lightness like this.
 
 48
 00:02:02,495 --> 00:02:04,028
-You can already see
-that this is a much more
+You can already see that this is a much more
 
 49
 00:02:04,028 --> 00:02:05,914
@@ -214,8 +204,7 @@ Okay, let's pause here
 
 52
 00:02:10,175 --> 00:02:12,220
-so you can get the hang
-of HSL color selection
+so you can get the hang of HSL color selection
 
 53
 00:02:12,220 --> 00:02:14,000

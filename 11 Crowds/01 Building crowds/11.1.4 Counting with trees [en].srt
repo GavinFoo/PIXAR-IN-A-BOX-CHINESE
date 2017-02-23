@@ -16,8 +16,7 @@ just two kinds of parts, heads and bodies.
 
 5
 00:00:11,274 --> 00:00:15,534
-Suppose I pick, umm,
-this head and this body.
+Suppose I pick, umm, this head and this body.
 
 6
 00:00:15,534 --> 00:00:18,205
@@ -41,8 +40,7 @@ And the diagram, hopefully, makes it clear
 
 11
 00:00:27,937 --> 00:00:30,454
-that we have two choices of
-heads and for each of those,
+that we have two choices of heads and for each of those,
 
 12
 00:00:30,454 --> 00:00:32,378
@@ -58,13 +56,11 @@ Use the next interactive to figure out
 
 15
 00:00:38,711 --> 00:00:40,719
-what the diagram would look
-like if there were a different
+what the diagram would look like if there were a different
 
 16
 00:00:40,719 --> 00:00:43,006
-number of heads and a
-different number of bodies.
+number of heads and a different number of bodies.
 
 17
 00:00:43,006 --> 00:00:46,000

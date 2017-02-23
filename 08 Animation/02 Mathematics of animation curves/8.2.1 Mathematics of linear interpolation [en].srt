@@ -4,8 +4,7 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 2
 00:00:03,457 --> 00:00:06,551
-- So, we've seen two ways
-to calculate in-betweens:
+- So, we've seen two ways to calculate in-betweens:
 
 3
 00:00:06,551 --> 00:00:09,463
@@ -17,8 +16,7 @@ Now let's get into the math behind them.
 
 5
 00:00:12,269 --> 00:00:13,817
-We're gonna build on
-some of what we learned
+We're gonna build on some of what we learned
 
 6
 00:00:13,817 --> 00:00:15,522
@@ -26,13 +24,11 @@ in the environment modeling lesson,
 
 7
 00:00:15,522 --> 00:00:18,612
-so if you need to review,
-click on this link.
+so if you need to review, click on this link.
 
 8
 00:00:19,612 --> 00:00:24,442
-Let's start with the simpler
-version, linear interpolation.
+Let's start with the simpler version, linear interpolation.
 
 9
 00:00:24,442 --> 00:00:27,030
@@ -48,23 +44,19 @@ and the value at frame 8 is 190,
 
 12
 00:00:33,753 --> 00:00:38,063
-but what's the value of
-y at frame 5, 6, or 7?
+but what's the value of y at frame 5, 6, or 7?
 
 13
 00:00:39,063 --> 00:00:41,339
-The picture tells us
-that y can be represented
+The picture tells us that y can be represented
 
 14
 00:00:41,339 --> 00:00:45,843
-as a linear function of x,
-where x is the frame number.
+as a linear function of x, where x is the frame number.
 
 15
 00:00:45,843 --> 00:00:48,931
-Linear functions can be written
-in slope-intercept form:
+Linear functions can be written in slope-intercept form:
 
 16
 00:00:48,931 --> 00:00:51,729
@@ -72,13 +64,11 @@ y = mx + b,
 
 17
 00:00:51,729 --> 00:00:56,390
-where m is the slope and
-b is the y-intercept.
+where m is the slope and b is the y-intercept.
 
 18
 00:00:56,390 --> 00:00:59,144
-Now we don't know the slope
-and intercept directly,
+Now we don't know the slope and intercept directly,
 
 19
 00:00:59,144 --> 00:01:01,396
@@ -86,8 +76,7 @@ but we do have two points on the line,
 
 20
 00:01:01,396 --> 00:01:05,989
-which is enough information
-to calculate them.
+which is enough information to calculate them.
 
 21
 00:01:07,989 --> 00:01:09,894
@@ -99,11 +88,9 @@ we can figure out y for any frame.
 
 23
 00:01:13,075 --> 00:01:15,456
-Try out this next exercise
-to test your understanding
+Try out this next exercise to test your understanding
 
 24
 00:01:15,456 --> 00:01:19,000
-of linear interpolation using
-the slope-intercept form. aimozhen.com/pixarinabox
+of linear interpolation using the slope-intercept form. aimozhen.com/pixarinabox
 

@@ -16,13 +16,11 @@ with how springs expand and contract,
 
 5
 00:00:06,492 --> 00:00:08,715
-we can try something a
-little bit different.
+we can try something a little bit different.
 
 6
 00:00:08,715 --> 00:00:12,368
-Let's try connecting a bunch
-of springs together like this.
+Let's try connecting a bunch of springs together like this.
 
 7
 00:00:12,368 --> 00:00:13,585
@@ -30,8 +28,7 @@ When we simulate springs,
 
 8
 00:00:13,585 --> 00:00:15,977
-we don't draw them using
-the zigzag pattern.
+we don't draw them using the zigzag pattern.
 
 9
 00:00:15,977 --> 00:00:17,346
@@ -43,8 +40,7 @@ which can expand and contract.
 
 11
 00:00:19,641 --> 00:00:23,174
-This gives us a really
-bouncy strand of hair,
+This gives us a really bouncy strand of hair,
 
 12
 00:00:23,174 --> 00:00:25,369
@@ -52,8 +48,7 @@ but it's a bit too bouncy.
 
 13
 00:00:25,369 --> 00:00:28,495
-Notice the hairs take a really
-long time to settle down.
+Notice the hairs take a really long time to settle down.
 
 14
 00:00:28,495 --> 00:00:30,138
@@ -73,8 +68,7 @@ just a few bounces.
 
 18
 00:00:36,126 --> 00:00:39,051
-You might think changing the
-spring stiffness will fix this,
+You might think changing the spring stiffness will fix this,
 
 19
 00:00:39,051 --> 00:00:40,680
@@ -86,8 +80,7 @@ Both low and high stiffness values
 
 21
 00:00:42,501 --> 00:00:45,340
-still result in hair
-which never settles down.
+still result in hair which never settles down.
 
 22
 00:00:45,340 --> 00:00:46,849
@@ -119,13 +112,11 @@ Check this out.
 
 29
 00:00:57,605 --> 00:00:59,870
-Here we have the same
-strand of hair as before,
+Here we have the same strand of hair as before,
 
 30
 00:00:59,870 --> 00:01:02,223
-except each spring is
-connected to a damper,
+except each spring is connected to a damper,
 
 31
 00:01:02,223 --> 00:01:04,375
@@ -173,8 +164,7 @@ We went through a similar exercise
 
 42
 00:01:21,691 --> 00:01:24,607
-in the early stages of
-modeling Merida's hair.
+in the early stages of modeling Merida's hair.
 
 43
 00:01:24,607 --> 00:01:26,515
@@ -186,8 +176,7 @@ of spring stiffnesses and damping
 
 45
 00:01:28,273 --> 00:01:31,430
-so that we could achieve
-the desired artistic look,
+so that we could achieve the desired artistic look,
 
 46
 00:01:31,430 --> 00:01:33,101
@@ -215,8 +204,7 @@ You can try this out in the next exercise.
 
 52
 00:01:44,073 --> 00:01:46,913
-Here you can control
-damping of each spring,
+Here you can control damping of each spring,
 
 53
 00:01:46,913 --> 00:01:48,045

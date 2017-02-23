@@ -16,8 +16,7 @@ at Pixar Animation Studios.
 
 5
 00:00:10,097 --> 00:00:13,662
-That means I get to take what
-I know about art and design
+That means I get to take what I know about art and design
 
 6
 00:00:13,662 --> 00:00:15,432
@@ -49,13 +48,11 @@ for our films are virtual.
 
 13
 00:00:28,277 --> 00:00:31,760
-That means they exist
-only on the computer.
+That means they exist only on the computer.
 
 14
 00:00:31,760 --> 00:00:34,561
-We saw in the last video
-how lots of robots were made
+We saw in the last video how lots of robots were made
 
 15
 00:00:34,561 --> 00:00:36,063
@@ -71,8 +68,7 @@ So follow me to learn more about
 
 18
 00:00:39,021 --> 00:00:42,932
-what combinatorics is and
-how we use it at Pixar.
+what combinatorics is and how we use it at Pixar.
 
 19
 00:00:50,932 --> 00:00:52,520
@@ -80,8 +76,7 @@ To understand how many robots we can make
 
 20
 00:00:52,520 --> 00:00:55,039
-from a bin of parts, let's
-start with an example
+from a bin of parts, let's start with an example
 
 21
 00:00:55,039 --> 00:00:58,944
@@ -89,8 +84,7 @@ where a robot has one head and one body.
 
 22
 00:00:58,944 --> 00:01:02,510
-And I've got two different
-heads to choose from
+And I've got two different heads to choose from
 
 23
 00:01:02,510 --> 00:01:05,992
@@ -114,13 +108,11 @@ And clearly I can make a whole lot more.
 
 28
 00:01:16,916 --> 00:01:19,424
-A great way to keep track
-of this is with a table
+A great way to keep track of this is with a table
 
 29
 00:01:19,424 --> 00:01:23,102
-where I'm going to place
-the heads along the columns
+where I'm going to place the heads along the columns
 
 30
 00:01:23,102 --> 00:01:26,125
@@ -128,8 +120,7 @@ and the bodies along the rows.
 
 31
 00:01:26,125 --> 00:01:30,108
-This cell means put
-this head on this body.
+This cell means put this head on this body.
 
 32
 00:01:30,108 --> 00:01:31,572
@@ -141,8 +132,7 @@ so there are six different robots
 
 34
 00:01:33,034 --> 00:01:36,295
-even though we only have
-five different parts.
+even though we only have five different parts.
 
 35
 00:01:36,295 --> 00:01:37,925
@@ -150,8 +140,7 @@ This is a great example of the fact
 
 36
 00:01:37,925 --> 00:01:39,917
-that finding a good way
-to think about a problem
+that finding a good way to think about a problem
 
 37
 00:01:39,917 --> 00:01:42,131
@@ -163,11 +152,9 @@ How many robots could you make
 
 39
 00:01:43,230 --> 00:01:46,311
-if there were different
-numbers of heads and bodies?
+if there were different numbers of heads and bodies?
 
 40
 00:01:46,311 --> 00:01:50,000
-You can explore that question
-in the next exercise. aimozhen.com/pixarinabox
+You can explore that question in the next exercise. aimozhen.com/pixarinabox
 

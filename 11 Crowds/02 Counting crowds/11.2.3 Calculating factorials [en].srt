@@ -20,8 +20,7 @@ How many of those are there?
 
 6
 00:00:11,100 --> 00:00:13,690
-Well, we have four choices
-for the first segment,
+Well, we have four choices for the first segment,
 
 7
 00:00:13,690 --> 00:00:15,440
@@ -37,8 +36,7 @@ and one choice for the fourth segment.
 
 10
 00:00:19,360 --> 00:00:22,570
-So that's four times
-three times two times one,
+So that's four times three times two times one,
 
 11
 00:00:22,570 --> 00:00:25,450
@@ -46,13 +44,11 @@ which multiplies out to 24.
 
 12
 00:00:25,450 --> 00:00:28,240
-Isn't it interesting that
-you can make 24 different
+Isn't it interesting that you can make 24 different
 
 13
 00:00:28,240 --> 00:00:31,630
-Snake Bots using only
-four different objects?
+Snake Bots using only four different objects?
 
 14
 00:00:31,630 --> 00:00:33,330
@@ -60,8 +56,7 @@ And it gets better!
 
 15
 00:00:33,330 --> 00:00:36,079
-Suppose you wanted a
-ten-segment Snake Bot.
+Suppose you wanted a ten-segment Snake Bot.
 
 16
 00:00:36,079 --> 00:00:38,290
@@ -69,13 +64,11 @@ Then you could make ten times nine
 
 17
 00:00:38,290 --> 00:00:40,670
-times eight times seven times
-six times five times four
+times eight times seven times six times five times four
 
 18
 00:00:40,670 --> 00:00:43,752
-times three times two times
-one different combination!
+times three times two times one different combination!
 
 19
 00:00:43,752 --> 00:00:47,800
@@ -87,18 +80,15 @@ different ten-segment Bots!
 
 21
 00:00:49,924 --> 00:00:53,100
-And you only have to build
-ten different objects!
+And you only have to build ten different objects!
 
 22
 00:00:53,100 --> 00:00:55,270
-These kinds of calculations
-appear all the time
+These kinds of calculations appear all the time
 
 23
 00:00:55,270 --> 00:00:57,690
-in combinatorics, so of
-course mathematicians
+in combinatorics, so of course mathematicians
 
 24
 00:00:57,690 --> 00:01:00,520
@@ -138,8 +128,7 @@ and 10 factorial is over three million!
 
 33
 00:01:22,459 --> 00:01:25,959
-Wow! That's a combinatorial
-explosion of choices!
+Wow! That's a combinatorial explosion of choices!
 
 34
 00:01:25,959 --> 00:01:28,090

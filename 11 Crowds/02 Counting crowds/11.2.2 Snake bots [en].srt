@@ -4,13 +4,11 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 2
 00:00:03,340 --> 00:00:04,890
-- In the rest of this
-lesson, we're gonna look
+- In the rest of this lesson, we're gonna look
 
 3
 00:00:04,890 --> 00:00:06,600
-at a few other counting
-problems that come up
+at a few other counting problems that come up
 
 4
 00:00:06,600 --> 00:00:08,190
@@ -22,8 +20,7 @@ of robots from a small bin of parts.
 
 6
 00:00:09,930 --> 00:00:12,714
-We're gonna be building up
-to a really powerful formula
+We're gonna be building up to a really powerful formula
 
 7
 00:00:12,714 --> 00:00:14,520
@@ -47,13 +44,11 @@ They are built as a sequence of segments
 
 12
 00:00:23,990 --> 00:00:27,030
-where every segment must
-be used exactly once.
+where every segment must be used exactly once.
 
 13
 00:00:27,030 --> 00:00:30,450
-For instance, if I'm building
-a three-segment Snake Bot,
+For instance, if I'm building a three-segment Snake Bot,
 
 14
 00:00:30,450 --> 00:00:33,500
@@ -73,18 +68,15 @@ How many of these Snake Bots can I build?
 
 18
 00:00:40,590 --> 00:00:43,970
-Remember, you have to account
-for every possibility.
+Remember, you have to account for every possibility.
 
 19
 00:00:43,970 --> 00:00:46,009
-In the next exercise,
-you're gonna be asked
+In the next exercise, you're gonna be asked
 
 20
 00:00:46,009 --> 00:00:49,890
-to build all possible Snake
-Bots of length one through four.
+to build all possible Snake Bots of length one through four.
 
 21
 00:00:49,890 --> 00:00:51,000

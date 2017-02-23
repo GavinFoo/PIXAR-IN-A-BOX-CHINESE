@@ -12,23 +12,19 @@ Now that you're getting comfortable with
 
 4
 00:00:05,925 --> 00:00:08,524
-the simple lens law,
-let's go a little deeper.
+the simple lens law, let's go a little deeper.
 
 5
 00:00:08,524 --> 00:00:11,042
-In the previous exercise you
-found that the simple lens law
+In the previous exercise you found that the simple lens law
 
 6
 00:00:11,042 --> 00:00:15,184
-can be written as i equals o
-times f, divided by o minus f.
+can be written as i equals o times f, divided by o minus f.
 
 7
 00:00:16,184 --> 00:00:19,672
-So if the image plane in
-our camera is at distance i,
+So if the image plane in our camera is at distance i,
 
 8
 00:00:19,672 --> 00:00:21,421
@@ -40,8 +36,7 @@ will come into crisp focus.
 
 10
 00:00:23,701 --> 00:00:26,546
-But what about objects
-at some other distance?
+But what about objects at some other distance?
 
 11
 00:00:26,546 --> 00:00:28,415
@@ -53,8 +48,7 @@ They're not in crisp focus.
 
 13
 00:00:30,277 --> 00:00:32,891
-For example, the in-focus
-leaves are at a distance
+For example, the in-focus leaves are at a distance
 
 14
 00:00:32,891 --> 00:00:35,862
@@ -62,13 +56,11 @@ that satisfies the simple lens equation.
 
 15
 00:00:35,862 --> 00:00:39,269
-However, the objects in the
-background are blurred out.
+However, the objects in the background are blurred out.
 
 16
 00:00:39,269 --> 00:00:42,295
-And notice how the blur is
-in the shape of a circle.
+And notice how the blur is in the shape of a circle.
 
 17
 00:00:42,295 --> 00:00:44,228
@@ -84,8 +76,7 @@ But how big is the circle?
 
 20
 00:00:47,849 --> 00:00:50,036
-To answer that question,
-in the rest of this lesson
+To answer that question, in the rest of this lesson
 
 21
 00:00:50,036 --> 00:00:51,670
@@ -93,18 +84,15 @@ we'll develop a formula that describes
 
 22
 00:00:51,670 --> 00:00:54,300
-the size of the circle, given
-things like the focal length
+the size of the circle, given things like the focal length
 
 23
 00:00:54,300 --> 00:00:58,021
-of the lens, the aperture, and
-the distance to the object.
+of the lens, the aperture, and the distance to the object.
 
 24
 00:00:58,021 --> 00:01:00,883
-As before, let's look
-at this problem in 2-D
+As before, let's look at this problem in 2-D
 
 25
 00:01:00,883 --> 00:01:03,164
@@ -120,13 +108,11 @@ at a distance o from the lens.
 
 28
 00:01:08,962 --> 00:01:11,022
-We can intersect the
-parallel and medial rays
+We can intersect the parallel and medial rays
 
 29
 00:01:11,022 --> 00:01:13,465
-to find the point where
-P comes into focus.
+to find the point where P comes into focus.
 
 30
 00:01:13,465 --> 00:01:15,572
@@ -138,13 +124,11 @@ And remember, every lens has an aperture,
 
 32
 00:01:17,920 --> 00:01:21,711
-which restricts which rays
-make it into the camera.
+which restricts which rays make it into the camera.
 
 33
 00:01:21,711 --> 00:01:24,300
-Let's put a point E at
-the center of our lens
+Let's put a point E at the center of our lens
 
 34
 00:01:24,300 --> 00:01:26,980
@@ -152,13 +136,11 @@ and a point D at the top of the aperture.
 
 35
 00:01:26,980 --> 00:01:31,206
-In other words, DE is the
-radius of our aperture.
+In other words, DE is the radius of our aperture.
 
 36
 00:01:31,206 --> 00:01:34,422
-So all light rays from
-P which pass through DE
+So all light rays from P which pass through DE
 
 37
 00:01:34,422 --> 00:01:37,633
@@ -166,8 +148,7 @@ end up focusing at the same point A.
 
 38
 00:01:38,633 --> 00:01:41,602
-And if the image plane
-is at this distance i,
+And if the image plane is at this distance i,
 
 39
 00:01:41,602 --> 00:01:44,507
@@ -175,13 +156,11 @@ then P will be in sharp focus.
 
 40
 00:01:44,507 --> 00:01:47,995
-But if the image plane is at
-a larger distance, i prime,
+But if the image plane is at a larger distance, i prime,
 
 41
 00:01:47,995 --> 00:01:51,739
-say over here, then P's
-image gets blurred out,
+say over here, then P's image gets blurred out,
 
 42
 00:01:51,739 --> 00:01:55,286
@@ -201,11 +180,9 @@ that is, BC is the radius of the blur.
 
 46
 00:02:03,116 --> 00:02:05,821
-Okay, let's pause here so
-you can get comfortable
+Okay, let's pause here so you can get comfortable
 
 47
 00:02:05,821 --> 00:02:09,000
-with this diagram before
-we finish our calculation. aimozhen.com/pixarinabox
+with this diagram before we finish our calculation. aimozhen.com/pixarinabox
 

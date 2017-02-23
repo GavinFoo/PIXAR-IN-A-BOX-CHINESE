@@ -28,8 +28,7 @@ we begin with a modeling packet.
 
 8
 00:00:16,412 --> 00:00:18,953
-A model packet consists
-of a series of drawings
+A model packet consists of a series of drawings
 
 9
 00:00:18,953 --> 00:00:20,886
@@ -37,8 +36,7 @@ or clay sculptures called maquettes
 
 10
 00:00:20,886 --> 00:00:23,553
-that are a guide for
-modeling the character.
+that are a guide for modeling the character.
 
 11
 00:00:23,553 --> 00:00:24,789
@@ -58,13 +56,11 @@ it might just be a scribble on the napkin.
 
 15
 00:00:31,015 --> 00:00:34,367
-From these we build the
-model in the computer.
+From these we build the model in the computer.
 
 16
 00:00:34,367 --> 00:00:36,843
-I hope you enjoyed rigging
-the face for a snowman
+I hope you enjoyed rigging the face for a snowman
 
 17
 00:00:36,843 --> 00:00:37,815
@@ -72,13 +68,11 @@ in lesson one.
 
 18
 00:00:37,815 --> 00:00:40,247
-In this lesson, you're going
-to create your character
+In this lesson, you're going to create your character
 
 19
 00:00:40,247 --> 00:00:42,726
-in a similar manner to
-how Pixar built a snowman
+in a similar manner to how Pixar built a snowman
 
 20
 00:00:42,726 --> 00:00:45,866
@@ -86,18 +80,15 @@ for the short film Knick Knack.
 
 21
 00:00:45,866 --> 00:00:48,590
-Before starting, the rigger
-will meet with an animator
+Before starting, the rigger will meet with an animator
 
 22
 00:00:48,590 --> 00:00:51,353
-and discuss what type
-of controls are needed.
+and discuss what type of controls are needed.
 
 23
 00:00:51,353 --> 00:00:55,148
-A character, like the
-army man from Toy Story,
+A character, like the army man from Toy Story,
 
 24
 00:00:55,148 --> 00:00:56,854
@@ -109,13 +100,11 @@ So its movements would be quite stiff.
 
 26
 00:00:59,741 --> 00:01:04,067
-In contrast, a rubber snake
-would be quite flexible.
+In contrast, a rubber snake would be quite flexible.
 
 27
 00:01:04,067 --> 00:01:07,656
-Keeping true to the materials
-creates believability,
+Keeping true to the materials creates believability,
 
 28
 00:01:07,656 --> 00:01:09,340
@@ -123,13 +112,11 @@ the rigger and the animator work closely
 
 29
 00:01:09,340 --> 00:01:11,477
-throughout the rigging
-process to make sure
+throughout the rigging process to make sure
 
 30
 00:01:11,477 --> 00:01:14,471
-the animator gets all the
-controls she needs to make
+the animator gets all the controls she needs to make
 
 31
 00:01:14,471 --> 00:01:17,272
@@ -141,23 +128,19 @@ The animator will do various tests
 
 33
 00:01:19,175 --> 00:01:23,093
-such as calisthenics to
-test a range of rigging.
+such as calisthenics to test a range of rigging.
 
 34
 00:01:23,093 --> 00:01:26,604
-The final test is usually
-a fully active scene.
+The final test is usually a fully active scene.
 
 35
 00:01:26,604 --> 00:01:29,645
-In this lesson you'll write
-code to design your model,
+In this lesson you'll write code to design your model,
 
 36
 00:01:29,645 --> 00:01:32,830
-then rig your model with
-the former that you learnt
+then rig your model with the former that you learnt
 
 37
 00:01:32,830 --> 00:01:34,887
@@ -169,13 +152,11 @@ You'll start by drawing basic shapes,
 
 39
 00:01:37,283 --> 00:01:40,058
-then you'll combine the
-shape to make characters,
+then you'll combine the shape to make characters,
 
 40
 00:01:40,058 --> 00:01:42,938
-then you'll build there
-the former functions
+then you'll build there the former functions
 
 41
 00:01:42,938 --> 00:01:44,824
@@ -183,8 +164,7 @@ for translate, scale and rotate.
 
 42
 00:01:44,824 --> 00:01:48,546
-And finally, you'll connect
-everything together.
+And finally, you'll connect everything together.
 
 43
 00:01:48,546 --> 00:01:50,629
@@ -196,8 +176,7 @@ we'll show you how to animate your models.
 
 45
 00:01:54,508 --> 00:01:58,057
-But first, let's think
-about what we are doing.
+But first, let's think about what we are doing.
 
 46
 00:01:58,057 --> 00:02:00,407
@@ -209,13 +188,11 @@ from the perspective of the computer,
 
 48
 00:02:02,043 --> 00:02:04,893
-a model is just a collection
-of individual shapes.
+a model is just a collection of individual shapes.
 
 49
 00:02:04,893 --> 00:02:09,054
-Each shape will be stored in
-the computer as an object.
+Each shape will be stored in the computer as an object.
 
 50
 00:02:13,054 --> 00:02:14,845
@@ -223,8 +200,7 @@ To create the shape of a circle,
 
 51
 00:02:14,845 --> 00:02:17,057
-we'll put in the object
-all the data the computer
+we'll put in the object all the data the computer
 
 52
 00:02:17,057 --> 00:02:19,789
@@ -232,8 +208,7 @@ will need to create that shape.
 
 53
 00:02:19,789 --> 00:02:22,305
-In this warm up exercise,
-you'll create a circle
+In this warm up exercise, you'll create a circle
 
 54
 00:02:22,305 --> 00:02:24,140
@@ -241,8 +216,7 @@ for the snowman's body.
 
 55
 00:02:24,140 --> 00:02:26,661
-If you're new to coding we
-have a short code review
+If you're new to coding we have a short code review
 
 56
 00:02:26,661 --> 00:02:28,015

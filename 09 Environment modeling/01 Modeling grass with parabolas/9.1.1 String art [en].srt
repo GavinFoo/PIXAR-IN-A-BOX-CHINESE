@@ -4,8 +4,7 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 2
 00:00:00,070 --> 00:00:05,810
-Welcome to Pixar. I'm Tony DeRose,
-one of the computer scientists
+Welcome to Pixar. I'm Tony DeRose, one of the computer scientists
 
 3
 00:00:05,810 --> 00:00:07,510
@@ -13,8 +12,7 @@ who works on our film here.
 
 4
 00:00:07,510 --> 00:00:10,400
-And conveniently enough,
-behind me is Mark Andrews,
+And conveniently enough, behind me is Mark Andrews,
 
 5
 00:00:10,400 --> 00:00:14,690
@@ -23,8 +21,7 @@ Good to see you.
 
 6
 00:00:14,690 --> 00:00:17,420
-So we're talking today about
-some of the ways that math is used
+So we're talking today about some of the ways that math is used
 
 7
 00:00:17,420 --> 00:00:19,599
@@ -32,8 +29,7 @@ to create the forest in "Brave."
 
 8
 00:00:19,599 --> 00:00:21,880
-And I was wondering what
-it's like, as a director,
+And I was wondering what it's like, as a director,
 
 9
 00:00:21,880 --> 00:00:23,910
@@ -45,13 +41,11 @@ Oh, I love them.
 
 11
 00:00:25,070 --> 00:00:27,240
-I mean, everything
-that you see on a screen
+I mean, everything that you see on a screen
 
 12
 00:00:27,240 --> 00:00:31,689
-in a Pixar movie, we couldn't
-put out there without the technical staff.
+in a Pixar movie, we couldn't put out there without the technical staff.
 
 13
 00:00:31,689 --> 00:00:33,320
@@ -69,13 +63,11 @@ that just ups the game
 
 16
 00:00:43,370 --> 00:00:46,149
-when it comes to the numbers
-that you're crunching in a computer.
+when it comes to the numbers that you're crunching in a computer.
 
 17
 00:00:46,149 --> 00:00:50,550
-So we rely completely on mathematics
-to make these movies.
+So we rely completely on mathematics to make these movies.
 
 18
 00:00:50,550 --> 00:00:53,500
@@ -84,8 +76,7 @@ Thank you so much. Absolutely.
 
 19
 00:00:53,500 --> 00:00:55,440
-And we're going to be talking about
-some of that complexity
+And we're going to be talking about some of that complexity
 
 20
 00:00:55,440 --> 00:00:57,579
@@ -93,8 +84,7 @@ in the rest of this lesson.
 
 21
 00:00:57,579 --> 00:01:00,079
-We saw in the previous video
-how parabolas are used
+We saw in the previous video how parabolas are used
 
 22
 00:01:00,079 --> 00:01:01,160
@@ -102,43 +92,35 @@ to model grass in "Brave."
 
 23
 00:01:01,160 --> 00:01:04,519
-A complete parabola
-is actually an infinite curve.
+A complete parabola is actually an infinite curve.
 
 24
 00:01:04,519 --> 00:01:06,720
-But we just want
-a little piece.
+But we just want a little piece.
 
 25
 00:01:06,720 --> 00:01:08,920
-That's called
-a "parabolic arc."
+That's called a "parabolic arc."
 
 26
 00:01:08,920 --> 00:01:12,200
-And to create believable grass,
-we have to create other attributes,
+And to create believable grass, we have to create other attributes,
 
 27
 00:01:12,200 --> 00:01:16,920
-such as how the width varies up the blade,
-its color, and how it moves
+such as how the width varies up the blade, its color, and how it moves
 
 28
 00:01:16,920 --> 00:01:20,000
-in response to things
-like horse hooves and wind.
+in response to things like horse hooves and wind.
 
 29
 00:01:20,000 --> 00:01:22,220
-And we'll get to all of that
-later in the lesson.
+And we'll get to all of that later in the lesson.
 
 30
 00:01:22,220 --> 00:01:24,380
-But for now, let's just
-focus on the basic shape.
+But for now, let's just focus on the basic shape.
 
 31
 00:01:24,380 --> 00:01:28,140
@@ -147,33 +129,27 @@ I'll show you more.
 
 32
 00:01:28,140 --> 00:01:34,310
-So, the question is "How are we going to
-represent parabolic arcs in a way that
+So, the question is "How are we going to represent parabolic arcs in a way that
 
 33
 00:01:34,310 --> 00:01:36,688
-artists can deal with,
-but computers can too?"
+artists can deal with, but computers can too?"
 
 34
 00:01:36,688 --> 00:01:40,989
-There are a variety of ways
-of representing parabolic arcs.
+There are a variety of ways of representing parabolic arcs.
 
 35
 00:01:40,989 --> 00:01:44,989
-You may have seen them, for instance,
-as graphs of quadratic functions.
+You may have seen them, for instance, as graphs of quadratic functions.
 
 36
 00:01:44,989 --> 00:01:48,450
-The problem with quadratic functions
-is they're not very intuitive for artists.
+The problem with quadratic functions is they're not very intuitive for artists.
 
 37
 00:01:48,450 --> 00:01:51,930
-A more artist-friendly way
-is to use 3 points.
+A more artist-friendly way is to use 3 points.
 
 38
 00:01:51,930 --> 00:01:55,590
@@ -182,13 +158,11 @@ So I have 3 points.
 
 39
 00:01:55,590 --> 00:01:58,819
-And as I move them around,
-the parabola updates accordingly.
+And as I move them around, the parabola updates accordingly.
 
 40
 00:01:58,819 --> 00:02:02,099
-And in computer graphics,
-these 3 points like this
+And in computer graphics, these 3 points like this
 
 41
 00:02:02,099 --> 00:02:05,259
@@ -196,13 +170,11 @@ are called a "control polygon."
 
 42
 00:02:05,259 --> 00:02:07,259
-So if I'm only going
-to store the 3 points,
+So if I'm only going to store the 3 points,
 
 43
 00:02:07,259 --> 00:02:10,550
-I somehow have to recover
-that parabolic arc.
+I somehow have to recover that parabolic arc.
 
 44
 00:02:10,550 --> 00:02:13,500
@@ -219,8 +191,7 @@ The idea is pretty simple.
 
 47
 00:02:17,759 --> 00:02:21,389
-The first thing we're going do
-is lay out some evenly spaced points –
+The first thing we're going do is lay out some evenly spaced points –
 
 48
 00:02:21,389 --> 00:02:24,000
@@ -228,13 +199,11 @@ the same number on each leg.
 
 49
 00:02:24,000 --> 00:02:26,940
-And then next, what I'm going to do
-is start connecting dots.
+And then next, what I'm going to do is start connecting dots.
 
 50
 00:02:26,940 --> 00:02:29,060
-And as I continue
-to connect these dots,
+And as I continue to connect these dots,
 
 51
 00:02:29,060 --> 00:02:32,569
@@ -243,36 +212,29 @@ almost magically.
 
 52
 00:02:32,569 --> 00:02:35,889
-Now you can do this same
-construction in real life.
+Now you can do this same construction in real life.
 
 53
 00:02:35,889 --> 00:02:37,759
-It's called
-a "string-art construction."
+It's called a "string-art construction."
 
 54
 00:02:37,759 --> 00:02:40,680
-You take a piece of paper,
-you draw some lines on it,
+You take a piece of paper, you draw some lines on it,
 
 55
 00:02:40,680 --> 00:02:43,860
-you spread out some evenly spaced points,
-and then with needle and thread,
+you spread out some evenly spaced points, and then with needle and thread,
 
 56
 00:02:43,860 --> 00:02:46,789
-you start making these connections
-as I've done here.
+you start making these connections as I've done here.
 
 57
 00:02:46,789 --> 00:02:50,310
-So we'll call this the "string-art
-construction for parabolic arcs."
+So we'll call this the "string-art construction for parabolic arcs."
 
 58
 00:02:50,310 --> 00:02:53,000
-In the next exercise, you'll have
-an opportunity to connect the dots yourself. aimozhen.com/pixarinabox
+In the next exercise, you'll have an opportunity to connect the dots yourself. aimozhen.com/pixarinabox
 

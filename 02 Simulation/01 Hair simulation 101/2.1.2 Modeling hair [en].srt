@@ -4,8 +4,7 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 2
 00:00:03,202 --> 00:00:05,803
-- We actually do a lot
-of simulation at Pixar.
+- We actually do a lot of simulation at Pixar.
 
 3
 00:00:05,803 --> 00:00:07,416
@@ -17,18 +16,15 @@ are handled by the effects department.
 
 5
 00:00:09,373 --> 00:00:13,731
-You can learn more about
-that in the effects lesson.
+You can learn more about that in the effects lesson.
 
 6
 00:00:15,731 --> 00:00:17,477
-The simulation department,
-who I work with,
+The simulation department, who I work with,
 
 7
 00:00:17,477 --> 00:00:20,732
-handles any motion attached
-to the characters at Pixar,
+handles any motion attached to the characters at Pixar,
 
 8
 00:00:20,732 --> 00:00:22,320
@@ -48,8 +44,7 @@ that would drive our animators crazy.
 
 12
 00:00:28,036 --> 00:00:30,360
-Instead, we use Physics
-and Computer Programming.
+Instead, we use Physics and Computer Programming.
 
 13
 00:00:30,360 --> 00:00:31,932
@@ -57,8 +52,7 @@ In this lesson, you'll learn how to
 
 14
 00:00:31,932 --> 00:00:34,349
-simulate hair the same
-way we did for Merida
+simulate hair the same way we did for Merida
 
 15
 00:00:34,349 --> 00:00:36,058
@@ -82,13 +76,11 @@ on the film "Brave".
 
 20
 00:00:42,397 --> 00:00:44,658
-The animators have created
-the main action in the scene
+The animators have created the main action in the scene
 
 21
 00:00:44,658 --> 00:00:47,008
-and now it's our job to
-fill in the missing details
+and now it's our job to fill in the missing details
 
 22
 00:00:47,008 --> 00:00:50,486
@@ -96,8 +88,7 @@ such as the motion of cloth and hair.
 
 23
 00:00:50,486 --> 00:00:52,673
-Everything we do begins
-with modeling the problem
+Everything we do begins with modeling the problem
 
 24
 00:00:52,673 --> 00:00:54,131
@@ -133,13 +124,11 @@ But strings are actually quite complex
 
 32
 00:01:09,794 --> 00:01:12,671
-to model mathematically
-because they are so bendy.
+to model mathematically because they are so bendy.
 
 33
 00:01:12,671 --> 00:01:14,895
-Modeling them requires a
-lot of computational power
+Modeling them requires a lot of computational power
 
 34
 00:01:14,895 --> 00:01:17,082
@@ -155,8 +144,7 @@ to simplify our models.
 
 37
 00:01:20,499 --> 00:01:22,937
-For example, we could take
-a bunch of paper clips
+For example, we could take a bunch of paper clips
 
 38
 00:01:22,937 --> 00:01:24,736
@@ -172,8 +160,7 @@ connected to particles, like this.
 
 41
 00:01:29,060 --> 00:01:31,070
-The computer needs to
-calculate the positions
+The computer needs to calculate the positions
 
 42
 00:01:31,070 --> 00:01:32,617
@@ -189,8 +176,7 @@ are acting on them.
 
 45
 00:01:36,262 --> 00:01:38,489
-In the real world, each
-particle is affected
+In the real world, each particle is affected
 
 46
 00:01:38,489 --> 00:01:40,206
@@ -202,8 +188,7 @@ The force of gravity,
 
 48
 00:01:41,456 --> 00:01:45,084
-and the forces from neighboring
-connections, like this.
+and the forces from neighboring connections, like this.
 
 49
 00:01:45,084 --> 00:01:47,072
@@ -219,8 +204,7 @@ You can adjust the following parameters:
 
 52
 00:01:51,173 --> 00:01:54,292
-size of each segment,
-number of segments per hair,
+size of each segment, number of segments per hair,
 
 53
 00:01:54,292 --> 00:01:57,943

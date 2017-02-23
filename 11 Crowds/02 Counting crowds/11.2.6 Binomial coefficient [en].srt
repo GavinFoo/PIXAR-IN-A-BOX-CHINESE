@@ -16,13 +16,11 @@ We're at the last step of the lesson.
 
 5
 00:00:07,713 --> 00:00:10,965
-Earlier, I promised you a
-powerful counting formula.
+Earlier, I promised you a powerful counting formula.
 
 6
 00:00:10,965 --> 00:00:14,007
-Let's work together to see if
-we can develop that formula.
+Let's work together to see if we can develop that formula.
 
 7
 00:00:15,007 --> 00:00:19,884
@@ -59,13 +57,11 @@ our earlier example as 6! over 3! x 3!.
 
 15
 00:00:51,904 --> 00:00:54,444
-To generalize this for
-other numbers of actors,
+To generalize this for other numbers of actors,
 
 16
 00:00:54,444 --> 00:00:57,592
-let n be the number of
-actors we can pick from
+let n be the number of actors we can pick from
 
 17
 00:00:57,592 --> 00:01:00,814
@@ -77,8 +73,7 @@ On the first pick, we have n choices.
 
 19
 00:01:04,666 --> 00:01:09,090
-Then, on the second pick, we
-have n-1 choices and so on.
+Then, on the second pick, we have n-1 choices and so on.
 
 20
 00:01:10,090 --> 00:01:11,775
@@ -90,8 +85,7 @@ is one less than the choice number.
 
 22
 00:01:14,155 --> 00:01:19,843
-So, on the kth choice,
-you have n - (k-1) choices
+So, on the kth choice, you have n - (k-1) choices
 
 23
 00:01:19,843 --> 00:01:23,968
@@ -115,8 +109,7 @@ Now, we have to divide by k!
 
 28
 00:01:40,667 --> 00:01:44,551
-because there are k! ways
-to order the k choices.
+because there are k! ways to order the k choices.
 
 29
 00:01:44,551 --> 00:01:48,102
@@ -128,8 +121,7 @@ Drum roll, please!
 
 31
 00:01:50,501 --> 00:01:55,286
-n! over k!(n-k)! possible
-casts of k actors
+n! over k!(n-k)! possible casts of k actors
 
 32
 00:01:57,286 --> 00:02:00,437
@@ -141,8 +133,7 @@ This formula is so famous
 
 34
 00:02:01,918 --> 00:02:05,087
-that it has a special name and
-a special symbol to write it.
+that it has a special name and a special symbol to write it.
 
 35
 00:02:05,087 --> 00:02:07,872
@@ -162,8 +153,7 @@ It's powerful because you can use it
 
 39
 00:02:19,330 --> 00:02:21,670
-whenever you're selecting
-a small number of things
+whenever you're selecting a small number of things
 
 40
 00:02:21,670 --> 00:02:24,024
@@ -171,8 +161,7 @@ from a larger number of choices.
 
 41
 00:02:24,024 --> 00:02:26,319
-With this tool, we can
-easily compute, say,
+With this tool, we can easily compute, say,
 
 42
 00:02:26,319 --> 00:02:28,779
@@ -194,8 +183,7 @@ if you work it out, is exactly 495.
 
 46
 00:02:41,758 --> 00:02:44,178
-Your final challenge, should
-you choose to accept it,
+Your final challenge, should you choose to accept it,
 
 47
 00:02:44,178 --> 00:02:45,497
@@ -207,16 +195,13 @@ with the binomial coefficient formula
 
 49
 00:02:47,752 --> 00:02:50,556
-and there won't be any
-diagrams to help you this time.
+and there won't be any diagrams to help you this time.
 
 50
 00:02:50,556 --> 00:02:53,789
-And, you'll be asked to count
-something other than robots,
+And, you'll be asked to count something other than robots,
 
 51
 00:02:53,789 --> 00:02:58,000
-like, let's say, plants,
-or sandwiches, or outfits. aimozhen.com/pixarinabox
+like, let's say, plants, or sandwiches, or outfits. aimozhen.com/pixarinabox
 

@@ -25,8 +25,7 @@ or "avars" for short.
 
 7
 00:00:13,987 --> 00:00:18,315
-This avar scales the ball
-out in X, and down in Y.
+This avar scales the ball out in X, and down in Y.
 
 8
 00:00:20,315 --> 00:00:22,226
@@ -38,8 +37,7 @@ using the same graph editor.
 
 10
 00:00:25,657 --> 00:00:27,871
-Now we can make the ball
-stretch on the way down,
+Now we can make the ball stretch on the way down,
 
 11
 00:00:27,871 --> 00:00:29,752
@@ -47,8 +45,7 @@ and squash when it hits the ground.
 
 12
 00:00:31,752 --> 00:00:33,851
-This idea of squash and
-stretch is one of the
+This idea of squash and stretch is one of the
 
 13
 00:00:33,851 --> 00:00:35,329
@@ -56,13 +53,11 @@ key principles of animation.
 
 14
 00:00:36,329 --> 00:00:38,258
-Animating the squash
-and stretch of an object
+Animating the squash and stretch of an object
 
 15
 00:00:38,258 --> 00:00:41,594
-helps us to communicate what
-that material is made out of.
+helps us to communicate what that material is made out of.
 
 16
 00:00:41,594 --> 00:00:43,393
@@ -70,8 +65,7 @@ Remember, our job as animators isn't just
 
 17
 00:00:43,393 --> 00:00:46,909
-to move things around,
-it's to bring them to life.
+to move things around, it's to bring them to life.
 
 18
 00:00:46,909 --> 00:00:48,275
@@ -83,8 +77,7 @@ the character's thought process.
 
 20
 00:00:51,983 --> 00:00:54,932
-If this ball is alive, then
-maybe it's not just bouncing,
+If this ball is alive, then maybe it's not just bouncing,
 
 21
 00:00:54,932 --> 00:00:56,369
@@ -92,18 +85,15 @@ maybe it's hopping.
 
 22
 00:00:56,369 --> 00:00:59,969
-And before it hops it'll squash
-itself down in anticipation,
+And before it hops it'll squash itself down in anticipation,
 
 23
 00:00:59,969 --> 00:01:03,647
-just like Luxo Jr squashes
-himself down before taking a hop.
+just like Luxo Jr squashes himself down before taking a hop.
 
 24
 00:01:03,647 --> 00:01:05,833
-This is some of the
-real magic of animation,
+This is some of the real magic of animation,
 
 25
 00:01:05,833 --> 00:01:07,075
@@ -111,8 +101,7 @@ is that we can take something that's
 
 26
 00:01:07,075 --> 00:01:10,221
-fundamentally a lifeless
-object, and bring it to life.
+fundamentally a lifeless object, and bring it to life.
 
 27
 00:01:10,221 --> 00:01:11,087

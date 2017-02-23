@@ -12,8 +12,7 @@ a collaboration between Pixar Animation Studios
 
 4
 00:00:06,263 --> 00:00:08,516
-- I'm Fran, I work here on
-the technical side of things.
+- I'm Fran, I work here on the technical side of things.
 
 5
 00:00:08,516 --> 00:00:09,519
@@ -29,13 +28,11 @@ on the art and story side of things.
 
 8
 00:00:13,081 --> 00:00:15,257
-to some of the fundamental
-skills we use to make our movies.
+to some of the fundamental skills we use to make our movies.
 
 9
 00:00:15,257 --> 00:00:17,319
-- (Alex) There's examples
-of real life film challenges
+- (Alex) There's examples of real life film challenges
 
 10
 00:00:17,319 --> 00:00:19,152
@@ -51,8 +48,7 @@ And how technical advances can inspire
 
 13
 00:00:22,767 --> 00:00:24,773
-artists to think of new
-ideas to bring to the screen.
+artists to think of new ideas to bring to the screen.
 
 14
 00:00:25,367 --> 00:00:27,875
@@ -72,8 +68,7 @@ all kinds of different people.
 
 18
 00:00:33,609 --> 00:00:35,712
-skills you may already
-be learning in school.
+skills you may already be learning in school.
 
 19
 00:00:35,712 --> 00:00:37,825
@@ -89,8 +84,7 @@ Before you dive into these lessons,
 
 22
 00:00:41,736 --> 00:00:43,865
-you should see how it all
-fits together inside Pixar,
+you should see how it all fits together inside Pixar,
 
 23
 00:00:43,865 --> 00:00:44,917
@@ -110,8 +104,7 @@ Come on, check it out.
 
 27
 00:00:52,464 --> 00:00:54,888
-we're working on various
-stages of many films.
+we're working on various stages of many films.
 
 28
 00:00:56,868 --> 00:00:59,102
@@ -119,13 +112,11 @@ stages of many films.
 
 29
 00:00:59,102 --> 00:01:02,134
-For example, "Toy Story" could
-have started like this.
+For example, "Toy Story" could have started like this.
 
 30
 00:01:03,523 --> 00:01:06,528
-[John Lasseter] When kids leave the room
-the toys come to life.
+[John Lasseter] When kids leave the room the toys come to life.
 
 31
 00:01:07,023 --> 00:01:09,949
@@ -145,8 +136,7 @@ along with the director and the writer
 
 35
 00:01:21,122 --> 00:01:23,176
-we figure out what happens
-using simple drawings.
+we figure out what happens using simple drawings.
 
 36
 00:01:23,662 --> 00:01:25,337
@@ -170,8 +160,7 @@ designing the world and the characters.
 
 41
 00:01:38,098 --> 00:01:40,099
-While they're painting
-and drawing and scultping
+While they're painting and drawing and scultping
 
 42
 00:01:40,198 --> 00:01:42,195
@@ -187,8 +176,7 @@ the drawings that we've created.
 
 45
 00:01:45,167 --> 00:01:48,448
-- We time them out, add music,
-dialogue and sound effects.
+- We time them out, add music, dialogue and sound effects.
 
 46
 00:01:48,448 --> 00:01:49,029
@@ -196,8 +184,7 @@ dialogue and sound effects.
 
 47
 00:01:49,029 --> 00:01:50,124
-- He's the only one who
-knew what the heck was going
+- He's the only one who knew what the heck was going
 
 48
 00:01:50,979 --> 00:01:52,061
@@ -205,18 +192,15 @@ aaaaaaahhhhhhh!
 
 49
 00:01:52,061 --> 00:01:54,517
-- And as these shots go through
-each stage in production,
+- And as these shots go through each stage in production,
 
 50
 00:01:54,517 --> 00:01:57,164
-we'll update the scene
-over and over again.
+we'll update the scene over and over again.
 
 51
 00:01:57,164 --> 00:01:59,765
-And this is where the
-science and the math come in.
+And this is where the science and the math come in.
 
 52
 00:01:59,765 --> 00:02:00,741
@@ -236,38 +220,31 @@ aaaaaaahhhhhhh!
 
 56
 00:02:07,477 --> 00:02:10,240
-Pipeline, we're ready to start
-making the film you'll see
+Pipeline, we're ready to start making the film you'll see
 
 57
 00:02:10,024 --> 00:02:12,555
-in the theater and this
-happens in a particular order.
+in the theater and this happens in a particular order.
 
 58
 00:02:12,771 --> 00:02:14,787
-It's time for our technical
-artist to figure out
+It's time for our technical artist to figure out
 
 59
 00:02:14,931 --> 00:02:16,934
-how we're going to create
-the movie in the computer.
+how we're going to create the movie in the computer.
 
 60
 00:02:16,934 --> 00:02:19,408
-- I've been here for nine
-years and I still have no idea
+- I've been here for nine years and I still have no idea
 
 61
 00:02:19,408 --> 00:02:22,032
-how you guys turn our drawings
-into the finished film.
+how you guys turn our drawings into the finished film.
 
 62
 00:02:22,032 --> 00:02:25,097
-- To be honest, something
-stumps us on every movie.
+- To be honest, something stumps us on every movie.
 
 63
 00:02:25,097 --> 00:02:26,165
@@ -311,13 +288,11 @@ On Cars, reflective metal surfaces.
 
 73
 00:02:44,211 --> 00:02:47,762
-On every new film there's
-a new technical challenge.
+On every new film there's a new technical challenge.
 
 74
 00:02:47,762 --> 00:02:49,280
-On Inside Out we had to
-deal with a character
+On Inside Out we had to deal with a character
 
 75
 00:02:49,028 --> 00:02:51,575
@@ -325,8 +300,7 @@ made of glowing particles and it took lots
 
 76
 00:02:51,827 --> 00:02:54,876
-of people to figure out
-just that one thing.
+of people to figure out just that one thing.
 
 77
 00:02:54,876 --> 00:02:56,524
@@ -334,8 +308,7 @@ just that one thing.
 
 78
 00:02:56,524 --> 00:03:00,239
-- Her shape will be made of
-points and particles of light.
+- Her shape will be made of points and particles of light.
 
 79
 00:03:00,239 --> 00:03:02,965
@@ -347,8 +320,7 @@ She was tough, this is the 17th version.
 
 81
 00:03:06,604 --> 00:03:08,277
-so someone has to add
-controls to the model.
+so someone has to add controls to the model.
 
 82
 00:03:08,277 --> 00:03:10,652
@@ -380,8 +352,7 @@ Next in the pipeline, sets.
 
 89
 00:03:20,582 --> 00:03:23,667
-- (Alex) So for Cars 2 you
-built the entire city of London?
+- (Alex) So for Cars 2 you built the entire city of London?
 
 90
 00:03:23,667 --> 00:03:25,669
@@ -389,8 +360,7 @@ built the entire city of London?
 
 91
 00:03:25,687 --> 00:03:27,753
-because Mayor and
-McQueen speed through it.
+because Mayor and McQueen speed through it.
 
 92
 00:03:27,753 --> 00:03:29,959
@@ -398,8 +368,7 @@ So we figured out to grow buildings
 
 93
 00:03:29,959 --> 00:03:33,250
-with enough variation
-for them to look real.
+with enough variation for them to look real.
 
 94
 00:03:33,025 --> 00:03:34,418
@@ -431,13 +400,11 @@ her clothes and hair are missing?
 
 101
 00:03:45,657 --> 00:03:47,846
-Adding and moving those
-elements is going to be
+Adding and moving those elements is going to be
 
 102
 00:03:47,846 --> 00:03:49,697
-someone else's job
-further down the pipeline.
+someone else's job further down the pipeline.
 
 103
 00:03:50,407 --> 00:03:52,144
@@ -445,8 +412,7 @@ And by somebody else, I mean me
 
 104
 00:03:52,144 --> 00:03:54,698
-and about 20 other
-simulation technical artists.
+and about 20 other simulation technical artists.
 
 105
 00:03:55,438 --> 00:03:57,700
@@ -462,8 +428,7 @@ including the textures and surfaces
 
 108
 00:04:01,111 --> 00:04:03,850
-which help make the world
-and characters believable.
+which help make the world and characters believable.
 
 109
 00:04:04,095 --> 00:04:05,712
@@ -471,8 +436,7 @@ Next stop, lighting.
 
 110
 00:04:06,567 --> 00:04:08,630
-- Ironically it's really dark
-in the lighting department.
+- Ironically it's really dark in the lighting department.
 
 111
 00:04:09,197 --> 00:04:10,531
@@ -500,8 +464,7 @@ In this shot alone there are 230 lights.
 
 117
 00:04:22,762 --> 00:04:25,571
-- A film is really a
-series of images or frames.
+- A film is really a series of images or frames.
 
 118
 00:04:25,571 --> 00:04:27,274
@@ -525,8 +488,7 @@ all the art, math and science.
 
 123
 00:04:35,482 --> 00:04:38,040
-A single frame can take more
-than 24 hours to render,
+A single frame can take more than 24 hours to render,
 
 124
 00:04:38,004 --> 00:04:39,769
@@ -534,8 +496,7 @@ and that's just one frame,
 
 125
 00:04:39,805 --> 00:04:41,662
-and that's assuming we
-don't run into any snags.
+and that's assuming we don't run into any snags.
 
 126
 00:04:41,662 --> 00:04:43,377
@@ -551,8 +512,7 @@ don't run into any snags.
 
 129
 00:04:53,486 --> 00:04:56,130
-And now that I know how
-they're made, even cooler.
+And now that I know how they're made, even cooler.
 
 130
 00:04:56,013 --> 00:04:57,790
@@ -560,8 +520,7 @@ they're made, even cooler.
 
 131
 00:04:57,907 --> 00:04:59,896
-jump back into the Box
-and choose a lesson.
+jump back into the Box and choose a lesson.
 
 132
 00:04:59,896 --> 00:05:01,447
@@ -569,8 +528,7 @@ What do you want to try?
 
 133
 00:05:01,447 --> 00:05:03,838
-- Well this one on building
-robots using combinatorics,
+- Well this one on building robots using combinatorics,
 
 134
 00:05:03,838 --> 00:05:05,440
@@ -582,13 +540,11 @@ that looks pretty cool.
 
 136
 00:05:07,251 --> 00:05:09,543
-- Yeah or the one on
-animating The Incredibles.
+- Yeah or the one on animating The Incredibles.
 
 137
 00:05:09,543 --> 00:05:11,935
-- (Fran) Awesome, I
-always wanted to animate.
+- (Fran) Awesome, I always wanted to animate.
 
 138
 00:05:11,935 --> 00:05:13,739

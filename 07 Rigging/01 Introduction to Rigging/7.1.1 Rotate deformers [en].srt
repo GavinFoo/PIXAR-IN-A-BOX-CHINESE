@@ -8,8 +8,7 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 3
 00:00:04,421 --> 00:00:06,821
-In the next lesson you'll learn
-to rig your own character.
+In the next lesson you'll learn to rig your own character.
 
 4
 00:00:06,821 --> 00:00:08,403
@@ -17,8 +16,7 @@ to rig your own character.
 
 5
 00:00:08,403 --> 00:00:09,827
-If you've gone through
-the animation lesson,
+If you've gone through the animation lesson,
 
 6
 00:00:09,827 --> 00:00:10,802
@@ -26,8 +24,7 @@ you've already learned how to
 
 7
 00:00:10,802 --> 00:00:15,135
-create an animated performance
-of a bouncing ball.
+create an animated performance of a bouncing ball.
 
 8
 00:00:15,135 --> 00:00:16,471
@@ -35,8 +32,7 @@ We gave you controls which allowed you to
 
 9
 00:00:16,471 --> 00:00:19,299
-move the ball around,
-and stretch it like this,
+move the ball around, and stretch it like this,
 
 10
 00:00:19,299 --> 00:00:20,682
@@ -44,8 +40,7 @@ or squash it like that.
 
 11
 00:00:20,682 --> 00:00:22,909
-These transformations
-are defined by different
+These transformations are defined by different
 
 12
 00:00:22,909 --> 00:00:25,071
@@ -57,13 +52,11 @@ For example, a rotate deformer will
 
 14
 00:00:27,015 --> 00:00:30,033
-let you rotate the ball,
-a translate deformer will
+let you rotate the ball, a translate deformer will
 
 15
 00:00:30,033 --> 00:00:32,277
-allow you to move the
-ball in any direction,
+allow you to move the ball in any direction,
 
 16
 00:00:32,277 --> 00:00:34,186
@@ -75,8 +68,7 @@ squash the ball when it hits the ground.
 
 18
 00:00:37,209 --> 00:00:39,121
-Figuring out and creating
-these deformers is
+Figuring out and creating these deformers is
 
 19
 00:00:39,121 --> 00:00:40,530
@@ -88,8 +80,7 @@ It's pretty simple when done with a ball.
 
 21
 00:00:42,964 --> 00:00:46,680
-It gets a lot more complicated
-when dealing with a car.
+It gets a lot more complicated when dealing with a car.
 
 22
 00:00:46,680 --> 00:00:49,765
@@ -97,8 +88,7 @@ And a human baby is really hard.
 
 23
 00:00:50,765 --> 00:00:54,039
-As you can see, I'm standing
-next to this giant lamp,
+As you can see, I'm standing next to this giant lamp,
 
 24
 00:00:54,039 --> 00:00:56,048
@@ -106,13 +96,11 @@ who was featured in Luxo Jr.,
 
 25
 00:00:56,048 --> 00:00:59,441
-one of the first short
-films made at Pixar.
+one of the first short films made at Pixar.
 
 26
 00:00:59,441 --> 00:01:01,256
-Although lamps are just
-solid objects without
+Although lamps are just solid objects without
 
 27
 00:01:01,256 --> 00:01:03,247
@@ -120,8 +108,7 @@ their own movement or emotions,
 
 28
 00:01:03,247 --> 00:01:05,775
-a young animator named
-John Lasseter believed
+a young animator named John Lasseter believed
 
 29
 00:01:05,775 --> 00:01:07,822
@@ -133,8 +120,7 @@ He saw how this lamp could become
 
 31
 00:01:09,379 --> 00:01:13,003
-a lifelike character if
-it was given a simple rig.
+a lifelike character if it was given a simple rig.
 
 32
 00:01:13,003 --> 00:01:14,605
@@ -142,13 +128,11 @@ This rig is made up of deformers that
 
 33
 00:01:14,605 --> 00:01:18,367
-can make the lamp rotate,
-translate, and scale.
+can make the lamp rotate, translate, and scale.
 
 34
 00:01:18,367 --> 00:01:21,432
-In 1986, a rigging
-artist named Evan Auspie
+In 1986, a rigging artist named Evan Auspie
 
 35
 00:01:21,432 --> 00:01:23,185
@@ -160,23 +144,19 @@ the software that would rig the lamp,
 
 37
 00:01:25,185 --> 00:01:28,013
-and allow John to create
-his animated performance.
+and allow John to create his animated performance.
 
 38
 00:01:28,013 --> 00:01:29,480
-In the rest of this
-lesson, you will get to
+In the rest of this lesson, you will get to
 
 39
 00:01:29,480 --> 00:01:33,040
-create the rig which will
-allow us to animate our lamp.
+create the rig which will allow us to animate our lamp.
 
 40
 00:01:33,040 --> 00:01:37,052
-Before we rig our lamp, we
-need to examine him closely.
+Before we rig our lamp, we need to examine him closely.
 
 41
 00:01:37,052 --> 00:01:39,483
@@ -188,8 +168,7 @@ a mid, and a lamp head.
 
 43
 00:01:42,021 --> 00:01:45,913
-And this is connected
-by joints that rotate.
+And this is connected by joints that rotate.
 
 44
 00:01:46,913 --> 00:01:48,152
@@ -205,8 +184,7 @@ which causes it to rotate, and there is
 
 47
 00:01:51,877 --> 00:01:56,409
-some dependence of the other
-joints upon that rotation.
+some dependence of the other joints upon that rotation.
 
 48
 00:01:58,409 --> 00:02:00,261
@@ -234,8 +212,7 @@ all the other joints will follow.
 
 54
 00:02:10,696 --> 00:02:13,139
-In this first exercise,
-let's rig our lamp with
+In this first exercise, let's rig our lamp with
 
 55
 00:02:13,139 --> 00:02:15,531
@@ -247,8 +224,7 @@ You would do this by dragging
 
 57
 00:02:16,937 --> 00:02:19,682
-the rotate deformers
-onto each of the joints.
+the rotate deformers onto each of the joints.
 
 58
 00:02:19,682 --> 00:02:21,675

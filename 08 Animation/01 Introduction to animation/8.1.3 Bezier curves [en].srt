@@ -13,8 +13,7 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 4
 00:00:09,074 --> 00:00:11,519
-- You probably noticed that
-in order to get smooth motion,
+- You probably noticed that in order to get smooth motion,
 
 5
 00:00:11,519 --> 00:00:12,869
@@ -26,8 +25,7 @@ in pretty much every frame.
 
 7
 00:00:15,652 --> 00:00:18,168
-The computer's helping, but
-it's still a lot of work
+The computer's helping, but it's still a lot of work
 
 8
 00:00:18,168 --> 00:00:19,116
@@ -43,18 +41,15 @@ we can use something called Bézier curves.
 
 11
 00:00:25,853 --> 00:00:28,548
-If you've ever used design
-or drawing software,
+If you've ever used design or drawing software,
 
 12
 00:00:28,548 --> 00:00:31,999
-you've probably used Bézier
-curves without even knowing it.
+you've probably used Bézier curves without even knowing it.
 
 13
 00:00:31,999 --> 00:00:35,155
-This is named after a French
-engineer, Pierre Bézier,
+This is named after a French engineer, Pierre Bézier,
 
 14
 00:00:35,155 --> 00:00:36,722
@@ -62,8 +57,7 @@ who invented this method to describe
 
 15
 00:00:36,722 --> 00:00:39,802
-the smooth curves needed
-when designing cars.
+the smooth curves needed when designing cars.
 
 16
 00:00:39,802 --> 00:00:40,957
@@ -79,18 +73,15 @@ I also mentioned them in the first video.
 
 19
 00:00:46,530 --> 00:00:48,636
-Bézier curves come with
-these handles that let us
+Bézier curves come with these handles that let us
 
 20
 00:00:48,636 --> 00:00:51,711
-control the shape of the
-graph between our key poses.
+control the shape of the graph between our key poses.
 
 21
 00:00:55,711 --> 00:00:58,804
-We get this nice curve that
-eases out of the first pose,
+We get this nice curve that eases out of the first pose,
 
 22
 00:00:58,804 --> 00:01:00,494
@@ -102,8 +93,7 @@ If you look at how these values map,
 
 24
 00:01:03,199 --> 00:01:05,171
-you can see something that looks
-just like our timing chart.
+you can see something that looks just like our timing chart.
 
 25
 00:01:08,171 --> 00:01:09,549

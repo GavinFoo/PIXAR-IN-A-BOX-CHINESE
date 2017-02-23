@@ -16,8 +16,7 @@ the overall variation and brightness.
 
 5
 00:00:08,699 --> 00:00:10,557
-- The brightness depends
-on the Y coordinate
+- The brightness depends on the Y coordinate
 
 6
 00:00:10,557 --> 00:00:12,314
@@ -53,8 +52,7 @@ higher resolution variation to our curve.
 
 14
 00:00:25,635 --> 00:00:29,138
-These are the smaller details
-or changes in the amplitude.
+These are the smaller details or changes in the amplitude.
 
 15
 00:00:29,138 --> 00:00:30,967
@@ -62,13 +60,11 @@ or changes in the amplitude.
 
 16
 00:00:30,967 --> 00:00:33,334
-two curves together,
-for example, take your
+two curves together, for example, take your
 
 17
 00:00:33,334 --> 00:00:36,566
-original curve and add
-it to the second curve,
+original curve and add it to the second curve,
 
 18
 00:00:36,566 --> 00:00:39,297
@@ -128,8 +124,7 @@ Call this our medium resolution curve.
 
 32
 00:01:03,161 --> 00:01:05,262
-- [Lady Voiceover] And
-we can keep doing this.
+- [Lady Voiceover] And we can keep doing this.
 
 33
 00:01:05,262 --> 00:01:07,306
@@ -149,8 +144,7 @@ in the same way.
 
 37
 00:01:13,075 --> 00:01:14,791
-- [Lady Voiceover] This is
-our high resolution curve.
+- [Lady Voiceover] This is our high resolution curve.
 
 38
 00:01:14,791 --> 00:01:18,061
@@ -158,18 +152,15 @@ It contains the most detailed variations.
 
 39
 00:01:18,061 --> 00:01:19,171
-- [Lady Voiceover] And
-at the bottom we show
+- [Lady Voiceover] And at the bottom we show
 
 40
 00:01:19,171 --> 00:01:21,995
-the results of adding
-these curves together.
+the results of adding these curves together.
 
 41
 00:01:21,995 --> 00:01:22,979
-- [Lady Voiceover] I
-see you have amplitude
+- [Lady Voiceover] I see you have amplitude
 
 42
 00:01:22,979 --> 00:01:25,052
@@ -181,8 +172,7 @@ sliders as well, that's fancy.
 
 44
 00:01:26,505 --> 00:01:29,400
-to adjust how much that
-resolution contributes
+to adjust how much that resolution contributes
 
 45
 00:01:29,400 --> 00:01:31,220
@@ -190,13 +180,11 @@ to the final curve.
 
 46
 00:01:31,220 --> 00:01:32,845
-- [Lady Voiceover] Meaning
-if the amplitude slider
+- [Lady Voiceover] Meaning if the amplitude slider
 
 47
 00:01:32,845 --> 00:01:35,180
-is set to zero, then that
-resolution is ignored
+is set to zero, then that resolution is ignored
 
 48
 00:01:35,180 --> 00:01:37,985
@@ -208,13 +196,11 @@ it really takes over.
 
 50
 00:01:39,938 --> 00:01:41,105
-- [Lady Voiceover] By
-the way, this process was
+- [Lady Voiceover] By the way, this process was
 
 51
 00:01:41,105 --> 00:01:44,652
-invented by Ken Perlin
-in 1988 and this is why
+invented by Ken Perlin in 1988 and this is why
 
 52
 00:01:44,652 --> 00:01:47,739
@@ -238,8 +224,7 @@ in the past 20 years.
 
 57
 00:01:53,418 --> 00:01:55,653
-In the next exercise we
-will test your understanding
+In the next exercise we will test your understanding
 
 58
 00:01:55,653 --> 00:01:58,151
@@ -251,8 +236,7 @@ of these multi resolution curves.
 
 60
 00:02:00,468 --> 00:02:02,775
-- Do you have an anecdote
-about Perlin Noise?
+- Do you have an anecdote about Perlin Noise?
 
 61
 00:02:02,775 --> 00:02:04,268
@@ -284,13 +268,11 @@ and other parameters.
 
 68
 00:02:13,803 --> 00:02:15,337
-You can see it in almost
-all of our hair grooms,
+You can see it in almost all of our hair grooms,
 
 69
 00:02:15,337 --> 00:02:17,086
-definitely Spot's hair
-is a good one to look at
+definitely Spot's hair is a good one to look at
 
 70
 00:02:17,086 --> 00:02:19,443

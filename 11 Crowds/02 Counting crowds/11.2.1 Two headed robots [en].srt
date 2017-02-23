@@ -8,38 +8,31 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 3
 00:00:05,340 --> 00:00:08,340
-You made both the director
-and the producer very happy.
+You made both the director and the producer very happy.
 
 4
 00:00:08,340 --> 00:00:10,270
-Sometimes our directors change
-their minds when they see
+Sometimes our directors change their minds when they see
 
 5
 00:00:10,270 --> 00:00:13,120
-their drawings translated
-to 3D computer graphics.
+their drawings translated to 3D computer graphics.
 
 6
 00:00:13,120 --> 00:00:16,770
-In fact, sometimes our directors
-change their minds a lot,
+In fact, sometimes our directors change their minds a lot,
 
 7
 00:00:16,770 --> 00:00:19,302
-and we need to be able to
-adapt to those changes.
+and we need to be able to adapt to those changes.
 
 8
 00:00:19,302 --> 00:00:21,390
-So let's say we have a
-director that wants a robot
+So let's say we have a director that wants a robot
 
 9
 00:00:21,390 --> 00:00:24,610
-with two heads, but each
-head has to be different.
+with two heads, but each head has to be different.
 
 10
 00:00:24,610 --> 00:00:27,273
@@ -51,13 +44,11 @@ with two copies of the same head.
 
 12
 00:00:29,660 --> 00:00:33,750
-Now a robot consists of two
-heads, a body, and arms.
+Now a robot consists of two heads, a body, and arms.
 
 13
 00:00:33,750 --> 00:00:36,210
-We'd like to know how
-many of those we can have
+We'd like to know how many of those we can have
 
 14
 00:00:36,210 --> 00:00:39,370
@@ -65,8 +56,7 @@ if we have H heads, B bodies, and A arms.
 
 15
 00:00:41,370 --> 00:00:44,130
-We saw that by using a Tree
-Diagram we could multiply
+We saw that by using a Tree Diagram we could multiply
 
 16
 00:00:44,130 --> 00:00:46,380
@@ -78,18 +68,15 @@ to get the total number of combinations.
 
 18
 00:00:49,260 --> 00:00:53,480
-Well, we have H choices
-for the first head,
+Well, we have H choices for the first head,
 
 19
 00:00:53,480 --> 00:00:56,310
-but since the second
-head has to be different,
+but since the second head has to be different,
 
 20
 00:00:56,310 --> 00:01:00,690
-we only have H minus one
-choices for the second head.
+we only have H minus one choices for the second head.
 
 21
 00:01:00,690 --> 00:01:04,069
@@ -117,8 +104,7 @@ all the choices you have at each stage.
 
 27
 00:01:18,040 --> 00:01:20,670
-Mathematicians make up
-words for everything.
+Mathematicians make up words for everything.
 
 28
 00:01:20,670 --> 00:01:22,709

@@ -4,8 +4,7 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 2
 00:00:03,330 --> 00:00:06,542
-- Okay, now that you're
-comfortable with this diagram,
+- Okay, now that you're comfortable with this diagram,
 
 3
 00:00:06,542 --> 00:00:07,576
@@ -29,8 +28,7 @@ like the focal length of the lens,
 
 8
 00:00:17,027 --> 00:00:21,110
-the size of the aperture, and
-the distance to our object, P.
+the size of the aperture, and the distance to our object, P.
 
 9
 00:00:21,110 --> 00:00:22,782
@@ -38,23 +36,19 @@ The key to this formula is to notice that
 
 10
 00:00:22,782 --> 00:00:25,870
-there are similar triangles
-lurking in the diagram.
+there are similar triangles lurking in the diagram.
 
 11
 00:00:25,870 --> 00:00:28,059
-To figure this out, let's
-simplify our diagram
+To figure this out, let's simplify our diagram
 
 12
 00:00:28,059 --> 00:00:31,242
-to show only the two
-triangles we care about.
+to show only the two triangles we care about.
 
 13
 00:00:31,242 --> 00:00:35,758
-Notice the triangle ABC is
-similar to the triangle AED.
+Notice the triangle ABC is similar to the triangle AED.
 
 14
 00:00:35,758 --> 00:00:38,196
@@ -62,8 +56,7 @@ That means that the length BC divided by
 
 15
 00:00:38,196 --> 00:00:42,895
-the length DE is equal to
-the length AB divided by AE.
+the length DE is equal to the length AB divided by AE.
 
 16
 00:00:43,895 --> 00:00:46,237
@@ -71,8 +64,7 @@ Let's call this Equation One.
 
 17
 00:00:46,237 --> 00:00:49,228
-We know what DE is, that's
-the radius of the aperture.
+We know what DE is, that's the radius of the aperture.
 
 18
 00:00:49,228 --> 00:00:51,982
@@ -80,8 +72,7 @@ But we don't know AB or AE.
 
 19
 00:00:51,982 --> 00:00:55,435
-I'm also gonna add two
-new points, F and G.
+I'm also gonna add two new points, F and G.
 
 20
 00:00:55,435 --> 00:00:57,408
@@ -93,8 +84,7 @@ ABF and AEG, which are also similar.
 
 22
 00:01:01,475 --> 00:01:05,401
-This means that AB divided by
-AE equals FA divided by AG.
+This means that AB divided by AE equals FA divided by AG.
 
 23
 00:01:07,401 --> 00:01:08,855
@@ -102,13 +92,11 @@ But, FA is just the difference
 
 24
 00:01:08,855 --> 00:01:12,894
-between i and i prime,
-and AG is the distance i.
+between i and i prime, and AG is the distance i.
 
 25
 00:01:13,894 --> 00:01:18,013
-So, we can rewrite this
-as AB divided by AE
+So, we can rewrite this as AB divided by AE
 
 26
 00:01:18,013 --> 00:01:21,933
@@ -116,8 +104,7 @@ equals i prime minus i, divided by i.
 
 27
 00:01:21,933 --> 00:01:25,595
-And now, let's substitute
-this back into Equation One,
+And now, let's substitute this back into Equation One,
 
 28
 00:01:25,595 --> 00:01:29,501
@@ -129,18 +116,15 @@ i prime minus i, divided by i.
 
 30
 00:01:34,443 --> 00:01:38,602
-Finally, we just solve for
-BC, which gives us our answer.
+Finally, we just solve for BC, which gives us our answer.
 
 31
 00:01:38,602 --> 00:01:42,683
-BC equals DE times i prime
-minus i divided by i.
+BC equals DE times i prime minus i divided by i.
 
 32
 00:01:44,683 --> 00:01:47,686
-Ah, ha, we have an equation
-for the Circle of Confusion.
+Ah, ha, we have an equation for the Circle of Confusion.
 
 33
 00:01:47,686 --> 00:01:50,281
@@ -148,18 +132,15 @@ for the Circle of Confusion.
 
 34
 00:01:50,281 --> 00:01:52,325
-If you wanted to, you
-could also substitute
+If you wanted to, you could also substitute
 
 35
 00:01:52,325 --> 00:01:55,273
-i and i prime from the
-simple lens equation
+i and i prime from the simple lens equation
 
 36
 00:01:55,273 --> 00:01:57,446
-to write out the radius
-of the Circle of Confusion
+to write out the radius of the Circle of Confusion
 
 37
 00:01:57,446 --> 00:02:00,165
@@ -167,6 +148,5 @@ in terms of F, O, and O prime.
 
 38
 00:02:00,165 --> 00:02:04,000
-I'll leave that for you to work
-out in this final exercise. aimozhen.com/pixarinabox
+I'll leave that for you to work out in this final exercise. aimozhen.com/pixarinabox
 

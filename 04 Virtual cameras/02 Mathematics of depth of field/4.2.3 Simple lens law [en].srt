@@ -17,8 +17,7 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 5
 00:00:04,439 --> 00:00:06,344
-Now that you know what's going
-on to make a sharp image,
+Now that you know what's going on to make a sharp image,
 
 6
 00:00:06,344 --> 00:00:08,287
@@ -38,8 +37,7 @@ and parallel rays intersect.
 
 10
 00:00:14,441 --> 00:00:16,666
-Again, let's put the origin
-of our coordinate system
+Again, let's put the origin of our coordinate system
 
 11
 00:00:16,666 --> 00:00:18,538
@@ -67,23 +65,19 @@ So the line equation for it
 
 17
 00:00:29,000 --> 00:00:33,635
-is just Y equals Y zero
-divided by X zero times X.
+is just Y equals Y zero divided by X zero times X.
 
 18
 00:00:34,635 --> 00:00:37,521
-The parallel ray passes
-through two points we know.
+The parallel ray passes through two points we know.
 
 19
 00:00:37,521 --> 00:00:41,239
-The point on the lens it
-hits, which is at zero Y zero,
+The point on the lens it hits, which is at zero Y zero,
 
 20
 00:00:41,239 --> 00:00:45,500
-and the focal point of the
-lens, which is at minus F zero.
+and the focal point of the lens, which is at minus F zero.
 
 21
 00:00:45,500 --> 00:00:47,489
@@ -111,8 +105,7 @@ To intersect these lines
 
 27
 00:00:58,487 --> 00:01:01,645
-we set these equations
-equal to one another.
+we set these equations equal to one another.
 
 28
 00:01:01,645 --> 00:01:04,721
@@ -148,8 +141,7 @@ equals one over F, plus one over X.
 
 36
 00:01:25,648 --> 00:01:28,578
-Notice the X in this
-equation is the X coordinate
+Notice the X in this equation is the X coordinate
 
 37
 00:01:28,578 --> 00:01:30,169
@@ -157,8 +149,7 @@ where the lines intersect.
 
 38
 00:01:30,169 --> 00:01:34,427
-According to our diagram this
-happens when X equals minus I.
+According to our diagram this happens when X equals minus I.
 
 39
 00:01:34,427 --> 00:01:37,242
@@ -170,8 +161,7 @@ is equal to the object distance, O.
 
 41
 00:01:40,750 --> 00:01:44,178
-So we have one over O equals
-one over F minus one over I,
+So we have one over O equals one over F minus one over I,
 
 42
 00:01:46,178 --> 00:01:48,979
@@ -191,8 +181,7 @@ This is called the simple lens law.
 
 46
 00:01:55,397 --> 00:01:58,221
-It says that an object at
-distance O from the lens,
+It says that an object at distance O from the lens,
 
 47
 00:01:58,221 --> 00:01:59,681
@@ -208,6 +197,5 @@ In the next exercise
 
 50
 00:02:03,839 --> 00:02:07,000
-we'll test your
-understanding of this idea. aimozhen.com/pixarinabox
+we'll test your understanding of this idea. aimozhen.com/pixarinabox
 

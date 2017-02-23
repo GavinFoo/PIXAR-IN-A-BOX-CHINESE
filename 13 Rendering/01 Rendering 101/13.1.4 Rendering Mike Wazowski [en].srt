@@ -36,8 +36,7 @@ the intersection point between a ray,
 
 10
 00:00:19,922 --> 00:00:22,767
-starting at the camera,
-shooting through a pixel,
+starting at the camera, shooting through a pixel,
 
 11
 00:00:22,767 --> 00:00:24,923
@@ -69,18 +68,15 @@ the surface will respond to light.
 
 18
 00:00:37,233 --> 00:00:39,659
-As we discussed earlier,
-the two basic components
+As we discussed earlier, the two basic components
 
 19
 00:00:39,659 --> 00:00:43,793
-of surface response are
-called diffuse and specular.
+of surface response are called diffuse and specular.
 
 20
 00:00:43,793 --> 00:00:47,801
-This is a picture of how
-diffuse, or dull, each object is.
+This is a picture of how diffuse, or dull, each object is.
 
 21
 00:00:47,801 --> 00:00:49,758
@@ -88,8 +84,7 @@ Where this image is bright white
 
 22
 00:00:49,758 --> 00:00:53,261
-is gonna be where the dullest
-surface in the scene is.
+is gonna be where the dullest surface in the scene is.
 
 23
 00:00:53,261 --> 00:00:56,488
@@ -113,28 +108,23 @@ where the main light source is?
 
 28
 00:01:05,111 --> 00:01:08,800
-Pause the video now, if
-you need some more time.
+Pause the video now, if you need some more time.
 
 29
 00:01:08,800 --> 00:01:11,090
-The light source is off to
-the left side of the screen.
+The light source is off to the left side of the screen.
 
 30
 00:01:11,090 --> 00:01:15,066
-You can actually see it
-reflected in Mike's eye, here.
+You can actually see it reflected in Mike's eye, here.
 
 31
 00:01:15,066 --> 00:01:18,270
-Now, each object in the scene
-receives directing lighting,
+Now, each object in the scene receives directing lighting,
 
 32
 00:01:18,270 --> 00:01:21,322
-which we see here in these
-images of diffuse and specular.
+which we see here in these images of diffuse and specular.
 
 33
 00:01:21,322 --> 00:01:23,831
@@ -142,13 +132,11 @@ But they also received indirect lighting,
 
 34
 00:01:23,831 --> 00:01:27,767
-which is light bouncing off
-of other objects in the scene.
+which is light bouncing off of other objects in the scene.
 
 35
 00:01:27,767 --> 00:01:31,325
-So what happens when we put all
-these calculations together?
+So what happens when we put all these calculations together?
 
 36
 00:01:40,325 --> 00:01:41,831

@@ -4,8 +4,7 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 2
 00:00:00,215 --> 00:00:03,232
-- Hi. I'm Alonso Martinez
-and I'm a Character modeler
+- Hi. I'm Alonso Martinez and I'm a Character modeler
 
 3
 00:00:03,232 --> 00:00:04,963
@@ -13,13 +12,11 @@ here at Pixar Animation Studios,
 
 4
 00:00:04,963 --> 00:00:08,074
-and that means that I create
-the virtual characters
+and that means that I create the virtual characters
 
 5
 00:00:08,074 --> 00:00:11,314
-that the animators use to
-bring our characters to life.
+that the animators use to bring our characters to life.
 
 6
 00:00:11,314 --> 00:00:13,472
@@ -27,8 +24,7 @@ And if I do my job right that means that
 
 7
 00:00:13,472 --> 00:00:16,318
-not only will people
-believe that they're real,
+not only will people believe that they're real,
 
 8
 00:00:16,318 --> 00:00:19,774
@@ -36,8 +32,7 @@ but also they'll become personal friends.
 
 9
 00:00:19,774 --> 00:00:22,373
-Right now I'm standing
-at the Pixar Art Gallery
+Right now I'm standing at the Pixar Art Gallery
 
 10
 00:00:22,373 --> 00:00:24,618
@@ -53,8 +48,7 @@ that goes into making these movies great.
 
 13
 00:00:29,793 --> 00:00:32,451
-It's important for all
-departments here at Pixar
+It's important for all departments here at Pixar
 
 14
 00:00:32,451 --> 00:00:34,340
@@ -70,23 +64,19 @@ when we design our characters,
 
 17
 00:00:37,203 --> 00:00:40,948
-we tell story through the
-shapes of our characters.
+we tell story through the shapes of our characters.
 
 18
 00:00:40,948 --> 00:00:43,803
-One of my favorite examples
-is from the movie Up,
+One of my favorite examples is from the movie Up,
 
 19
 00:00:43,803 --> 00:00:47,341
-and that's because Carl
-is designed like a box
+and that's because Carl is designed like a box
 
 20
 00:00:47,341 --> 00:00:51,139
-and that's because he's jailed
-in with all of the emotions
+and that's because he's jailed in with all of the emotions
 
 21
 00:00:51,139 --> 00:00:53,863
@@ -98,8 +88,7 @@ But Russell is shaped like an egg.
 
 23
 00:00:56,967 --> 00:01:00,926
-Both of these are symbols
-for who these characters are.
+Both of these are symbols for who these characters are.
 
 24
 00:01:00,926 --> 00:01:03,142
@@ -119,13 +108,11 @@ that we were talking about.
 
 28
 00:01:08,665 --> 00:01:11,540
-And also, at the same time,
-for them to be efficient
+And also, at the same time, for them to be efficient
 
 29
 00:01:11,540 --> 00:01:16,001
-for the computer to be able
-to deal with all of that data.
+for the computer to be able to deal with all of that data.
 
 30
 00:01:16,001 --> 00:01:17,453
@@ -141,8 +128,7 @@ In the Environment Modeling Lesson
 
 33
 00:01:23,808 --> 00:01:26,965
-we saw how to describe blades
-of grass using parabolas,
+we saw how to describe blades of grass using parabolas,
 
 34
 00:01:26,965 --> 00:01:29,381
@@ -150,13 +136,11 @@ but parabolas are just not good enough
 
 35
 00:01:29,381 --> 00:01:32,619
-to describe the
-expressiveness of characters.
+to describe the expressiveness of characters.
 
 36
 00:01:33,619 --> 00:01:36,242
-For example, here's a
-sculpture of Geri's hand
+For example, here's a sculpture of Geri's hand
 
 37
 00:01:36,242 --> 00:01:38,465
@@ -184,8 +168,7 @@ In the first part of the lesson
 
 43
 00:01:50,185 --> 00:01:52,932
-we'll be looking more
-closely at how subdivision
+we'll be looking more closely at how subdivision
 
 44
 00:01:52,932 --> 00:01:54,910
@@ -193,8 +176,7 @@ can be used to create complex shapes.
 
 45
 00:01:54,910 --> 00:01:57,383
-And then in part two,
-we'll dive more deeply
+And then in part two, we'll dive more deeply
 
 46
 00:01:57,383 --> 00:02:00,482
@@ -202,13 +184,11 @@ into the mathematics of subdivision.
 
 47
 00:02:00,482 --> 00:02:02,578
-Most of the mathematics
-we use here at Pixar
+Most of the mathematics we use here at Pixar
 
 48
 00:02:02,578 --> 00:02:05,605
-have been around for hundreds
-or thousands of years,
+have been around for hundreds or thousands of years,
 
 49
 00:02:05,605 --> 00:02:07,042
@@ -216,18 +196,15 @@ but subdivision is different.
 
 50
 00:02:07,042 --> 00:02:09,398
-It was actually only
-invented about 40 years ago
+It was actually only invented about 40 years ago
 
 51
 00:02:09,398 --> 00:02:13,880
-and is still an active area
-of mathematical research.
+and is still an active area of mathematical research.
 
 52
 00:02:13,880 --> 00:02:17,025
-The skins of our characters
-live in three dimensional space,
+The skins of our characters live in three dimensional space,
 
 53
 00:02:17,025 --> 00:02:19,126
@@ -247,13 +224,11 @@ we add more points by Splitting,
 
 57
 00:02:24,956 --> 00:02:28,402
-that is, by adding
-mid-points to the edges.
+that is, by adding mid-points to the edges.
 
 58
 00:02:29,402 --> 00:02:31,781
-I can make it smoother
-by moving each point
+I can make it smoother by moving each point
 
 59
 00:02:31,781 --> 00:02:33,198
@@ -273,18 +248,15 @@ By repeatedly Splitting and Averaging,
 
 63
 00:02:43,092 --> 00:02:47,394
-we create a series of
-increasingly smoother curves.
+we create a series of increasingly smoother curves.
 
 64
 00:02:49,394 --> 00:02:51,598
-Now, imagine that you're
-an artist at Pixar
+Now, imagine that you're an artist at Pixar
 
 65
 00:02:51,598 --> 00:02:55,208
-and you've been asked to
-create a shape like this one.
+and you've been asked to create a shape like this one.
 
 66
 00:02:56,208 --> 00:02:57,601

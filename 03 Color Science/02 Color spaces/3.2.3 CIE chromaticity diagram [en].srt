@@ -9,8 +9,7 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 3
 00:00:03,518 --> 00:00:05,875
-- Now let's return to the
-human eye for a moment.
+- Now let's return to the human eye for a moment.
 
 4
 00:00:05,875 --> 00:00:07,545
@@ -18,8 +17,7 @@ Remember, the human eye is the sensor
 
 5
 00:00:07,545 --> 00:00:10,795
-which light must pass
-through to be perceived.
+which light must pass through to be perceived.
 
 6
 00:00:10,795 --> 00:00:12,954
@@ -35,13 +33,11 @@ In the 1920s, experiments were done
 
 9
 00:00:17,102 --> 00:00:20,433
-to map the color space
-perceivable by humans.
+to map the color space perceivable by humans.
 
 10
 00:00:20,433 --> 00:00:24,055
-From purple, all the
-way around the rainbow,
+From purple, all the way around the rainbow,
 
 11
 00:00:24,055 --> 00:00:26,581
@@ -61,8 +57,7 @@ and inside this region,
 
 15
 00:00:33,619 --> 00:00:37,162
-we have all combinations
-of those pure colors.
+we have all combinations of those pure colors.
 
 16
 00:00:37,162 --> 00:00:38,956
@@ -90,8 +85,7 @@ That's a fancy way of saying
 
 22
 00:00:51,476 --> 00:00:54,120
-that we can find the
-mixture of two colors,
+that we can find the mixture of two colors,
 
 23
 00:00:54,120 --> 00:00:56,398
@@ -99,13 +93,11 @@ such as this red and this green,
 
 24
 00:00:56,398 --> 00:01:00,224
-by simply looking at the
-midpoint of them, right here.
+by simply looking at the midpoint of them, right here.
 
 25
 00:01:00,224 --> 00:01:04,010
-It's known as the CIE
-chromaticity diagram.
+It's known as the CIE chromaticity diagram.
 
 26
 00:01:04,010 --> 00:01:06,093
@@ -117,8 +109,7 @@ that published the findings.
 
 28
 00:01:08,416 --> 00:01:11,543
-Compare this to the hue
-saturation color wheel,
+Compare this to the hue saturation color wheel,
 
 29
 00:01:11,543 --> 00:01:13,742

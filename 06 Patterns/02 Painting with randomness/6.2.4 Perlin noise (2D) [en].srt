@@ -20,8 +20,7 @@ wanna solve is in two dimensions.
 
 6
 00:00:09,884 --> 00:00:13,249
-- Luckily, we can apply
-the exact same idea in 2D.
+- Luckily, we can apply the exact same idea in 2D.
 
 7
 00:00:13,249 --> 00:00:14,937
@@ -29,8 +28,7 @@ This part is really fun.
 
 8
 00:00:14,937 --> 00:00:17,097
-- [Woman 2] Remember, to
-generate 1D variation,
+- [Woman 2] Remember, to generate 1D variation,
 
 9
 00:00:17,097 --> 00:00:19,786
@@ -42,8 +40,7 @@ of the base color along the line.
 
 11
 00:00:21,874 --> 00:00:23,652
-- [Woman 1] We used the
-x component of the curve
+- [Woman 1] We used the x component of the curve
 
 12
 00:00:23,652 --> 00:00:25,533
@@ -51,8 +48,7 @@ to define the horizontal pixel position,
 
 13
 00:00:25,533 --> 00:00:28,520
-and the y component defined
-the brightness of each pixel.
+and the y component defined the brightness of each pixel.
 
 14
 00:00:28,520 --> 00:00:29,959
@@ -68,8 +64,7 @@ to define the variation across the plane.
 
 17
 00:00:33,637 --> 00:00:35,539
-Think of a 3D surface as
-a collection of points
+Think of a 3D surface as a collection of points
 
 18
 00:00:35,539 --> 00:00:38,190
@@ -93,8 +88,7 @@ coordinates of each point as the finding
 
 23
 00:00:45,698 --> 00:00:48,108
-the pixel position in a 2D
-plane, and the z coordinate
+the pixel position in a 2D plane, and the z coordinate
 
 24
 00:00:48,108 --> 00:00:51,624
@@ -114,13 +108,11 @@ Notice the peaks of this surface result
 
 28
 00:00:57,122 --> 00:00:59,940
-in lighter points, and
-the valleys are darker.
+in lighter points, and the valleys are darker.
 
 29
 00:00:59,940 --> 00:01:02,052
-- [Woman 1] As before,
-the output has very sharp
+- [Woman 1] As before, the output has very sharp
 
 30
 00:01:02,052 --> 00:01:04,510
@@ -132,18 +124,15 @@ That's because the surface isn't smooth.
 
 32
 00:01:07,700 --> 00:01:09,805
-- [Woman 2] Luckily we
-can subdivide this surface
+- [Woman 2] Luckily we can subdivide this surface
 
 33
 00:01:09,805 --> 00:01:12,522
-in the exact same way we
-smoothed our 2D curve.
+in the exact same way we smoothed our 2D curve.
 
 34
 00:01:12,522 --> 00:01:15,091
-This will add new in-between
-points to our surface,
+This will add new in-between points to our surface,
 
 35
 00:01:15,091 --> 00:01:17,310
@@ -167,13 +156,11 @@ identified in the shading packet.
 
 40
 00:01:24,212 --> 00:01:26,177
-- You probably wanna try
-this out for yourself.
+- You probably wanna try this out for yourself.
 
 41
 00:01:26,177 --> 00:01:28,150
-In the next exercise,
-you can try matching some
+In the next exercise, you can try matching some
 
 42
 00:01:28,150 --> 00:01:30,172
@@ -181,13 +168,11 @@ you can try matching some
 
 43
 00:01:30,172 --> 00:01:31,964
-- [Woman 1] We will give
-you a target pattern,
+- [Woman 1] We will give you a target pattern,
 
 44
 00:01:31,964 --> 00:01:35,052
-and you can match this by
-adjusting one the base color.
+and you can match this by adjusting one the base color.
 
 45
 00:01:35,052 --> 00:01:38,727
@@ -223,13 +208,11 @@ how many parameters would you adjust?
 
 53
 00:01:53,327 --> 00:01:55,390
-- Well, background
-characters would actually
+- Well, background characters would actually
 
 54
 00:01:55,390 --> 00:01:58,812
-be usually in the hundreds
-but main characters,
+be usually in the hundreds but main characters,
 
 55
 00:01:58,812 --> 00:02:02,361
@@ -241,8 +224,7 @@ If he's in mud, you would control
 
 57
 00:02:04,584 --> 00:02:07,581
-how much mud he gets,
-or the color of the mud,
+how much mud he gets, or the color of the mud,
 
 58
 00:02:07,581 --> 00:02:09,841
@@ -258,13 +240,11 @@ control maybe how fast it is,
 
 61
 00:02:14,098 --> 00:02:17,925
-or the different parts where
-you want the rain to show up.
+or the different parts where you want the rain to show up.
 
 62
 00:02:17,925 --> 00:02:20,334
-He could have bruises,
-like throughout the journey
+He could have bruises, like throughout the journey
 
 63
 00:02:20,334 --> 00:02:23,179
@@ -276,28 +256,23 @@ the journey represented on his body.
 
 65
 00:02:25,770 --> 00:02:28,473
-And you would have controls
-for all of those things,
+And you would have controls for all of those things,
 
 66
 00:02:28,473 --> 00:02:32,596
-besides colors or maybe
-in certain environments
+besides colors or maybe in certain environments
 
 67
 00:02:33,596 --> 00:02:35,831
-he looks a little bit
-too shiny so you want to
+he looks a little bit too shiny so you want to
 
 68
 00:02:35,831 --> 00:02:38,645
-bring the shininess down,
-or things like that.
+bring the shininess down, or things like that.
 
 69
 00:02:38,645 --> 00:02:41,441
-So there's just controls
-for pretty much everything.
+So there's just controls for pretty much everything.
 
 70
 00:02:41,441 --> 00:02:42,365

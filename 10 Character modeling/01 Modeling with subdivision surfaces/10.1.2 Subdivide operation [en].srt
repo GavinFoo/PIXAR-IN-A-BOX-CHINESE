@@ -4,8 +4,7 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 2
 00:00:03,469 --> 00:00:06,273
-- One of the cool things about
-splitting and averaging is
+- One of the cool things about splitting and averaging is
 
 3
 00:00:06,273 --> 00:00:08,589
@@ -45,8 +44,7 @@ In this next version of the interactive,
 
 12
 00:00:29,027 --> 00:00:32,055
-we've replaced the split
-and average buttons
+we've replaced the split and average buttons
 
 13
 00:00:32,055 --> 00:00:34,459
@@ -54,13 +52,11 @@ with a single button, called "Subdivide".
 
 14
 00:00:35,459 --> 00:00:39,685
-Clicking it simply does
-split followed by average.
+Clicking it simply does split followed by average.
 
 15
 00:00:41,685 --> 00:00:44,996
-Focus your attention on
-this region of the curve.
+Focus your attention on this region of the curve.
 
 16
 00:00:44,996 --> 00:00:46,276
@@ -84,13 +80,11 @@ we saw in the parabolic arcs?
 
 21
 00:01:01,311 --> 00:01:04,656
-Now, watch what happens
-when I subdivide again.
+Now, watch what happens when I subdivide again.
 
 22
 00:01:04,656 --> 00:01:07,687
-The string art pattern
-continues to emerge.
+The string art pattern continues to emerge.
 
 23
 00:01:08,687 --> 00:01:10,515
@@ -106,13 +100,11 @@ And that means that the curve
 
 26
 00:01:14,843 --> 00:01:18,637
-that we're creating is a
-parabolic arc in this region.
+that we're creating is a parabolic arc in this region.
 
 27
 00:01:19,637 --> 00:01:21,669
-And there's another
-parabolic arc over here
+And there's another parabolic arc over here
 
 28
 00:01:21,669 --> 00:01:23,127
@@ -120,8 +112,7 @@ and over here and over here.
 
 29
 00:01:24,127 --> 00:01:26,605
-But, magically, these
-four arcs are smoothly
+But, magically, these four arcs are smoothly
 
 30
 00:01:26,605 --> 00:01:28,552
@@ -137,8 +128,7 @@ As someone interested in mathematics,
 
 33
 00:01:34,549 --> 00:01:37,137
-this is the kind of surprise
-that I find exciting.
+this is the kind of surprise that I find exciting.
 
 34
 00:01:40,137 --> 00:01:41,681

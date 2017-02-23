@@ -8,13 +8,11 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 3
 00:00:04,032 --> 00:00:06,487
-A little country between
-Brazil and Argentina.
+A little country between Brazil and Argentina.
 
 4
 00:00:06,487 --> 00:00:10,313
-There's about three million
-people in the country.
+There's about three million people in the country.
 
 5
 00:00:10,313 --> 00:00:12,809
@@ -26,8 +24,7 @@ I came straight from school.
 
 7
 00:00:15,276 --> 00:00:17,650
-I have a duel degree in
-electrical engineering
+I have a duel degree in electrical engineering
 
 8
 00:00:17,650 --> 00:00:19,520
@@ -35,13 +32,11 @@ and fine arts.
 
 9
 00:00:19,520 --> 00:00:23,784
-I am kind of right brain,
-left brain, kind of person.
+I am kind of right brain, left brain, kind of person.
 
 10
 00:00:23,784 --> 00:00:26,514
-I really like arts and I
-really like engineering,
+I really like arts and I really like engineering,
 
 11
 00:00:26,514 --> 00:00:28,459
@@ -49,13 +44,11 @@ and I found out there was a career
 
 12
 00:00:28,459 --> 00:00:31,993
-that you can combine both,
-so I thought that was great.
+that you can combine both, so I thought that was great.
 
 13
 00:00:31,993 --> 00:00:35,356
-And then I just happen to
-interview with Ed Catmull,
+And then I just happen to interview with Ed Catmull,
 
 14
 00:00:35,356 --> 00:00:37,486
@@ -63,18 +56,15 @@ was the president at the time.
 
 15
 00:00:37,486 --> 00:00:40,237
-I just thought it would be
-great to meet one of the people
+I just thought it would be great to meet one of the people
 
 16
 00:00:40,237 --> 00:00:44,185
-that had written some of
-the stuff in my books.
+that had written some of the stuff in my books.
 
 17
 00:00:44,185 --> 00:00:48,334
-And so I went for the
-interview and I got the job.
+And so I went for the interview and I got the job.
 
 18
 00:00:48,334 --> 00:00:50,002
@@ -102,8 +92,7 @@ At the end of my career I started doing
 
 24
 00:01:05,780 --> 00:01:09,255
-a little bit of computer
-graphics, but not a lot.
+a little bit of computer graphics, but not a lot.
 
 25
 00:01:09,255 --> 00:01:10,679
@@ -119,8 +108,7 @@ but the people that know best (laughs)
 
 28
 00:01:17,259 --> 00:01:20,202
-decided that probably a
-technical director career
+decided that probably a technical director career
 
 29
 00:01:20,202 --> 00:01:22,339
@@ -128,13 +116,11 @@ would be best for me, given that I had
 
 30
 00:01:22,339 --> 00:01:26,043
-the technical orientation
-and the art, as well.
+the technical orientation and the art, as well.
 
 31
 00:01:26,043 --> 00:01:30,819
-But the first one I did was
-lighting TD on Geri's Game.
+But the first one I did was lighting TD on Geri's Game.
 
 32
 00:01:30,819 --> 00:01:32,152
@@ -150,8 +136,7 @@ Lighting TDs?
 
 35
 00:01:34,212 --> 00:01:37,646
-So if you can imagine a theater
-and putting up the lights
+So if you can imagine a theater and putting up the lights
 
 36
 00:01:37,646 --> 00:01:38,837
@@ -175,13 +160,11 @@ and what we want to get across,
 
 41
 00:01:47,895 --> 00:01:50,325
-and then make our things
-look pretty, or scary,
+and then make our things look pretty, or scary,
 
 42
 00:01:50,325 --> 00:01:53,867
-or whatever they need to
-be as part of the story.
+or whatever they need to be as part of the story.
 
 43
 00:01:53,867 --> 00:01:57,374
@@ -189,13 +172,11 @@ And then I started working in shading.
 
 44
 00:01:57,374 --> 00:02:01,269
-For shading, I did a lot of
-prop shading, I did set shading,
+For shading, I did a lot of prop shading, I did set shading,
 
 45
 00:02:01,269 --> 00:02:05,145
-and recently I've been doing
-a lot more character shading.
+and recently I've been doing a lot more character shading.
 
 46
 00:02:05,145 --> 00:02:07,485
@@ -207,8 +188,7 @@ for The Good Dinosaur.
 
 48
 00:02:09,300 --> 00:02:13,092
-Shading is basically creating
-the material qualities
+Shading is basically creating the material qualities
 
 49
 00:02:13,092 --> 00:02:14,834
@@ -224,13 +204,11 @@ they're basically just white plastic,
 
 52
 00:02:18,896 --> 00:02:21,139
-and we make them look the way
-that they're supposed to look.
+and we make them look the way that they're supposed to look.
 
 53
 00:02:21,139 --> 00:02:24,718
-So if you have a piece of
-wood, you want to figure out
+So if you have a piece of wood, you want to figure out
 
 54
 00:02:24,718 --> 00:02:27,240
@@ -238,8 +216,7 @@ what kind of pattern you want on the wood,
 
 55
 00:02:27,240 --> 00:02:31,209
-or how does the light
-interact with the material.
+or how does the light interact with the material.
 
 56
 00:02:31,209 --> 00:02:33,200
@@ -251,8 +228,7 @@ if it's reflective, if it feels smooth,
 
 58
 00:02:36,776 --> 00:02:39,656
-or if the light goes into
-the wood a little bit
+or if the light goes into the wood a little bit
 
 59
 00:02:39,656 --> 00:02:41,473
@@ -264,13 +240,11 @@ So there's a lot of math involved
 
 61
 00:02:43,429 --> 00:02:45,839
-into trying to figure
-out that kind of system,
+into trying to figure out that kind of system,
 
 62
 00:02:45,839 --> 00:02:49,367
-and how does the illumination
-interact with the material,
+and how does the illumination interact with the material,
 
 63
 00:02:49,367 --> 00:02:50,859
@@ -290,8 +264,7 @@ of what the object should look like
 
 67
 00:02:56,797 --> 00:02:58,627
-is actually really
-different from what you want
+is actually really different from what you want
 
 68
 00:02:58,627 --> 00:03:00,325
@@ -299,18 +272,15 @@ to put on the screen.
 
 69
 00:03:00,325 --> 00:03:03,966
-Sometimes I'm driving around
-and I'll see a cloud on the sky
+Sometimes I'm driving around and I'll see a cloud on the sky
 
 70
 00:03:03,966 --> 00:03:06,812
-and I'll think to myself,
-if I make that cloud
+and I'll think to myself, if I make that cloud
 
 71
 00:03:06,812 --> 00:03:09,169
-on the computer it will
-look completely wrong,
+on the computer it will look completely wrong,
 
 72
 00:03:09,169 --> 00:03:11,206
@@ -354,8 +324,7 @@ from what we're used to having.
 
 82
 00:03:37,288 --> 00:03:41,097
-Love using new ingredients and
-stuff that I can't pronounce,
+Love using new ingredients and stuff that I can't pronounce,
 
 83
 00:03:41,097 --> 00:03:42,186
@@ -363,8 +332,7 @@ and just go for it.
 
 84
 00:03:44,186 --> 00:03:46,634
-Don't be afraid to say
-you don't know something
+Don't be afraid to say you don't know something
 
 85
 00:03:46,634 --> 00:03:48,330
@@ -380,8 +348,7 @@ because that's the only way we learn.
 
 88
 00:03:52,997 --> 00:03:56,428
-And just keep shooting
-for what you want to be,
+And just keep shooting for what you want to be,
 
 89
 00:03:56,428 --> 00:03:57,849
@@ -393,8 +360,7 @@ That's really what's important
 
 91
 00:04:00,044 --> 00:04:03,387
-because that's what will
-make you happy in the future,
+because that's what will make you happy in the future,
 
 92
 00:04:03,387 --> 00:04:05,000

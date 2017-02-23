@@ -4,8 +4,7 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 2
 00:00:03,335 --> 00:00:05,611
-- The final step to complete
-our particle simulator
+- The final step to complete our particle simulator
 
 3
 00:00:05,611 --> 00:00:06,634
@@ -17,8 +16,7 @@ to track particle motions forward in time.
 
 5
 00:00:09,412 --> 00:00:11,505
-That's how our computer
-program will animate them.
+That's how our computer program will animate them.
 
 6
 00:00:11,505 --> 00:00:13,395
@@ -34,8 +32,7 @@ the equation of motion of each particle,
 
 9
 00:00:16,366 --> 00:00:19,720
-then you can compute the
-velocities and positions from it.
+then you can compute the velocities and positions from it.
 
 10
 00:00:19,720 --> 00:00:21,271
@@ -51,8 +48,7 @@ let's go back to the idea of velocity
 
 13
 00:00:24,382 --> 00:00:28,310
-as the slope of the
-position versus time curve.
+as the slope of the position versus time curve.
 
 14
 00:00:28,310 --> 00:00:29,651
@@ -64,13 +60,11 @@ t one and t two, close together,
 
 16
 00:00:31,751 --> 00:00:34,287
-and let p one be the
-position at time t one
+and let p one be the position at time t one
 
 17
 00:00:34,287 --> 00:00:37,996
-and let p two be the
-position at time t two.
+and let p two be the position at time t two.
 
 18
 00:00:37,996 --> 00:00:39,680
@@ -110,28 +104,23 @@ by the change in time.
 
 27
 00:00:57,266 --> 00:00:59,926
-If we know the position
-and velocity at time t one,
+If we know the position and velocity at time t one,
 
 28
 00:00:59,926 --> 00:01:02,601
-then we can compute the
-position in time t two
+then we can compute the position in time t two
 
 29
 00:01:02,601 --> 00:01:06,811
-by rearranging this
-equation to solve for p two.
+by rearranging this equation to solve for p two.
 
 30
 00:01:06,811 --> 00:01:09,121
-Great. So knowing the
-particle's position and velocity
+Great. So knowing the particle's position and velocity
 
 31
 00:01:09,121 --> 00:01:12,708
-at time t one, we can compute
-the position at time t two
+at time t one, we can compute the position at time t two
 
 32
 00:01:12,708 --> 00:01:14,659
@@ -139,8 +128,7 @@ using this formula.
 
 33
 00:01:15,659 --> 00:01:19,099
-But how do we get the
-velocity at time t two?
+But how do we get the velocity at time t two?
 
 34
 00:01:19,099 --> 00:01:21,733
@@ -148,8 +136,7 @@ Well, if we know the equation of motion,
 
 35
 00:01:21,733 --> 00:01:24,607
-then we can compute the
-acceleration at time t two.
+then we can compute the acceleration at time t two.
 
 36
 00:01:24,607 --> 00:01:26,211
@@ -165,8 +152,7 @@ then the acceleration is constant,
 
 39
 00:01:30,405 --> 00:01:33,156
-and is given by the
-gravitation constant g.
+and is given by the gravitation constant g.
 
 40
 00:01:33,156 --> 00:01:35,120
@@ -174,13 +160,11 @@ We also know that the acceleration
 
 41
 00:01:35,120 --> 00:01:37,752
-is the slope of the
-velocity versus time curve,
+is the slope of the velocity versus time curve,
 
 42
 00:01:37,752 --> 00:01:40,174
-meaning gravity equals
-a change in velocity
+meaning gravity equals a change in velocity
 
 43
 00:01:40,174 --> 00:01:43,480
@@ -212,8 +196,7 @@ Let's do an example.
 
 50
 00:01:55,788 --> 00:01:57,557
-Suppose that at the
-start of the simulation,
+Suppose that at the start of the simulation,
 
 51
 00:01:57,557 --> 00:01:59,894
@@ -221,8 +204,7 @@ we set our time parameter t to 0,
 
 52
 00:01:59,894 --> 00:02:03,242
-our particle is at point p
-one with velocity at v one,
+our particle is at point p one with velocity at v one,
 
 53
 00:02:03,242 --> 00:02:06,015
@@ -238,28 +220,23 @@ at time t equals one half,
 
 56
 00:02:09,569 --> 00:02:12,621
-we use the equation p
-two is equal to v one
+we use the equation p two is equal to v one
 
 57
 00:02:12,621 --> 00:02:16,679
-times the quantity t two
-minus t one plus p one,
+times the quantity t two minus t one plus p one,
 
 58
 00:02:17,679 --> 00:02:21,235
-where t one is equal to zero
-and t two is equal to one half.
+where t one is equal to zero and t two is equal to one half.
 
 59
 00:02:21,235 --> 00:02:25,407
-So, p two is equal to one
-half v one plus p one.
+So, p two is equal to one half v one plus p one.
 
 60
 00:02:26,407 --> 00:02:30,163
-Meaning that p two is halfway
-between v one's tail and head.
+Meaning that p two is halfway between v one's tail and head.
 
 61
 00:02:30,163 --> 00:02:31,444
@@ -271,13 +248,11 @@ we use v two is equal to g
 
 63
 00:02:34,179 --> 00:02:38,794
-times the quantity t two
-minus t one plus v one.
+times the quantity t two minus t one plus v one.
 
 64
 00:02:38,794 --> 00:02:41,990
-G here is the gravitational
-vector which points downward,
+G here is the gravitational vector which points downward,
 
 65
 00:02:41,990 --> 00:02:43,734
@@ -293,8 +268,7 @@ Again, t two minus t one is one half,
 
 68
 00:02:50,088 --> 00:02:53,961
-so v two is equal to
-one half g plus v one.
+so v two is equal to one half g plus v one.
 
 69
 00:02:54,961 --> 00:02:56,270
@@ -310,13 +284,11 @@ using the same formulas.
 
 72
 00:03:00,758 --> 00:03:02,960
-Although this is rather
-tedious to do by hand,
+Although this is rather tedious to do by hand,
 
 73
 00:03:02,960 --> 00:03:05,262
-it is relatively easy to
-write a computer program
+it is relatively easy to write a computer program
 
 74
 00:03:05,262 --> 00:03:07,184
@@ -356,6 +328,5 @@ of these concepts before moving on
 
 83
 00:03:20,229 --> 00:03:24,000
-to create your own amazing
-particle simulations. aimozhen.com/pixarinabox
+to create your own amazing particle simulations. aimozhen.com/pixarinabox
 

@@ -8,13 +8,11 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 3
 00:00:02,169 --> 00:00:05,032
-I used to, like, run
-out of shoe to draw on.
+I used to, like, run out of shoe to draw on.
 
 4
 00:00:05,032 --> 00:00:07,775
-And I would just, like,
-continue drawing up my leg
+And I would just, like, continue drawing up my leg
 
 5
 00:00:07,775 --> 00:00:10,111
@@ -22,8 +20,7 @@ and just, like, just continue drawing.
 
 6
 00:00:10,111 --> 00:00:13,565
-And, you know, my dad
-didn't really want me
+And, you know, my dad didn't really want me
 
 7
 00:00:13,565 --> 00:00:16,186
@@ -31,8 +28,7 @@ to do too much art stuff.
 
 8
 00:00:16,186 --> 00:00:18,666
-He was like, "Oh, maybe
-you should try architecture
+He was like, "Oh, maybe you should try architecture
 
 9
 00:00:18,666 --> 00:00:20,418
@@ -44,8 +40,7 @@ And, I had to, kind of, prove to him
 
 11
 00:00:23,382 --> 00:00:28,950
-that there was money, that I
-could make a living from art.
+that there was money, that I could make a living from art.
 
 12
 00:00:28,950 --> 00:00:31,368
@@ -89,8 +84,7 @@ and it would make a little animation.
 
 22
 00:00:49,700 --> 00:00:52,199
-And I was like, "Oh, what's
-this animation thing?"
+And I was like, "Oh, what's this animation thing?"
 
 23
 00:00:52,199 --> 00:00:54,494
@@ -98,13 +92,11 @@ And then I got more and more curious
 
 24
 00:00:54,494 --> 00:00:57,685
-and then, as my websites
-got fancier and fancier,
+and then, as my websites got fancier and fancier,
 
 25
 00:00:57,685 --> 00:01:00,407
-there was like, "Oh, what if
-I could, like, make a logo
+there was like, "Oh, what if I could, like, make a logo
 
 26
 00:01:00,407 --> 00:01:02,619
@@ -116,13 +108,11 @@ Like, how do I make stuff in 3D?"
 
 28
 00:01:05,626 --> 00:01:09,431
-I went to this thing, called
-the National Portfolio Day,
+I went to this thing, called the National Portfolio Day,
 
 29
 00:01:09,431 --> 00:01:11,340
-which is where all the
-art schools, kind of,
+which is where all the art schools, kind of,
 
 30
 00:01:11,340 --> 00:01:13,251
@@ -134,13 +124,11 @@ And I had some 3D stuff
 
 32
 00:01:14,813 --> 00:01:17,639
-but I didn't really, I was
-just like, "I'm an artist
+but I didn't really, I was just like, "I'm an artist
 
 33
 00:01:17,639 --> 00:01:21,194
-and I happen to have some of
-this stuff in my portfolio."
+and I happen to have some of this stuff in my portfolio."
 
 34
 00:01:21,194 --> 00:01:23,491
@@ -193,8 +181,7 @@ And mine was about a lighthouse keeper
 
 46
 00:01:48,875 --> 00:01:52,714
-that, the mechanism that
-he turns on his light,
+that, the mechanism that he turns on his light,
 
 47
 00:01:52,714 --> 00:01:55,294
@@ -242,8 +229,7 @@ the boat blows his horn.
 
 58
 00:02:18,943 --> 00:02:22,377
-He turns around, sees his dead
-body, and is in crazy shock.
+He turns around, sees his dead body, and is in crazy shock.
 
 59
 00:02:22,377 --> 00:02:24,958
@@ -251,8 +237,7 @@ He needs to snap out of it really quickly
 
 60
 00:02:24,958 --> 00:02:27,069
-because, if he doesn't,
-the boat's gunna crash.
+because, if he doesn't, the boat's gunna crash.
 
 61
 00:02:27,069 --> 00:02:29,670
@@ -260,8 +245,7 @@ And, so, what he realizes is that
 
 62
 00:02:29,670 --> 00:02:34,934
-he can go inside of the lens
-that amplifies the light.
+he can go inside of the lens that amplifies the light.
 
 63
 00:02:34,934 --> 00:02:37,574
@@ -281,8 +265,7 @@ and, sort of, avoids them.
 
 67
 00:02:44,991 --> 00:02:47,224
-But there was, I think,
-some golden nuggets,
+But there was, I think, some golden nuggets,
 
 68
 00:02:47,224 --> 00:02:48,883
@@ -302,8 +285,7 @@ And, when I applied to Pixar,
 
 72
 00:02:56,764 --> 00:02:58,852
-I was applying for a
-different job position
+I was applying for a different job position
 
 73
 00:02:58,852 --> 00:03:02,367
@@ -311,18 +293,15 @@ and I happened to have a little video
 
 74
 00:03:02,367 --> 00:03:05,049
-of my character, kind
-of like, moving around
+of my character, kind of like, moving around
 
 75
 00:03:05,049 --> 00:03:08,037
-and having all these,
-like, facial expressions.
+and having all these, like, facial expressions.
 
 76
 00:03:08,037 --> 00:03:10,738
-And they were like, "We
-want you for rigging."
+And they were like, "We want you for rigging."
 
 77
 00:03:10,738 --> 00:03:12,161
@@ -334,23 +313,19 @@ And I was like, "What's rigging?"
 
 79
 00:03:13,949 --> 00:03:17,767
-And, so, rigging, also
-known as reticulation,
+And, so, rigging, also known as reticulation,
 
 80
 00:03:17,767 --> 00:03:22,279
-is, basically, designing an
-interface of a bunch of, like,
+is, basically, designing an interface of a bunch of, like,
 
 81
 00:03:22,279 --> 00:03:25,468
-knobs that when you,
-like, move them around
+knobs that when you, like, move them around
 
 82
 00:03:25,468 --> 00:03:29,450
-it's, like, moving the character,
-and blinking the eyelid
+it's, like, moving the character, and blinking the eyelid
 
 83
 00:03:29,450 --> 00:03:30,688
@@ -370,8 +345,7 @@ and I love making robots because
 
 87
 00:03:38,491 --> 00:03:42,209
-it's a continuation of
-what I love here at Pixar.
+it's a continuation of what I love here at Pixar.
 
 88
 00:03:42,209 --> 00:03:45,114
@@ -379,8 +353,7 @@ Which is making these characters that,
 
 89
 00:03:45,114 --> 00:03:49,259
-hopefully, in the minds
-of people, they're alive.
+hopefully, in the minds of people, they're alive.
 
 90
 00:03:49,259 --> 00:03:52,592
@@ -388,8 +361,7 @@ And, for me, robotics is just like ,
 
 91
 00:03:52,592 --> 00:03:57,590
-"What if I couldn't make
-characters seem alive
+"What if I couldn't make characters seem alive
 
 92
 00:03:57,590 --> 00:03:59,662
@@ -397,8 +369,7 @@ for just two hours?
 
 93
 00:03:59,662 --> 00:04:03,420
-What if I could just make them
-seem alive for a lot longer?
+What if I could just make them seem alive for a lot longer?
 
 94
 00:04:03,420 --> 00:04:05,573
@@ -410,8 +381,7 @@ And, so, yeah, it's exciting,
 
 96
 00:04:08,539 --> 00:04:12,217
-just, you know, tinkering
-with a bunch of things
+just, you know, tinkering with a bunch of things
 
 97
 00:04:12,217 --> 00:04:13,334
@@ -419,8 +389,7 @@ that I don't know about
 
 98
 00:04:13,334 --> 00:04:16,382
-because it's literally, I
-came from an art background.
+because it's literally, I came from an art background.
 
 99
 00:04:16,382 --> 00:04:19,043
@@ -428,18 +397,15 @@ And, so, it's mechanical engineering,
 
 100
 00:04:19,043 --> 00:04:24,870
-electrical engineering,
-computer science, fabrication.
+electrical engineering, computer science, fabrication.
 
 101
 00:04:25,870 --> 00:04:28,125
-There's so many things
-that I just don't know.
+There's so many things that I just don't know.
 
 102
 00:04:28,125 --> 00:04:30,666
-And, literally, just
-looking on the internet.
+And, literally, just looking on the internet.
 
 103
 00:04:30,666 --> 00:04:33,660
@@ -451,8 +417,7 @@ because I'm such a visual learner.
 
 105
 00:04:35,235 --> 00:04:38,122
-I always, you know,
-search on YouTube first.
+I always, you know, search on YouTube first.
 
 106
 00:04:38,122 --> 00:04:41,697
@@ -460,8 +425,7 @@ For me, like, videos are what help me.
 
 107
 00:04:41,697 --> 00:04:46,077
-And, text, I only resort to text
-when there isn't any video stuff.
+And, text, I only resort to text when there isn't any video stuff.
 
 108
 00:04:48,077 --> 00:04:50,940

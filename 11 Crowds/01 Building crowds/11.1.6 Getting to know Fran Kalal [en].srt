@@ -9,13 +9,11 @@ Come on!
 
 3
 00:00:04,859 --> 00:00:08,039
-So one of the mentors that was
-really important to me in deciding that
+So one of the mentors that was really important to me in deciding that
 
 4
 00:00:08,039 --> 00:00:11,070
-I wanted to go into computer
-graphics was Maria Palazzi.
+I wanted to go into computer graphics was Maria Palazzi.
 
 5
 00:00:11,070 --> 00:00:12,210
@@ -23,8 +21,7 @@ She was the director of
 
 6
 00:00:12,210 --> 00:00:14,290
-the Advanced Computing Center
-for the Arts and Design
+the Advanced Computing Center for the Arts and Design
 
 7
 00:00:14,290 --> 00:00:15,860
@@ -40,23 +37,19 @@ And I talked to her about my interests.
 
 10
 00:00:19,599 --> 00:00:25,050
-And she said, "There's a field where
-you can use your love for art and design,
+And she said, "There's a field where you can use your love for art and design,
 
 11
 00:00:25,050 --> 00:00:29,849
-and your love for science and coding,
-and that field is computer graphics.
+and your love for science and coding, and that field is computer graphics.
 
 12
 00:00:29,849 --> 00:00:32,279
-And she showed me her center
-and walked me around.
+And she showed me her center and walked me around.
 
 13
 00:00:32,279 --> 00:00:35,530
-And I could see all of the cool things
-that the graduate students there were doing.
+And I could see all of the cool things that the graduate students there were doing.
 
 14
 00:00:35,530 --> 00:00:37,480
@@ -65,33 +58,27 @@ And I thought,
 
 15
 00:00:37,480 --> 00:00:39,920
-So this is some of my student work
-that you're looking at.
+So this is some of my student work that you're looking at.
 
 16
 00:00:39,920 --> 00:00:43,890
-One of my favorite things to do with
-my student work was to understand how
+One of my favorite things to do with my student work was to understand how
 
 17
 00:00:43,890 --> 00:00:48,830
-signals could overlap each other to create
-different looks in a shader network.
+signals could overlap each other to create different looks in a shader network.
 
 18
 00:00:48,830 --> 00:00:52,240
-And so this is a lot of me playing
-with shader networks to see,
+And so this is a lot of me playing with shader networks to see,
 
 19
 00:00:52,240 --> 00:00:55,850
-"Gosh, can I change
-a high-frequency fractal,
+"Gosh, can I change a high-frequency fractal,
 
 20
 00:00:55,850 --> 00:00:59,710
-and can that alternate between
-a saturated and a desaturated
+and can that alternate between a saturated and a desaturated
 
 21
 00:00:59,710 --> 00:01:01,030
@@ -99,83 +86,67 @@ version of this texture?"
 
 22
 00:01:01,030 --> 00:01:05,950
-And I thought that that was so cool that
-you could use these relatively simple signals
+And I thought that that was so cool that you could use these relatively simple signals
 
 23
 00:01:05,950 --> 00:01:10,688
-to combine complex texture maps
-and get these interesting looks in the end.
+to combine complex texture maps and get these interesting looks in the end.
 
 24
 00:01:10,688 --> 00:01:13,170
-What I loved about doing
-this work is that every time
+What I loved about doing this work is that every time
 
 25
 00:01:13,170 --> 00:01:15,759
-I would write a piece of code
-or make a connection,
+I would write a piece of code or make a connection,
 
 26
 00:01:15,759 --> 00:01:19,049
-I could see a visual result
-right away from what I was doing.
+I could see a visual result right away from what I was doing.
 
 27
 00:01:19,049 --> 00:01:21,170
-And that's how I loved
-learning how to code –
+And that's how I loved learning how to code –
 
 28
 00:01:21,170 --> 00:01:24,780
-to have this visual result from the work
-that I was doing was so rewarding.
+to have this visual result from the work that I was doing was so rewarding.
 
 29
 00:01:24,780 --> 00:01:26,509
-And for me, I was
-a really active learner.
+And for me, I was a really active learner.
 
 30
 00:01:26,509 --> 00:01:30,950
-And so it was really helpful to see
-a result as soon as I made something.
+And so it was really helpful to see a result as soon as I made something.
 
 31
 00:01:30,950 --> 00:01:32,759
-Another reason I went
-into computer graphics
+Another reason I went into computer graphics
 
 32
 00:01:32,759 --> 00:01:38,369
-instead of live-action film
-is what was happening at the time.
+instead of live-action film is what was happening at the time.
 
 33
 00:01:38,369 --> 00:01:41,479
-I was so inspired
-by the short "Bunny."
+I was so inspired by the short "Bunny."
 
 34
 00:01:41,479 --> 00:01:44,759
-I thought it was one of the most
-beautiful things I'd ever seen.
+I thought it was one of the most beautiful things I'd ever seen.
 
 35
 00:01:44,759 --> 00:01:51,509
-I've always been so moved by bringing
-animals and characters to life.
+I've always been so moved by bringing animals and characters to life.
 
 36
 00:01:51,509 --> 00:01:54,749
-And that's something that
-you can do with puppetry quite well.
+And that's something that you can do with puppetry quite well.
 
 37
 00:01:54,749 --> 00:01:57,770
-But that's something that computer
-graphics does exceptionally well.
+But that's something that computer graphics does exceptionally well.
 
 38
 00:01:57,770 --> 00:02:00,328
@@ -188,13 +159,11 @@ had just come out.
 
 40
 00:02:02,229 --> 00:02:04,869
-And I found out that Pixar
-was going to come visit our campus.
+And I found out that Pixar was going to come visit our campus.
 
 41
 00:02:04,869 --> 00:02:08,508
-And I could not wait to talk to the people
-who made the delicious looking food.
+And I could not wait to talk to the people who made the delicious looking food.
 
 42
 00:02:08,508 --> 00:02:12,650
@@ -203,18 +172,15 @@ And they liked my work.
 
 43
 00:02:12,650 --> 00:02:16,289
-And so they asked if I would come to
-Pixar and do some shading. So I did.
+And so they asked if I would come to Pixar and do some shading. So I did.
 
 44
 00:02:16,289 --> 00:02:21,699
-And my boss was the lady who made the beautiful
-food in "Ratatouille," Athena Xenakis.
+And my boss was the lady who made the beautiful food in "Ratatouille," Athena Xenakis.
 
 45
 00:02:21,699 --> 00:02:24,750
-It was amazing when I showed up
-and got that assignment on the first day.
+It was amazing when I showed up and got that assignment on the first day.
 
 46
 00:02:24,750 --> 00:02:28,560
@@ -223,8 +189,7 @@ I was so excited.
 
 47
 00:02:28,560 --> 00:02:31,239
-And on my resumé, there was
-a line that said "Hobbies."
+And on my resumé, there was a line that said "Hobbies."
 
 48
 00:02:31,239 --> 00:02:33,139
@@ -232,28 +197,23 @@ And in the line that said "Hobbies,"
 
 49
 00:02:33,139 --> 00:02:38,509
-it said, "knitting,
-playing piano, and sewing."
+it said, "knitting, playing piano, and sewing."
 
 50
 00:02:38,509 --> 00:02:40,780
-And one of the supervising
-technical directors looked at that line
+And one of the supervising technical directors looked at that line
 
 51
 00:02:40,780 --> 00:02:45,780
-and said, "Wait. You can understand how to
-use computer programs, and you can sew.
+and said, "Wait. You can understand how to use computer programs, and you can sew.
 
 52
 00:02:45,780 --> 00:02:49,878
-Do you know there are jobs for people
-that do that at Pixar?" And I said "No."
+Do you know there are jobs for people that do that at Pixar?" And I said "No."
 
 53
 00:02:49,878 --> 00:02:52,709
-And he said, "Do you want to
-come and try that?"
+And he said, "Do you want to come and try that?"
 
 54
 00:02:52,709 --> 00:02:56,068
@@ -262,18 +222,15 @@ So they found a spot for me on "Wall-E".
 
 55
 00:02:56,068 --> 00:02:59,180
-We had just gone through getting
-some notes back from an audience preview.
+We had just gone through getting some notes back from an audience preview.
 
 56
 00:02:59,180 --> 00:03:02,060
-And the characters weren't
-a size that made the audience happy.
+And the characters weren't a size that made the audience happy.
 
 57
 00:03:02,060 --> 00:03:05,860
-So we resized some of the characters,
-and they needed their outfits refitted –
+So we resized some of the characters, and they needed their outfits refitted –
 
 58
 00:03:05,860 --> 00:03:07,829
@@ -285,23 +242,19 @@ And then they gave me Ellie.
 
 60
 00:03:09,680 --> 00:03:11,799
-And they asked me
-to dress and tailor Ellie.
+And they asked me to dress and tailor Ellie.
 
 61
 00:03:11,799 --> 00:03:13,750
-And I just could not
-believe my luck.
+And I just could not believe my luck.
 
 62
 00:03:13,750 --> 00:03:17,680
-She is the most amazing
-and wonderful character.
+She is the most amazing and wonderful character.
 
 63
 00:03:17,680 --> 00:03:20,889
-She's outgoing and she's fun
-and she's smart. Ellie went well.
+She's outgoing and she's fun and she's smart. Ellie went well.
 
 64
 00:03:20,889 --> 00:03:23,620
@@ -310,13 +263,11 @@ And I was happy with it too.
 
 65
 00:03:23,620 --> 00:03:27,938
-So, they asked me to work on Merida,
-which was really awesome. And that went well.
+So, they asked me to work on Merida, which was really awesome. And that went well.
 
 66
 00:03:27,938 --> 00:03:33,000
-So then they asked me to work on Disgust
-and Riley and all Riley's mom's clothes,
+So then they asked me to work on Disgust and Riley and all Riley's mom's clothes,
 
 67
 00:03:33,000 --> 00:03:34,280
@@ -324,23 +275,19 @@ which was a lot of fun.
 
 68
 00:03:34,280 --> 00:03:38,139
-And now I'm working on something
-I totally can't talk about on camera.
+And now I'm working on something I totally can't talk about on camera.
 
 69
 00:03:38,139 --> 00:03:40,239
-If this is a field
-that's interesting to you,
+If this is a field that's interesting to you,
 
 70
 00:03:40,239 --> 00:03:42,930
-or if there's any field
-that's interesting to you,
+or if there's any field that's interesting to you,
 
 71
 00:03:42,930 --> 00:03:46,188
-and you look around, and you see
-not a lot of people in that field
+and you look around, and you see not a lot of people in that field
 
 72
 00:03:46,188 --> 00:03:49,818
@@ -349,13 +296,11 @@ You're gonna find your people.
 
 73
 00:03:49,818 --> 00:03:54,299
-Just go into it, get some great mentors,
-make some great friends,
+Just go into it, get some great mentors, make some great friends,
 
 74
 00:03:54,299 --> 00:03:58,109
-and just believe if you want to be there
-bad enough, it's your place.
+and just believe if you want to be there bad enough, it's your place.
 
 75
 00:03:58,109 --> 00:04:04,430

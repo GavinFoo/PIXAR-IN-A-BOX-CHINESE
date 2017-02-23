@@ -12,8 +12,7 @@ Great work!
 
 4
 00:00:04,452 --> 00:00:06,972
-Now we've got all the math we
-need for a computer program
+Now we've got all the math we need for a computer program
 
 5
 00:00:06,972 --> 00:00:09,448
@@ -21,13 +20,11 @@ to draw as many lines as we need
 
 6
 00:00:09,448 --> 00:00:11,683
-to create a good
-approximation to a parabola.
+to create a good approximation to a parabola.
 
 7
 00:00:12,683 --> 00:00:15,376
-Let's return to some of the
-artistic aspects of grass
+Let's return to some of the artistic aspects of grass
 
 8
 00:00:15,376 --> 00:00:17,313
@@ -35,13 +32,11 @@ starting with the width.
 
 9
 00:00:17,313 --> 00:00:20,213
-In this interactive, I
-can move the points around
+In this interactive, I can move the points around
 
 10
 00:00:20,213 --> 00:00:22,785
-and I haven't drawn the
-legs of the control polygon
+and I haven't drawn the legs of the control polygon
 
 11
 00:00:22,785 --> 00:00:25,157
@@ -53,8 +48,7 @@ and, let's see,
 
 13
 00:00:27,348 --> 00:00:29,641
-that kind of shape for the
-spine looks pretty good.
+that kind of shape for the spine looks pretty good.
 
 14
 00:00:30,641 --> 00:00:32,419
@@ -66,23 +60,19 @@ which is to define the width.
 
 16
 00:00:34,446 --> 00:00:37,989
-I'm going to do that using
-something we'll call a Skeleton.
+I'm going to do that using something we'll call a Skeleton.
 
 17
 00:00:37,989 --> 00:00:40,641
-The Skeleton is a set
-of lines, like these,
+The Skeleton is a set of lines, like these,
 
 18
 00:00:40,641 --> 00:00:44,055
-that cut across the blade
-of grass at 90 degree angles
+that cut across the blade of grass at 90 degree angles
 
 19
 00:00:44,055 --> 00:00:46,529
-so here's a Skeleton line,
-here's a Skeleton line
+so here's a Skeleton line, here's a Skeleton line
 
 20
 00:00:46,529 --> 00:00:48,143
@@ -90,8 +80,7 @@ and so on.
 
 21
 00:00:48,143 --> 00:00:51,433
-If I connect all the left
-sides of the Skeleton lines
+If I connect all the left sides of the Skeleton lines
 
 22
 00:00:52,433 --> 00:00:54,611
@@ -103,8 +92,7 @@ I create a region, let me fill that in,
 
 24
 00:00:57,773 --> 00:01:00,901
-and that region looks a lot
-more like a blade of grass.
+and that region looks a lot more like a blade of grass.
 
 25
 00:01:00,901 --> 00:01:04,407
@@ -113,13 +101,11 @@ more like a blade of grass.
 
 26
 00:01:05,407 --> 00:01:08,412
-I can control the width
-using this slider here
+I can control the width using this slider here
 
 27
 00:01:08,412 --> 00:01:11,953
-so that's just adjusting the
-length of those Skeleton lines
+so that's just adjusting the length of those Skeleton lines
 
 28
 00:01:11,953 --> 00:01:14,331

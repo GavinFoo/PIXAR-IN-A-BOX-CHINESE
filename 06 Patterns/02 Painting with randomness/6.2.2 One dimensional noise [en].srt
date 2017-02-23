@@ -12,8 +12,7 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 4
 00:00:04,603 --> 00:00:07,216
-how to create natural
-looking variation digitally.
+how to create natural looking variation digitally.
 
 5
 00:00:07,216 --> 00:00:09,515
@@ -66,8 +65,7 @@ skin and scale details.
 
 17
 00:00:27,508 --> 00:00:30,399
-she's added a pattern
-reference for skin and scales.
+she's added a pattern reference for skin and scales.
 
 18
 00:00:30,399 --> 00:00:31,343
@@ -99,8 +97,7 @@ from dark to bright.
 
 25
 00:00:42,397 --> 00:00:45,039
-has a different pattern
-compared to the scales.
+has a different pattern compared to the scales.
 
 26
 00:00:45,039 --> 00:00:47,941
@@ -132,8 +129,7 @@ Like a paint strip!
 
 33
 00:00:57,825 --> 00:01:00,048
-We can really see the
-variation going on now.
+We can really see the variation going on now.
 
 34
 00:01:00,048 --> 00:01:02,674
@@ -141,8 +137,7 @@ It flows from dark green to light green.
 
 35
 00:01:02,674 --> 00:01:06,218
-- Now our job is to represent
-this mathematically.
+- Now our job is to represent this mathematically.
 
 36
 00:01:06,218 --> 00:01:07,052
@@ -166,13 +161,11 @@ from light to dark green.
 
 41
 00:01:14,825 --> 00:01:18,681
-- [Brunette Woman] Like a
-really long paint strip.
+- [Brunette Woman] Like a really long paint strip.
 
 42
 00:01:18,681 --> 00:01:22,262
-And it's the brightness
-variation we want to express.
+And it's the brightness variation we want to express.
 
 43
 00:01:22,262 --> 00:01:23,214
@@ -185,13 +178,11 @@ as a 2D plot,
 
 45
 00:01:24,797 --> 00:01:27,384
-where the x-axis is the
-position in the color strip
+where the x-axis is the position in the color strip
 
 46
 00:01:27,384 --> 00:01:30,596
-and the y-axis represents
-the color of brightness.
+and the y-axis represents the color of brightness.
 
 47
 00:01:30,596 --> 00:01:31,430
@@ -260,8 +251,7 @@ One problem with this method
 
 63
 00:01:57,641 --> 00:02:01,239
-is that transitions currently
-have a sharp boundary.
+is that transitions currently have a sharp boundary.
 
 64
 00:02:01,239 --> 00:02:02,072
@@ -269,8 +259,7 @@ have a sharp boundary.
 
 65
 00:02:02,072 --> 00:02:03,910
-but we can fix that by smoothing
-this collection of lines
+but we can fix that by smoothing this collection of lines
 
 66
 00:02:03,910 --> 00:02:05,140
@@ -282,8 +271,7 @@ This is done using a subdivide slider.
 
 68
 00:02:07,381 --> 00:02:09,610
-- We covered how the
-subdivision algorithm works
+- We covered how the subdivision algorithm works
 
 69
 00:02:09,610 --> 00:02:11,074
@@ -304,18 +292,15 @@ But all you need to know
 
 73
 00:02:16,218 --> 00:02:19,363
-is that this slider defines
-how much smoothing is done,
+is that this slider defines how much smoothing is done,
 
 74
 00:02:19,363 --> 00:02:22,295
-resulting in these more
-gradual transitions.
+resulting in these more gradual transitions.
 
 75
 00:02:22,295 --> 00:02:24,003
-- [Brunette Woman] By
-manipulating the base color,
+- [Brunette Woman] By manipulating the base color,
 
 76
 00:02:24,003 --> 00:02:26,067
@@ -323,8 +308,7 @@ point positions, and amount of smoothing,
 
 77
 00:02:26,067 --> 00:02:29,052
-we can generate a whole
-range of cool patterns.
+we can generate a whole range of cool patterns.
 
 78
 00:02:29,052 --> 00:02:30,877
@@ -336,8 +320,7 @@ In the next exercise,
 
 80
 00:02:31,955 --> 00:02:33,839
-your job is to match
-different target patterns
+your job is to match different target patterns
 
 81
 00:02:33,839 --> 00:02:35,420
@@ -357,8 +340,7 @@ to define the variation of brightness.
 
 85
 00:02:40,154 --> 00:02:41,836
-we're using the curve
-to control brightness.
+we're using the curve to control brightness.
 
 86
 00:02:41,836 --> 00:02:43,723
@@ -406,8 +388,7 @@ you'll have variation transparency
 
 97
 00:03:00,157 --> 00:03:03,530
-as well as color and iridescence
-and lighting quality,
+as well as color and iridescence and lighting quality,
 
 98
 00:03:03,530 --> 00:03:05,166

@@ -8,8 +8,7 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 3
 00:00:04,724 --> 00:00:07,641
-behave geometrically, let's
-take a look at the algebra
+behave geometrically, let's take a look at the algebra
 
 4
 00:00:07,641 --> 00:00:09,812
@@ -25,8 +24,7 @@ using linear interpolation,
 
 7
 00:00:14,224 --> 00:00:17,890
-that is a weighted average
-on the line segment AB.
+that is a weighted average on the line segment AB.
 
 8
 00:00:17,890 --> 00:00:20,563
@@ -38,8 +36,7 @@ Q = (1-t)A + tB
 
 10
 00:00:25,683 --> 00:00:28,980
-Next we construct a point
-R on the line segment BC,
+Next we construct a point R on the line segment BC,
 
 11
 00:00:28,980 --> 00:00:30,582
@@ -75,13 +72,11 @@ it kinda look like P is degree 1 in t.
 
 19
 00:00:50,353 --> 00:00:52,896
-But the first two
-equations also depend on t.
+But the first two equations also depend on t.
 
 20
 00:00:52,896 --> 00:00:55,938
-So let's substitute the first
-two equations into the third
+So let's substitute the first two equations into the third
 
 21
 00:00:55,938 --> 00:00:58,934
@@ -117,8 +112,7 @@ leads to a degree 2 polynomial.
 
 29
 00:01:23,547 --> 00:01:25,753
-Thar kinda makes sense
-because we did two stages
+Thar kinda makes sense because we did two stages
 
 30
 00:01:25,753 --> 00:01:27,425
@@ -158,8 +152,7 @@ In the second stage, I compute two points,
 
 39
 00:01:45,525 --> 00:01:47,950
-and in the third stage,
-I compute one point.
+and in the third stage, I compute one point.
 
 40
 00:01:47,950 --> 00:01:49,995
@@ -171,8 +164,7 @@ the resulting curve will be degree 3.
 
 42
 00:01:52,456 --> 00:01:57,456
-That means a four-point polygon
-results in a degree 3 curve.
+That means a four-point polygon results in a degree 3 curve.
 
 43
 00:01:57,456 --> 00:01:59,630
@@ -180,8 +172,7 @@ You can generalize deCastlejau's algorithm
 
 44
 00:01:59,630 --> 00:02:04,877
-to start with five, six,
-or any number of points.
+to start with five, six, or any number of points.
 
 45
 00:02:04,877 --> 00:02:07,176
@@ -197,8 +188,7 @@ Pretty neat.
 
 48
 00:02:12,324 --> 00:02:14,726
-And congratulations on
-finishing this lesson.
+And congratulations on finishing this lesson.
 
 49
 00:02:14,726 --> 00:02:16,479
@@ -206,6 +196,5 @@ If you're feeling particularly bold,
 
 50
 00:02:16,479 --> 00:02:20,000
-try your hand at the
-following bonus challenge. aimozhen.com/pixarinabox
+try your hand at the following bonus challenge. aimozhen.com/pixarinabox
 

@@ -16,8 +16,7 @@ we really wanna solve: retracing in 3D.
 
 5
 00:00:09,766 --> 00:00:12,265
-In particular, we'll need
-to retrace flat planes,
+In particular, we'll need to retrace flat planes,
 
 6
 00:00:12,265 --> 00:00:14,372
@@ -29,8 +28,7 @@ A character like Carl is a complex shape
 
 8
 00:00:18,387 --> 00:00:20,805
-but, as we discussed in the
-character modeling lesson,
+but, as we discussed in the character modeling lesson,
 
 9
 00:00:20,805 --> 00:00:22,755
@@ -38,18 +36,15 @@ he can be broken down into lots of small,
 
 10
 00:00:22,755 --> 00:00:26,570
-four-sided quadrilaterals,
-that is, four-sided polygons.
+four-sided quadrilaterals, that is, four-sided polygons.
 
 11
 00:00:27,570 --> 00:00:30,577
-And each quadrilateral can be
-converted into two triangles
+And each quadrilateral can be converted into two triangles
 
 12
 00:00:30,577 --> 00:00:33,665
-by adding an edge that
-connects diagonal points.
+by adding an edge that connects diagonal points.
 
 13
 00:00:33,665 --> 00:00:34,884
@@ -57,13 +52,11 @@ That leads to the question:
 
 14
 00:00:34,884 --> 00:00:37,180
-How do you intersect
-a ray with a triangle?
+How do you intersect a ray with a triangle?
 
 15
 00:00:37,180 --> 00:00:39,070
-It turns out, that that's
-one of the most fundamental
+It turns out, that that's one of the most fundamental
 
 16
 00:00:39,070 --> 00:00:41,544
@@ -71,28 +64,23 @@ calculations that a ray tracer performs.
 
 17
 00:00:42,544 --> 00:00:45,673
-Here's a scene consisting
-of just one triangle.
+Here's a scene consisting of just one triangle.
 
 18
 00:00:45,673 --> 00:00:48,945
-Our real scenes contain
-millions of triangles.
+Our real scenes contain millions of triangles.
 
 19
 00:00:48,945 --> 00:00:51,727
-But, once we know how to
-intersect a single triangle,
+But, once we know how to intersect a single triangle,
 
 20
 00:00:51,727 --> 00:00:55,831
-our ray tracer just keeps doing
-that, over and over again.
+our ray tracer just keeps doing that, over and over again.
 
 21
 00:00:55,831 --> 00:00:57,777
-Now, I don't know about
-you, but I don't wanna do
+Now, I don't know about you, but I don't wanna do
 
 22
 00:00:57,777 --> 00:00:59,488
@@ -100,8 +88,7 @@ the same thing over and over again.
 
 23
 00:00:59,488 --> 00:01:01,561
-So, it's a good thing we
-have computers to help us out
+So, it's a good thing we have computers to help us out
 
 24
 00:01:01,561 --> 00:01:03,061
@@ -109,18 +96,15 @@ and that they don't get tired.
 
 25
 00:01:04,061 --> 00:01:07,858
-As in 2D, we start by setting
-up a coordinate system.
+As in 2D, we start by setting up a coordinate system.
 
 26
 00:01:07,858 --> 00:01:12,343
-But, this time, there are
-three directions: X, Y, and Z.
+But, this time, there are three directions: X, Y, and Z.
 
 27
 00:01:13,343 --> 00:01:16,799
-As we explained earlier,
-we pick a camera position,
+As we explained earlier, we pick a camera position,
 
 28
 00:01:16,799 --> 00:01:19,537
@@ -144,8 +128,7 @@ Let's pick a pixel, P, on the image plane
 
 33
 00:01:32,525 --> 00:01:34,494
-and construct the
-parametric representation
+and construct the parametric representation
 
 34
 00:01:34,494 --> 00:01:39,653
@@ -157,13 +140,11 @@ This is the same equation we saw in 2D,
 
 36
 00:01:47,355 --> 00:01:50,708
-but now it represents
-three separate equations.
+but now it represents three separate equations.
 
 37
 00:01:50,708 --> 00:01:53,855
-One for X coordinates,
-one for Y coordinates,
+One for X coordinates, one for Y coordinates,
 
 38
 00:01:53,855 --> 00:01:55,164
@@ -179,13 +160,11 @@ we saw that, in two dimensions, every line
 
 41
 00:02:02,410 --> 00:02:07,872
-can be written in implicit
-form as ax + by + c = 0.
+can be written in implicit form as ax + by + c = 0.
 
 42
 00:02:10,872 --> 00:02:13,661
-Very similar to this is
-the equation for a plane.
+Very similar to this is the equation for a plane.
 
 43
 00:02:14,661 --> 00:02:16,953
@@ -193,8 +172,7 @@ And every triangle lies in a plane.
 
 44
 00:02:17,953 --> 00:02:21,242
-The equation for a plane can
-be written in implicit form
+The equation for a plane can be written in implicit form
 
 45
 00:02:21,242 --> 00:02:26,443
@@ -202,8 +180,7 @@ as ax + by + cz + d = 0.
 
 46
 00:02:32,443 --> 00:02:35,668
-The intersection point,
-I, we're looking for,
+The intersection point, I, we're looking for,
 
 47
 00:02:35,668 --> 00:02:38,492
@@ -215,18 +192,15 @@ meaning that aIx + bIy + cIz + d = 0,
 
 49
 00:02:49,139 --> 00:02:54,437
-where Ix, Iy, and Iz are
-the coordinates of I.
+where Ix, Iy, and Iz are the coordinates of I.
 
 50
 00:02:55,437 --> 00:02:59,886
-I is also on the ray, meaning
-that there's a value of t,
+I is also on the ray, meaning that there's a value of t,
 
 51
 00:02:59,886 --> 00:03:04,548
-again, let's call it
-t*, such that I = R(t*)
+again, let's call it t*, such that I = R(t*)
 
 52
 00:03:06,548 --> 00:03:11,049
@@ -234,8 +208,7 @@ which equals (1-t*)c + t*P
 
 53
 00:03:13,049 --> 00:03:16,871
-which is really the three
-equations shown here.
+which is really the three equations shown here.
 
 54
 00:03:16,871 --> 00:03:20,809
@@ -243,8 +216,7 @@ One for X, one for Y, and one for Z.
 
 55
 00:03:21,809 --> 00:03:25,648
-Now we have four equations
-and four unknowns.
+Now we have four equations and four unknowns.
 
 56
 00:03:25,648 --> 00:03:27,497
@@ -256,18 +228,15 @@ we can follow the recipe from 2D
 
 58
 00:03:29,691 --> 00:03:33,755
-and substitute the last three
-equations into the first one.
+and substitute the last three equations into the first one.
 
 59
 00:03:33,755 --> 00:03:37,574
-This gives us one equation
-with only one unknown, t*.
+This gives us one equation with only one unknown, t*.
 
 60
 00:03:37,574 --> 00:03:40,337
-But, it turns out, when you
-put all these substitutions in,
+But, it turns out, when you put all these substitutions in,
 
 61
 00:03:40,337 --> 00:03:42,918
@@ -291,8 +260,7 @@ Solve this for t*, then substitute back
 
 66
 00:03:52,751 --> 00:03:57,617
-into the ray equations
-to get Ix, Iy, and Iz.
+into the ray equations to get Ix, Iy, and Iz.
 
 67
 00:03:59,617 --> 00:04:01,143
@@ -300,11 +268,9 @@ Now, I know we've gone kind of fast,
 
 68
 00:04:01,143 --> 00:04:02,911
-but the next exercise
-will let you practice
+but the next exercise will let you practice
 
 69
 00:04:02,911 --> 00:04:05,000
-computing intersection
-points for yourself. aimozhen.com/pixarinabox
+computing intersection points for yourself. aimozhen.com/pixarinabox
 

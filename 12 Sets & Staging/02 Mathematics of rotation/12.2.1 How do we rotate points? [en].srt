@@ -12,8 +12,7 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 4
 00:00:03,243 --> 00:00:05,193
-- In this tutorial, we're
-gonna take a closer look
+- In this tutorial, we're gonna take a closer look
 
 5
 00:00:05,193 --> 00:00:07,143
@@ -21,8 +20,7 @@ at the algebra of rotations.
 
 6
 00:00:07,143 --> 00:00:09,367
-We'll be working with the
-trigonometric functions
+We'll be working with the trigonometric functions
 
 7
 00:00:09,367 --> 00:00:11,601
@@ -30,8 +28,7 @@ known as sine and cosine.
 
 8
 00:00:11,601 --> 00:00:14,898
-Let's start by rotating about
-the origin by an angle theta.
+Let's start by rotating about the origin by an angle theta.
 
 9
 00:00:14,898 --> 00:00:16,384
@@ -39,13 +36,11 @@ The usual convention is that rotating
 
 10
 00:00:16,384 --> 00:00:20,053
-by a positive angle is a
-counterclockwise motion,
+by a positive angle is a counterclockwise motion,
 
 11
 00:00:20,053 --> 00:00:23,838
-and rotating by a negative
-angle is a clockwise motion.
+and rotating by a negative angle is a clockwise motion.
 
 12
 00:00:23,838 --> 00:00:24,859
@@ -53,13 +48,11 @@ We'd like to find a formula
 
 13
 00:00:24,859 --> 00:00:28,062
-that tells us where every
-point x, y goes when rotated.
+that tells us where every point x, y goes when rotated.
 
 14
 00:00:29,062 --> 00:00:31,686
-Let's let x prime, y
-prime be the coordinates
+Let's let x prime, y prime be the coordinates
 
 15
 00:00:31,686 --> 00:00:34,633
@@ -67,8 +60,7 @@ of the point x, y after rotation.
 
 16
 00:00:35,633 --> 00:00:38,117
-We wanna find formulas
-for x prime and y prime,
+We wanna find formulas for x prime and y prime,
 
 17
 00:00:38,117 --> 00:00:40,554
@@ -80,8 +72,7 @@ One such point is really easy.
 
 19
 00:00:43,644 --> 00:00:47,219
-What happens to the point
-zero, zero when rotated?
+What happens to the point zero, zero when rotated?
 
 20
 00:00:47,219 --> 00:00:48,589
@@ -89,8 +80,7 @@ It stays still.
 
 21
 00:00:48,589 --> 00:00:51,790
-So x prime equals zero,
-and y prime equals zero.
+So x prime equals zero, and y prime equals zero.
 
 22
 00:00:53,790 --> 00:00:55,784
@@ -98,18 +88,15 @@ What about the point one, zero?
 
 23
 00:00:57,784 --> 00:01:01,377
-It gets rotated to a point x
-prime, y prime as shown here.
+It gets rotated to a point x prime, y prime as shown here.
 
 24
 00:01:02,377 --> 00:01:05,651
-To determine formulas for x
-prime and y prime in this case,
+To determine formulas for x prime and y prime in this case,
 
 25
 00:01:05,651 --> 00:01:08,040
-drop a perpendicular from x
-prime, y prime to the x axis.
+drop a perpendicular from x prime, y prime to the x axis.
 
 26
 00:01:10,040 --> 00:01:11,758
@@ -137,8 +124,7 @@ the hypotenuse of the triangle, is one,
 
 32
 00:01:23,878 --> 00:01:27,081
-because the point one,
-zero is one unit away
+because the point one, zero is one unit away
 
 33
 00:01:27,081 --> 00:01:28,336
@@ -146,18 +132,15 @@ from the origin.
 
 34
 00:01:28,336 --> 00:01:30,821
-And the lengths don't
-change when you rotate.
+And the lengths don't change when you rotate.
 
 35
 00:01:30,821 --> 00:01:34,280
-Notice too that the magenta
-line is the line opposite theta,
+Notice too that the magenta line is the line opposite theta,
 
 36
 00:01:34,280 --> 00:01:37,622
-and it has length y prime,
-which we don't know just yet.
+and it has length y prime, which we don't know just yet.
 
 37
 00:01:38,622 --> 00:01:40,108
@@ -169,13 +152,11 @@ over the hypotenuse is sine theta.
 
 39
 00:01:42,941 --> 00:01:47,212
-That is, y prime over
-one equals sine theta,
+That is, y prime over one equals sine theta,
 
 40
 00:01:47,212 --> 00:01:51,052
-or in other words, y
-prime equals sine theta.
+or in other words, y prime equals sine theta.
 
 41
 00:01:51,052 --> 00:01:52,925
@@ -187,8 +168,7 @@ prime equals sine theta.
 
 43
 00:01:55,497 --> 00:01:58,266
-Similarly, the orange
-line is adjacent to theta,
+Similarly, the orange line is adjacent to theta,
 
 44
 00:01:58,266 --> 00:01:59,937
@@ -196,13 +176,11 @@ and has length x prime,
 
 45
 00:01:59,937 --> 00:02:02,956
-so if I form the ratio of
-adjacent over hypotenuse,
+so if I form the ratio of adjacent over hypotenuse,
 
 46
 00:02:02,956 --> 00:02:07,088
-I get x prime over one
-equals cosine theta,
+I get x prime over one equals cosine theta,
 
 47
 00:02:07,088 --> 00:02:09,990
@@ -210,8 +188,7 @@ meaning that x prime equals cosine theta.
 
 48
 00:02:10,990 --> 00:02:14,355
-This tells me that the
-point one, zero gets rotated
+This tells me that the point one, zero gets rotated
 
 49
 00:02:14,355 --> 00:02:17,038
@@ -219,6 +196,5 @@ to the point cosine theta, sine theta.
 
 50
 00:02:19,038 --> 00:02:22,000
-Use the next exercise to get
-some practice with these ideas. aimozhen.com/pixarinabox
+Use the next exercise to get some practice with these ideas. aimozhen.com/pixarinabox
 

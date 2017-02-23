@@ -4,8 +4,7 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 2
 00:00:04,623 --> 00:00:06,588
-- Hi, I'm Patrick Lin, the
-director of photography
+- Hi, I'm Patrick Lin, the director of photography
 
 3
 00:00:06,588 --> 00:00:08,225
@@ -13,13 +12,11 @@ for camera on Inside Out.
 
 4
 00:00:08,225 --> 00:00:10,634
-- And I'm Adam Habib,
-camera lead on Inside Out.
+- And I'm Adam Habib, camera lead on Inside Out.
 
 5
 00:00:10,634 --> 00:00:13,310
-This lesson is about cameras,
-the art of using them,
+This lesson is about cameras, the art of using them,
 
 6
 00:00:13,310 --> 00:00:14,750
@@ -35,8 +32,7 @@ because the virtual cameras we use to make
 
 9
 00:00:18,296 --> 00:00:20,909
-our movies are modeled
-after the real thing.
+our movies are modeled after the real thing.
 
 10
 00:00:20,909 --> 00:00:22,511
@@ -44,8 +40,7 @@ after the real thing.
 
 11
 00:00:22,511 --> 00:00:24,624
-The kind of lenses we put
-in front of the camera
+The kind of lenses we put in front of the camera
 
 12
 00:00:24,624 --> 00:00:26,348
@@ -101,13 +96,11 @@ Whoa, we're barely in the shot.
 
 25
 00:00:47,269 --> 00:00:49,922
-Looks like we have moved
-the camera but we haven't.
+Looks like we have moved the camera but we haven't.
 
 26
 00:00:49,922 --> 00:00:52,018
-In fact, to get the
-environment and ourself
+In fact, to get the environment and ourself
 
 27
 00:00:52,018 --> 00:00:53,718
@@ -156,13 +149,11 @@ with this long lens?
 
 38
 00:01:18,121 --> 00:01:19,909
-- [Adam] Now that the
-shot is composed the same,
+- [Adam] Now that the shot is composed the same,
 
 39
 00:01:19,909 --> 00:01:21,697
-you can see what else
-changes about the image
+you can see what else changes about the image
 
 40
 00:01:21,697 --> 00:01:23,276
@@ -170,8 +161,7 @@ because of our lens choice.
 
 41
 00:01:23,276 --> 00:01:26,590
-For instance, notice what
-is in focus or out of focus.
+For instance, notice what is in focus or out of focus.
 
 42
 00:01:26,590 --> 00:01:27,819
@@ -183,13 +173,11 @@ almost everything is in focus
 
 44
 00:01:29,882 --> 00:01:31,771
-and in the picture taken
-with the long lens,
+and in the picture taken with the long lens,
 
 45
 00:01:31,771 --> 00:01:34,415
-only a small part of
-the image is in focus.
+only a small part of the image is in focus.
 
 46
 00:01:34,415 --> 00:01:35,785
@@ -201,8 +189,7 @@ feeling of perspective in the image.
 
 48
 00:01:37,921 --> 00:01:41,188
-This means how close or far
-away the objects appear.
+This means how close or far away the objects appear.
 
 49
 00:01:41,188 --> 00:01:42,408
@@ -234,8 +221,7 @@ there appears to be less distance
 
 56
 00:01:51,673 --> 00:01:53,920
-between the nearer and
-the farther objects.
+between the nearer and the farther objects.
 
 57
 00:01:53,920 --> 00:01:55,766
@@ -255,8 +241,7 @@ that supports the emotion of a story.
 
 61
 00:02:01,815 --> 00:02:03,773
-- Let's go show them how
-it worked on Inside Out.
+- Let's go show them how it worked on Inside Out.
 
 62
 00:02:03,773 --> 00:02:04,833
@@ -264,13 +249,11 @@ it worked on Inside Out.
 
 63
 00:02:04,833 --> 00:02:07,364
-This is the virtual camera
-we use to make our movies.
+This is the virtual camera we use to make our movies.
 
 64
 00:02:07,364 --> 00:02:09,279
-It has interchangeable
-lenses just like the camera
+It has interchangeable lenses just like the camera
 
 65
 00:02:09,279 --> 00:02:10,812
@@ -286,8 +269,7 @@ and the placement of the camera,
 
 68
 00:02:13,703 --> 00:02:15,990
-we should see a similar
-effect on the image.
+we should see a similar effect on the image.
 
 69
 00:02:15,990 --> 00:02:17,324
@@ -295,8 +277,7 @@ effect on the image.
 
 70
 00:02:17,324 --> 00:02:19,449
-that is compositionally
-a lot like our selfie.
+that is compositionally a lot like our selfie.
 
 71
 00:02:19,449 --> 00:02:21,039
@@ -304,23 +285,19 @@ Let's start with that same wide lens
 
 72
 00:02:21,039 --> 00:02:24,122
-we used for the first
-selfie, the 18 millimeter.
+we used for the first selfie, the 18 millimeter.
 
 73
 00:02:24,122 --> 00:02:26,549
-It looks okay, but we
-don't want to choose a lens
+It looks okay, but we don't want to choose a lens
 
 74
 00:02:26,549 --> 00:02:28,627
-just based on what we
-can fit in the frame.
+just based on what we can fit in the frame.
 
 75
 00:02:28,627 --> 00:02:31,472
-We want to ask ourselves,
-what is this scene about?
+We want to ask ourselves, what is this scene about?
 
 76
 00:02:31,472 --> 00:02:33,649
@@ -340,18 +317,15 @@ should be guided by that idea.
 
 80
 00:02:40,346 --> 00:02:42,738
-- [Adam] I think I'll try
-the 50 millimeter lens.
+- [Adam] I think I'll try the 50 millimeter lens.
 
 81
 00:02:42,738 --> 00:02:45,070
-Using this lens, and
-adjusting the depth of field,
+Using this lens, and adjusting the depth of field,
 
 82
 00:02:45,070 --> 00:02:47,782
-which determines what's
-in or out of focus,
+which determines what's in or out of focus,
 
 83
 00:02:47,782 --> 00:02:49,553
@@ -383,8 +357,7 @@ In each case, we thought about how we
 
 90
 00:03:04,958 --> 00:03:07,050
-could use the camera
-to amplify the emotions
+could use the camera to amplify the emotions
 
 91
 00:03:07,050 --> 00:03:10,430

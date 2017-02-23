@@ -20,8 +20,7 @@ in computing points on parabolas,
 
 6
 00:00:06,972 --> 00:00:10,710
-using the formulas that we wrote
-down in the previous video.
+using the formulas that we wrote down in the previous video.
 
 7
 00:00:10,710 --> 00:00:12,985
@@ -29,8 +28,7 @@ These formulas are based on the hypothesis
 
 8
 00:00:12,985 --> 00:00:15,702
-that all of these ratios
-are in the same proportion,
+that all of these ratios are in the same proportion,
 
 9
 00:00:15,702 --> 00:00:18,582
@@ -74,8 +72,7 @@ As I wiggle t back and forth,
 
 19
 00:00:34,766 --> 00:00:37,157
-the string art line
-wiggles back and forth.
+the string art line wiggles back and forth.
 
 20
 00:00:37,157 --> 00:00:38,457
@@ -95,8 +92,7 @@ but it's the simplest method I know.
 
 24
 00:00:45,190 --> 00:00:48,557
-And what I'm gonna do is
-introduce another string art line,
+And what I'm gonna do is introduce another string art line,
 
 25
 00:00:48,557 --> 00:00:51,645
@@ -104,13 +100,11 @@ this one controlled by a parameter s.
 
 26
 00:00:51,645 --> 00:00:54,525
-And what I'm gonna do is I'm
-gonna write down an expression
+And what I'm gonna do is I'm gonna write down an expression
 
 27
 00:00:54,525 --> 00:00:57,798
-for this intersection point
-here, this green point.
+for this intersection point here, this green point.
 
 28
 00:00:57,798 --> 00:00:59,656
@@ -130,13 +124,11 @@ So as I make s closer and closer to t,
 
 32
 00:01:06,947 --> 00:01:09,733
-watch what happens to
-this intersection point.
+watch what happens to this intersection point.
 
 33
 00:01:09,733 --> 00:01:13,542
-OK, it moves, and it gets closer
-and closer to the parabola,
+OK, it moves, and it gets closer and closer to the parabola,
 
 34
 00:01:13,542 --> 00:01:16,653
@@ -144,8 +136,7 @@ and exactly when s equals t,
 
 35
 00:01:16,653 --> 00:01:19,973
-that intersection point lies
-exactly on the parabola.
+that intersection point lies exactly on the parabola.
 
 36
 00:01:19,973 --> 00:01:21,529
@@ -157,13 +148,11 @@ for where that intersection point is,
 
 38
 00:01:24,082 --> 00:01:27,380
-I can compute exactly where
-the touching point occurs.
+I can compute exactly where the touching point occurs.
 
 39
 00:01:27,380 --> 00:01:29,724
-This is probably a good time
-to pause and let you experiment
+This is probably a good time to pause and let you experiment
 
 40
 00:01:29,724 --> 00:01:32,256

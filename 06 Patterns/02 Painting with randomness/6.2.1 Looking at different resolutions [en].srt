@@ -8,28 +8,23 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 3
 00:00:04,996 --> 00:00:07,848
-on the geometry of
-dinosaur skins and scales.
+on the geometry of dinosaur skins and scales.
 
 4
 00:00:07,848 --> 00:00:09,275
-- (Blonde Woman) And we
-used voronoi diagrams
+- (Blonde Woman) And we used voronoi diagrams
 
 5
 00:00:09,275 --> 00:00:11,391
-to get the overall structure
-we were looking for.
+to get the overall structure we were looking for.
 
 6
 00:00:11,391 --> 00:00:12,423
-- (Brunette Woman) But
-we simplified a shading
+- (Brunette Woman) But we simplified a shading
 
 7
 00:00:12,423 --> 00:00:16,659
-of our skin using only two
-solid colors with no texture.
+of our skin using only two solid colors with no texture.
 
 8
 00:00:16,659 --> 00:00:17,678
@@ -41,8 +36,7 @@ wasn't very realistic.
 
 10
 00:00:19,062 --> 00:00:21,710
-We ignored the finer details
-we see in actual skin.
+We ignored the finer details we see in actual skin.
 
 11
 00:00:21,710 --> 00:00:22,932
@@ -54,8 +48,7 @@ do you see one color?
 
 13
 00:00:23,952 --> 00:00:27,006
-- No, I see a subtle variation
-in color and texture.
+- No, I see a subtle variation in color and texture.
 
 14
 00:00:27,006 --> 00:00:27,006
@@ -67,13 +60,11 @@ becomes really clear when we look
 
 16
 00:00:28,923 --> 00:00:32,100
-at things under different
-magnifications or resolutions.
+at things under different magnifications or resolutions.
 
 17
 00:00:32,100 --> 00:00:35,446
-Here's an image of human skin
-at a very high resolution.
+Here's an image of human skin at a very high resolution.
 
 18
 00:00:35,446 --> 00:00:36,625
@@ -81,13 +72,11 @@ at a very high resolution.
 
 19
 00:00:36,625 --> 00:00:39,600
-a whole new world of
-texture and color variation.
+a whole new world of texture and color variation.
 
 20
 00:00:39,600 --> 00:00:42,773
-There's nothing smooth
-or solid about this.
+There's nothing smooth or solid about this.
 
 21
 00:00:42,773 --> 00:00:44,072
@@ -95,8 +84,7 @@ or solid about this.
 
 22
 00:00:44,072 --> 00:00:46,639
-different patterns at
-different resolutions,
+different patterns at different resolutions,
 
 23
 00:00:46,639 --> 00:00:48,270
@@ -108,8 +96,7 @@ a multiresolution structure.
 
 25
 00:00:50,467 --> 00:00:52,217
-- (Brunette Woman) Let's
-do another example of this.
+- (Brunette Woman) Let's do another example of this.
 
 26
 00:00:52,217 --> 00:00:53,601
@@ -129,13 +116,11 @@ Here's what we see at low resolution.
 
 30
 00:01:00,033 --> 00:01:03,332
-The skin looks very bumpy
-and the color's interesting.
+The skin looks very bumpy and the color's interesting.
 
 31
 00:01:03,332 --> 00:01:04,596
-- (Brunette Woman) Notice
-the checkerboard pattern
+- (Brunette Woman) Notice the checkerboard pattern
 
 32
 00:01:04,596 --> 00:01:07,042
@@ -147,8 +132,7 @@ the color looks fairly solid.
 
 34
 00:01:09,406 --> 00:01:11,523
-- (Blonde Woman) Let's zoom
-in to a higher resolution.
+- (Blonde Woman) Let's zoom in to a higher resolution.
 
 35
 00:01:11,523 --> 00:01:13,348
@@ -160,8 +144,7 @@ which look quite smooth and rounded.
 
 37
 00:01:15,996 --> 00:01:17,218
-- (Brunette Woman) And
-notice there's much more
+- (Brunette Woman) And notice there's much more
 
 38
 00:01:17,218 --> 00:01:19,619
@@ -173,8 +156,7 @@ It looks like a speckling of color
 
 40
 00:01:21,370 --> 00:01:25,073
-due to natural pigmentation
-as well as dirt.
+due to natural pigmentation as well as dirt.
 
 41
 00:01:25,073 --> 00:01:25,073
@@ -190,13 +172,11 @@ At this low resolution it looks like
 
 44
 00:01:29,351 --> 00:01:32,412
-a collection of solid
-white and black scales.
+a collection of solid white and black scales.
 
 45
 00:01:32,412 --> 00:01:33,796
-- (Brunette Woman) But
-at higher resolutions
+- (Brunette Woman) But at higher resolutions
 
 46
 00:01:33,796 --> 00:01:36,694
@@ -232,8 +212,7 @@ things get (laughs) really crazy.
 
 54
 00:01:48,926 --> 00:01:52,551
-It seems like the closer
-you look, the more you find.
+It seems like the closer you look, the more you find.
 
 55
 00:01:52,551 --> 00:01:54,013
@@ -269,38 +248,31 @@ for a moment and get you comfortable
 
 63
 00:02:05,108 --> 00:02:07,837
-look at the world at
-different resolutions.
+look at the world at different resolutions.
 
 64
 00:02:07,837 --> 00:02:09,674
-- In the next exercise,
-we'll challenge you
+- In the next exercise, we'll challenge you
 
 65
 00:02:09,674 --> 00:02:12,279
-to identify surfaces at
-different resolutions.
+to identify surfaces at different resolutions.
 
 66
 00:02:12,279 --> 00:02:14,886
-And remember, things aren't
-always what they seem.
+And remember, things aren't always what they seem.
 
 67
 00:02:14,886 --> 00:02:17,122
-What's your favorite example
-of something you worked
+What's your favorite example of something you worked
 
 68
 00:02:17,122 --> 00:02:19,113
-on that had a really
-interesting mix of patterns?
+on that had a really interesting mix of patterns?
 
 69
 00:02:19,113 --> 00:02:21,062
-- For The Good Dinosaur,
-on the pterodactyls,
+- For The Good Dinosaur, on the pterodactyls,
 
 70
 00:02:21,062 --> 00:02:22,687
@@ -324,8 +296,7 @@ and then the neck we used almost like a
 
 75
 00:02:31,527 --> 00:02:35,842
-dried lava texture to give
-that feeling of wrinkles.
+dried lava texture to give that feeling of wrinkles.
 
 76
 00:02:35,842 --> 00:02:39,061
@@ -337,8 +308,7 @@ so it would be kind of softer.
 
 78
 00:02:41,016 --> 00:02:45,494
-And then the body was more
-like a dry skin feeling,
+And then the body was more like a dry skin feeling,
 
 79
 00:02:45,494 --> 00:02:47,768

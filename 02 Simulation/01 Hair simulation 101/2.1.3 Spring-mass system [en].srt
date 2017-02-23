@@ -8,23 +8,19 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 3
 00:00:02,883 --> 00:00:05,428
-- In the last exercise
-you probably noticed
+- In the last exercise you probably noticed
 
 4
 00:00:05,428 --> 00:00:08,780
-that the simulation lacked the
-natural bounciness of hair.
+that the simulation lacked the natural bounciness of hair.
 
 5
 00:00:08,780 --> 00:00:11,678
-But what makes something
-look bouncy anyway?
+But what makes something look bouncy anyway?
 
 6
 00:00:11,678 --> 00:00:14,978
-To make this model bouncy,
-we need each strand of hair
+To make this model bouncy, we need each strand of hair
 
 7
 00:00:14,978 --> 00:00:16,804
@@ -36,8 +32,7 @@ when forces are applied to them.
 
 9
 00:00:18,611 --> 00:00:21,860
-This required a new physical
-analogy to base our model on,
+This required a new physical analogy to base our model on,
 
 10
 00:00:21,860 --> 00:00:23,500
@@ -45,8 +40,7 @@ so we tried springs.
 
 11
 00:00:23,500 --> 00:00:25,877
-Springs are great because
-they can change length
+Springs are great because they can change length
 
 12
 00:00:25,877 --> 00:00:27,259
@@ -54,13 +48,11 @@ when you pull on them,
 
 13
 00:00:27,259 --> 00:00:28,986
-and to give the hair a
-little bit of weight,
+and to give the hair a little bit of weight,
 
 14
 00:00:28,986 --> 00:00:31,999
-we add a small weight to
-the end of the spring.
+we add a small weight to the end of the spring.
 
 15
 00:00:31,999 --> 00:00:34,460
@@ -72,13 +64,11 @@ We can actually draw a mathematical model
 
 17
 00:00:36,781 --> 00:00:41,161
-to explain what happens when a
-spring expands and contracts.
+to explain what happens when a spring expands and contracts.
 
 18
 00:00:41,161 --> 00:00:44,647
-The model we use is based on a
-law developed by Robert Hooke
+The model we use is based on a law developed by Robert Hooke
 
 19
 00:00:44,647 --> 00:00:46,961
@@ -86,8 +76,7 @@ a 17th century physicist.
 
 20
 00:00:46,961 --> 00:00:49,343
-Hooke noticed that there
-are two things to consider
+Hooke noticed that there are two things to consider
 
 21
 00:00:49,343 --> 00:00:51,903
@@ -95,18 +84,15 @@ when a spring expands and contracts.
 
 22
 00:00:51,903 --> 00:00:55,173
-One, if we pull on a
-spring and it expands,
+One, if we pull on a spring and it expands,
 
 23
 00:00:55,173 --> 00:00:58,875
-we will increase its length
-and it will pull back together.
+we will increase its length and it will pull back together.
 
 24
 00:00:58,875 --> 00:01:02,541
-Two, if the spring contracts,
-its length will decrease
+Two, if the spring contracts, its length will decrease
 
 25
 00:01:02,541 --> 00:01:04,292
@@ -130,18 +116,15 @@ between the spring force
 
 30
 00:01:12,503 --> 00:01:15,520
-in the amount the spring
-contracts or expands.
+in the amount the spring contracts or expands.
 
 31
 00:01:15,520 --> 00:01:18,735
-We call this change in
-length displacement.
+We call this change in length displacement.
 
 32
 00:01:18,735 --> 00:01:21,429
-Displacement is defined
-as the current length
+Displacement is defined as the current length
 
 33
 00:01:21,429 --> 00:01:23,749
@@ -149,13 +132,11 @@ minus the rest length of the spring.
 
 34
 00:01:23,749 --> 00:01:27,520
-When we stretch a spring,
-the displacement is positive
+When we stretch a spring, the displacement is positive
 
 35
 00:01:27,520 --> 00:01:30,046
-and the resulting spring
-force is negative.
+and the resulting spring force is negative.
 
 36
 00:01:30,046 --> 00:01:32,775
@@ -163,13 +144,11 @@ This is known as the pull force.
 
 37
 00:01:32,775 --> 00:01:36,027
-When we compress a spring,
-the displacement is negative
+When we compress a spring, the displacement is negative
 
 38
 00:01:36,027 --> 00:01:38,382
-and the resulting spring
-force is positive.
+and the resulting spring force is positive.
 
 39
 00:01:38,382 --> 00:01:40,392
@@ -189,8 +168,7 @@ results in a larger force,
 
 43
 00:01:47,730 --> 00:01:51,681
-while a smaller displacement
-results in a smaller force.
+while a smaller displacement results in a smaller force.
 
 44
 00:01:51,681 --> 00:01:53,881
@@ -214,13 +192,11 @@ and some are really easy to displace.
 
 49
 00:02:03,616 --> 00:02:07,084
-So Robert Hooke introduced
-the idea of stiffness
+So Robert Hooke introduced the idea of stiffness
 
 50
 00:02:07,084 --> 00:02:10,398
-to account for how hard it is
-to displace a given spring.
+to account for how hard it is to displace a given spring.
 
 51
 00:02:10,398 --> 00:02:12,698
@@ -244,8 +220,7 @@ to a stiffness times the displacement.
 
 56
 00:02:20,972 --> 00:02:23,107
-Notice that there is
-a negative sign there,
+Notice that there is a negative sign there,
 
 57
 00:02:23,107 --> 00:02:25,343
@@ -277,8 +252,7 @@ using a mass spring system
 
 64
 00:02:38,507 --> 00:02:41,318
-similar to what we are
-describing in this tutorial,
+similar to what we are describing in this tutorial,
 
 65
 00:02:41,318 --> 00:02:44,541
@@ -294,8 +268,7 @@ a simple mass spring system.
 
 68
 00:02:49,163 --> 00:02:51,817
-You'll be able to adjust
-the following parameters,
+You'll be able to adjust the following parameters,
 
 69
 00:02:51,817 --> 00:02:54,823
@@ -311,6 +284,5 @@ and we'll ask you some challenge questions
 
 72
 00:02:58,715 --> 00:03:02,000
-to make sure you understand
-the basics of Hooke's Law. aimozhen.com/pixarinabox
+to make sure you understand the basics of Hooke's Law. aimozhen.com/pixarinabox
 

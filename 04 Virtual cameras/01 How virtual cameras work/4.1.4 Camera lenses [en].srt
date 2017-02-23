@@ -8,8 +8,7 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 3
 00:00:04,735 --> 00:00:07,309
-a very bright image
-with our pinhole camera,
+a very bright image with our pinhole camera,
 
 4
 00:00:07,309 --> 00:00:10,081
@@ -37,8 +36,7 @@ Here's an example.
 
 10
 00:00:19,740 --> 00:00:21,889
-The light rays are
-coming in from the right
+The light rays are coming in from the right
 
 11
 00:00:21,889 --> 00:00:23,745
@@ -46,8 +44,7 @@ and they're just about parallel,
 
 12
 00:00:23,745 --> 00:00:26,181
-like they're coming from
-an object like the sun
+like they're coming from an object like the sun
 
 13
 00:00:26,181 --> 00:00:28,393
@@ -75,8 +72,7 @@ we need to aim all of these light rays
 
 19
 00:00:39,218 --> 00:00:42,827
-onto a tiny point without
-discarding any of them.
+onto a tiny point without discarding any of them.
 
 20
 00:00:42,827 --> 00:00:44,674
@@ -84,8 +80,7 @@ We want to bend them.
 
 21
 00:00:44,674 --> 00:00:46,914
-And what do we use when
-we want to bend light?
+And what do we use when we want to bend light?
 
 22
 00:00:46,914 --> 00:00:47,900
@@ -97,13 +92,11 @@ If we add a lens to our camera,
 
 24
 00:00:49,734 --> 00:00:53,302
-it will cause our light
-rays to converge like this.
+it will cause our light rays to converge like this.
 
 25
 00:00:53,302 --> 00:00:55,278
-The point where these
-parallel light rays converge
+The point where these parallel light rays converge
 
 26
 00:00:55,278 --> 00:00:57,314
@@ -111,13 +104,11 @@ is known as the Focal Point.
 
 27
 00:00:57,314 --> 00:00:59,767
-It turns out that the shape
-or curvature of the lens
+It turns out that the shape or curvature of the lens
 
 28
 00:00:59,767 --> 00:01:02,970
-determines how sharply
-the light rays are bent.
+determines how sharply the light rays are bent.
 
 29
 00:01:02,970 --> 00:01:05,398
@@ -209,8 +200,7 @@ has a focal length of 28 millimeters
 
 51
 00:01:46,556 --> 00:01:49,607
-and produces an image
-with a wide field of view.
+and produces an image with a wide field of view.
 
 52
 00:01:49,607 --> 00:01:51,303
@@ -238,8 +228,7 @@ has a focal length of 120 millimeters.
 
 58
 00:02:01,965 --> 00:02:05,136
-So we'll capture less
-of the scene, like this.
+So we'll capture less of the scene, like this.
 
 59
 00:02:05,136 --> 00:02:06,523
@@ -255,8 +244,7 @@ gives us this natural-looking perspective.
 
 62
 00:02:11,236 --> 00:02:14,148
-For any given lens, the
-film or light sensor
+For any given lens, the film or light sensor
 
 63
 00:02:14,148 --> 00:02:15,371
@@ -296,8 +284,7 @@ Some cameras, like this one,
 
 72
 00:02:32,273 --> 00:02:35,304
-allow you to set the
-aperture using this ring.
+allow you to set the aperture using this ring.
 
 73
 00:02:35,304 --> 00:02:36,307
@@ -385,8 +372,7 @@ Let's stop here so you can get
 
 94
 00:03:17,646 --> 00:03:21,407
-some practice with it
-in the next exercise.
+some practice with it in the next exercise.
 
 95
 00:03:23,407 --> 00:03:25,380

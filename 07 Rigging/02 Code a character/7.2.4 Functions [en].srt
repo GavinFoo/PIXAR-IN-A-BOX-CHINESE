@@ -4,13 +4,11 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 2
 00:00:03,295 --> 00:00:06,538
-- Alright, you finally have a
-snowman to start working with.
+- Alright, you finally have a snowman to start working with.
 
 3
 00:00:06,538 --> 00:00:09,930
-Now we can get to the real
-guts of the rigging software.
+Now we can get to the real guts of the rigging software.
 
 4
 00:00:09,930 --> 00:00:11,748
@@ -26,13 +24,11 @@ To allow you to move your shapes around.
 
 7
 00:00:15,889 --> 00:00:19,919
-And this is where
-functions come into play.
+And this is where functions come into play.
 
 8
 00:00:22,919 --> 00:00:27,143
-Remember, functions package
-a series of operations
+Remember, functions package a series of operations
 
 9
 00:00:27,143 --> 00:00:30,001
@@ -48,8 +44,7 @@ a set of operations on.
 
 12
 00:00:34,504 --> 00:00:37,339
-Now, to build any deformer,
-we'll need a function
+Now, to build any deformer, we'll need a function
 
 13
 00:00:37,339 --> 00:00:39,389
@@ -57,8 +52,7 @@ which intercepts two inputs.
 
 14
 00:00:39,389 --> 00:00:42,067
-First they must intercept
-a pair of coordinates
+First they must intercept a pair of coordinates
 
 15
 00:00:42,067 --> 00:00:44,078
@@ -70,8 +64,7 @@ And lay a set of value
 
 17
 00:00:45,609 --> 00:00:49,502
-which is a magnitude of
-transformation you want to apply.
+which is a magnitude of transformation you want to apply.
 
 18
 00:00:49,502 --> 00:00:51,816
@@ -83,8 +76,7 @@ might intercept a coordinate 2,2.
 
 20
 00:00:54,957 --> 00:00:59,701
-And for the 2nd input would
-provide a value of say five.
+And for the 2nd input would provide a value of say five.
 
 21
 00:00:59,701 --> 00:01:01,802
@@ -120,8 +112,7 @@ For example, a hat has eight.
 
 29
 00:01:18,119 --> 00:01:20,581
-That means its function
-is run eight times.
+That means its function is run eight times.
 
 30
 00:01:20,581 --> 00:01:22,371
@@ -129,8 +120,7 @@ Once for each vertex.
 
 31
 00:01:23,371 --> 00:01:26,212
-Order of the deformer
-functions transform vertices
+Order of the deformer functions transform vertices
 
 32
 00:01:26,212 --> 00:01:28,166
@@ -138,8 +128,7 @@ using equations.
 
 33
 00:01:28,166 --> 00:01:30,631
-And the transformation depends
-on the types of equations
+And the transformation depends on the types of equations
 
 34
 00:01:30,631 --> 00:01:32,334
@@ -147,8 +136,7 @@ used in your functions.
 
 35
 00:01:32,334 --> 00:01:35,563
-The equations used for scaling,
-rotate, and translation
+The equations used for scaling, rotate, and translation
 
 36
 00:01:35,563 --> 00:01:37,565
@@ -168,13 +156,11 @@ In the next code review,
 
 40
 00:01:46,541 --> 00:01:49,529
-we'll give you an example of
-writing a translation function
+we'll give you an example of writing a translation function
 
 41
 00:01:49,529 --> 00:01:52,209
-and then in the exercise,
-we'll allow you to write
+and then in the exercise, we'll allow you to write
 
 42
 00:01:52,209 --> 00:01:54,619

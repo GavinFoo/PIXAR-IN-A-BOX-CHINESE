@@ -12,8 +12,7 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 4
 00:00:04,253 --> 00:00:07,344
-I loved playing outside,
-but more academically,
+I loved playing outside, but more academically,
 
 5
 00:00:07,344 --> 00:00:09,051
@@ -25,8 +24,7 @@ One year for Christmas, my mom and dad
 
 7
 00:00:10,811 --> 00:00:14,112
-got me a chemistry set
-and I went wild with it.
+got me a chemistry set and I went wild with it.
 
 8
 00:00:14,112 --> 00:00:16,109
@@ -34,13 +32,11 @@ I almost lit the house on fire.
 
 9
 00:00:18,109 --> 00:00:20,317
-My first film here at
-Pixar was Partly Cloudy.
+My first film here at Pixar was Partly Cloudy.
 
 10
 00:00:20,317 --> 00:00:23,324
-It was a short film,
-directed by Pete Sohn.
+It was a short film, directed by Pete Sohn.
 
 11
 00:00:23,324 --> 00:00:24,693
@@ -48,18 +44,15 @@ The cloud characters were originally
 
 12
 00:00:24,693 --> 00:00:27,485
-hard surface characters,
-but we used particles
+hard surface characters, but we used particles
 
 13
 00:00:27,485 --> 00:00:30,077
-to turn them in to
-fluffy cloud characters.
+to turn them in to fluffy cloud characters.
 
 14
 00:00:30,077 --> 00:00:32,017
-The thing I like most about
-being an effects artist
+The thing I like most about being an effects artist
 
 15
 00:00:32,017 --> 00:00:33,103
@@ -67,8 +60,7 @@ is the variety.
 
 16
 00:00:33,103 --> 00:00:36,990
-I get to do water, fire,
-fireworks, smoke, dust.
+I get to do water, fire, fireworks, smoke, dust.
 
 17
 00:00:36,990 --> 00:00:38,392
@@ -84,8 +76,7 @@ We split up the work into various shots,
 
 20
 00:00:43,100 --> 00:00:45,449
-but we're always looking
-at each other's work,
+but we're always looking at each other's work,
 
 21
 00:00:45,449 --> 00:00:48,051
@@ -113,13 +104,11 @@ amongst the entire team.
 
 27
 00:00:57,220 --> 00:01:00,137
-In effects, we usually deal
-with big hard problems.
+In effects, we usually deal with big hard problems.
 
 28
 00:01:00,137 --> 00:01:03,206
-We almost always get it
-wrong the first time,
+We almost always get it wrong the first time,
 
 29
 00:01:03,206 --> 00:01:05,395
@@ -147,8 +136,7 @@ before I got it right.
 
 35
 00:01:15,913 --> 00:01:18,866
-And even then it maybe
-needed a few more iterations
+And even then it maybe needed a few more iterations
 
 36
 00:01:18,866 --> 00:01:20,000

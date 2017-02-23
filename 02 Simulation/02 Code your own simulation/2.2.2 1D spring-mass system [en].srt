@@ -12,23 +12,19 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 4
 00:00:03,162 --> 00:00:06,851
-- Great work. Now it's time to
-throw a spring into the mix.
+- Great work. Now it's time to throw a spring into the mix.
 
 5
 00:00:06,851 --> 00:00:09,228
-Let's imagine we connect
-one end of a spring to our
+Let's imagine we connect one end of a spring to our
 
 6
 00:00:09,228 --> 00:00:13,890
-particle, and the other end
-to an anchor point, like this.
+particle, and the other end to an anchor point, like this.
 
 7
 00:00:13,890 --> 00:00:16,097
-The particle is being
-pulled down by gravity
+The particle is being pulled down by gravity
 
 8
 00:00:16,097 --> 00:00:17,985
@@ -36,8 +32,7 @@ causing the string to stretch out.
 
 9
 00:00:17,985 --> 00:00:21,140
-When springs are displaced,
-they try to pull back together
+When springs are displaced, they try to pull back together
 
 10
 00:00:21,140 --> 00:00:23,929
@@ -45,23 +40,19 @@ and this is known as a spring force.
 
 11
 00:00:23,929 --> 00:00:26,709
-In lesson one we saw the
-strength of this spring force
+In lesson one we saw the strength of this spring force
 
 12
 00:00:26,709 --> 00:00:30,067
-depends on the displacement and
-the stiffness of the spring.
+depends on the displacement and the stiffness of the spring.
 
 13
 00:00:30,067 --> 00:00:32,472
-And we can express the
-stiffness of a spring
+And we can express the stiffness of a spring
 
 14
 00:00:32,472 --> 00:00:35,713
-with a variable K, called
-the spring constant.
+with a variable K, called the spring constant.
 
 15
 00:00:35,713 --> 00:00:37,530
@@ -69,18 +60,15 @@ This is known as Hooke's Law.
 
 16
 00:00:37,530 --> 00:00:42,328
-Spring force equals negative
-K times displacement.
+Spring force equals negative K times displacement.
 
 17
 00:00:42,328 --> 00:00:46,221
-Now let's modify our program
-to include this new spring.
+Now let's modify our program to include this new spring.
 
 18
 00:00:46,221 --> 00:00:48,840
-First, I'll add new variables
-for the anchor position
+First, I'll add new variables for the anchor position
 
 19
 00:00:48,840 --> 00:00:51,345
@@ -88,8 +76,7 @@ of the spring to the initial settings.
 
 20
 00:00:51,345 --> 00:00:54,739
-One for the X coordinate and
-one for the Y coordinate.
+One for the X coordinate and one for the Y coordinate.
 
 21
 00:00:54,739 --> 00:00:57,393
@@ -97,13 +84,11 @@ I'll call these anchor X and anchor Y.
 
 22
 00:00:57,393 --> 00:01:00,962
-I'll set these so the anchor
-is in the middle of the screen.
+I'll set these so the anchor is in the middle of the screen.
 
 23
 00:01:00,962 --> 00:01:02,918
-There is another initial
-setting to consider
+There is another initial setting to consider
 
 24
 00:01:02,918 --> 00:01:04,552
@@ -115,8 +100,7 @@ It expresses how stiff the spring is.
 
 26
 00:01:07,371 --> 00:01:11,372
-Let's call this K, I'll
-give it a value, say, seven.
+Let's call this K, I'll give it a value, say, seven.
 
 27
 00:01:11,372 --> 00:01:12,926
@@ -128,8 +112,7 @@ and add the spring force.
 
 29
 00:01:15,057 --> 00:01:18,581
-I'm going to define a new
-variable called spring force Y
+I'm going to define a new variable called spring force Y
 
 30
 00:01:18,581 --> 00:01:21,611
@@ -137,8 +120,7 @@ to represent the vertical spring forces.
 
 31
 00:01:21,611 --> 00:01:24,584
-From Hooke's Law, we know
-this will be spring force Y
+From Hooke's Law, we know this will be spring force Y
 
 32
 00:01:24,584 --> 00:01:27,324
@@ -146,8 +128,7 @@ equals negative K times displacement,
 
 33
 00:01:27,324 --> 00:01:30,440
-or position Y minus anchor
-Y, which is the distance
+or position Y minus anchor Y, which is the distance
 
 34
 00:01:30,440 --> 00:01:33,060
@@ -155,18 +136,15 @@ from the anchor to the mass.
 
 35
 00:01:33,060 --> 00:01:35,229
-Now we just need to add
-the spring force to our
+Now we just need to add the spring force to our
 
 36
 00:01:35,229 --> 00:01:39,638
-existing force Y
-calculation which gives us
+existing force Y calculation which gives us
 
 37
 00:01:39,638 --> 00:01:44,613
-force Y equals spring force
-Y plus mass times gravity.
+force Y equals spring force Y plus mass times gravity.
 
 38
 00:01:44,613 --> 00:01:47,399
@@ -174,8 +152,7 @@ And that's it for updating our forces.
 
 39
 00:01:47,399 --> 00:01:50,054
-Finally, we just need to do
-some new drawing to account
+Finally, we just need to do some new drawing to account
 
 40
 00:01:50,054 --> 00:01:52,301
@@ -183,28 +160,23 @@ for the spring we've added.
 
 41
 00:01:52,301 --> 00:01:54,436
-I'll draw an anchor with a
-little box centered at the
+I'll draw an anchor with a little box centered at the
 
 42
 00:01:54,436 --> 00:01:58,650
-anchor position we've defined
-in our initial settings.
+anchor position we've defined in our initial settings.
 
 43
 00:01:58,650 --> 00:02:01,513
-And I'll draw the spring
-with a line which extends
+And I'll draw the spring with a line which extends
 
 44
 00:02:01,513 --> 00:02:05,840
-from the anchor to the
-particle position, like this.
+from the anchor to the particle position, like this.
 
 45
 00:02:05,840 --> 00:02:10,102
-Now, let's run our simulation
-and see what happens.
+Now, let's run our simulation and see what happens.
 
 46
 00:02:10,102 --> 00:02:12,062
@@ -212,8 +184,7 @@ It's alive!
 
 47
 00:02:12,062 --> 00:02:13,751
-Let's pause here so
-you can get comfortable
+Let's pause here so you can get comfortable
 
 48
 00:02:13,751 --> 00:02:16,000

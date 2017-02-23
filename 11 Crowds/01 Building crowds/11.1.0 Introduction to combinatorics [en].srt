@@ -12,28 +12,23 @@ I'm a Character TD here at Pixar.
 
 4
 00:00:03,468 --> 00:00:06,156
-- Hi, I'm Jacob Speirs, I'm
-also a Character TD at Pixar.
+- Hi, I'm Jacob Speirs, I'm also a Character TD at Pixar.
 
 5
 00:00:07,156 --> 00:00:10,117
-- [Lou] We started here at
-Pixar on WALL-E as interns
+- [Lou] We started here at Pixar on WALL-E as interns
 
 6
 00:00:10,117 --> 00:00:12,833
-and our task was to make a
-huge cast of background robots.
+and our task was to make a huge cast of background robots.
 
 7
 00:00:12,833 --> 00:00:15,391
-- Today's lesson is going
-to be about how to create
+- Today's lesson is going to be about how to create
 
 8
 00:00:15,391 --> 00:00:18,698
-a huge crowd of robots using
-only a few simple parts.
+a huge crowd of robots using only a few simple parts.
 
 9
 00:00:18,698 --> 00:00:20,157
@@ -49,13 +44,11 @@ where there's no robots anymore
 
 12
 00:00:23,934 --> 00:00:25,039
-and it's just him to a world
-where there's tons of them.
+and it's just him to a world where there's tons of them.
 
 13
 00:00:26,039 --> 00:00:28,447
-I just like that contrast
-and suddenly making him feel
+I just like that contrast and suddenly making him feel
 
 14
 00:00:28,447 --> 00:00:30,420
@@ -63,8 +56,7 @@ like he was alone in a crowd.
 
 15
 00:00:31,420 --> 00:00:34,125
-- We're trying to create a
-world where robots do every task
+- We're trying to create a world where robots do every task
 
 16
 00:00:34,125 --> 00:00:35,103
@@ -72,18 +64,15 @@ that you would want done.
 
 17
 00:00:36,103 --> 00:00:39,244
-What we did first was
-to look at cruise ships.
+What we did first was to look at cruise ships.
 
 18
 00:00:39,244 --> 00:00:41,381
-We got a list of every
-single job on a cruise ship
+We got a list of every single job on a cruise ship
 
 19
 00:00:41,381 --> 00:00:43,725
-and then went through
-and tried to think of
+and then went through and tried to think of
 
 20
 00:00:43,725 --> 00:00:45,337
@@ -91,23 +80,19 @@ the robotic equivalent of that job
 
 21
 00:00:46,337 --> 00:00:49,565
-and it became apparent quickly
-that that was more robots
+and it became apparent quickly that that was more robots
 
 22
 00:00:49,565 --> 00:00:51,746
-than we would ever be able
-to build in one lifetime.
+than we would ever be able to build in one lifetime.
 
 23
 00:00:51,746 --> 00:00:54,290
-- So as interns, Jacob and I
-had the task of making this
+- So as interns, Jacob and I had the task of making this
 
 24
 00:00:54,290 --> 00:00:57,067
-huge cast of robots, but we
-didn't want to design each
+huge cast of robots, but we didn't want to design each
 
 25
 00:00:57,067 --> 00:00:58,319
@@ -115,13 +100,11 @@ individual one specifically.
 
 26
 00:00:58,319 --> 00:01:01,151
-- Right, so luckily there
-was an animator, Angus,
+- Right, so luckily there was an animator, Angus,
 
 27
 00:01:01,151 --> 00:01:04,275
-and he had a great idea about
-how to approach the process.
+and he had a great idea about how to approach the process.
 
 28
 00:01:05,275 --> 00:01:07,568
@@ -129,28 +112,23 @@ how to approach the process.
 
 29
 00:01:07,568 --> 00:01:09,584
-the background characters
-to be the best they could be
+the background characters to be the best they could be
 
 30
 00:01:09,584 --> 00:01:12,102
-and I figured if we
-designed a modular system
+and I figured if we designed a modular system
 
 31
 00:01:12,102 --> 00:01:15,249
-that would allow for us to add
-and subtract different parts
+that would allow for us to add and subtract different parts
 
 32
 00:01:15,249 --> 00:01:17,524
-onto the character for
-the background characters
+onto the character for the background characters
 
 33
 00:01:17,524 --> 00:01:20,019
-then we could kinda
-make whatever we needed
+then we could kinda make whatever we needed
 
 34
 00:01:20,019 --> 00:01:21,040
@@ -171,18 +149,15 @@ and though we'd only built 30 pieces
 
 38
 00:01:27,718 --> 00:01:29,004
-we could make a thousand
-different combinations.
+we could make a thousand different combinations.
 
 39
 00:01:30,004 --> 00:01:32,464
-- Yeah, and there's actually
-a branch of mathematics
+- Yeah, and there's actually a branch of mathematics
 
 40
 00:01:32,464 --> 00:01:35,241
-about that sort of thing,
-counting and combinations
+about that sort of thing, counting and combinations
 
 41
 00:01:35,241 --> 00:01:37,230
@@ -194,8 +169,7 @@ and it's called combinatorics.
 
 43
 00:01:39,028 --> 00:01:40,895
-- Combinatorics is actually
-what your lesson today
+- Combinatorics is actually what your lesson today
 
 44
 00:01:40,895 --> 00:01:41,703
@@ -207,6 +181,5 @@ We're gonna start with a few small pieces
 
 46
 00:01:43,262 --> 00:01:45,000
-and build a huge cast of
-robots just like we did. aimozhen.com/pixarinabox
+and build a huge cast of robots just like we did. aimozhen.com/pixarinabox
 

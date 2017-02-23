@@ -16,8 +16,7 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 5
 00:00:04,999 --> 00:00:07,221
-You probably discovered
-that changing the base scale
+You probably discovered that changing the base scale
 
 6
 00:00:07,221 --> 00:00:10,905
@@ -25,18 +24,15 @@ changes the arm scale and the head scale.
 
 7
 00:00:10,905 --> 00:00:14,603
-This is because the
-scales affect each other.
+This is because the scales affect each other.
 
 8
 00:00:14,603 --> 00:00:16,621
-When you're working with
-controls like a scale deformer
+When you're working with controls like a scale deformer
 
 9
 00:00:16,621 --> 00:00:19,180
-that affects a whole
-model or a bunch of parts,
+that affects a whole model or a bunch of parts,
 
 10
 00:00:19,180 --> 00:00:21,780
@@ -52,8 +48,7 @@ We call this working from rough to fine.
 
 13
 00:00:28,079 --> 00:00:29,443
-We now have all the
-concepts we need to model
+We now have all the concepts we need to model
 
 14
 00:00:29,443 --> 00:00:30,840
@@ -69,8 +64,7 @@ to make it appear younger or older.
 
 17
 00:00:36,101 --> 00:00:39,683
-Add rotates to all the joints
-so you can pose the lamp.
+Add rotates to all the joints so you can pose the lamp.
 
 18
 00:00:39,683 --> 00:00:42,079
@@ -82,8 +76,7 @@ so you can move the lamp around.
 
 20
 00:00:44,375 --> 00:00:46,260
-And after the exercise,
-we have a bonus tip
+And after the exercise, we have a bonus tip
 
 21
 00:00:46,260 --> 00:00:47,363
@@ -95,8 +88,7 @@ to try animating your fully rigged lamp.
 
 23
 00:00:49,760 --> 00:00:52,884
-You should definitely check
-out the animation lesson
+You should definitely check out the animation lesson
 
 24
 00:00:52,884 --> 00:00:54,602

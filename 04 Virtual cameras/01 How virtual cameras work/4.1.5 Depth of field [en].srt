@@ -28,8 +28,7 @@ is set at the focal length of our lens,
 
 8
 00:00:14,503 --> 00:00:19,336
-then objects that are very
-far away appear sharp.
+then objects that are very far away appear sharp.
 
 9
 00:00:19,336 --> 00:00:21,617
@@ -37,13 +36,11 @@ For example, imagine a scene with Joy
 
 10
 00:00:21,617 --> 00:00:25,783
-standing a mile away from
-the camera, like this.
+standing a mile away from the camera, like this.
 
 11
 00:00:25,783 --> 00:00:29,494
-If we look at the scene
-from the side, we get this.
+If we look at the scene from the side, we get this.
 
 12
 00:00:29,494 --> 00:00:31,533
@@ -51,8 +48,7 @@ Notice the light rays that bounce off Joy
 
 13
 00:00:31,533 --> 00:00:34,468
-and enter the camera are
-approximately parallel.
+and enter the camera are approximately parallel.
 
 14
 00:00:34,468 --> 00:00:35,586
@@ -68,8 +64,7 @@ Joy will be in focus.
 
 17
 00:00:39,765 --> 00:00:41,631
-But what happens when
-we try and make an image
+But what happens when we try and make an image
 
 18
 00:00:41,631 --> 00:00:44,228
@@ -89,8 +84,7 @@ Now pick any point on Joy and look at
 
 22
 00:00:50,418 --> 00:00:52,401
-the light rays that are
-heading from that point
+the light rays that are heading from that point
 
 23
 00:00:52,401 --> 00:00:54,421
@@ -98,8 +92,7 @@ toward the lens of our camera.
 
 24
 00:00:54,421 --> 00:00:56,544
-Notice that these light
-rays aren't parallel,
+Notice that these light rays aren't parallel,
 
 25
 00:00:56,544 --> 00:00:57,624
@@ -107,8 +100,7 @@ they fan out.
 
 26
 00:00:57,624 --> 00:00:59,604
-Because they're hitting
-the lens at an angle,
+Because they're hitting the lens at an angle,
 
 27
 00:00:59,604 --> 00:01:00,931
@@ -116,8 +108,7 @@ they are redirected to a point
 
 28
 00:01:00,931 --> 00:01:04,133
-a little farther away
-behind the image plane.
+a little farther away behind the image plane.
 
 29
 00:01:04,133 --> 00:01:05,224
@@ -153,13 +144,11 @@ To see this effect clearly,
 
 37
 00:01:16,494 --> 00:01:18,748
-check out this out of
-focus shot of lights.
+check out this out of focus shot of lights.
 
 38
 00:01:18,748 --> 00:01:21,851
-These blurry circles are
-known as Circles of Confusion.
+These blurry circles are known as Circles of Confusion.
 
 39
 00:01:21,851 --> 00:01:23,101
@@ -199,8 +188,7 @@ There.
 
 48
 00:01:38,739 --> 00:01:42,251
-At this distance, Joy
-will be in sharp focus.
+At this distance, Joy will be in sharp focus.
 
 49
 00:01:42,251 --> 00:01:43,432
@@ -232,8 +220,7 @@ But now, with a lens in there,
 
 56
 00:01:54,025 --> 00:01:56,971
-only a slice of our
-scene will be in focus.
+only a slice of our scene will be in focus.
 
 57
 00:01:56,971 --> 00:01:58,617
@@ -309,8 +296,7 @@ As I move it farther away,
 
 75
 00:02:35,012 --> 00:02:37,905
-the blurry region
-doesn't change very much.
+the blurry region doesn't change very much.
 
 76
 00:02:37,905 --> 00:02:40,423
@@ -318,13 +304,11 @@ This is Deep Depth of Field.
 
 77
 00:02:40,423 --> 00:02:43,614
-So more than one of our
-Joys will be in focus.
+So more than one of our Joys will be in focus.
 
 78
 00:02:43,614 --> 00:02:45,842
-Now, let's increase the
-size of our aperture,
+Now, let's increase the size of our aperture,
 
 79
 00:02:45,842 --> 00:02:47,488
@@ -336,8 +320,7 @@ and start again with our subject in focus.
 
 81
 00:02:50,179 --> 00:02:52,352
-Moving the subject even
-just a little further away
+Moving the subject even just a little further away
 
 82
 00:02:52,352 --> 00:02:55,132
@@ -377,8 +360,7 @@ the depth of field is shallow.
 
 91
 00:03:12,502 --> 00:03:15,223
-Only a small slice of
-our scene is in focus.
+Only a small slice of our scene is in focus.
 
 92
 00:03:15,223 --> 00:03:16,797
