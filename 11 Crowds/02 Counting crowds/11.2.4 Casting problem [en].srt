@@ -1,0 +1,205 @@
+1
+00:00:00,000 --> 00:00:03,245
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,245 --> 00:00:05,926
+- Earlier, you created a small crowd of robots
+
+3
+00:00:05,926 --> 00:00:09,803
+by choosing just a few of the possible robot combinations.
+
+4
+00:00:10,803 --> 00:00:12,998
+Let's back up a bit and go back to the example
+
+5
+00:00:12,998 --> 00:00:16,799
+where robots consisted of one head, and one body.
+
+6
+00:00:16,799 --> 00:00:19,356
+If you have two heads, and two bodies,
+
+7
+00:00:19,356 --> 00:00:23,013
+then you can make two times two, or four, different robots.
+
+8
+00:00:23,013 --> 00:00:25,919
+That's like having four possible actors to choose from
+
+9
+00:00:25,919 --> 00:00:29,616
+but you only need a cast of three in your movie.
+
+10
+00:00:29,616 --> 00:00:31,424
+Let's give our actors names:
+
+11
+00:00:31,424 --> 00:00:34,776
+Alice, Bob, Carol, and Dave,
+
+12
+00:00:34,776 --> 00:00:38,715
+or A, B, C, and D, for short.
+
+13
+00:00:39,715 --> 00:00:41,746
+That leads to an interesting question:
+
+14
+00:00:41,746 --> 00:00:44,024
+how many different casts of three actors can you make
+
+15
+00:00:44,024 --> 00:00:46,886
+when you have four actors to choose from?
+
+16
+00:00:46,886 --> 00:00:48,715
+Remember that, to figure out how many ways there are
+
+17
+00:00:48,715 --> 00:00:50,197
+to combine our actors, we need
+
+18
+00:00:50,197 --> 00:00:52,611
+to multiply our choices at each stage.
+
+19
+00:00:53,611 --> 00:00:57,308
+In this case, we have four choices for our first actor,
+
+20
+00:00:57,308 --> 00:01:00,297
+three for the second, and two for the third.
+
+21
+00:01:00,297 --> 00:01:05,046
+So, it seems like we have 4 x
+3 x 2, or 24, possible casts.
+
+22
+00:01:06,046 --> 00:01:09,561
+Let's list out all 24 combinations.
+
+23
+00:01:09,561 --> 00:01:12,730
+The first combination, ABC, means we selected
+
+24
+00:01:12,730 --> 00:01:16,001
+Alice then Bob and then Carol,
+
+25
+00:01:16,001 --> 00:01:18,703
+but there's a subtlety lurking in there.
+
+26
+00:01:18,703 --> 00:01:21,896
+There aren't 24 different casts.
+
+27
+00:01:21,896 --> 00:01:23,802
+To see where the subtlety is,
+
+28
+00:01:23,802 --> 00:01:27,601
+notice that the second combination, ACB,
+
+29
+00:01:27,601 --> 00:01:31,010
+means we selected Alice then Carol and then Bob.
+
+30
+00:01:32,010 --> 00:01:34,686
+So, the first two combinations use the same actors,
+
+31
+00:01:34,686 --> 00:01:36,185
+just in a different order.
+
+32
+00:01:37,185 --> 00:01:39,400
+The same is true for the other combinations
+
+33
+00:01:39,400 --> 00:01:40,822
+in the first box.
+
+34
+00:01:40,822 --> 00:01:42,468
+It's the same cast.
+
+35
+00:01:42,468 --> 00:01:45,312
+Just the order that we picked from was different.
+
+36
+00:01:45,312 --> 00:01:47,261
+In other words, all the combinations
+
+37
+00:01:47,261 --> 00:01:50,619
+in the first box should be counted as just one cast.
+
+38
+00:01:51,619 --> 00:01:54,502
+Similarly, the second box is a cast
+
+39
+00:01:54,502 --> 00:01:57,883
+consisting of Alice, Bob, and Dave.
+
+40
+00:01:58,883 --> 00:02:00,193
+The total number of casts is,
+
+41
+00:02:00,193 --> 00:02:02,992
+therefore, the number of boxes.
+
+42
+00:02:02,992 --> 00:02:05,655
+So, how many boxes are there?
+
+43
+00:02:05,655 --> 00:02:08,295
+Since there are six combinations in each box,
+
+44
+00:02:08,295 --> 00:02:13,559
+there must be 24 divided by six, or four, boxes.
+
+45
+00:02:13,559 --> 00:02:15,037
+So, there are four casts.
+
+46
+00:02:16,037 --> 00:02:18,050
+But why is it that each group
+
+47
+00:02:18,050 --> 00:02:20,325
+contains exactly six sequences?
+
+48
+00:02:20,325 --> 00:02:24,586
+Why not three or four or any other number?
+
+49
+00:02:25,586 --> 00:02:27,291
+The next interactive will help you visualize this problem
+
+50
+00:02:27,291 --> 00:02:29,770
+using a few other examples.
+
+51
+00:02:29,770 --> 00:02:30,000
+Have fun! aimozhen.com/pixarinabox
+

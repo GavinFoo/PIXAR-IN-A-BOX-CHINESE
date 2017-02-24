@@ -1,0 +1,232 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:00,767 --> 00:00:02,758
+(introductory sound)
+
+3
+00:00:03,758 --> 00:00:05,162
+We saw in the previous lesson
+
+4
+00:00:05,162 --> 00:00:06,373
+that to write a ray tracer,
+
+5
+00:00:06,373 --> 00:00:07,649
+you need a mathematical way
+
+6
+00:00:07,649 --> 00:00:09,535
+to answer a bunch of questions.
+
+7
+00:00:09,535 --> 00:00:12,869
+Where does a ray intersect a scene object?
+
+8
+00:00:12,869 --> 00:00:15,435
+Does a shadow ray reach the light source
+
+9
+00:00:15,435 --> 00:00:17,924
+before it intersects another object?
+
+10
+00:00:17,924 --> 00:00:20,195
+How does the surface reflect light?
+
+11
+00:00:22,195 --> 00:00:24,408
+How far away is the light source?
+
+12
+00:00:24,408 --> 00:00:28,809
+Finally, where is the camera?
+
+13
+00:00:28,809 --> 00:00:30,361
+In the remainder of this lesson,
+
+14
+00:00:30,361 --> 00:00:32,500
+we're going to focus on the first sub-problem,
+
+15
+00:00:32,500 --> 00:00:35,770
+that of ray object intersection.
+
+16
+00:00:35,770 --> 00:00:37,073
+We're going to start our study
+
+17
+00:00:37,073 --> 00:00:38,917
+by first looking at the simpler problem
+
+18
+00:00:38,917 --> 00:00:41,110
+of how to do ray object intersection
+
+19
+00:00:41,110 --> 00:00:42,561
+in two dimensions.
+
+20
+00:00:42,561 --> 00:00:46,020
+What does ray tracing look like in two dimensions?
+
+21
+00:00:46,020 --> 00:00:48,489
+Let's start with our three-dimensional situation
+
+22
+00:00:48,489 --> 00:00:50,956
+and take a cross-section through this white plane
+
+23
+00:00:50,956 --> 00:00:54,581
+that contains the camera and the viewing direction.
+
+24
+00:00:54,581 --> 00:00:56,043
+Notice too that the white plane
+
+25
+00:00:56,043 --> 00:00:58,058
+intersects the image plane on the line,
+
+26
+00:00:58,058 --> 00:01:00,569
+which we'll call the image line.
+
+27
+00:01:00,569 --> 00:01:02,635
+That means if we draw just what's in the white plane,
+
+28
+00:01:02,635 --> 00:01:05,391
+we get a picture like this.
+
+29
+00:01:05,391 --> 00:01:07,257
+To make the problem even easier,
+
+30
+00:01:07,257 --> 00:01:08,684
+we'll try first intersecting
+
+31
+00:01:08,684 --> 00:01:10,366
+with the simplest object possible,
+
+32
+00:01:10,366 --> 00:01:12,242
+the line segment.
+
+33
+00:01:12,242 --> 00:01:14,037
+Here's our scene:
+
+34
+00:01:14,037 --> 00:01:17,851
+Just a line segment connecting two points, A and B.
+
+35
+00:01:17,851 --> 00:01:19,203
+To render the scene,
+
+36
+00:01:19,203 --> 00:01:21,116
+just as in three dimensions,
+
+37
+00:01:21,116 --> 00:01:23,857
+we need to pick a location for our camera.
+
+38
+00:01:23,857 --> 00:01:26,887
+Call the camera point, C.
+
+39
+00:01:26,887 --> 00:01:32,162
+Next, we pick a viewing direction, shown here in red.
+
+40
+00:01:32,162 --> 00:01:33,355
+In three dimensions,
+
+41
+00:01:33,355 --> 00:01:35,018
+the camera location and viewing direction
+
+42
+00:01:35,018 --> 00:01:37,401
+defines an image plane.
+
+43
+00:01:37,401 --> 00:01:41,578
+but in two dimensions, it gives us an image line.
+
+44
+00:01:41,578 --> 00:01:45,675
+That's the line in which our image will be formed.
+
+45
+00:01:45,675 --> 00:01:48,727
+Now, let's pick a point, P, on the image line
+
+46
+00:01:48,727 --> 00:01:52,312
+to denote the pixel we want to determine the color of.
+
+47
+00:01:52,312 --> 00:01:57,327
+Recall that the ray tracer builds a ray from C through P
+
+48
+00:01:57,327 --> 00:01:59,531
+off into the scene.
+
+49
+00:01:59,531 --> 00:02:03,363
+We need a mathematical way to compute intersection points.
+
+50
+00:02:03,363 --> 00:02:06,383
+Like this one, called 'I'.
+
+51
+00:02:06,383 --> 00:02:08,050
+To develop the math,
+
+52
+00:02:08,050 --> 00:02:10,547
+we first introduce a coordinate system.
+
+53
+00:02:11,547 --> 00:02:14,119
+The math we need comes from looking at the Algebra
+
+54
+00:02:14,119 --> 00:02:17,675
+of intersecting a ray with a line segment.
+
+55
+00:02:17,675 --> 00:02:19,712
+We've introduced quite a few ideas in this video.
+
+56
+00:02:19,712 --> 00:02:21,031
+So, use the next exercise
+
+57
+00:02:21,031 --> 00:02:22,259
+to make sure you're comfortable
+
+58
+00:02:22,259 --> 00:02:23,000
+with two-dimensional ray tracing. aimozhen.com/pixarinabox
+

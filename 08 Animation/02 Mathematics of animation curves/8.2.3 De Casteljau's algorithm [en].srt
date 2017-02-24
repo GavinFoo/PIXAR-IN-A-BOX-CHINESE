@@ -1,0 +1,120 @@
+1
+00:00:00,000 --> 00:00:03,174
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,174 --> 00:00:04,760
+- So, how'd it go?
+
+3
+00:00:04,760 --> 00:00:05,973
+Did you figure out how to extend a
+
+4
+00:00:05,973 --> 00:00:07,643
+Casteljau's algorithm to 4 points?
+
+5
+00:00:08,643 --> 00:00:10,489
+It's not so easy, so don't worry if you had some trouble.
+
+6
+00:00:11,489 --> 00:00:13,903
+Here's what De Casteljau came up with.
+
+7
+00:00:13,903 --> 00:00:16,062
+First, we use linear interpolation
+
+8
+00:00:16,062 --> 00:00:18,442
+along with our parameter t, to find a point
+
+9
+00:00:18,442 --> 00:00:20,194
+on each of the 3 line segments.
+
+10
+00:00:21,194 --> 00:00:24,814
+Now we have a 3-point polygon, just like the grass blade.
+
+11
+00:00:25,814 --> 00:00:28,287
+As before, we find a point on each of the new segments
+
+12
+00:00:28,287 --> 00:00:31,084
+using linear interpolation and the same t value.
+
+13
+00:00:32,084 --> 00:00:34,671
+Now we have a 2-point polygon, or a line.
+
+14
+00:00:35,671 --> 00:00:37,040
+We find a point on our line using
+
+15
+00:00:37,040 --> 00:00:39,048
+linear interpolation, one more time.
+
+16
+00:00:40,048 --> 00:00:42,544
+As we vary the parameter t, this final point
+
+17
+00:00:42,544 --> 00:00:44,631
+traces out our smooth curve.
+
+18
+00:00:46,631 --> 00:00:48,349
+These are the kind of curves we typically use
+
+19
+00:00:48,349 --> 00:00:50,436
+to control the motion of our characters as we animate.
+
+20
+00:00:52,436 --> 00:00:54,224
+We use something called a graph editor,
+
+21
+00:00:54,224 --> 00:00:55,942
+which lets us manipulate the control points
+
+22
+00:00:55,942 --> 00:00:58,140
+of these curves to get smooth motion between poses.
+
+23
+00:01:03,140 --> 00:01:05,892
+This is the graph editor that we use at Pixar.
+
+24
+00:01:05,892 --> 00:01:09,909
+In between each one of my key poses is a Bézier curve.
+
+25
+00:01:09,909 --> 00:01:11,906
+We also tend to group the adjacent segments so
+
+26
+00:01:11,906 --> 00:01:14,459
+they maintain the slope of the curve across the key frame.
+
+27
+00:01:15,459 --> 00:01:17,779
+This prevents sudden jerks in the motion.
+
+28
+00:01:18,779 --> 00:01:20,544
+You can use the next interactive excercise
+
+29
+00:01:20,544 --> 00:01:22,215
+to get some experience with Bézier curves
+
+30
+00:01:22,215 --> 00:01:24,000
+that have 3, 4, or even more points. aimozhen.com/pixarinabox
+

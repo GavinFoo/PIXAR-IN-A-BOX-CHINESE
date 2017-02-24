@@ -1,0 +1,168 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:00,000 --> 00:00:05,009
+Hi, my name is Susan Fong and I'm a rendering technical director here at
+
+3
+00:00:05,009 --> 00:00:09,200
+Pixar Animation Studios my job is to make sure that the images you see in the
+
+4
+00:00:09,200 --> 00:00:13,048
+theater are created as quickly and efficiently as possible
+
+5
+00:00:13,048 --> 00:00:15,830
+now that's a big job because of Christophe described in the previous
+
+6
+00:00:15,830 --> 00:00:20,100
+video, rendering is an extremely complicated process requiring thousands
+
+7
+00:00:20,100 --> 00:00:24,160
+of computers all working together to render our films. The render farm is where
+
+8
+00:00:24,160 --> 00:00:28,269
+we keep all these computers, but what are these computers doing exactly? That's the
+
+9
+00:00:28,269 --> 00:00:32,180
+topic of this lesson. In the first part we'll take a geometric look at a renderer works.
+
+10
+00:00:32,180 --> 00:00:37,260
+In the second part of of the lesson, we'll look at some of the equations and
+
+11
+00:00:37,260 --> 00:00:41,350
+algebra that are needed to write a render as a computer program. So let's
+
+12
+00:00:41,350 --> 00:00:47,730
+get started! Let's start with the drastically simplified scene from Up.
+
+13
+00:00:47,730 --> 00:00:54,039
+This object lives in three dimensions, as we can see as we navigate around it.  Just
+
+14
+00:00:54,039 --> 00:00:58,699
+like live-action filmmaking, we need to place a camera inside the scene. In
+
+15
+00:00:58,699 --> 00:01:03,520
+computer graphics we call this a virtual camera. We first pick a location for our virtual
+
+16
+00:01:03,520 --> 00:01:08,709
+camera they'll be used to create the image. It's shown here in white. We also need
+
+17
+00:01:08,709 --> 00:01:15,170
+to decide which direction our camera is pointed. That's shown here in red. Next we
+
+18
+00:01:15,170 --> 00:01:20,420
+erect a plane upon which we'll form the image. It's called the image plane, and
+
+19
+00:01:20,420 --> 00:01:25,509
+represents what the virtual camera will see. Notice it is perpendicular to the
+
+20
+00:01:25,509 --> 00:01:31,409
+viewing direction. The image plane is broken up into a grid of pixels that
+
+21
+00:01:31,409 --> 00:01:36,709
+will make up the image. In this interactive the first two sliders allow
+
+22
+00:01:36,709 --> 00:01:40,630
+you to rotate your camera around the scene.
+
+23
+00:01:40,630 --> 00:01:44,630
+The job of the renderer sounds simple. It must determine a color for each of these
+
+24
+00:01:44,630 --> 00:01:49,319
+pixels. This is kind of like paint by numbers where the image plane is serving
+
+25
+00:01:49,319 --> 00:01:54,119
+as the canvas on which the renderer is painting. Now I'm only showing you a few
+
+26
+00:01:54,119 --> 00:01:58,319
+pixels in this example. Our real images are made up of more than two million
+
+27
+00:01:58,319 --> 00:02:05,640
+pixels. Over the years a number of different rendering algorithms have been
+
+28
+00:02:05,640 --> 00:02:10,530
+developed. one of the most elegant and versatile algorithms is called ray tracing.
+
+29
+00:02:10,530 --> 00:02:17,539
+Here's how it works: to determine a color, for say this pixel, a ray tracer
+
+30
+00:02:17,539 --> 00:02:22,289
+constructs a mathematical ray that starts at the camera, crosses the center of the pixel,
+
+31
+00:02:22,289 --> 00:02:26,989
+and then extends off into the scene. Kind of like a laser beam pointed at the pixel
+
+32
+00:02:26,989 --> 00:02:31,019
+but from the camera. The ray tracer computes the closest intersection
+
+33
+00:02:31,019 --> 00:02:36,199
+point between the scene objects and this ray. It then determines the color of
+
+34
+00:02:36,199 --> 00:02:41,049
+the intersected object at that point, and paints the picture that color. So this pixel
+
+35
+00:02:41,049 --> 00:02:49,479
+would be colored brown, this one yellow, and so forth for the other pixels. This
+
+36
+00:02:49,479 --> 00:02:54,910
+process is done for all of the pixels in the image.
+
+37
+00:02:54,910 --> 00:02:59,419
+Fancier versions of ray tracing can create more subtle effects, like soft
+
+38
+00:02:59,419 --> 00:03:04,199
+shadows and variations in lighting that helped to create different moods. The ray
+
+39
+00:03:04,199 --> 00:03:08,690
+tracing process leads to a bunch of other questions, like how are intersection points
+
+40
+00:03:08,690 --> 00:03:12,639
+determined? And once that intersection point is determined, how do we figure out
+
+41
+00:03:12,639 --> 00:03:17,889
+what color it is? These mysteries and more will be revealed in the remainder of the
+
+42
+00:03:17,889 --> 00:03:21,000
+tutorial. In this first exercise, you can practice some ray tracing yourself. aimozhen.com/pixarinabox
+

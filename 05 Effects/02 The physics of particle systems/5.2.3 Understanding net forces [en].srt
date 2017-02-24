@@ -20,13 +20,11 @@ unless they're acted on by a force.
 
 6
 00:00:10,208 --> 00:00:13,331
-And objects which are in motion
-have an unchanging velocity.
+And objects which are in motion have an unchanging velocity.
 
 7
 00:00:13,331 --> 00:00:15,903
-For example, a particle
-floating through empty space
+For example, a particle floating through empty space
 
 8
 00:00:15,903 --> 00:00:17,498
@@ -66,33 +64,27 @@ a net force must be applied.
 
 17
 00:00:33,904 --> 00:00:37,432
-As with velocity and acceleration,
-forces are also vectors.
+As with velocity and acceleration, forces are also vectors.
 
 18
 00:00:37,432 --> 00:00:40,666
-The force due to gravity for
-instance, will point downward,
+The force due to gravity for instance, will point downward,
 
 19
 00:00:40,666 --> 00:00:44,313
-and its length will depend on
-how much gravity is present.
+and its length will depend on how much gravity is present.
 
 20
 00:00:44,313 --> 00:00:46,478
-If this gravitational
-force is the only force
+If this gravitational force is the only force
 
 21
 00:00:46,478 --> 00:00:49,253
-acting on the particle, then
-its velocity will change,
+acting on the particle, then its velocity will change,
 
 22
 00:00:49,253 --> 00:00:50,820
-meaning it will accelerate
-in the direction
+meaning it will accelerate in the direction
 
 23
 00:00:50,820 --> 00:00:52,810
@@ -108,23 +100,19 @@ at work on the particle?
 
 26
 00:00:55,644 --> 00:00:58,922
-Like if I add a wind force
-in addition to gravity.
+Like if I add a wind force in addition to gravity.
 
 27
 00:00:58,922 --> 00:01:01,731
-Suppose for instance, that the
-wind is blowing to the right
+Suppose for instance, that the wind is blowing to the right
 
 28
 00:01:01,731 --> 00:01:04,861
-half as strongly as the force
-of gravity pointing downward.
+half as strongly as the force of gravity pointing downward.
 
 29
 00:01:04,861 --> 00:01:07,300
-We need to add these forces
-together using vector addition
+We need to add these forces together using vector addition
 
 30
 00:01:07,300 --> 00:01:09,715
@@ -140,8 +128,7 @@ to gravity plus wind.
 
 33
 00:01:14,197 --> 00:01:17,063
-Since the net force is now
-pointing down and to the right,
+Since the net force is now pointing down and to the right,
 
 34
 00:01:17,063 --> 00:01:18,696
@@ -157,8 +144,7 @@ If there are more forces at work,
 
 37
 00:01:23,066 --> 00:01:26,206
-we would add those forces all
-up to determine the net force.
+we would add those forces all up to determine the net force.
 
 38
 00:01:26,206 --> 00:01:27,733
@@ -170,8 +156,7 @@ the particle would accelerate.
 
 40
 00:01:29,735 --> 00:01:33,690
-For instance, suppose the
-particle is sitting on a table.
+For instance, suppose the particle is sitting on a table.
 
 41
 00:01:33,690 --> 00:01:35,693
@@ -187,13 +172,11 @@ to the right, as before.
 
 44
 00:01:38,800 --> 00:01:41,592
-But there's another force at
-work on the particle, too.
+But there's another force at work on the particle, too.
 
 45
 00:01:41,592 --> 00:01:44,529
-The table is pushing up on the
-particle to resist gravity.
+The table is pushing up on the particle to resist gravity.
 
 46
 00:01:44,529 --> 00:01:47,105
@@ -201,8 +184,7 @@ So our force diagram looks like this.
 
 47
 00:01:47,105 --> 00:01:49,955
-The forces of gravity and the
-table, cancel each other out,
+The forces of gravity and the table, cancel each other out,
 
 48
 00:01:49,955 --> 00:01:52,858
@@ -210,8 +192,7 @@ leaving the wind force as a net force.
 
 49
 00:01:52,858 --> 00:01:55,429
-Okay, in the next exercise
-you'll get some practice
+Okay, in the next exercise you'll get some practice
 
 50
 00:01:55,429 --> 00:01:56,729

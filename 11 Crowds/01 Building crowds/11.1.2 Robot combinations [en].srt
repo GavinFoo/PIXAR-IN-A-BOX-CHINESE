@@ -1,0 +1,84 @@
+1
+00:00:00,000 --> 00:00:03,256
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,256 --> 00:00:05,973
+ In the previous clip and exercise, we saw a table 
+
+3
+00:00:05,973 --> 00:00:08,254
+ can easily monitor various 
+
+4
+00:00:08,254 --> 00:00:11,124
+ robots, each has a head 
+
+5
+00:00:11,124 --> 00:00:12,967
+ and one body. 
+
+6
+00:00:12,967 --> 00:00:16,787
+ Each of these robots combination. 
+
+7
+00:00:16,787 --> 00:00:19,160
+ Constantly we are dealing with combinations. 
+
+8
+00:00:19,160 --> 00:00:20,878
+ For example, when we in the morning 
+
+9
+00:00:20,878 --> 00:00:23,520
+ and choose your top and bottoms. 
+
+10
+00:00:23,520 --> 00:00:25,372
+ This is also combining. 
+
+11
+00:00:25,372 --> 00:00:27,659
+ Since each box in the table corresponds 
+
+12
+00:00:27,659 --> 00:00:30,015
+ a different combination, just count 
+
+13
+00:00:30,015 --> 00:00:34,692
+ cells but do not have to be one by one. 
+
+14
+00:00:34,692 --> 00:00:36,392
+ This is because the number of cells in tabiltsata 
+
+15
+00:00:36,392 --> 00:00:39,907
+ equals the number of rows multiplied by the number of columns. 
+
+16
+00:00:39,907 --> 00:00:41,932
+ With two heads and three bodies 
+
+17
+00:00:41,932 --> 00:00:46,549
+ there are two three, i.e. six combinations. 
+
+18
+00:00:46,549 --> 00:00:48,567
+ With three heads and four bodies 
+
+19
+00:00:48,567 --> 00:00:53,210
+ we have three in four, ie twelve combinations. 
+
+20
+00:00:53,210 --> 00:00:54,728
+ The following exercise will allow 
+
+21
+00:00:54,728 --> 00:00:58,000
+ to try other combinations.  aimozhen.com/pixarinabox
+

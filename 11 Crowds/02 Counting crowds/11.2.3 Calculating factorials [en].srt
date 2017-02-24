@@ -1,0 +1,144 @@
+1
+00:00:00,000 --> 00:00:03,430
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,430 --> 00:00:04,800
+- Nice work!
+
+3
+00:00:04,800 --> 00:00:06,850
+Suppose we wanted four-segment Snake Bots
+
+4
+00:00:06,850 --> 00:00:08,840
+as in the previous exercise.
+
+5
+00:00:08,840 --> 00:00:11,100
+How many of those are there?
+
+6
+00:00:11,100 --> 00:00:13,690
+Well, we have four choices for the first segment,
+
+7
+00:00:13,690 --> 00:00:15,440
+three choices for the second segment,
+
+8
+00:00:15,440 --> 00:00:17,150
+two choices for the third segment,
+
+9
+00:00:17,150 --> 00:00:19,360
+and one choice for the fourth segment.
+
+10
+00:00:19,360 --> 00:00:22,570
+So that's four times three times two times one,
+
+11
+00:00:22,570 --> 00:00:25,450
+which multiplies out to 24.
+
+12
+00:00:25,450 --> 00:00:28,240
+Isn't it interesting that you can make 24 different
+
+13
+00:00:28,240 --> 00:00:31,630
+Snake Bots using only four different objects?
+
+14
+00:00:31,630 --> 00:00:33,330
+And it gets better!
+
+15
+00:00:33,330 --> 00:00:36,079
+Suppose you wanted a ten-segment Snake Bot.
+
+16
+00:00:36,079 --> 00:00:38,290
+Then you could make ten times nine
+
+17
+00:00:38,290 --> 00:00:40,670
+times eight times seven times six times five times four
+
+18
+00:00:40,670 --> 00:00:43,752
+times three times two times one different combination!
+
+19
+00:00:43,752 --> 00:00:47,800
+Which amounts to a whopping 3,628,800
+
+20
+00:00:47,800 --> 00:00:49,924
+different ten-segment Bots!
+
+21
+00:00:49,924 --> 00:00:53,100
+And you only have to build ten different objects!
+
+22
+00:00:53,100 --> 00:00:55,270
+These kinds of calculations appear all the time
+
+23
+00:00:55,270 --> 00:00:57,690
+in combinatorics, so of course mathematicians
+
+24
+00:00:57,690 --> 00:01:00,520
+invented a name and a shorthand for them.
+
+25
+00:01:00,520 --> 00:01:02,860
+They're called factorials, and they're
+
+26
+00:01:02,860 --> 00:01:06,019
+represented with an exclamation point.
+
+27
+00:01:06,019 --> 00:01:08,700
+For instance, four exclamation point,
+
+28
+00:01:08,700 --> 00:01:11,120
+or four factorial, stands for four
+
+29
+00:01:11,120 --> 00:01:14,040
+times three times two times one.
+
+30
+00:01:14,040 --> 00:01:16,670
+So four factorial is 24,
+
+31
+00:01:16,670 --> 00:01:19,250
+five factorial is 120,
+
+32
+00:01:19,250 --> 00:01:22,459
+and 10 factorial is over three million!
+
+33
+00:01:22,459 --> 00:01:25,959
+Wow! That's a combinatorial explosion of choices!
+
+34
+00:01:25,959 --> 00:01:28,090
+(glass-shattering blast)
+
+35
+00:01:28,090 --> 00:01:30,099
+Let's pause now and practice this concept
+
+36
+00:01:30,099 --> 00:01:31,000
+in the next exercise. aimozhen.com/pixarinabox
+

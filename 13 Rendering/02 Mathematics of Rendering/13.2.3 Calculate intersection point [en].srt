@@ -1,0 +1,184 @@
+1
+00:00:00,000 --> 00:00:03,510
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,510 --> 00:00:05,470
+- Now that you have a feel for how t works,
+
+3
+00:00:05,470 --> 00:00:08,050
+we're ready to calculate our intersection point I
+
+4
+00:00:08,050 --> 00:00:11,600
+between our ray CP and our line segment AB.
+
+5
+00:00:11,600 --> 00:00:13,260
+Recall from the previous video that
+
+6
+00:00:13,260 --> 00:00:15,440
+the slope intercept form of the line AB
+
+7
+00:00:15,440 --> 00:00:18,540
+is y equals negative three x plus 11
+
+8
+00:00:18,540 --> 00:00:21,400
+and the parametric representation of the ray CP
+
+9
+00:00:21,400 --> 00:00:25,190
+is the function R of t equals one minus t
+
+10
+00:00:25,190 --> 00:00:29,751
+times C plus t times P.
+
+11
+00:00:29,751 --> 00:00:31,820
+Different values of the parameter t
+
+12
+00:00:31,820 --> 00:00:33,310
+locate different points on the ray.
+
+13
+00:00:36,310 --> 00:00:38,210
+The intersection point that we're after
+
+14
+00:00:38,210 --> 00:00:40,590
+is one such point on the ray so there
+
+15
+00:00:40,590 --> 00:00:44,510
+must be some value of t, call it t star,
+
+16
+00:00:44,510 --> 00:00:47,070
+such that I equals R of t star.
+
+17
+00:00:49,070 --> 00:00:52,140
+This is really two equations, one for the x-coordinate
+
+18
+00:00:52,140 --> 00:00:55,060
+of I and one for the y-coordinate.
+
+19
+00:00:55,060 --> 00:00:59,540
+These two equations are I sub x equals R sub x
+
+20
+00:00:59,540 --> 00:01:03,800
+of t star, which equals one minus t star
+
+21
+00:01:03,800 --> 00:01:08,110
+times C sub x plus t star times P sub x.
+
+22
+00:01:09,110 --> 00:01:13,560
+In the same way I sub y equals R sub y of t star,
+
+23
+00:01:14,560 --> 00:01:18,790
+which equals one minus t star times C sub y
+
+24
+00:01:18,790 --> 00:01:22,150
+plus t star times P sub y.
+
+25
+00:01:22,150 --> 00:01:26,300
+In this particular case C, our camera position,
+
+26
+00:01:26,300 --> 00:01:28,700
+has coordinates zero, zero
+
+27
+00:01:28,700 --> 00:01:31,110
+and P has coordinates two, 1/2.
+
+28
+00:01:33,110 --> 00:01:38,051
+So we have I sub x equals t star times two
+
+29
+00:01:38,051 --> 00:01:41,940
+and I sub y equals t star times 1/2.
+
+30
+00:01:42,940 --> 00:01:46,520
+I is also on the line segment AB meaning that
+
+31
+00:01:46,520 --> 00:01:50,101
+I satisfies the slope intercept form for AB,
+
+32
+00:01:50,101 --> 00:01:53,790
+that is I sub y equals negative three
+
+33
+00:01:53,790 --> 00:01:56,880
+times I sub x plus 11.
+
+34
+00:01:57,880 --> 00:02:01,200
+So we have three equations and three unknowns,
+
+35
+00:02:01,200 --> 00:02:04,010
+I sub x, I sub y and t star.
+
+36
+00:02:06,010 --> 00:02:08,000
+We can solve the system of equations
+
+37
+00:02:08,000 --> 00:02:10,169
+by substituting the first two equations
+
+38
+00:02:10,169 --> 00:02:14,470
+into the third to get an equation just in t star.
+
+39
+00:02:14,470 --> 00:02:18,509
+1/2 t star equals negative three
+
+40
+00:02:18,509 --> 00:02:22,710
+times two times t star plus 11.
+
+41
+00:02:23,710 --> 00:02:26,740
+Solve this for t star, then plug that value
+
+42
+00:02:26,740 --> 00:02:28,990
+of t star into the first two equations
+
+43
+00:02:28,990 --> 00:02:31,310
+to get I sub x and I sub y.
+
+44
+00:02:32,310 --> 00:02:33,860
+And that's how it's done.
+
+45
+00:02:33,860 --> 00:02:36,342
+Before we continue get some experience using this
+
+46
+00:02:36,342 --> 00:02:39,000
+kind of parametric function in the next exercise. aimozhen.com/pixarinabox
+

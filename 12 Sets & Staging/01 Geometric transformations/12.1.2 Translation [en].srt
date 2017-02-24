@@ -1,0 +1,280 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:00,403 --> 00:00:02,134
+(bouncing noises)
+
+3
+00:00:03,134 --> 00:00:04,453
+- Now that we know how to plot points
+
+4
+00:00:04,453 --> 00:00:05,986
+on a coordinate plane, we're ready
+
+5
+00:00:05,986 --> 00:00:07,526
+to start designing a shot.
+
+6
+00:00:07,526 --> 00:00:09,873
+Let's take a closer look at this sketch that we got
+
+7
+00:00:09,873 --> 00:00:11,652
+of Andy's room from Toy Story.
+
+8
+00:00:11,652 --> 00:00:14,054
+We can see that Buzz and Bo Peep
+
+9
+00:00:14,054 --> 00:00:16,817
+are laid out on the floor and on the bed
+
+10
+00:00:16,817 --> 00:00:19,257
+in sort of a haphazard sort of way.
+
+11
+00:00:19,257 --> 00:00:20,496
+We can also see in this sketch,
+
+12
+00:00:20,496 --> 00:00:22,198
+that there's a question.
+
+13
+00:00:22,198 --> 00:00:24,108
+Where do we want to put the lamp?
+
+14
+00:00:24,108 --> 00:00:25,784
+Do we want it next to the bed,
+
+15
+00:00:25,784 --> 00:00:27,651
+so that the person who lives here can use it?
+
+16
+00:00:27,651 --> 00:00:29,244
+Or do we want it on the dresser,
+
+17
+00:00:29,244 --> 00:00:31,285
+to mean that the adult is using it?
+
+18
+00:00:31,285 --> 00:00:34,219
+Everywhere you put something, means something.
+
+19
+00:00:34,219 --> 00:00:36,404
+And really good computer graphics
+
+20
+00:00:36,404 --> 00:00:39,055
+tells a story in every single placement
+
+21
+00:00:39,055 --> 00:00:42,157
+of every single prop.
+
+22
+00:00:42,157 --> 00:00:44,556
+To build the shot, we've received this set of objects
+
+23
+00:00:44,556 --> 00:00:46,692
+from the modeling department to work with.
+
+24
+00:00:46,692 --> 00:00:49,934
+At Pixar, we call such a collection a model catalog.
+
+25
+00:00:49,934 --> 00:00:53,081
+Since in this lesson we're working in 2D,
+
+26
+00:00:53,081 --> 00:00:55,095
+our objects are 2D images.
+
+27
+00:00:55,095 --> 00:00:58,199
+But when we do this for real in a Pixar movie,
+
+28
+00:00:58,199 --> 00:01:00,759
+our assets are 3-dimensional models.
+
+29
+00:01:00,759 --> 00:01:03,206
+In either the 2D or 3D case,
+
+30
+00:01:03,206 --> 00:01:04,569
+we pick a reference point on the
+
+31
+00:01:04,569 --> 00:01:06,871
+object to aid with placement.
+
+32
+00:01:06,871 --> 00:01:09,730
+We could choose any reference point we like.
+
+33
+00:01:09,730 --> 00:01:12,592
+In this lesson, we'll choose the lower left corner.
+
+34
+00:01:12,592 --> 00:01:14,809
+Objects brought into the shot from the model catalog
+
+35
+00:01:14,809 --> 00:01:17,239
+will appear with the reference point at the origin.
+
+36
+00:01:17,239 --> 00:01:19,804
+To lay out my shot, I start with the dresser,
+
+37
+00:01:19,804 --> 00:01:23,599
+since it's one of the bigger forms I'll need to work with.
+
+38
+00:01:23,599 --> 00:01:25,263
+Once the object is in the shot,
+
+39
+00:01:25,263 --> 00:01:26,971
+I can position it wherever I want
+
+40
+00:01:26,971 --> 00:01:29,049
+using the translation operation.
+
+41
+00:01:29,049 --> 00:01:31,513
+For instance, lets move it five units
+
+42
+00:01:31,513 --> 00:01:34,200
+to the right, and five units upwards.
+
+43
+00:01:34,200 --> 00:01:36,203
+To translate the entire object,
+
+44
+00:01:36,203 --> 00:01:38,944
+we have to translate each point in the object.
+
+45
+00:01:38,944 --> 00:01:41,292
+So, if I pick this point on the initial object.
+
+46
+00:01:41,292 --> 00:01:44,271
+Call its coordinates x zero and y zero,
+
+47
+00:01:44,271 --> 00:01:47,388
+it gets moved to this point after translation.
+
+48
+00:01:47,388 --> 00:01:49,605
+Call the coordinates of this translated point
+
+49
+00:01:49,605 --> 00:01:52,122
+x one and y one.
+
+50
+00:01:52,122 --> 00:01:53,816
+This formula over here tells us
+
+51
+00:01:53,816 --> 00:01:56,349
+that the mathematics of translation is addition.
+
+52
+00:01:56,349 --> 00:01:59,379
+As I click on a point in its initial position,
+
+53
+00:01:59,379 --> 00:02:01,171
+you see where that point goes
+
+54
+00:02:01,171 --> 00:02:03,902
+as well as what's happening to the coordinates.
+
+55
+00:02:03,902 --> 00:02:07,867
+So whenever you see objects changing position in our films,
+
+56
+00:02:07,867 --> 00:02:10,215
+you know that translation, and therefore addition,
+
+57
+00:02:10,215 --> 00:02:12,687
+is going on under the hood.
+
+58
+00:02:12,687 --> 00:02:14,441
+Your first assignment is to select objects
+
+59
+00:02:14,441 --> 00:02:16,654
+from the model catalog to create a first pass
+
+60
+00:02:16,654 --> 00:02:19,384
+at that drawing you got from the story department.
+
+61
+00:02:19,384 --> 00:02:21,394
+To keep things simple for this first assignment,
+
+62
+00:02:21,394 --> 00:02:23,943
+we've only given you the translation operation,
+
+63
+00:02:23,943 --> 00:02:26,514
+so you won't be able to layout the whole shot.
+
+64
+00:02:26,514 --> 00:02:28,261
+Your job is to figure out which objects
+
+65
+00:02:28,261 --> 00:02:30,710
+you can place using only translation.
+
+66
+00:02:30,710 --> 00:02:32,169
+You shouldn't pick objects that are
+
+67
+00:02:32,169 --> 00:02:35,371
+going to require re-sizing or rotation just yet.
+
+68
+00:02:35,371 --> 00:02:37,759
+And if you add an object by mistake,
+
+69
+00:02:37,759 --> 00:02:40,020
+you can always click remove.
+
+70
+00:02:40,020 --> 00:02:42,000
+Good luck. aimozhen.com/pixarinabox
+

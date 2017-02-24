@@ -4,8 +4,7 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 2
 00:00:03,403 --> 00:00:06,930
-- We can express so much
-emotion through our bodies.
+- We can express so much emotion through our bodies.
 
 3
 00:00:06,930 --> 00:00:08,842
@@ -25,13 +24,11 @@ faces display emotions or ideas.
 
 7
 00:00:16,740 --> 00:00:20,588
-There's so much detail
-in every expression.
+There's so much detail in every expression.
 
 8
 00:00:20,588 --> 00:00:23,858
-In our next exercise, we're
-gonna rig a snowman face.
+In our next exercise, we're gonna rig a snowman face.
 
 9
 00:00:23,858 --> 00:00:26,044
@@ -55,8 +52,7 @@ If you scale the hat using Scale Y,
 
 14
 00:00:35,501 --> 00:00:38,393
-you'll get a taller hate
-that looks like a top hat.
+you'll get a taller hate that looks like a top hat.
 
 15
 00:00:38,393 --> 00:00:40,375
@@ -72,13 +68,11 @@ You also need shear deformers.
 
 18
 00:00:45,408 --> 00:00:48,628
-Shear deformers are similar
-to directional scales,
+Shear deformers are similar to directional scales,
 
 19
 00:00:48,628 --> 00:00:52,876
-in the sense that they work
-in a specific direction.
+in the sense that they work in a specific direction.
 
 20
 00:00:52,876 --> 00:00:54,769
@@ -86,13 +80,11 @@ We also have our set of rotates,
 
 21
 00:00:54,769 --> 00:00:58,376
-and translates, and scales,
-that we already used.
+and translates, and scales, that we already used.
 
 22
 00:00:58,376 --> 00:01:01,070
-Just as before, you
-should work rough to fine,
+Just as before, you should work rough to fine,
 
 23
 00:01:01,070 --> 00:01:02,861
@@ -100,13 +92,11 @@ with retaining the head to begin with.
 
 24
 00:01:02,861 --> 00:01:06,280
-And then, translating
-and rotating the hat.
+And then, translating and rotating the hat.
 
 25
 00:01:06,280 --> 00:01:09,412
-Remember, the order of
-your deformers matters,
+Remember, the order of your deformers matters,
 
 26
 00:01:09,412 --> 00:01:12,378
@@ -122,6 +112,5 @@ move on to the next lesson where
 
 29
 00:01:15,152 --> 00:01:19,000
-you'll learn to write code
-to make your own character. aimozhen.com/pixarinabox
+you'll learn to write code to make your own character. aimozhen.com/pixarinabox
 

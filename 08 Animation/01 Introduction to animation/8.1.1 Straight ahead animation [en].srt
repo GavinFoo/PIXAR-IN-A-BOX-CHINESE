@@ -1,0 +1,148 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:00,417 --> 00:00:01,292
+ In Pixar BOX 
+
+3
+00:00:03,292 --> 00:00:05,918
+ Before looking at the function of the spline, 
+
+4
+00:00:05,918 --> 00:00:08,709
+ I'll show you the animation department in Pixarze. 
+
+5
+00:00:09,709 --> 00:00:11,792
+ We are constantly working on films, 
+
+6
+00:00:11,792 --> 00:00:14,125
+ but the shoot does not exist. 
+
+7
+00:00:14,125 --> 00:00:17,125
+ We work at the computer. 
+
+8
+00:00:17,125 --> 00:00:18,000
+ It does not have to be boring. 
+
+9
+00:00:19,000 --> 00:00:21,375
+ Because this work requires creativity, 
+
+10
+00:00:21,375 --> 00:00:24,792
+ we try to Pixar creative favored. 
+
+11
+00:00:24,792 --> 00:00:27,584
+ Animation department consists of several parts. 
+
+12
+00:00:27,584 --> 00:00:29,959
+ With various offices. 
+
+13
+00:00:29,959 --> 00:00:32,709
+ Each part has a different style. 
+
+14
+00:00:32,709 --> 00:00:36,626
+ Here is a jungle. Lianas, leaves, lock ... 
+
+15
+00:00:36,626 --> 00:00:40,334
+ The room itself resembles an airplane wreck. 
+
+16
+00:00:40,334 --> 00:00:43,125
+ It is a meeting place for animators. 
+
+17
+00:00:43,125 --> 00:00:45,000
+ There is even a position to play live. 
+
+18
+00:00:46,000 --> 00:00:48,125
+ In my spare time I am a DJ, 
+
+19
+00:00:48,125 --> 00:00:52,000
+ So in his office I put vinyl and adapter. 
+
+20
+00:00:53,000 --> 00:00:56,459
+ First, I will show you several methods used in the animation manually, 
+
+21
+00:00:56,459 --> 00:00:59,082
+ and then to process it by computer. 
+
+22
+00:00:59,082 --> 00:01:02,167
+ We animate the ball using progressive redraw. 
+
+23
+00:01:04,167 --> 00:01:06,417
+ I'll start from the first frame. 
+
+24
+00:01:07,417 --> 00:01:11,334
+ I take a second card (thanks to the pins is equal). 
+
+25
+00:01:12,334 --> 00:01:14,459
+ I draw the second frame. 
+
+26
+00:01:15,459 --> 00:01:17,375
+ Now the third frame ... 
+
+27
+00:01:17,375 --> 00:01:18,709
+ And fourth. 
+
+28
+00:01:19,709 --> 00:01:23,042
+ As you can see, I draw frames one, in order. 
+
+29
+00:01:23,042 --> 00:01:26,876
+ When I'm done, wskanuję drawings and they can be played. 
+
+30
+00:01:30,876 --> 00:01:33,876
+ Drawing progressive computer works the same way. 
+
+31
+00:01:33,876 --> 00:01:36,459
+ Tested in an interactive exercise. 
+
+32
+00:01:36,459 --> 00:01:41,209
+ Przeciągnijcie the ball where you want to be at the beginning of the animation, 
+
+33
+00:01:41,209 --> 00:01:44,709
+ Move on to the next frame, and move over the ball. 
+
+34
+00:01:44,709 --> 00:01:46,417
+ In each frame a little further. 
+
+35
+00:01:47,417 --> 00:01:49,709
+ Just do so in subsequent frames. 
+
+36
+00:01:50,709 --> 00:01:54,167
+ When you're done, hit your "Play" to play the animation. 
+
+37
+00:01:56,167 --> 00:01:58,000
+ Let's see how you go!  aimozhen.com/pixarinabox
+

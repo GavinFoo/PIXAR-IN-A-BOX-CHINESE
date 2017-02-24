@@ -1,0 +1,188 @@
+1
+00:00:00,000 --> 00:00:03,337
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,337 --> 00:00:05,381
+- There's a detail that we need to attend to:
+
+3
+00:00:05,381 --> 00:00:07,702
+there's a slight problem with the slope intercept form
+
+4
+00:00:07,702 --> 00:00:09,433
+of the sine geometry.
+
+5
+00:00:09,433 --> 00:00:11,395
+The problem is that if AB is vertical,
+
+6
+00:00:11,395 --> 00:00:13,856
+the slope isn't defined.
+
+7
+00:00:13,856 --> 00:00:16,426
+To see that, look at the slope intercept form
+
+8
+00:00:16,426 --> 00:00:20,237
+in general: y equals m x plus i,
+
+9
+00:00:21,237 --> 00:00:24,187
+where m is the slope and i is the y-intercept.
+
+10
+00:00:25,187 --> 00:00:29,462
+The slope m is the change in y divided by the change in x,
+
+11
+00:00:30,462 --> 00:00:32,873
+meaning that if AB is a vertical line,
+
+12
+00:00:32,873 --> 00:00:34,079
+there is no change in x.
+
+13
+00:00:35,079 --> 00:00:37,818
+So, computing the slope would mean dividing by zero,
+
+14
+00:00:37,818 --> 00:00:39,568
+which is bad.
+
+15
+00:00:41,568 --> 00:00:43,972
+(bell)
+
+16
+00:00:43,972 --> 00:00:45,900
+But we can eliminate this problem
+
+17
+00:00:45,900 --> 00:00:48,847
+by multiplying through by the change in x.
+
+18
+00:00:49,847 --> 00:00:52,773
+So, multiplying through by the change in x,
+
+19
+00:00:52,773 --> 00:00:55,801
+we get change in x times y
+
+20
+00:00:55,801 --> 00:00:58,810
+equals change in y times x
+
+21
+00:00:58,810 --> 00:01:01,072
+plus i times change in x.
+
+22
+00:01:02,072 --> 00:01:04,278
+It's common to move everything to one side
+
+23
+00:01:04,278 --> 00:01:08,179
+and re-write this as change in y times x
+
+24
+00:01:08,179 --> 00:01:10,440
+minus change in x times y
+
+25
+00:01:11,440 --> 00:01:14,631
+plus i times change of x equals zero.
+
+26
+00:01:16,631 --> 00:01:19,915
+Call this term, change in y, a value: a;
+
+27
+00:01:20,915 --> 00:01:24,420
+this term, negative change in x, a value: b;
+
+28
+00:01:25,420 --> 00:01:30,935
+and this term, i times change of x, a value: c;
+
+29
+00:01:30,935 --> 00:01:33,676
+meaning we can write an equation for the line
+
+30
+00:01:33,676 --> 00:01:38,143
+as a x plus b y plus c equals zero.
+
+31
+00:01:39,143 --> 00:01:42,054
+An equation like this for a line goes by several names.
+
+32
+00:01:42,054 --> 00:01:44,031
+It is sometimes called the line equation.
+
+33
+00:01:44,031 --> 00:01:46,653
+It's also called the implicit form for the line.
+
+34
+00:01:47,653 --> 00:01:50,436
+Let's do an example for this specific line, AB.
+
+35
+00:01:52,436 --> 00:01:54,879
+Change in y is negative three.
+
+36
+00:01:54,879 --> 00:01:56,860
+Change in x is one,
+
+37
+00:01:56,860 --> 00:01:58,170
+and i is 11.
+
+38
+00:01:59,170 --> 00:02:02,874
+So, negative three x minus y
+
+39
+00:02:02,874 --> 00:02:05,217
+plus 11 equals zero.
+
+40
+00:02:06,217 --> 00:02:08,886
+That line equation is shown here.
+
+41
+00:02:09,886 --> 00:02:12,300
+Notice that as I move A and B around,
+
+42
+00:02:12,300 --> 00:02:14,645
+the line equation updates accordingly.
+
+43
+00:02:15,645 --> 00:02:18,128
+The line equation can be used with the parametric form
+
+44
+00:02:18,128 --> 00:02:21,646
+of array to compute intersection points,
+
+45
+00:02:21,646 --> 00:02:25,848
+this time, for any type of line, even vertical ones.
+
+46
+00:02:25,848 --> 00:02:27,441
+Use the next exercise to practice
+
+47
+00:02:27,441 --> 00:02:30,000
+computing intersection points using line equations. aimozhen.com/pixarinabox
+

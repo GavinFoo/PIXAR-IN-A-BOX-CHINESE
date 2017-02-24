@@ -1,0 +1,112 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:00,375 --> 00:00:01,501
+ In Pixar BOX 
+
+3
+00:00:03,501 --> 00:00:05,792
+ You already know this and that 
+
+4
+00:00:05,792 --> 00:00:09,042
+ of the weighted average for the two and three points. 
+
+5
+00:00:11,042 --> 00:00:12,542
+ Let's see what will happen, 
+
+6
+00:00:12,542 --> 00:00:15,542
+ When the step of centering with the center points 
+
+7
+00:00:15,542 --> 00:00:17,751
+ We replace the weighted average. 
+
+8
+00:00:20,751 --> 00:00:23,918
+ Let's go back to the exercise of the division and the curve. 
+
+9
+00:00:23,918 --> 00:00:27,501
+ Only now we can change the weight 
+
+10
+00:00:27,501 --> 00:00:29,918
+ at the stage of centering. 
+
+11
+00:00:30,918 --> 00:00:35,959
+ Ones mean that draw simple average. 
+
+12
+00:00:35,959 --> 00:00:39,542
+ I divide the sides, as usual, by proposing their measures. 
+
+13
+00:00:40,542 --> 00:00:43,792
+ Now we move the points about half the distance 
+
+14
+00:00:43,792 --> 00:00:45,167
+ toward the right-hand neighbor. 
+
+15
+00:00:50,167 --> 00:00:53,125
+ Look, what if I change the weight of 2, 2 and 1. 
+
+16
+00:00:55,125 --> 00:00:57,542
+ Division 
+
+17
+00:00:57,542 --> 00:01:00,082
+ centering 
+
+18
+00:01:03,082 --> 00:01:06,751
+ Generalize this to extract the average of the three points. 
+
+19
+00:01:07,751 --> 00:01:12,501
+ Look what happens when I change the weight at 1, 2 and 1. 
+
+20
+00:01:13,501 --> 00:01:15,542
+ Now I share, as before, 
+
+21
+00:01:15,542 --> 00:01:17,375
+ but while centering 
+
+22
+00:01:17,375 --> 00:01:21,375
+ each point will move to the designated place weight 2. 
+
+23
+00:01:23,375 --> 00:01:26,584
+ The neighbor on the left has a weight of 1 
+
+24
+00:01:26,584 --> 00:01:28,167
+ and neighbor on the right - or 1. 
+
+25
+00:01:30,167 --> 00:01:32,918
+ This point should move more or less here, 
+
+26
+00:01:32,918 --> 00:01:35,375
+ as in the example with the weighted average. 
+
+27
+00:01:36,375 --> 00:01:40,125
+ If we divide again and Center, the effect will be the same. 
+
+28
+00:01:43,125 --> 00:01:48,000
+ The exercise oswoicie with the concept of weighted divisions. Good luck!  aimozhen.com/pixarinabox
+

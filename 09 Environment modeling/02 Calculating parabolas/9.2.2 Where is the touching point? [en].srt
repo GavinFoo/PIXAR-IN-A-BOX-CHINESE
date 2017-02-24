@@ -1,0 +1,140 @@
+1
+00:00:00,000 --> 00:00:03,222
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,222 --> 00:00:05,241
+- We're ready for step two in our search
+
+3
+00:00:05,241 --> 00:00:07,413
+for the elusive formula of how to compute
+
+4
+00:00:07,413 --> 00:00:10,092
+a point exactly on a parabola.
+
+5
+00:00:10,092 --> 00:00:11,910
+To gain some intuition, let's go back
+
+6
+00:00:11,910 --> 00:00:14,900
+to the interactive that we used to kick this all off.
+
+7
+00:00:14,900 --> 00:00:18,314
+So here's my string art construction with a bunch of lines.
+
+8
+00:00:18,314 --> 00:00:21,262
+And now, let me cycle through the lines one at a time,
+
+9
+00:00:21,262 --> 00:00:23,039
+highlighted here in magenta.
+
+10
+00:00:23,039 --> 00:00:24,919
+So there's one of them, here's another one,
+
+11
+00:00:24,919 --> 00:00:26,735
+here's another one.
+
+12
+00:00:26,735 --> 00:00:29,435
+And each of these magenta lines can be described
+
+13
+00:00:29,435 --> 00:00:34,328
+by some fraction T that names that point on the line.
+
+14
+00:00:34,328 --> 00:00:36,900
+As I wiggle the magenta line back and forth,
+
+15
+00:00:36,900 --> 00:00:39,094
+notice that it continues to touch the parabola
+
+16
+00:00:39,094 --> 00:00:41,973
+in exactly one place.
+
+17
+00:00:41,973 --> 00:00:44,517
+Well if I can develop a formula for where that place is,
+
+18
+00:00:44,517 --> 00:00:46,873
+that's the formula I'm looking for.
+
+19
+00:00:46,873 --> 00:00:48,440
+We can see that even more clearly
+
+20
+00:00:48,440 --> 00:00:50,218
+in this version of the interactive
+
+21
+00:00:50,218 --> 00:00:51,377
+that you'll be using in a moment
+
+22
+00:00:51,377 --> 00:00:53,560
+to solve a couple of exercises.
+
+23
+00:00:53,560 --> 00:00:56,079
+So in this version, I can use this perimeter T
+
+24
+00:00:56,079 --> 00:00:58,994
+to name which string art line I'm talking about.
+
+25
+00:00:58,994 --> 00:01:00,921
+And notice that each of the string art lines
+
+26
+00:01:00,921 --> 00:01:04,397
+touches the parabola in exactly one place.
+
+27
+00:01:04,397 --> 00:01:06,679
+In the next exercise, you'll be asked to come up with a
+
+28
+00:01:06,679 --> 00:01:09,777
+hypothesis for where that place is.
+
+29
+00:01:09,777 --> 00:01:11,717
+And the hypothesis, as a hint,
+
+30
+00:01:11,717 --> 00:01:15,037
+has something to do with the ratios of these subsegments
+
+31
+00:01:15,037 --> 00:01:16,558
+that are being created.
+
+32
+00:01:16,558 --> 00:01:18,974
+And we've color coded those subsegments to give you
+
+33
+00:01:18,974 --> 00:01:21,096
+an even more of a hint.
+
+34
+00:01:21,096 --> 00:01:22,176
+So see if you can figure out
+
+35
+00:01:22,176 --> 00:01:24,000
+what that special relationship is. aimozhen.com/pixarinabox
+

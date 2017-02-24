@@ -1,0 +1,148 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:00,027 --> 00:00:03,387
+(springing noises)
+
+3
+00:00:03,387 --> 00:00:04,857
+- We're a good way towards building a shot
+
+4
+00:00:04,857 --> 00:00:07,643
+that matches the sketch we got from the story department.
+
+5
+00:00:07,643 --> 00:00:10,127
+But before we continue, let's pause for a moment
+
+6
+00:00:10,127 --> 00:00:12,077
+to explore an interesting issue that comes up
+
+7
+00:00:12,077 --> 00:00:14,098
+when combining operations.
+
+8
+00:00:14,098 --> 00:00:16,605
+In the last exercise, you used the two operations
+
+9
+00:00:16,605 --> 00:00:20,088
+of scaling and translation to position some objects.
+
+10
+00:00:20,088 --> 00:00:23,176
+For example, suppose I start by translating this object
+
+11
+00:00:23,176 --> 00:00:26,102
+by five in X and three in Y,
+
+12
+00:00:26,102 --> 00:00:29,704
+and then scale by a factor of two.
+
+13
+00:00:29,704 --> 00:00:30,996
+But what if I change the order
+
+14
+00:00:30,996 --> 00:00:34,920
+and do scaling before translation?
+
+15
+00:00:34,920 --> 00:00:37,451
+In this case, I'll scale by a factor of two,
+
+16
+00:00:37,451 --> 00:00:41,561
+and then translate by five in X and three in Y.
+
+17
+00:00:41,561 --> 00:00:44,528
+Huh. I get a different result.
+
+18
+00:00:44,528 --> 00:00:47,082
+^ That means the order of operations matters
+
+19
+00:00:47,082 --> 00:00:50,402
+^ when we combine scaling and translation.
+
+20
+00:00:50,402 --> 00:00:53,444
+Let's try applying two different translations.
+
+21
+00:00:53,444 --> 00:00:57,042
+The first by, say, hmm, five in X and three in Y.
+
+22
+00:00:57,042 --> 00:01:01,036
+And the second by, say, two in X and four in Y.
+
+23
+00:01:01,036 --> 00:01:02,685
+And if I do these in the opposite order,
+
+24
+00:01:02,685 --> 00:01:04,843
+I get the same result.
+
+25
+00:01:04,843 --> 00:01:06,492
+^ So apparently, order doesn't matter
+
+26
+00:01:06,492 --> 00:01:08,884
+^ when combining two translations.
+
+27
+00:01:08,884 --> 00:01:11,090
+When order doesn't matter, mathematicians say
+
+28
+00:01:11,090 --> 00:01:12,646
+that the operations are commutative.
+
+29
+00:01:12,646 --> 00:01:14,224
+(magical chiming)
+
+30
+00:01:14,224 --> 00:01:16,825
+When order does matter, mathematicians say
+
+31
+00:01:16,825 --> 00:01:21,956
+the operations are (magical chiming) non-commutative.
+
+32
+00:01:21,956 --> 00:01:23,373
+Translations commute with each other
+
+33
+00:01:23,373 --> 00:01:25,578
+because addition is commutative.
+
+34
+00:01:25,578 --> 00:01:28,412
+^ But scaling and translation don't commute.
+
+35
+00:01:28,412 --> 00:01:31,291
+^ We'll study commutativity in more detail a little later.
+
+36
+00:01:31,291 --> 00:01:33,404
+In the meantime, use the next exercise
+
+37
+00:01:33,404 --> 00:01:35,000
+to get some practice with this concept. aimozhen.com/pixarinabox
+

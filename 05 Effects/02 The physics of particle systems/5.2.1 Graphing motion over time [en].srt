@@ -4,8 +4,7 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 2
 00:00:03,242 --> 00:00:06,275
-- In this lesson, we'll revisit
-our ping pong ball simulator
+- In this lesson, we'll revisit our ping pong ball simulator
 
 3
 00:00:06,275 --> 00:00:08,134
@@ -25,8 +24,7 @@ you'll learn everything you need
 
 7
 00:00:13,098 --> 00:00:15,254
-to code up your own
-ping pong ball simulator
+to code up your own ping pong ball simulator
 
 8
 00:00:15,254 --> 00:00:17,221
@@ -50,18 +48,15 @@ laws of physics.
 
 13
 00:00:26,745 --> 00:00:29,313
-Two. Control how
-particles collide with the
+Two. Control how particles collide with the
 
 14
 00:00:29,313 --> 00:00:32,067
-walls of the container
-and with each other.
+walls of the container and with each other.
 
 15
 00:00:32,067 --> 00:00:34,531
-Three. Create a method
-to track particle motion
+Three. Create a method to track particle motion
 
 16
 00:00:34,531 --> 00:00:35,704
@@ -77,8 +72,7 @@ let's draw different kinds of motion.
 
 19
 00:00:41,082 --> 00:00:43,264
-By motion, we mean how
-the position of particles
+By motion, we mean how the position of particles
 
 20
 00:00:43,264 --> 00:00:45,256
@@ -86,8 +80,7 @@ will change over time.
 
 21
 00:00:45,256 --> 00:00:48,611
-We got an idea of how things
-move in our animation lesson.
+We got an idea of how things move in our animation lesson.
 
 22
 00:00:48,611 --> 00:00:50,631
@@ -95,18 +88,15 @@ In that lesson, we animated a ball
 
 23
 00:00:50,631 --> 00:00:52,794
-by drawing it in different
-positions over time
+by drawing it in different positions over time
 
 24
 00:00:52,794 --> 00:00:56,373
-using each frame indicated
-at the bottom of the screen.
+using each frame indicated at the bottom of the screen.
 
 25
 00:00:56,373 --> 00:00:58,383
-If we draw the ball
-moving an equal distance
+If we draw the ball moving an equal distance
 
 26
 00:00:58,383 --> 00:00:59,386
@@ -114,8 +104,7 @@ between each frame,
 
 27
 00:00:59,386 --> 00:01:02,402
-it looks like it's sliding
-along a friction-less surface.
+it looks like it's sliding along a friction-less surface.
 
 28
 00:01:02,402 --> 00:01:03,701
@@ -127,8 +116,7 @@ It's constant.
 
 30
 00:01:05,584 --> 00:01:07,660
-If we plot the position
-of the ball over time,
+If we plot the position of the ball over time,
 
 31
 00:01:07,660 --> 00:01:09,360
@@ -136,8 +124,7 @@ we get a straight line.
 
 32
 00:01:09,360 --> 00:01:11,929
-Here, time is expressed
-on the horizontal axis
+Here, time is expressed on the horizontal axis
 
 33
 00:01:11,929 --> 00:01:13,226
@@ -193,8 +180,7 @@ A harder challenge is animating the ball
 
 46
 00:01:37,409 --> 00:01:39,575
-so it actually looks like
-it is being acted upon
+so it actually looks like it is being acted upon
 
 47
 00:01:39,575 --> 00:01:41,139
@@ -202,8 +188,7 @@ by gravity.
 
 48
 00:01:41,139 --> 00:01:43,037
-To do that, we have to
-increase the distance
+To do that, we have to increase the distance
 
 49
 00:01:43,037 --> 00:01:45,233
@@ -211,8 +196,7 @@ that the ball travels between each frame.
 
 50
 00:01:45,233 --> 00:01:49,022
-This is because the ball
-needs to speed up as it falls.
+This is because the ball needs to speed up as it falls.
 
 51
 00:01:49,022 --> 00:01:50,649
@@ -224,8 +208,7 @@ we get a curve.
 
 53
 00:01:51,536 --> 00:01:53,636
-This is because at each
-frame we are changing
+This is because at each frame we are changing
 
 54
 00:01:53,636 --> 00:01:55,102
@@ -233,8 +216,7 @@ the slope of the line.
 
 55
 00:01:55,102 --> 00:01:58,093
-Now, if we plot the speed
-of the ball over time,
+Now, if we plot the speed of the ball over time,
 
 56
 00:01:58,093 --> 00:02:00,380
@@ -250,8 +232,7 @@ is no longer constant.
 
 59
 00:02:03,587 --> 00:02:05,503
-The slope of the line
-is telling us how fast
+The slope of the line is telling us how fast
 
 60
 00:02:05,503 --> 00:02:07,616
@@ -259,8 +240,7 @@ the ball's speed is changing.
 
 61
 00:02:07,616 --> 00:02:09,541
-Just like we plotted
-the change in position
+Just like we plotted the change in position
 
 62
 00:02:09,541 --> 00:02:11,043
@@ -276,8 +256,7 @@ to get acceleration of the ball.
 
 65
 00:02:14,762 --> 00:02:16,633
-Here is the plot of
-the ball's acceleration
+Here is the plot of the ball's acceleration
 
 66
 00:02:16,633 --> 00:02:17,473
@@ -301,8 +280,7 @@ due to gravity is constant.
 
 71
 00:02:24,994 --> 00:02:28,102
-To summarize, speed is
-the slope of the ball's
+To summarize, speed is the slope of the ball's
 
 72
 00:02:28,102 --> 00:02:30,025
@@ -330,8 +308,7 @@ divided by change in time.
 
 78
 00:02:40,495 --> 00:02:43,149
-And acceleration is
-equal to change in speed
+And acceleration is equal to change in speed
 
 79
 00:02:43,149 --> 00:02:44,842
@@ -351,11 +328,9 @@ we'll challenge you to think about
 
 83
 00:02:48,596 --> 00:02:50,785
-how the motion of
-objects changes over time
+how the motion of objects changes over time
 
 84
 00:02:50,785 --> 00:02:54,000
-in terms of position,
-speed and acceleration. aimozhen.com/pixarinabox
+in terms of position, speed and acceleration. aimozhen.com/pixarinabox
 

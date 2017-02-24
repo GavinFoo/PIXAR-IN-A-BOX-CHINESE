@@ -4,23 +4,19 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 2
 00:00:03,520 --> 00:00:05,975
-- Now, it's time to add a
-lens to our pinhole camera.
+- Now, it's time to add a lens to our pinhole camera.
 
 3
 00:00:05,975 --> 00:00:07,885
-In the previous lesson,
-we explored how lenses
+In the previous lesson, we explored how lenses
 
 4
 00:00:07,885 --> 00:00:11,013
-bend or refract incoming
-parallel rays of light
+bend or refract incoming parallel rays of light
 
 5
 00:00:11,013 --> 00:00:14,840
-and focus them at a single
-point known as a focal point.
+and focus them at a single point known as a focal point.
 
 6
 00:00:14,840 --> 00:00:16,628
@@ -28,13 +24,11 @@ We called the distance from the lens
 
 7
 00:00:16,628 --> 00:00:20,042
-to the focal point the
-focal length of the lens.
+to the focal point the focal length of the lens.
 
 8
 00:00:20,042 --> 00:00:22,562
-Now, if an object is
-really far from a lens,
+Now, if an object is really far from a lens,
 
 9
 00:00:22,562 --> 00:00:23,905
@@ -66,8 +60,7 @@ Where do they focus?
 
 16
 00:00:36,393 --> 00:00:38,550
-That is, where would you
-have to put the image plane
+That is, where would you have to put the image plane
 
 17
 00:00:38,550 --> 00:00:40,784
@@ -75,23 +68,19 @@ to make this image sharp?
 
 18
 00:00:40,784 --> 00:00:44,397
-To get started, we need to
-introduce some new variables.
+To get started, we need to introduce some new variables.
 
 19
 00:00:44,397 --> 00:00:48,504
-As we say in lesson one, f is
-the focal length of the lens.
+As we say in lesson one, f is the focal length of the lens.
 
 20
 00:00:48,504 --> 00:00:52,124
-Let o be the distance to the
-object we want to focus on,
+Let o be the distance to the object we want to focus on,
 
 21
 00:00:52,124 --> 00:00:54,610
-and let i represent the
-distance from the lens
+and let i represent the distance from the lens
 
 22
 00:00:54,610 --> 00:00:56,605
@@ -111,8 +100,7 @@ that lets us compute i from f and o.
 
 26
 00:01:03,240 --> 00:01:05,410
-Before we can do this, we
-need to look more closely
+Before we can do this, we need to look more closely
 
 27
 00:01:05,410 --> 00:01:08,013
@@ -120,23 +108,19 @@ at how lenses refract light.
 
 28
 00:01:08,013 --> 00:01:10,291
-Refraction is actually
-a little complicated,
+Refraction is actually a little complicated,
 
 29
 00:01:10,291 --> 00:01:13,632
-and it's described by an
-equation called Snell's law,
+and it's described by an equation called Snell's law,
 
 30
 00:01:13,632 --> 00:01:15,877
-but we won't need it here
-because we'll make an important
+but we won't need it here because we'll make an important
 
 31
 00:01:15,877 --> 00:01:19,535
-simplifying assumption called
-the thin lens approximation,
+simplifying assumption called the thin lens approximation,
 
 32
 00:01:19,535 --> 00:01:21,822
@@ -148,8 +132,7 @@ The thin lens approximation says
 
 34
 00:01:23,781 --> 00:01:26,622
-that any ray that passes
-through the center of the lens
+that any ray that passes through the center of the lens
 
 35
 00:01:26,622 --> 00:01:27,967
@@ -165,8 +148,7 @@ These are called medial rays.
 
 38
 00:01:32,076 --> 00:01:34,357
-And we know that parallel
-rays will refract
+And we know that parallel rays will refract
 
 39
 00:01:34,357 --> 00:01:36,067
@@ -174,18 +156,15 @@ as they pass through the lens
 
 40
 00:01:36,067 --> 00:01:38,587
-and pass through the
-focal point of the lens.
+and pass through the focal point of the lens.
 
 41
 00:01:38,587 --> 00:01:42,421
-That point is at distance f
-from the lens on the x-axis.
+That point is at distance f from the lens on the x-axis.
 
 42
 00:01:42,421 --> 00:01:45,108
-So, the focal length
-efines where a parallel ray
+So, the focal length efines where a parallel ray
 
 43
 00:01:45,108 --> 00:01:47,300
@@ -197,8 +176,7 @@ So, now we have a definition of two rays
 
 45
 00:01:48,898 --> 00:01:51,989
-which leave our object,
-medial and parallel,
+which leave our object, medial and parallel,
 
 46
 00:01:51,989 --> 00:01:53,782
@@ -206,13 +184,11 @@ and where the two rays intersect
 
 47
 00:01:53,782 --> 00:01:57,970
-defines the distance i at which
-the object comes into focus.
+defines the distance i at which the object comes into focus.
 
 48
 00:01:57,970 --> 00:02:00,288
-And the really cool part,
-the thin lens approximation
+And the really cool part, the thin lens approximation
 
 49
 00:02:00,288 --> 00:02:03,012
@@ -224,18 +200,15 @@ will come into focus at the same place.
 
 51
 00:02:05,983 --> 00:02:09,842
-And similarly, all points on
-the plane parallel to the lens
+And similarly, all points on the plane parallel to the lens
 
 52
 00:02:09,842 --> 00:02:13,180
-and at a distance o will come
-into focus on the same plane
+and at a distance o will come into focus on the same plane
 
 53
 00:02:13,180 --> 00:02:16,800
-on the other side, which is
-why we call it our focus plane.
+on the other side, which is why we call it our focus plane.
 
 54
 00:02:16,800 --> 00:02:17,937
@@ -243,8 +216,7 @@ If we can find the intersection
 
 55
 00:02:17,937 --> 00:02:20,298
-of those two rays, then
-we'll know where all rays
+of those two rays, then we'll know where all rays
 
 56
 00:02:20,298 --> 00:02:22,167
@@ -256,11 +228,9 @@ Pretty cool.
 
 58
 00:02:23,188 --> 00:02:25,798
-Okay, let's pause here so
-you can build your intuition
+Okay, let's pause here so you can build your intuition
 
 59
 00:02:25,798 --> 00:02:29,000
-about this diagram
-using the next exercise. aimozhen.com/pixarinabox
+about this diagram using the next exercise. aimozhen.com/pixarinabox
 

@@ -1,0 +1,145 @@
+1
+00:00:00,000 --> 00:00:03,335
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,335 --> 00:00:04,700
+- Now that you get the basic idea,
+
+3
+00:00:04,700 --> 00:00:05,747
+let's have a little fun with it.
+
+4
+00:00:06,747 --> 00:00:08,093
+We'll start by adding another control.
+
+5
+00:00:09,093 --> 00:00:11,813
+At Pixar we call these
+"animation variables"
+
+6
+00:00:11,813 --> 00:00:13,987
+or "avars" for short.
+
+7
+00:00:13,987 --> 00:00:18,315
+This avar scales the ball out in X, and down in Y.
+
+8
+00:00:20,315 --> 00:00:22,226
+You can control the timing of this avar
+
+9
+00:00:22,226 --> 00:00:24,657
+using the same graph editor.
+
+10
+00:00:25,657 --> 00:00:27,871
+Now we can make the ball stretch on the way down,
+
+11
+00:00:27,871 --> 00:00:29,752
+and squash when it hits the ground.
+
+12
+00:00:31,752 --> 00:00:33,851
+This idea of squash and stretch is one of the
+
+13
+00:00:33,851 --> 00:00:35,329
+key principles of animation.
+
+14
+00:00:36,329 --> 00:00:38,258
+Animating the squash and stretch of an object
+
+15
+00:00:38,258 --> 00:00:41,594
+helps us to communicate what that material is made out of.
+
+16
+00:00:41,594 --> 00:00:43,393
+Remember, our job as animators isn't just
+
+17
+00:00:43,393 --> 00:00:46,909
+to move things around, it's to bring them to life.
+
+18
+00:00:46,909 --> 00:00:48,275
+And one way to do that is to show
+
+19
+00:00:48,275 --> 00:00:50,983
+the character's thought process.
+
+20
+00:00:51,983 --> 00:00:54,932
+If this ball is alive, then maybe it's not just bouncing,
+
+21
+00:00:54,932 --> 00:00:56,369
+maybe it's hopping.
+
+22
+00:00:56,369 --> 00:00:59,969
+And before it hops it'll squash itself down in anticipation,
+
+23
+00:00:59,969 --> 00:01:03,647
+just like Luxo Jr squashes himself down before taking a hop.
+
+24
+00:01:03,647 --> 00:01:05,833
+This is some of the real magic of animation,
+
+25
+00:01:05,833 --> 00:01:07,075
+is that we can take something that's
+
+26
+00:01:07,075 --> 00:01:10,221
+fundamentally a lifeless object, and bring it to life.
+
+27
+00:01:10,221 --> 00:01:11,087
+(electronic squeaking)
+
+28
+00:01:12,087 --> 00:01:13,626
+(lampshade rattling)
+
+29
+00:01:13,626 --> 00:01:14,657
+(metallic whining)
+
+30
+00:01:16,657 --> 00:01:17,434
+(metallic sighing)
+
+31
+00:01:18,434 --> 00:01:19,488
+(wooden thudding)
+
+32
+00:01:19,488 --> 00:01:22,141
+(wooden thudding)
+
+33
+00:01:23,141 --> 00:01:25,016
+What kind of ball do you want to animate?
+
+34
+00:01:25,016 --> 00:01:26,227
+What's it doing?
+
+35
+00:01:26,227 --> 00:01:27,806
+What's it thinking?
+
+36
+00:01:27,806 --> 00:01:29,000
+Can you bring it to life? aimozhen.com/pixarinabox
+

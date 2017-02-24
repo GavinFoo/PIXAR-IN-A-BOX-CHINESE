@@ -4,8 +4,7 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 2
 00:00:03,293 --> 00:00:05,995
-- [Instructor] How many
-different colors can you see?
+- [Instructor] How many different colors can you see?
 
 3
 00:00:05,995 --> 00:00:07,796
@@ -17,8 +16,7 @@ Impossible to count them all, right?
 
 5
 00:00:10,253 --> 00:00:12,995
-Well, if we want to
-represent colors digitally,
+Well, if we want to represent colors digitally,
 
 6
 00:00:12,995 --> 00:00:16,396
@@ -30,8 +28,7 @@ That is, for any given shade you can see,
 
 8
 00:00:18,564 --> 00:00:21,920
-we need to give it a unique
-number or an address.
+we need to give it a unique number or an address.
 
 9
 00:00:21,920 --> 00:00:22,996
@@ -84,8 +81,7 @@ geometrically or spatially,
 
 21
 00:00:59,300 --> 00:01:03,959
-so they came up with the
-idea of a color space.
+so they came up with the idea of a color space.
 
 22
 00:01:03,959 --> 00:01:05,224
@@ -93,8 +89,7 @@ It's quite simple.
 
 23
 00:01:05,224 --> 00:01:08,208
-Normally, we represent a point
-in three dimensional space
+Normally, we represent a point in three dimensional space
 
 24
 00:01:08,208 --> 00:01:11,812
@@ -102,8 +97,7 @@ using x, y, and z-coordinates, like this.
 
 25
 00:01:11,812 --> 00:01:15,944
-But, instead, let's rename
-the axes red, green, and blue.
+But, instead, let's rename the axes red, green, and blue.
 
 26
 00:01:15,944 --> 00:01:19,172
@@ -111,8 +105,7 @@ And that gives us this color cube.
 
 27
 00:01:19,172 --> 00:01:23,218
-The key idea is this: every
-point within this cube
+The key idea is this: every point within this cube
 
 28
 00:01:23,218 --> 00:01:24,896
@@ -120,13 +113,11 @@ represents a specific color
 
 29
 00:01:24,896 --> 00:01:28,134
-a projector or a computer
-monitor could create.
+a projector or a computer monitor could create.
 
 30
 00:01:28,134 --> 00:01:30,795
-So, remember all those colors
-you were thinking about?
+So, remember all those colors you were thinking about?
 
 31
 00:01:30,795 --> 00:01:32,637
@@ -138,8 +129,7 @@ will always be a point in this cube.
 
 33
 00:01:35,459 --> 00:01:38,037
-To help this sink in, we
-have a color cube exercise
+To help this sink in, we have a color cube exercise
 
 34
 00:01:38,037 --> 00:01:39,305

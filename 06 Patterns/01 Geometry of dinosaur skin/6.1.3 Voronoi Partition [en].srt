@@ -4,8 +4,7 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 2
 00:00:03,216 --> 00:00:04,866
-- [Woman] Now that you're
-comfortable reading
+- [Woman] Now that you're comfortable reading
 
 3
 00:00:04,866 --> 00:00:06,989
@@ -13,8 +12,7 @@ shading packets, let's get to work.
 
 4
 00:00:06,989 --> 00:00:11,580
-- To begin, let's step back
-and simplify the problem.
+- To begin, let's step back and simplify the problem.
 
 5
 00:00:11,580 --> 00:00:13,161
@@ -42,18 +40,15 @@ or a 2D plane.
 
 11
 00:00:22,501 --> 00:00:24,898
-- We can do all the work
-like this in a flat plane,
+- We can do all the work like this in a flat plane,
 
 12
 00:00:24,898 --> 00:00:27,600
-and then wrap it up whenever
-we wanna test it out.
+and then wrap it up whenever we wanna test it out.
 
 13
 00:00:27,600 --> 00:00:31,390
-Let's first think about the
-geometry of our dino scales.
+Let's first think about the geometry of our dino scales.
 
 14
 00:00:31,390 --> 00:00:33,675
@@ -61,8 +56,7 @@ Each scale is an irregular shape,
 
 15
 00:00:33,675 --> 00:00:36,837
-and all of these different
-scales need to fit together
+and all of these different scales need to fit together
 
 16
 00:00:36,837 --> 00:00:38,231
@@ -82,8 +76,7 @@ It's known as a Voronoi diagram.
 
 20
 00:00:42,876 --> 00:00:45,119
-It's based on a pattern
-we see all over the place
+It's based on a pattern we see all over the place
 
 21
 00:00:45,119 --> 00:00:46,122
@@ -91,8 +84,7 @@ in the natural world.
 
 22
 00:00:46,122 --> 00:00:48,491
-From the spots on a giraffe,
-to the spots that form
+From the spots on a giraffe, to the spots that form
 
 23
 00:00:48,491 --> 00:00:49,786
@@ -108,13 +100,11 @@ behind Voronoi patterns with bubbles.
 
 26
 00:00:54,481 --> 00:00:56,182
-- [Brunette Woman] If we fill
-a container with bubbles,
+- [Brunette Woman] If we fill a container with bubbles,
 
 27
 00:00:56,182 --> 00:00:58,709
-like this, they squish together
-and we get the same pattern
+like this, they squish together and we get the same pattern
 
 28
 00:00:58,709 --> 00:01:01,589
@@ -122,8 +112,7 @@ based on where the bubbles touch.
 
 29
 00:01:01,589 --> 00:01:02,790
-- [Dark-Haired Woman] Let's
-think about the geometry
+- [Dark-Haired Woman] Let's think about the geometry
 
 30
 00:01:02,790 --> 00:01:04,252
@@ -131,8 +120,7 @@ of what's going on here.
 
 31
 00:01:04,252 --> 00:01:07,150
-We start by places a few
-points somewhere on the plane,
+We start by places a few points somewhere on the plane,
 
 32
 00:01:07,150 --> 00:01:09,266
@@ -140,8 +128,7 @@ doesn't matter where.
 
 33
 00:01:09,266 --> 00:01:10,479
-- [Brunette Woman] Imagine
-they are tiny bubbles,
+- [Brunette Woman] Imagine they are tiny bubbles,
 
 34
 00:01:10,479 --> 00:01:12,554
@@ -158,8 +145,7 @@ into larger bubbles.
 
 37
 00:01:15,346 --> 00:01:17,004
-- [Brunette Woman] Eventually
-the neighboring bubbles
+- [Brunette Woman] Eventually the neighboring bubbles
 
 38
 00:01:17,004 --> 00:01:18,773
@@ -184,8 +170,7 @@ is where we draw our lines.
 
 43
 00:01:26,212 --> 00:01:27,788
-- [Brunette Woman] And watch
-what happens when we do this
+- [Brunette Woman] And watch what happens when we do this
 
 44
 00:01:27,788 --> 00:01:29,561
@@ -205,8 +190,7 @@ A Voronoi pattern.
 
 48
 00:01:34,256 --> 00:01:35,830
-- [Brunette Woman] Or Voronoi
-partition, if you really
+- [Brunette Woman] Or Voronoi partition, if you really
 
 49
 00:01:35,830 --> 00:01:36,959
@@ -235,8 +219,7 @@ really interesting properties here.
 
 55
 00:01:46,264 --> 00:01:48,965
-The border of each cell is
-always the same distance
+The border of each cell is always the same distance
 
 56
 00:01:48,965 --> 00:01:51,126
@@ -244,8 +227,7 @@ to the two nearest sites.
 
 57
 00:01:51,126 --> 00:01:53,369
-- [Dark-Haired Woman] And
-wherever three lines meet,
+- [Dark-Haired Woman] And wherever three lines meet,
 
 58
 00:01:53,369 --> 00:01:56,601
@@ -253,13 +235,11 @@ we get a point, or a vertex right here.
 
 59
 00:01:56,601 --> 00:02:00,446
-And this is equally distant
-to the three nearest sides,
+And this is equally distant to the three nearest sides,
 
 60
 00:02:00,446 --> 00:02:04,046
-all thanks to the
-awesome power of bubble--
+all thanks to the awesome power of bubble--
 
 61
 00:02:04,046 --> 00:02:04,046
@@ -271,8 +251,7 @@ ah, math.
 
 63
 00:02:06,007 --> 00:02:07,625
-- Let's stop here and make
-sure that you understand
+- Let's stop here and make sure that you understand
 
 64
 00:02:07,625 --> 00:02:09,407
@@ -280,8 +259,7 @@ how to draw these Voronoi patterns.
 
 65
 00:02:09,407 --> 00:02:12,068
-- The following exercise
-will get you thinking about
+- The following exercise will get you thinking about
 
 66
 00:02:12,068 --> 00:02:13,518
@@ -289,8 +267,7 @@ how these work.
 
 67
 00:02:13,518 --> 00:02:16,206
-It's also a great time to
-grab a pencil and paper.
+It's also a great time to grab a pencil and paper.
 
 68
 00:02:16,206 --> 00:02:18,867
@@ -298,8 +275,7 @@ Remember, doodling is your friend.
 
 69
 00:02:18,867 --> 00:02:20,735
-- Do you have a good story
-about Voronoi patterns?
+- Do you have a good story about Voronoi patterns?
 
 70
 00:02:20,735 --> 00:02:21,779
@@ -307,23 +283,19 @@ about Voronoi patterns?
 
 71
 00:02:21,779 --> 00:02:25,304
-When we were working on The
-Incredibles, we had this cake
+When we were working on The Incredibles, we had this cake
 
 72
 00:02:25,304 --> 00:02:28,717
-that was absolutely
-beautiful, and it was made for
+that was absolutely beautiful, and it was made for
 
 73
 00:02:28,717 --> 00:02:31,294
-Bob Parr was gonna take
-a big bite out of it,
+Bob Parr was gonna take a big bite out of it,
 
 74
 00:02:31,294 --> 00:02:33,329
-and it was full of
-these beautiful bubbles,
+and it was full of these beautiful bubbles,
 
 75
 00:02:33,329 --> 00:02:35,767
@@ -339,13 +311,11 @@ And then the story changed a little bit,
 
 78
 00:02:40,002 --> 00:02:42,830
-and the shot ended up
-being filmed all at night.
+and the shot ended up being filmed all at night.
 
 79
 00:02:42,830 --> 00:02:44,530
-- [Brunette Woman] So you
-can never see all those
+- [Brunette Woman] So you can never see all those
 
 80
 00:02:44,530 --> 00:02:45,992

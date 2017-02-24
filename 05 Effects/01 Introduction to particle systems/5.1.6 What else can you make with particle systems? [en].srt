@@ -12,13 +12,11 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 4
 00:00:04,716 --> 00:00:07,135
-particle systems can be
-used for more than water.
+particle systems can be used for more than water.
 
 5
 00:00:07,135 --> 00:00:09,384
-Lots of other effects
-can be created with them.
+Lots of other effects can be created with them.
 
 6
 00:00:09,384 --> 00:00:10,540
@@ -54,18 +52,15 @@ We'll call these child particles.
 
 14
 00:00:23,951 --> 00:00:27,251
-You can vary the strength of
-gravity using this slider.
+You can vary the strength of gravity using this slider.
 
 15
 00:00:27,251 --> 00:00:30,219
-A large value keeps the
-particles from rising very high,
+A large value keeps the particles from rising very high,
 
 16
 00:00:30,219 --> 00:00:34,429
-and a small value causes
-particles to fly off the screen.
+and a small value causes particles to fly off the screen.
 
 17
 00:00:34,429 --> 00:00:35,638
@@ -81,8 +76,7 @@ This is called their lifetime.
 
 20
 00:00:40,177 --> 00:00:43,934
-We can vary the lifetime
-using this slider.
+We can vary the lifetime using this slider.
 
 21
 00:00:45,934 --> 00:00:47,222
@@ -102,8 +96,7 @@ let's add some randomness.
 
 25
 00:00:52,907 --> 00:00:55,186
-For instance, let's add
-some random variation
+For instance, let's add some random variation
 
 26
 00:00:55,186 --> 00:00:57,904
@@ -119,8 +112,7 @@ Let's also add some variation to the angle
 
 29
 00:01:00,719 --> 00:01:03,925
-at which the initial
-particles get launched.
+at which the initial particles get launched.
 
 30
 00:01:03,925 --> 00:01:04,349
@@ -128,8 +120,7 @@ Awesome.
 
 31
 00:01:06,349 --> 00:01:08,371
-See what kind of fireworks
-display you can create
+See what kind of fireworks display you can create
 
 32
 00:01:08,371 --> 00:01:10,031
@@ -150,8 +141,7 @@ we'll look more closely
 
 36
 00:01:18,470 --> 00:01:21,288
-at the physics underlying
-the ping pong ball simulator,
+at the physics underlying the ping pong ball simulator,
 
 37
 00:01:21,288 --> 00:01:22,330
@@ -159,8 +149,7 @@ which you'll need to understand
 
 38
 00:01:22,330 --> 00:01:25,040
-if you want to code up your
-own simulator from scratch.
+if you want to code up your own simulator from scratch.
 
 39
 00:01:25,040 --> 00:01:27,000

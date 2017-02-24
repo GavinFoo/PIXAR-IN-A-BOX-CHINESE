@@ -4,13 +4,11 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 2
 00:00:01,618 --> 00:00:05,353
-- What's the difference
-between motion and life?
+- What's the difference between motion and life?
 
 3
 00:00:05,353 --> 00:00:07,815
-What's the difference
-between this mechanical smile
+What's the difference between this mechanical smile
 
 4
 00:00:07,815 --> 00:00:09,522
@@ -50,8 +48,7 @@ Hi, I'm Brian Green,
 
 13
 00:00:22,708 --> 00:00:25,505
-a Rigging Technical
-Director here at Pixar.
+a Rigging Technical Director here at Pixar.
 
 14
 00:00:25,505 --> 00:00:27,975
@@ -63,13 +60,11 @@ to a digital model
 
 16
 00:00:29,070 --> 00:00:32,106
-to allow animators to
-move it around and act.
+to allow animators to move it around and act.
 
 17
 00:00:32,106 --> 00:00:34,376
-When you look at the way
-a living being moves,
+When you look at the way a living being moves,
 
 18
 00:00:34,376 --> 00:00:36,903
@@ -97,8 +92,7 @@ the skin around my eyes crinkle.
 
 24
 00:00:46,084 --> 00:00:50,055
-My chin stretches out to
-accommodate the emotion.
+My chin stretches out to accommodate the emotion.
 
 25
 00:00:50,055 --> 00:00:52,997
@@ -126,13 +120,11 @@ the surface mesh of our characters.
 
 31
 00:01:00,578 --> 00:01:02,938
-All of them represent
-mathematical formulas
+All of them represent mathematical formulas
 
 32
 00:01:02,938 --> 00:01:05,751
-that define a relationship
-between the many points
+that define a relationship between the many points
 
 33
 00:01:05,751 --> 00:01:07,459
@@ -140,13 +132,11 @@ that are affected by the motion.
 
 34
 00:01:07,459 --> 00:01:10,304
-For instance, I can start
-rigging Sully's mouth
+For instance, I can start rigging Sully's mouth
 
 35
 00:01:10,304 --> 00:01:12,766
-by adding a simple
-deformer called a rotate.
+by adding a simple deformer called a rotate.
 
 36
 00:01:12,766 --> 00:01:15,239
@@ -154,8 +144,7 @@ The underlying math here is trigonometry.
 
 37
 00:01:15,239 --> 00:01:17,498
-I'm going to add another
-tool called a repulsor.
+I'm going to add another tool called a repulsor.
 
 38
 00:01:17,498 --> 00:01:20,099
@@ -203,8 +192,7 @@ rigging the characters' bodies too.
 
 49
 00:01:35,755 --> 00:01:37,941
-Adding deformers that
-define a relationship
+Adding deformers that define a relationship
 
 50
 00:01:37,941 --> 00:01:39,828
@@ -232,13 +220,11 @@ are film actors.
 
 56
 00:01:48,096 --> 00:01:50,678
-So the kind of motion
-that they may need to make
+So the kind of motion that they may need to make
 
 57
 00:01:50,678 --> 00:01:53,258
-might be a little more extreme
-than a regular monster.
+might be a little more extreme than a regular monster.
 
 58
 00:01:53,258 --> 00:01:54,555
@@ -250,6 +236,5 @@ gives them extra life
 
 60
 00:01:55,492 --> 00:01:59,000
-so they can be extra
-exciting on the screen. aimozhen.com/pixarinabox
+so they can be extra exciting on the screen. aimozhen.com/pixarinabox
 

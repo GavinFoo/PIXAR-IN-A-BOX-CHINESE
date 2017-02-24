@@ -33,13 +33,11 @@ But inside the computer, where colors
 
 9
 00:00:13,323 --> 00:00:15,757
-are represented digitally,
-they're just numbers,
+are represented digitally, they're just numbers,
 
 10
 00:00:15,757 --> 00:00:19,222
-and they can represent the
-entire perceivable color space.
+and they can represent the entire perceivable color space.
 
 11
 00:00:19,222 --> 00:00:21,152
@@ -55,8 +53,7 @@ of the projector being used,
 
 14
 00:00:24,662 --> 00:00:27,568
-and that's the job of the
-color grading process.
+and that's the job of the color grading process.
 
 15
 00:00:27,568 --> 00:00:29,917
@@ -92,8 +89,7 @@ Hey Mark.
 
 23
 00:00:40,722 --> 00:00:41,891
-- [Dom] So tell me about
-some of the different
+- [Dom] So tell me about some of the different
 
 24
 00:00:41,891 --> 00:00:44,132
@@ -129,13 +125,11 @@ What's that like?
 
 32
 00:00:56,304 --> 00:00:58,054
-- [Mark] Well, as you
-mentioned color gamut,
+- [Mark] Well, as you mentioned color gamut,
 
 33
 00:00:58,054 --> 00:01:00,625
-the film has a totally
-different color gamut
+the film has a totally different color gamut
 
 34
 00:01:00,625 --> 00:01:02,312
@@ -143,8 +137,7 @@ than, say, digital cinema.
 
 35
 00:01:02,312 --> 00:01:04,458
-Especially film, the
-brighter saturated colors
+Especially film, the brighter saturated colors
 
 36
 00:01:04,458 --> 00:01:07,553
@@ -152,8 +145,7 @@ aren't as available, so say on Cars 2,
 
 37
 00:01:07,553 --> 00:01:10,893
-where we had McQueen, a
-bright saturated red car,
+where we had McQueen, a bright saturated red car,
 
 38
 00:01:10,893 --> 00:01:12,805
@@ -177,8 +169,7 @@ or is better to have proper contrast?
 
 43
 00:01:20,709 --> 00:01:23,128
-Any other stories or
-challenges on films past?
+Any other stories or challenges on films past?
 
 44
 00:01:23,128 --> 00:01:24,912
@@ -206,23 +197,19 @@ He tends to go brown on film,
 
 50
 00:01:32,773 --> 00:01:35,675
-so we had to carefully
-craft the grade for film
+so we had to carefully craft the grade for film
 
 51
 00:01:35,675 --> 00:01:38,854
-for that movie to make
-sure he stayed pink.
+for that movie to make sure he stayed pink.
 
 52
 00:01:38,854 --> 00:01:41,476
-- So in the next exercise,
-you're gonna have a chance
+- So in the next exercise, you're gonna have a chance
 
 53
 00:01:41,476 --> 00:01:43,768
-to explore what some of the
-different gamuts look like
+to explore what some of the different gamuts look like
 
 54
 00:01:43,768 --> 00:01:45,312

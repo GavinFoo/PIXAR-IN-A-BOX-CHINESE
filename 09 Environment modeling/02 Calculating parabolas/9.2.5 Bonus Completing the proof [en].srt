@@ -1,0 +1,316 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:00,418 --> 00:00:02,159
+(clunking)
+
+3
+00:00:03,159 --> 00:00:04,669
+- Thanks for hanging in there.
+
+4
+00:00:04,669 --> 00:00:07,036
+I know this discussion is getting a little bit technical,
+
+5
+00:00:07,036 --> 00:00:08,858
+but we finally have all the tools we need
+
+6
+00:00:08,858 --> 00:00:10,834
+to complete the derivation of a formula
+
+7
+00:00:10,834 --> 00:00:12,818
+for the touching point on a parabola.
+
+8
+00:00:12,818 --> 00:00:14,630
+But, before we continue, let's back up
+
+9
+00:00:14,630 --> 00:00:16,197
+just little bit, and remind ourselves
+
+10
+00:00:16,197 --> 00:00:18,007
+why we're doing this again.
+
+11
+00:00:18,007 --> 00:00:20,179
+Well, we need that touching point formula
+
+12
+00:00:20,179 --> 00:00:22,198
+so that shots like this in Brave
+
+13
+00:00:22,198 --> 00:00:24,219
+can be computed really efficiently.
+
+14
+00:00:24,219 --> 00:00:25,438
+Right, because that touching point
+
+15
+00:00:25,438 --> 00:00:27,458
+will allow us to write computer programs
+
+16
+00:00:27,458 --> 00:00:29,698
+to draw each blade of grass, without having
+
+17
+00:00:29,698 --> 00:00:32,878
+to draw all the individual string on lines.
+
+18
+00:00:32,878 --> 00:00:34,296
+So to turn this into formulas,
+
+19
+00:00:34,296 --> 00:00:35,793
+let's again label things.
+
+20
+00:00:35,793 --> 00:00:39,648
+So this light magenta line is controlled by the parameter t,
+
+21
+00:00:39,648 --> 00:00:41,680
+So I'm going to label, as before, this point Q
+
+22
+00:00:41,680 --> 00:00:43,723
+and this point R.
+
+23
+00:00:43,723 --> 00:00:46,984
+The dark magenta line is controlled by the parameter S,
+
+24
+00:00:46,984 --> 00:00:49,446
+so I'm gonna call this point Q prime,
+
+25
+00:00:49,446 --> 00:00:51,722
+and this point R prime.
+
+26
+00:00:51,722 --> 00:00:54,217
+Now, let's start writing down a few things we know.
+
+27
+00:00:54,217 --> 00:00:57,480
+Well, we know that Q is a fraction t
+
+28
+00:00:57,480 --> 00:00:59,582
+along the line segment AB,
+
+29
+00:00:59,582 --> 00:01:02,960
+which means I can write Q as one minus t times A
+
+30
+00:01:02,960 --> 00:01:05,177
+plus t times B.
+
+31
+00:01:05,177 --> 00:01:09,520
+Similarly, R is a fraction t along the line segment BC,
+
+32
+00:01:09,520 --> 00:01:12,816
+so it can be written as one minus T times B
+
+33
+00:01:12,816 --> 00:01:15,765
+plus t times C.
+
+34
+00:01:15,765 --> 00:01:19,084
+Similarly, Q prime is s along the way from A to B,
+
+35
+00:01:19,084 --> 00:01:22,836
+so I can write Q prime as one minus s times A,
+
+36
+00:01:22,836 --> 00:01:25,959
+plus s times B, and I can write
+
+37
+00:01:25,959 --> 00:01:30,624
+R prime, finally, as one minus s times B
+
+38
+00:01:30,624 --> 00:01:34,016
+plus s times C.
+
+39
+00:01:34,016 --> 00:01:35,676
+Okay, now this intersection point here
+
+40
+00:01:35,676 --> 00:01:38,183
+that we're looking for, P,
+
+41
+00:01:38,183 --> 00:01:41,816
+is somewhere on the line segment QR.
+
+42
+00:01:41,816 --> 00:01:43,918
+But where on the line segment is it?
+
+43
+00:01:43,918 --> 00:01:45,438
+Well, I'm gonna prove in a second
+
+44
+00:01:45,438 --> 00:01:48,202
+that it's at fraction s.
+
+45
+00:01:48,202 --> 00:01:50,524
+That is, I claim that P can be written
+
+46
+00:01:50,524 --> 00:01:53,739
+as one minus s, times Q,
+
+47
+00:01:53,739 --> 00:01:56,069
+plus s times R.
+
+48
+00:01:57,069 --> 00:02:00,137
+Now, if that's true, something nice happens,
+
+49
+00:02:00,137 --> 00:02:02,318
+because as s approaches t,
+
+50
+00:02:02,318 --> 00:02:06,161
+this expression here approaches one minus t,
+
+51
+00:02:06,161 --> 00:02:08,901
+times Q, plus t times R.
+
+52
+00:02:08,901 --> 00:02:11,561
+And that's the thing I ultimately want to prove.
+
+53
+00:02:11,561 --> 00:02:12,837
+So the only thing left to show
+
+54
+00:02:12,837 --> 00:02:15,983
+is that the intersection point can be written this way.
+
+55
+00:02:15,983 --> 00:02:17,435
+Why should that be the case?
+
+56
+00:02:17,435 --> 00:02:19,545
+What I'm going to do, is I'm gonna substitute
+
+57
+00:02:19,545 --> 00:02:21,684
+this expression for Q in here,
+
+58
+00:02:21,684 --> 00:02:23,818
+this expression for R in here,
+
+59
+00:02:23,818 --> 00:02:26,061
+and if I do that and rearrange,
+
+60
+00:02:26,061 --> 00:02:28,022
+I'll leave that rearrangement to you,
+
+61
+00:02:28,022 --> 00:02:29,961
+but the result is that P can be written
+
+62
+00:02:29,961 --> 00:02:34,604
+as one minus s, times one minus t, times A,
+
+63
+00:02:34,604 --> 00:02:38,086
+plus s times one minus t,
+
+64
+00:02:38,086 --> 00:02:42,244
+plus t times one minus s, times B,
+
+65
+00:02:42,244 --> 00:02:45,657
+plus s, t, times C.
+
+66
+00:02:45,657 --> 00:02:49,045
+And now, if I rewrite this,
+
+67
+00:02:49,045 --> 00:02:52,205
+using these expressions for Q prime, R prime,
+
+68
+00:02:52,205 --> 00:02:56,139
+I see I can write P as one minus t,
+
+69
+00:02:56,139 --> 00:03:00,006
+times Q prime, plus t times R prime.
+
+70
+00:03:02,006 --> 00:03:04,730
+Well, this expression says that P is somewhere
+
+71
+00:03:04,730 --> 00:03:07,425
+on the line segment Q prime R prime,
+
+72
+00:03:07,425 --> 00:03:11,069
+and this expression says that P is somewhere
+
+73
+00:03:11,069 --> 00:03:13,449
+on the line segment QR.
+
+74
+00:03:13,449 --> 00:03:15,922
+And the only point that can be on both line segments
+
+75
+00:03:15,922 --> 00:03:17,919
+is the intersection point.
+
+76
+00:03:17,919 --> 00:03:19,870
+So our proof is complete.
+
+77
+00:03:19,870 --> 00:03:21,209
+(bow stretching)
+
+78
+00:03:21,209 --> 00:03:22,031
+(arrow thumps)
+
+79
+00:03:22,031 --> 00:03:23,000
+Bullseye! aimozhen.com/pixarinabox
+

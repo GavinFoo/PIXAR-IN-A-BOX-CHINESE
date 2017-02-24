@@ -1,0 +1,88 @@
+1
+00:00:00,000 --> 00:00:03,266
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,266 --> 00:00:05,195
+- So far, we've been doing subdivisions
+
+3
+00:00:05,195 --> 00:00:08,304
+with just four points, which make a blob.
+
+4
+00:00:08,304 --> 00:00:09,563
+But, if you're gunna make something
+
+5
+00:00:09,563 --> 00:00:11,188
+as cool as a Pixar character,
+
+6
+00:00:11,188 --> 00:00:13,241
+you're gunna need a lot more points.
+
+7
+00:00:14,241 --> 00:00:16,472
+For example, suppose that I wanna model
+
+8
+00:00:16,472 --> 00:00:20,570
+the outline of a hand or, maybe, the profile of a character.
+
+9
+00:00:21,570 --> 00:00:23,623
+Fortunately, subdivision doesn't care
+
+10
+00:00:23,623 --> 00:00:26,082
+how many points you start out with.
+
+11
+00:00:26,082 --> 00:00:28,356
+In this interactive, you can move points, as before,
+
+12
+00:00:28,356 --> 00:00:32,075
+but you can also add as many new points as you'd like.
+
+13
+00:00:32,075 --> 00:00:35,712
+Just click on an interior of an edge to create a new point.
+
+14
+00:00:35,712 --> 00:00:36,647
+And, then, use the mouse
+
+15
+00:00:36,647 --> 00:00:39,587
+to drag the new point wherever you want it.
+
+16
+00:00:40,587 --> 00:00:43,342
+I can make a crude looking hand shaped like this.
+
+17
+00:00:45,342 --> 00:00:47,597
+Use this slider to control how many subdivisions
+
+18
+00:00:47,597 --> 00:00:50,330
+are used to give a smoother result.
+
+19
+00:00:52,330 --> 00:00:56,456
+Using this interactive, make a hand or whatever you'd like.
+
+20
+00:00:56,456 --> 00:01:00,376
+Maybe, a dinosaur, or the outline of Mike Wazowski,
+
+21
+00:01:00,376 --> 00:01:01,982
+or whatever interests you.
+
+22
+00:01:01,982 --> 00:01:03,000
+Be creative! aimozhen.com/pixarinabox
+

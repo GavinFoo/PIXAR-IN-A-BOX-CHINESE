@@ -4,8 +4,7 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 2
 00:00:01,787 --> 00:00:04,312
-- When I was young, I
-really liked some sports
+- When I was young, I really liked some sports
 
 3
 00:00:04,312 --> 00:00:07,086
@@ -13,13 +12,11 @@ like softball and I was the catcher
 
 4
 00:00:07,086 --> 00:00:10,923
-and the first base player
-and I also liked music.
+and the first base player and I also liked music.
 
 5
 00:00:10,923 --> 00:00:14,124
-I started playing the
-flute in the fourth grade
+I started playing the flute in the fourth grade
 
 6
 00:00:14,124 --> 00:00:17,162
@@ -27,8 +24,7 @@ and from there I played in the band
 
 7
 00:00:17,162 --> 00:00:21,297
-and I branched out and
-taught myself tenor saxophone
+and I branched out and taught myself tenor saxophone
 
 8
 00:00:21,297 --> 00:00:22,872
@@ -36,8 +32,7 @@ and played that in the jazz band
 
 9
 00:00:22,872 --> 00:00:27,550
-and I was in the marching
-band and the symphonic band
+and I was in the marching band and the symphonic band
 
 10
 00:00:27,550 --> 00:00:29,834
@@ -45,8 +40,7 @@ and I was a drum major
 
 11
 00:00:29,834 --> 00:00:31,850
-and lots of different
-activities with music.
+and lots of different activities with music.
 
 12
 00:00:31,850 --> 00:00:33,369
@@ -54,13 +48,11 @@ It was great.
 
 13
 00:00:33,369 --> 00:00:34,967
-In high school, there
-were some elective classes
+In high school, there were some elective classes
 
 14
 00:00:34,967 --> 00:00:38,703
-that we need to take and my
-mom was helping me figure out
+that we need to take and my mom was helping me figure out
 
 15
 00:00:38,703 --> 00:00:40,076
@@ -68,8 +60,7 @@ which ones to pick.
 
 16
 00:00:40,076 --> 00:00:44,875
-And she had gone back to
-school while I was a kid
+And she had gone back to school while I was a kid
 
 17
 00:00:44,875 --> 00:00:47,441
@@ -81,18 +72,15 @@ and she suggested that I took one of those
 
 19
 00:00:50,434 --> 00:00:53,786
-to see if I liked it and
-so that's how I got into it
+to see if I liked it and so that's how I got into it
 
 20
 00:00:53,786 --> 00:00:56,548
-and I already liked computers,
-I love playing with them.
+and I already liked computers, I love playing with them.
 
 21
 00:00:56,548 --> 00:00:59,525
-I remember my parents
-getting our first computer.
+I remember my parents getting our first computer.
 
 22
 00:00:59,525 --> 00:01:00,448
@@ -108,13 +96,11 @@ at that point a toy but then learning
 
 25
 00:01:06,923 --> 00:01:10,361
-how to program a computer
-was really interesting to me
+how to program a computer was really interesting to me
 
 26
 00:01:10,361 --> 00:01:13,048
-and so I started taking
-computer classes in ninth grade
+and so I started taking computer classes in ninth grade
 
 27
 00:01:13,048 --> 00:01:15,045
@@ -126,8 +112,7 @@ Yeah, I majored in computer science
 
 29
 00:01:17,453 --> 00:01:20,547
-in the liberal arts school
-and got a Bachelor of Science
+in the liberal arts school and got a Bachelor of Science
 
 30
 00:01:20,547 --> 00:01:23,611
@@ -135,23 +120,19 @@ and I also did a minor in mathematics.
 
 31
 00:01:23,611 --> 00:01:27,215
-I got a Master's and
-a PhD from UC Berkeley
+I got a Master's and a PhD from UC Berkeley
 
 32
 00:01:28,215 --> 00:01:32,280
-and my Master's was in
-computational geometry
+and my Master's was in computational geometry
 
 33
 00:01:32,280 --> 00:01:36,706
-and my thesis was on
-physically-based simulation
+and my thesis was on physically-based simulation
 
 34
 00:01:37,706 --> 00:01:42,286
-for creating crack patterns on
-surfaces so like mud drawing.
+for creating crack patterns on surfaces so like mud drawing.
 
 35
 00:01:42,286 --> 00:01:44,024
@@ -159,13 +140,11 @@ I also looked at crackle glass
 
 36
 00:01:44,024 --> 00:01:48,227
-and so that's a way to create
-crack patterns in class
+and so that's a way to create crack patterns in class
 
 37
 00:01:49,227 --> 00:01:53,575
-and use that for cups and
-bowls and things like that.
+and use that for cups and bowls and things like that.
 
 38
 00:01:53,575 --> 00:01:54,409
@@ -173,13 +152,11 @@ In my internship,
 
 39
 00:01:54,409 --> 00:01:57,538
-I ended up working on an
-inverse kinematics problem
+I ended up working on an inverse kinematics problem
 
 40
 00:01:57,538 --> 00:02:01,520
-with Andy Weken who was my
-mentor and the research group.
+with Andy Weken who was my mentor and the research group.
 
 41
 00:02:01,520 --> 00:02:03,962
@@ -187,13 +164,11 @@ Let's pretend I wanna animate my arm
 
 42
 00:02:03,962 --> 00:02:08,187
-and I would wanna grab
-my wrist and move it here
+and I would wanna grab my wrist and move it here
 
 43
 00:02:08,187 --> 00:02:11,076
-and what inverse kinematics
-does is it would solve
+and what inverse kinematics does is it would solve
 
 44
 00:02:11,076 --> 00:02:12,711
@@ -201,13 +176,11 @@ to figure out what are the angles
 
 45
 00:02:12,711 --> 00:02:16,312
-that I'd have to move my elbow
-joint and my shoulder joint
+that I'd have to move my elbow joint and my shoulder joint
 
 46
 00:02:16,312 --> 00:02:19,485
-to hit the target which
-is where my wrist is.
+to hit the target which is where my wrist is.
 
 47
 00:02:19,485 --> 00:02:20,877
@@ -219,13 +192,11 @@ to watch the finished movie for Brave.
 
 49
 00:02:23,550 --> 00:02:26,099
-I worked on a lot of the
-technology that was used
+I worked on a lot of the technology that was used
 
 50
 00:02:26,099 --> 00:02:29,204
-to animate the characters
-and to do the hair simulator.
+to animate the characters and to do the hair simulator.
 
 51
 00:02:29,204 --> 00:02:32,012
@@ -233,8 +204,7 @@ I wrote the inverse kinematic system
 
 52
 00:02:32,012 --> 00:02:36,113
-that was used to move the
-horses and move the humans.
+that was used to move the horses and move the humans.
 
 53
 00:02:37,113 --> 00:02:39,218
@@ -246,8 +216,7 @@ that posing tool was right and having that
 
 55
 00:02:42,241 --> 00:02:44,935
-and have Merida's hair
-fill up the entire screen
+and have Merida's hair fill up the entire screen
 
 56
 00:02:44,935 --> 00:02:46,848
@@ -255,8 +224,7 @@ was incredibly satisfying
 
 57
 00:02:46,848 --> 00:02:49,587
-and to see how beautiful
-it all turned out.
+and to see how beautiful it all turned out.
 
 58
 00:02:49,587 --> 00:02:51,573
@@ -268,13 +236,11 @@ I got scheduled to do an interview
 
 60
 00:02:54,295 --> 00:02:57,787
-with another co-worker
-for the simulation group
+with another co-worker for the simulation group
 
 61
 00:02:57,787 --> 00:03:00,142
-because they were looking
-for a new simulation person
+because they were looking for a new simulation person
 
 62
 00:03:00,142 --> 00:03:03,242
@@ -286,18 +252,15 @@ fluids and other types of simulation work
 
 64
 00:03:05,467 --> 00:03:08,109
-that wasn't an area
-that I was familiar with
+that wasn't an area that I was familiar with
 
 65
 00:03:08,109 --> 00:03:11,014
-so I hadn't even thought about
-this work, this job opening
+so I hadn't even thought about this work, this job opening
 
 66
 00:03:11,014 --> 00:03:13,033
-and I think it had been
-open for about a year
+and I think it had been open for about a year
 
 67
 00:03:13,033 --> 00:03:15,069
@@ -305,8 +268,7 @@ when we were talking about it.
 
 68
 00:03:15,069 --> 00:03:17,393
-They were having a hard
-time filling this position
+They were having a hard time filling this position
 
 69
 00:03:17,393 --> 00:03:20,407
@@ -318,13 +280,11 @@ was doing a Master's thesis
 
 71
 00:03:22,033 --> 00:03:25,161
-and he was implementing
-some of my PhD thesis
+and he was implementing some of my PhD thesis
 
 72
 00:03:25,161 --> 00:03:28,411
-and so after the interview,
-my co-worker said,
+and so after the interview, my co-worker said,
 
 73
 00:03:28,411 --> 00:03:29,661
@@ -344,33 +304,27 @@ to really sit and think like,
 
 77
 00:03:37,388 --> 00:03:40,223
-"Huh, why I aren't I
-applying for this job?"
+"Huh, why I aren't I applying for this job?"
 
 78
 00:03:40,223 --> 00:03:45,086
-And so I really gave it some
-consideration and decided
+And so I really gave it some consideration and decided
 
 79
 00:03:45,086 --> 00:03:47,717
-and was like, "Yeah, I do
-wanna apply for this job."
+and was like, "Yeah, I do wanna apply for this job."
 
 80
 00:03:47,717 --> 00:03:50,360
-And it's always a little
-bit scary when you try to
+And it's always a little bit scary when you try to
 
 81
 00:03:50,360 --> 00:03:54,414
-do something new but it
-was definitely worth it.
+do something new but it was definitely worth it.
 
 82
 00:03:55,414 --> 00:03:57,268
-I didn't listen to the
-people that were saying,
+I didn't listen to the people that were saying,
 
 83
 00:03:57,268 --> 00:03:59,928
@@ -378,11 +332,9 @@ people that were saying,
 
 84
 00:03:59,928 --> 00:04:03,179
-because you should do
-what your heart tells you
+because you should do what your heart tells you
 
 85
 00:04:03,179 --> 00:04:07,000
-and even if it's scary, you
-should go ahead and do it. aimozhen.com/pixarinabox
+and even if it's scary, you should go ahead and do it. aimozhen.com/pixarinabox
 

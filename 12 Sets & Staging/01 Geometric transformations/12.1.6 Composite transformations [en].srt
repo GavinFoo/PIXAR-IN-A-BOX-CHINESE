@@ -1,0 +1,216 @@
+1
+00:00:00,000 --> 00:00:03,260
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,260 --> 00:00:06,180
+- Did you get final approval from the director?
+
+3
+00:00:06,180 --> 00:00:08,771
+Congratulations.
+
+4
+00:00:08,771 --> 00:00:10,730
+(crunch)
+
+5
+00:00:12,730 --> 00:00:16,053
+Earlier, we saw that translation and scaling don't commute.
+
+6
+00:00:16,053 --> 00:00:17,802
+Let's see if we can get a better understanding
+
+7
+00:00:17,802 --> 00:00:19,980
+of what's going on using some algebra.
+
+8
+00:00:19,980 --> 00:00:21,610
+Suppose we translate by an amount
+
+9
+00:00:21,610 --> 00:00:24,562
+of five and x and three and y.
+
+10
+00:00:24,562 --> 00:00:29,160
+Pick a point, x zero y zero, in the image we're translating.
+
+11
+00:00:29,160 --> 00:00:32,039
+That point goes to a point, x one, y one,
+
+12
+00:00:32,039 --> 00:00:36,830
+given by, x one equals x zero plus five,
+
+13
+00:00:36,830 --> 00:00:40,800
+y one equals y zero plus three.
+
+14
+00:00:40,800 --> 00:00:45,260
+Now, suppose we scale about the origin by a factor of four.
+
+15
+00:00:45,260 --> 00:00:47,970
+Where does x one y one go?
+
+16
+00:00:47,970 --> 00:00:52,270
+Let's call the point it goes to, x two y two.
+
+17
+00:00:52,270 --> 00:00:57,560
+Scaling says, x two equals four times x one,
+
+18
+00:00:57,560 --> 00:01:02,400
+and y two equals four times y one.
+
+19
+00:01:02,400 --> 00:01:06,069
+Substitute our expressions for x one and y one.
+
+20
+00:01:06,069 --> 00:01:09,950
+X two equals four times x zero plus five
+
+21
+00:01:09,950 --> 00:01:14,500
+which equals four times x zero plus four times five,
+
+22
+00:01:14,500 --> 00:01:19,040
+which equals four times x zero plus 20.
+
+23
+00:01:19,040 --> 00:01:23,340
+Y two is equal to four times y zero plus three
+
+24
+00:01:23,340 --> 00:01:26,800
+which equals four times y zero plus 12.
+
+25
+00:01:26,800 --> 00:01:29,390
+This factor in front of x and y is four.
+
+26
+00:01:29,390 --> 00:01:32,720
+So the effective scale factor is still four.
+
+27
+00:01:32,720 --> 00:01:34,930
+However, the effective translation amount
+
+28
+00:01:34,930 --> 00:01:38,690
+is 20 and x and 12 and y.
+
+29
+00:01:38,690 --> 00:01:40,770
+For comparison, let's do the operations
+
+30
+00:01:40,770 --> 00:01:42,810
+in the opposite order.
+
+31
+00:01:42,810 --> 00:01:45,030
+Scale first that is.
+
+32
+00:01:45,030 --> 00:01:49,200
+X one equals four times x 0,
+
+33
+00:01:49,200 --> 00:01:53,450
+and y one equals four times y zero.
+
+34
+00:01:53,450 --> 00:01:55,079
+Then translate...
+
+35
+00:01:55,079 --> 00:01:59,250
+So algebraically, x two equals x one plus five,
+
+36
+00:01:59,250 --> 00:02:03,880
+which equals four times x zero plus five
+
+37
+00:02:03,880 --> 00:02:07,470
+and y two equals y one plus three
+
+38
+00:02:07,470 --> 00:02:11,050
+which equals four times y zero plus three.
+
+39
+00:02:11,050 --> 00:02:12,389
+Clearly the blue equations
+
+40
+00:02:12,389 --> 00:02:15,050
+aren't the same as the red equations.
+
+41
+00:02:15,050 --> 00:02:17,020
+But in either case, we can write the results
+
+42
+00:02:17,020 --> 00:02:19,560
+of combining scaling and translation in the form
+
+43
+00:02:19,560 --> 00:02:25,069
+x two equals s times x zero plus t x,
+
+44
+00:02:25,069 --> 00:02:30,740
+and y two equals s times y zero plus t y.
+
+45
+00:02:30,740 --> 00:02:32,732
+Where t x stands for the effective,
+
+46
+00:02:32,732 --> 00:02:35,199
+or final translation amount in x,
+
+47
+00:02:35,199 --> 00:02:39,460
+and t y is the effective translation amount in y.
+
+48
+00:02:39,460 --> 00:02:41,500
+When two or more transformations are combined
+
+49
+00:02:41,500 --> 00:02:44,300
+we call it a composite transformation.
+
+50
+00:02:45,300 --> 00:02:47,453
+In the next exercise, you'll be ask to verify
+
+51
+00:02:47,453 --> 00:02:50,090
+that this general form for composite transformation
+
+52
+00:02:50,090 --> 00:02:53,720
+consisting of scales and translations always holds,
+
+53
+00:02:53,720 --> 00:02:56,509
+no matter how many scales and translations are combined,
+
+54
+00:02:56,509 --> 00:02:58,000
+and no matter what the order. aimozhen.com/pixarinabox
+

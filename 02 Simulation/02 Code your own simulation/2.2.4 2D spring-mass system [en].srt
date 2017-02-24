@@ -12,13 +12,11 @@ to vertical motion only,
 
 4
 00:00:06,952 --> 00:00:09,593
-but we want our hairs to
-sway in various directions
+but we want our hairs to sway in various directions
 
 5
 00:00:09,593 --> 00:00:11,799
-so we'll need to update
-our code to include
+so we'll need to update our code to include
 
 6
 00:00:11,799 --> 00:00:13,659
@@ -26,8 +24,7 @@ two dimensions of motion.
 
 7
 00:00:13,659 --> 00:00:15,934
-It's fairly easy to do
-this, we just need to
+It's fairly easy to do this, we just need to
 
 8
 00:00:15,934 --> 00:00:18,149
@@ -35,8 +32,7 @@ double-up many of our variables
 
 9
 00:00:18,149 --> 00:00:21,124
-so that we'll have both
-an X and Y component.
+so that we'll have both an X and Y component.
 
 10
 00:00:21,124 --> 00:00:22,965
@@ -48,13 +44,11 @@ vertical position called "position Y"
 
 12
 00:00:25,518 --> 00:00:29,402
-So I am going to add a new
-one called "position X."
+So I am going to add a new one called "position X."
 
 13
 00:00:29,402 --> 00:00:31,884
-I am also going to add
-a new variable to store
+I am also going to add a new variable to store
 
 14
 00:00:31,884 --> 00:00:34,342
@@ -66,8 +60,7 @@ I'll call this "velocity X"
 
 16
 00:00:36,352 --> 00:00:39,657
-it should be initialized to
-zero, the same as velocity Y
+it should be initialized to zero, the same as velocity Y
 
 17
 00:00:39,657 --> 00:00:42,475
@@ -87,8 +80,7 @@ so we have a horizontal component as well.
 
 21
 00:00:50,144 --> 00:00:54,394
-Currently, there is springForce
-Y, but not springForce X
+Currently, there is springForce Y, but not springForce X
 
 22
 00:00:54,394 --> 00:00:56,043
@@ -104,13 +96,11 @@ times position X minus anchor X.
 
 25
 00:01:02,490 --> 00:01:06,830
-I'm going to add a new variable
-called "dampingForce X"
+I'm going to add a new variable called "dampingForce X"
 
 26
 00:01:06,830 --> 00:01:11,438
-I'll set it equal to
-damping times velocity X.
+I'll set it equal to damping times velocity X.
 
 27
 00:01:11,438 --> 00:01:13,456
@@ -118,8 +108,7 @@ With these new variables I can add a new
 
 28
 00:01:13,456 --> 00:01:17,346
-net force calculation in the
-X direction called "force X"
+net force calculation in the X direction called "force X"
 
 29
 00:01:17,346 --> 00:01:19,581
@@ -139,8 +128,7 @@ in the vertical direction.
 
 33
 00:01:25,042 --> 00:01:29,915
-So, force X equals springForce
-X minus dampingForce X.
+So, force X equals springForce X minus dampingForce X.
 
 34
 00:01:29,915 --> 00:01:32,423
@@ -148,23 +136,19 @@ Now lets move on to acceleration.
 
 35
 00:01:32,423 --> 00:01:34,813
-I'll add a new variable
-called "acceleration X"
+I'll add a new variable called "acceleration X"
 
 36
 00:01:34,813 --> 00:01:39,292
-and it will be equal to
-force X divided by mass.
+and it will be equal to force X divided by mass.
 
 37
 00:01:39,292 --> 00:01:43,291
-Let's do the same thing
-with the resulting velocity.
+Let's do the same thing with the resulting velocity.
 
 38
 00:01:43,291 --> 00:01:45,770
-I'll add a new variable
-called "velocity X"
+I'll add a new variable called "velocity X"
 
 39
 00:01:45,770 --> 00:01:47,944
@@ -176,8 +160,7 @@ plus acceleration X, times timeStep.
 
 41
 00:01:51,497 --> 00:01:54,298
-Finally we can update the
-position so it can have a
+Finally we can update the position so it can have a
 
 42
 00:01:54,298 --> 00:01:55,924
@@ -185,18 +168,15 @@ horizontal component too.
 
 43
 00:01:55,924 --> 00:01:58,432
-I'll do this with a
-variable called "position X"
+I'll do this with a variable called "position X"
 
 44
 00:01:58,432 --> 00:02:03,157
-which equals position X plus
-velocity X times timeStep.
+which equals position X plus velocity X times timeStep.
 
 45
 00:02:03,157 --> 00:02:06,721
-Now we have X and Y components
-for force, acceleration,
+Now we have X and Y components for force, acceleration,
 
 46
 00:02:06,721 --> 00:02:09,051
@@ -204,13 +184,11 @@ velocity, and position.
 
 47
 00:02:09,051 --> 00:02:11,650
-We just need to update our
-draw code so that the circle
+We just need to update our draw code so that the circle
 
 48
 00:02:11,650 --> 00:02:14,087
-representing our particle,
-and the line representing
+representing our particle, and the line representing
 
 49
 00:02:14,087 --> 00:02:16,828
@@ -218,8 +196,7 @@ our spring, can move in the X direction.
 
 50
 00:02:16,828 --> 00:02:19,712
-I'll simply add position
-X to the end of the line
+I'll simply add position X to the end of the line
 
 51
 00:02:19,712 --> 00:02:21,898
@@ -231,13 +208,11 @@ And for the circle representing our mass,
 
 53
 00:02:23,686 --> 00:02:27,270
-I'll add position X to
-its center position.
+I'll add position X to its center position.
 
 54
 00:02:27,270 --> 00:02:30,765
-Now watch what happens
-when I run the code.
+Now watch what happens when I run the code.
 
 55
 00:02:30,765 --> 00:02:32,360
@@ -245,8 +220,7 @@ Ah-hah! 2D motion.
 
 56
 00:02:32,360 --> 00:02:35,126
-To make our movies we
-do the same thing in 3D
+To make our movies we do the same thing in 3D
 
 57
 00:02:35,126 --> 00:02:37,038
@@ -254,16 +228,13 @@ using a third Z component.
 
 58
 00:02:37,038 --> 00:02:39,902
-That's a fun bonus project
-to start thinking about.
+That's a fun bonus project to start thinking about.
 
 59
 00:02:39,902 --> 00:02:41,961
-But let's pause here so
-you can get comfortable
+But let's pause here so you can get comfortable
 
 60
 00:02:41,961 --> 00:02:46,000
-with this code before
-moving on to the last step. aimozhen.com/pixarinabox
+with this code before moving on to the last step. aimozhen.com/pixarinabox
 

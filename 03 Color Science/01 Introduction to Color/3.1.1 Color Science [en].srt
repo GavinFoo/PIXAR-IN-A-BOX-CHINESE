@@ -60,8 +60,7 @@ ah, bacon.
 
 16
 00:00:34,529 --> 00:00:36,703
-You know, it's like if you
-see certain kinds of colors,
+You know, it's like if you see certain kinds of colors,
 
 17
 00:00:36,703 --> 00:00:38,914
@@ -97,8 +96,7 @@ that describes how we see things.
 
 25
 00:00:52,887 --> 00:00:57,066
-Hue is what the actual color
-is in the rainbow spectrum.
+Hue is what the actual color is in the rainbow spectrum.
 
 26
 00:00:57,066 --> 00:00:58,104
@@ -114,8 +112,7 @@ Bluer or redder?
 
 29
 00:01:01,569 --> 00:01:05,273
-Value is how bright something
-is relative to something else.
+Value is how bright something is relative to something else.
 
 30
 00:01:05,273 --> 00:01:06,296
@@ -139,13 +136,11 @@ Is it more subdued and grey,
 
 35
 00:01:15,154 --> 00:01:18,683
-or is it more vibrant, almost
-fluorescence, you know?
+or is it more vibrant, almost fluorescence, you know?
 
 36
 00:01:18,683 --> 00:01:22,151
-A fully saturated color
-is quite eye popping.
+A fully saturated color is quite eye popping.
 
 37
 00:01:22,151 --> 00:01:24,583
@@ -157,8 +152,7 @@ Color is everything to artists.
 
 39
 00:01:28,485 --> 00:01:30,690
-- It wasn't until I
-started working at Pixar
+- It wasn't until I started working at Pixar
 
 40
 00:01:30,690 --> 00:01:32,165
@@ -178,8 +172,7 @@ and it can mean something.
 
 44
 00:01:39,908 --> 00:01:43,277
-- On Up, there was a
-scene where Carl's house
+- On Up, there was a scene where Carl's house
 
 45
 00:01:43,277 --> 00:01:45,343
@@ -187,8 +180,7 @@ got burned by Muntz.
 
 46
 00:01:45,343 --> 00:01:47,601
-It's really one of the
-lowest points of the film,
+It's really one of the lowest points of the film,
 
 47
 00:01:47,601 --> 00:01:49,752
@@ -204,8 +196,7 @@ It's the start of a new day,
 
 50
 00:01:54,488 --> 00:01:57,652
-but for this one, we
-wanted an angry sunrise.
+but for this one, we wanted an angry sunrise.
 
 51
 00:01:57,652 --> 00:01:59,608
@@ -221,8 +212,7 @@ I think that was really cool.
 
 54
 00:02:05,934 --> 00:02:07,666
-- Because the choice
-of color is so critical
+- Because the choice of color is so critical
 
 55
 00:02:07,666 --> 00:02:09,429
@@ -234,8 +224,7 @@ it's really important that we understand
 
 57
 00:02:10,822 --> 00:02:13,889
-the science of the
-choosing of those colors.
+the science of the choosing of those colors.
 
 58
 00:02:13,889 --> 00:02:15,223
@@ -247,13 +236,11 @@ is that color is really made up of light.
 
 60
 00:02:19,572 --> 00:02:22,348
-Light comprises different
-wavelengths of energy,
+Light comprises different wavelengths of energy,
 
 61
 00:02:22,348 --> 00:02:24,823
-and when that energy
-comes through our pupil
+and when that energy comes through our pupil
 
 62
 00:02:24,823 --> 00:02:26,454
@@ -265,8 +252,7 @@ it becomes nerve impulses, signals,
 
 64
 00:02:28,983 --> 00:02:31,519
-and eventually gets
-processed by the brain.
+and eventually gets processed by the brain.
 
 65
 00:02:31,519 --> 00:02:33,448
@@ -274,8 +260,7 @@ So the light is out in the real world.
 
 66
 00:02:33,448 --> 00:02:35,997
-The color only really
-exists inside your brain
+The color only really exists inside your brain
 
 67
 00:02:35,997 --> 00:02:37,082

@@ -8,8 +8,7 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 3
 00:00:03,744 --> 00:00:05,565
-- We finished going over
-the first of three things
+- We finished going over the first of three things
 
 4
 00:00:05,565 --> 00:00:08,152
@@ -17,8 +16,7 @@ you need to create a particle simulator.
 
 5
 00:00:08,152 --> 00:00:10,288
-We have formulas that describe
-how particles will move
+We have formulas that describe how particles will move
 
 6
 00:00:10,288 --> 00:00:12,349
@@ -30,8 +28,7 @@ In this video, we'll develop formulas
 
 8
 00:00:14,201 --> 00:00:17,127
-that describe how particles
-will behave during collisions.
+that describe how particles will behave during collisions.
 
 9
 00:00:17,127 --> 00:00:19,223
@@ -111,8 +108,7 @@ a number between zero and one,
 
 28
 00:00:52,605 --> 00:00:55,158
-and the minus sign indicates
-the direction reverses
+and the minus sign indicates the direction reverses
 
 29
 00:00:55,158 --> 00:00:56,582
@@ -140,8 +136,7 @@ then some energy will be lost,
 
 35
 00:01:04,604 --> 00:01:07,245
-but what if the velocity
-makes an angle with the floor.
+but what if the velocity makes an angle with the floor.
 
 36
 00:01:07,245 --> 00:01:10,345
@@ -149,8 +144,7 @@ Let's observe what happens on video.
 
 37
 00:01:10,345 --> 00:01:12,440
-Notice that the ball bounces
-just like a light ray
+Notice that the ball bounces just like a light ray
 
 38
 00:01:12,440 --> 00:01:14,584
@@ -182,13 +176,11 @@ let's write V as the sum of two vectors,
 
 45
 00:01:27,263 --> 00:01:30,191
-a velocity parallel to
-the floor, V parallel,
+a velocity parallel to the floor, V parallel,
 
 46
 00:01:30,191 --> 00:01:32,406
-and the velocity
-perpendicular to the floor,
+and the velocity perpendicular to the floor,
 
 47
 00:01:32,406 --> 00:01:34,310
@@ -196,13 +188,11 @@ V perpendicular.
 
 48
 00:01:34,310 --> 00:01:36,556
-The only force during the
-collision is perpendicular
+The only force during the collision is perpendicular
 
 49
 00:01:36,556 --> 00:01:39,632
-to the floor because the
-floor pushes up on the ball.
+to the floor because the floor pushes up on the ball.
 
 50
 00:01:39,632 --> 00:01:41,590
@@ -210,8 +200,7 @@ So the parallel component won't change,
 
 51
 00:01:41,590 --> 00:01:43,492
-and the perpendicular
-component, as before,
+and the perpendicular component, as before,
 
 52
 00:01:43,492 --> 00:01:45,233
@@ -235,18 +224,15 @@ we get this equation.
 
 57
 00:01:57,049 --> 00:01:59,871
-Cool, we can use the idea
-of writing the velocity
+Cool, we can use the idea of writing the velocity
 
 58
 00:01:59,871 --> 00:02:02,563
-as the sum of parallel and
-perpendicular components
+as the sum of parallel and perpendicular components
 
 59
 00:02:02,563 --> 00:02:05,322
-to study the case when
-two particles I and J
+to study the case when two particles I and J
 
 60
 00:02:05,322 --> 00:02:07,458
@@ -258,8 +244,7 @@ Let's draw a picture to make this clear.
 
 62
 00:02:09,782 --> 00:02:12,229
-The line I, J from the
-center of particle I
+The line I, J from the center of particle I
 
 63
 00:02:12,229 --> 00:02:13,901
@@ -267,8 +252,7 @@ to the center of particle J
 
 64
 00:02:13,901 --> 00:02:16,145
-plays the role of the
-perpendicular to the floor.
+plays the role of the perpendicular to the floor.
 
 65
 00:02:16,145 --> 00:02:17,495
@@ -292,8 +276,7 @@ The only force acting on the particles
 
 70
 00:02:28,460 --> 00:02:32,226
-during the collision
-is along the line I, J.
+during the collision is along the line I, J.
 
 71
 00:02:32,226 --> 00:02:33,968
@@ -305,8 +288,7 @@ in the parallel direction,
 
 73
 00:02:35,583 --> 00:02:39,229
-the velocities in the parallel
-directions won't change.
+the velocities in the parallel directions won't change.
 
 74
 00:02:39,229 --> 00:02:40,720
@@ -322,8 +304,7 @@ requires using more advanced topics,
 
 77
 00:02:44,178 --> 00:02:46,769
-namely, conservation
-of energy and momentum.
+namely, conservation of energy and momentum.
 
 78
 00:02:46,769 --> 00:02:48,245
@@ -335,13 +316,11 @@ If we apply those concepts
 
 80
 00:02:52,533 --> 00:02:54,728
-and assume that the
-particles have the same mass,
+and assume that the particles have the same mass,
 
 81
 00:02:54,728 --> 00:02:58,483
-we find that particle I gets
-J's perpendicular velocity,
+we find that particle I gets J's perpendicular velocity,
 
 82
 00:02:58,483 --> 00:03:00,104
@@ -349,8 +328,7 @@ and vice versa.
 
 83
 00:03:00,104 --> 00:03:02,634
-That is, they swap
-perpendicular velocities.
+That is, they swap perpendicular velocities.
 
 84
 00:03:02,634 --> 00:03:03,822
@@ -378,8 +356,7 @@ In the next exercise,
 
 90
 00:03:16,114 --> 00:03:17,992
-you'll have a chance to
-review these equations,
+you'll have a chance to review these equations,
 
 91
 00:03:17,992 --> 00:03:19,584

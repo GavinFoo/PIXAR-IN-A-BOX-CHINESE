@@ -1,0 +1,144 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:00,358 --> 00:00:03,855
+ My name is Tony DeRose and I am a computer scientist at Pixarze. 
+
+3
+00:00:03,855 --> 00:00:08,909
+ The film's look and move differently, 
+
+4
+00:00:08,909 --> 00:00:11,058
+ but they do not seem drawings computer. 
+
+5
+00:00:12,058 --> 00:00:14,197
+ They appear to be plausible naturally. 
+
+6
+00:00:14,197 --> 00:00:17,450
+ The first stage of creating the appearance of a modeling. 
+
+7
+00:00:17,450 --> 00:00:18,450
+ We are not talking about such models ... 
+
+8
+00:00:19,450 --> 00:00:21,405
+ Only with such modeling! 
+
+9
+00:00:21,405 --> 00:00:25,021
+ You need to create a virtual computer in three-dimensional form. 
+
+10
+00:00:25,021 --> 00:00:28,001
+ To figure was credible, 
+
+11
+00:00:29,001 --> 00:00:32,127
+ should have a gentle outline. 
+
+12
+00:00:32,127 --> 00:00:34,865
+ No matter how close to the camera is located. 
+
+13
+00:00:34,865 --> 00:00:38,913
+ The easiest forms are simple: plane or cylinder. 
+
+14
+00:00:38,913 --> 00:00:41,511
+ We have to do more complicated bodies. 
+
+15
+00:00:41,511 --> 00:00:43,440
+ The problem seems difficult, 
+
+16
+00:00:43,440 --> 00:00:47,946
+ but divided it in two simple steps, easy to make on your computer. 
+
+17
+00:00:47,946 --> 00:00:50,033
+ We use an algorithm subdivision (division) 
+
+18
+00:00:51,033 --> 00:00:53,963
+ to obtain a gentle outline. I explain. 
+
+19
+00:00:53,963 --> 00:00:56,381
+ A simple example in two dimensions. 
+
+20
+00:00:56,381 --> 00:00:59,329
+ Four sections defined by four points. 
+
+21
+00:00:59,329 --> 00:01:02,656
+ First, I'll measures episodes. 
+
+22
+00:01:02,656 --> 00:01:04,655
+ This stage of the split (division). 
+
+23
+00:01:04,655 --> 00:01:06,824
+ Shape becomes milder, 
+
+24
+00:01:06,824 --> 00:01:11,430
+ when I move every point about 1/2 the distance from a neighbor. I will combine eight points. 
+
+25
+00:01:11,430 --> 00:01:14,388
+ It averaging (centering). At least, that's something, 
+
+26
+00:01:14,388 --> 00:01:19,584
+ but the effect will be better when repeat. Sharing and centering. And again. 
+
+27
+00:01:19,584 --> 00:01:22,383
+ I combine these two steps 
+
+28
+00:01:22,383 --> 00:01:26,608
+ in one step called subdivision (division). It will be even easier. 
+
+29
+00:01:27,608 --> 00:01:31,587
+ Super: You can animate the entire curve, 
+
+30
+00:01:31,587 --> 00:01:34,187
+ moving the original 4 points. 
+
+31
+00:01:34,187 --> 00:01:36,943
+ Our characters are figures in 2D. 
+
+32
+00:01:36,943 --> 00:01:39,551
+ They are three-dimensional. 
+
+33
+00:01:39,551 --> 00:01:43,988
+ Also here, the principle of sharing and centering. 
+
+34
+00:01:43,988 --> 00:01:47,608
+ Animation requires only a few points. 
+
+35
+00:01:47,608 --> 00:01:50,492
+ We solved the complex problem of creating the curve, 
+
+36
+00:01:50,492 --> 00:01:53,000
+ dividing it into stages, which we realize mathematically.  aimozhen.com/pixarinabox
+

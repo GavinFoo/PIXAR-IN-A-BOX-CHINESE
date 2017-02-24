@@ -1,0 +1,420 @@
+1
+00:00:00,000 --> 00:00:03,459
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,459 --> 00:00:04,532
+- In the previous video
+
+3
+00:00:04,532 --> 00:00:06,541
+we saw that the basic job of a ray tracer
+
+4
+00:00:06,541 --> 00:00:08,039
+is to determine what color to paint each pixel.
+
+5
+00:00:11,039 --> 00:00:13,913
+And it does that by casting a mathematical ray
+
+6
+00:00:13,913 --> 00:00:15,457
+that starts at the camera,
+
+7
+00:00:15,457 --> 00:00:16,723
+passes through a pixel,
+
+8
+00:00:16,723 --> 00:00:18,497
+and then off into the scene.
+
+9
+00:00:19,497 --> 00:00:20,157
+The ray tracer must then compute
+
+10
+00:00:21,157 --> 00:00:22,655
+the closest intersection point
+
+11
+00:00:22,655 --> 00:00:24,137
+between the ray and the scene geometry,
+
+12
+00:00:25,137 --> 00:00:26,264
+and return that geometry's color.
+
+13
+00:00:27,264 --> 00:00:28,112
+In this video,
+
+14
+00:00:28,112 --> 00:00:29,795
+we're gonna look at how we determine
+
+15
+00:00:29,795 --> 00:00:31,791
+how much light is travelling along the ray
+
+16
+00:00:31,791 --> 00:00:32,311
+back towards camera.
+
+17
+00:00:33,311 --> 00:00:34,525
+That's what we need to figure out
+
+18
+00:00:34,525 --> 00:00:36,620
+in order to determine each pixel's color.
+
+19
+00:00:37,620 --> 00:00:39,708
+This is actually a pretty deep and complicated question
+
+20
+00:00:40,708 --> 00:00:43,803
+that is mathematically governed by the rendering equation.
+
+21
+00:00:43,803 --> 00:00:45,328
+I know it looks scary.
+
+22
+00:00:45,328 --> 00:00:45,328
+I mean believe me,
+
+23
+00:00:45,963 --> 00:00:47,250
+this equation still gives me nightmares.
+
+24
+00:00:48,250 --> 00:00:49,140
+But it's actually easy
+
+25
+00:00:49,140 --> 00:00:50,649
+if you break it down into a few pieces.
+
+26
+00:00:51,649 --> 00:00:53,616
+The amount of light travelling from a point
+
+27
+00:00:53,616 --> 00:00:55,477
+on a surface back to the camera
+
+28
+00:00:55,477 --> 00:00:56,659
+depends on three things.
+
+29
+00:00:57,659 --> 00:01:00,477
+One, how much light is falling on that point?
+
+30
+00:01:02,477 --> 00:01:04,438
+Two. how does the surface of the object
+
+31
+00:01:04,438 --> 00:01:06,258
+at that point reflect light?
+
+32
+00:01:08,258 --> 00:01:10,846
+And three, where is the camera?
+
+33
+00:01:10,846 --> 00:01:12,030
+Let's examine each of these factors in turn
+
+34
+00:01:13,030 --> 00:01:14,927
+using some props.
+
+35
+00:01:14,927 --> 00:01:16,941
+My scene consists of a tennis ball
+
+36
+00:01:16,941 --> 00:01:18,405
+and a light source.
+
+37
+00:01:18,405 --> 00:01:19,111
+Now, the first factor is
+
+38
+00:01:20,111 --> 00:01:21,304
+how much light is falling on a spot
+
+39
+00:01:21,304 --> 00:01:22,976
+on that tennis ball?
+
+40
+00:01:22,976 --> 00:01:25,599
+It's pretty obvious that the farther away the light,
+
+41
+00:01:25,599 --> 00:01:27,256
+the lower the intensity of light
+
+42
+00:01:27,256 --> 00:01:28,590
+falling on the ball.
+
+43
+00:01:28,590 --> 00:01:30,901
+So, we need to know the distance to the light source
+
+44
+00:01:30,901 --> 00:01:32,246
+and we need to know how bright the light is.
+
+45
+00:01:33,246 --> 00:01:35,834
+It's less obvious that we need to take into account
+
+46
+00:01:35,834 --> 00:01:37,518
+the orientation of the surface
+
+47
+00:01:37,518 --> 00:01:39,411
+when determining how much light falls on the point.
+
+48
+00:01:40,411 --> 00:01:43,516
+Grazing angles receive less light or energy,
+
+49
+00:01:43,516 --> 00:01:45,581
+so they appear less bright.
+
+50
+00:01:45,581 --> 00:01:47,264
+Whereas the point will be brighter or hotter
+
+51
+00:01:48,264 --> 00:01:50,028
+if the surface is oriented perpendicular
+
+52
+00:01:50,028 --> 00:01:51,965
+to the direction of the light.
+
+53
+00:01:52,965 --> 00:01:54,666
+You feel this every sunny day.
+
+54
+00:01:54,666 --> 00:01:55,209
+It's why it's hottest at noon
+
+55
+00:01:56,209 --> 00:01:57,892
+and cooler in the morning and evening.
+
+56
+00:01:58,892 --> 00:02:00,458
+If there is more than one light source,
+
+57
+00:02:00,458 --> 00:02:02,141
+we repeat the process for each one of them.
+
+58
+00:02:03,141 --> 00:02:04,893
+The second factor is
+
+59
+00:02:04,893 --> 00:02:06,633
+how does the surface reflect light?
+
+60
+00:02:07,633 --> 00:02:09,188
+The color of an object is a big part
+
+61
+00:02:09,188 --> 00:02:10,012
+of how it responds to light.
+
+62
+00:02:11,012 --> 00:02:12,461
+But it's not the only factor.
+
+63
+00:02:13,461 --> 00:02:15,865
+Some objects have a fuzzy or dull appearance
+
+64
+00:02:15,865 --> 00:02:16,617
+like the tennis ball.
+
+65
+00:02:17,617 --> 00:02:20,317
+Others are shiny and display bright highlights
+
+66
+00:02:20,317 --> 00:02:21,144
+like this pool ball.
+
+67
+00:02:23,144 --> 00:02:25,663
+These two objects are receiving the same amount of light,
+
+68
+00:02:25,663 --> 00:02:26,052
+but they look very different.
+
+69
+00:02:28,052 --> 00:02:29,060
+Other surfaces are somewhere
+
+70
+00:02:29,060 --> 00:02:30,906
+in between dull and shiny
+
+71
+00:02:30,906 --> 00:02:34,109
+like human skin, wood, or even hair.
+
+72
+00:02:35,109 --> 00:02:37,419
+Dull surfaces are said to be diffuse
+
+73
+00:02:37,419 --> 00:02:39,468
+and shiny surfaces are said to be specular.
+
+74
+00:02:42,468 --> 00:02:44,292
+Finally, the last factor is
+
+75
+00:02:44,292 --> 00:02:45,020
+where is the camera?
+
+76
+00:02:46,020 --> 00:02:48,791
+Watch the middle of the number 3 on the pool ball.
+
+77
+00:02:49,791 --> 00:02:50,212
+Notice that as we move around,
+
+78
+00:02:51,212 --> 00:02:52,372
+the brightness of that point changes.
+
+79
+00:02:53,372 --> 00:02:55,693
+Even though everything else is the same
+
+80
+00:02:55,693 --> 00:02:58,804
+the only thing changing is the location of the camera.
+
+81
+00:02:59,804 --> 00:03:02,144
+Let's look at a virtual version of this physical situation.
+
+82
+00:03:03,144 --> 00:03:05,628
+There are three sliders that you can control.
+
+83
+00:03:05,628 --> 00:03:07,776
+Spotlight intensity which is like controlling
+
+84
+00:03:07,776 --> 00:03:09,238
+the brightness of the flashlight.
+
+85
+00:03:10,238 --> 00:03:12,209
+A diffuse slider which controls
+
+86
+00:03:12,209 --> 00:03:14,449
+the dullness of the surface or roughness.
+
+87
+00:03:15,449 --> 00:03:17,513
+And specular slider which controls the shininess.
+
+88
+00:03:19,513 --> 00:03:21,405
+You can also move the spotlight around
+
+89
+00:03:21,405 --> 00:03:23,144
+which is represented by a white dot.
+
+90
+00:03:25,144 --> 00:03:26,066
+For every object in a Pixar movie
+
+91
+00:03:27,066 --> 00:03:28,568
+there's a shader packet.
+
+92
+00:03:28,568 --> 00:03:31,474
+The shader packet describes in visual detail
+
+93
+00:03:31,474 --> 00:03:32,573
+everything about a surface.
+
+94
+00:03:33,573 --> 00:03:35,221
+It will include photographs of what something
+
+95
+00:03:35,221 --> 00:03:36,603
+looks like in real life.
+
+96
+00:03:36,603 --> 00:03:38,538
+Drawings describing may be the way
+
+97
+00:03:38,538 --> 00:03:40,313
+the roughness on a surface looks
+
+98
+00:03:40,313 --> 00:03:41,119
+or how someone's hair should look.
+
+99
+00:03:42,119 --> 00:03:43,460
+In this next exercise,
+
+100
+00:03:43,460 --> 00:03:44,167
+you can sit in the seat of an artist
+
+101
+00:03:45,167 --> 00:03:46,798
+using tools based on these concepts
+
+102
+00:03:46,798 --> 00:03:47,645
+we just covered.
+
+103
+00:03:47,645 --> 00:03:49,091
+Your job as a Pixar artist
+
+104
+00:03:49,091 --> 00:03:50,098
+is to match the reference art.
+
+105
+00:03:51,098 --> 00:03:52,000
+Have fun. aimozhen.com/pixarinabox
+

@@ -1,0 +1,132 @@
+1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:00,460 --> 00:00:02,550
+(lamp and ball boinging)
+
+3
+00:00:03,550 --> 00:00:04,630
+- Congratulations.
+
+4
+00:00:04,630 --> 00:00:06,720
+You're now an expert on midpoints.
+
+5
+00:00:06,720 --> 00:00:07,760
+(arrow whooshes)
+
+6
+00:00:07,760 --> 00:00:09,510
+Now let's take the next step.
+
+7
+00:00:09,510 --> 00:00:11,670
+I've been claiming that the curves created
+
+8
+00:00:11,670 --> 00:00:14,100
+with the string art construction are parabolas.
+
+9
+00:00:14,100 --> 00:00:16,480
+But how do we know that's actually true?
+
+10
+00:00:16,480 --> 00:00:18,970
+Well, it's actually a little bit hard to prove that
+
+11
+00:00:18,970 --> 00:00:21,460
+rigorously but we can get some intuition
+
+12
+00:00:21,460 --> 00:00:23,190
+in the following exercise.
+
+13
+00:00:23,190 --> 00:00:25,320
+Now you may have seen parabolic arcs
+
+14
+00:00:25,320 --> 00:00:27,564
+as graphs of quadratic equations
+
+15
+00:00:27,564 --> 00:00:29,120
+like this one, for instance.
+
+16
+00:00:29,120 --> 00:00:32,039
+So here I have a green curve that's the graph
+
+17
+00:00:32,039 --> 00:00:34,079
+of a quadratic function.
+
+18
+00:00:34,079 --> 00:00:35,902
+And so it's a parabola.
+
+19
+00:00:35,902 --> 00:00:37,580
+And I have a blue curve generated through
+
+20
+00:00:37,580 --> 00:00:39,380
+the string art construction.
+
+21
+00:00:39,380 --> 00:00:41,340
+It's my job in this exercise,
+
+22
+00:00:41,340 --> 00:00:43,760
+it'll be your job in the exercise,
+
+23
+00:00:43,760 --> 00:00:46,164
+to see if you can reposition the points
+
+24
+00:00:46,164 --> 00:00:47,720
+so that the blue curve sits exactly
+
+25
+00:00:47,720 --> 00:00:49,544
+on top of the green curve.
+
+26
+00:00:49,544 --> 00:00:51,770
+So for instance, I'm gonna try moving this point,
+
+27
+00:00:51,770 --> 00:00:54,020
+say down here.
+
+28
+00:00:55,020 --> 00:00:56,190
+And this point over here.
+
+29
+00:00:58,190 --> 00:00:59,810
+Over there.
+
+30
+00:00:59,810 --> 00:01:01,730
+So the blue curve is getting a little bit closer,
+
+31
+00:01:01,730 --> 00:01:05,480
+but it's not exactly on top of the green curve yet.
+
+32
+00:01:05,480 --> 00:01:07,750
+And in fact I'm gonna ask you to try it
+
+33
+00:01:07,750 --> 00:01:08,000
+in the next exercise. aimozhen.com/pixarinabox
+

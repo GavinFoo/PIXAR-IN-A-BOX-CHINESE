@@ -4,8 +4,7 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 2
 00:00:03,376 --> 00:00:06,099
-- When John Lasseter
-created this animated short,
+- When John Lasseter created this animated short,
 
 3
 00:00:06,099 --> 00:00:08,199
@@ -29,8 +28,7 @@ So to make this lamp appear younger,
 
 8
 00:00:17,183 --> 00:00:19,307
-he scaled down the
-lamp, and then he scaled
+he scaled down the lamp, and then he scaled
 
 9
 00:00:19,307 --> 00:00:22,645
@@ -38,13 +36,11 @@ up the foot and head to make Jr.
 
 10
 00:00:22,645 --> 00:00:25,175
-To get a little experience
-in creating a new model,
+To get a little experience in creating a new model,
 
 11
 00:00:25,175 --> 00:00:28,729
-let's add some scaling
-deformers to modify the lamp.
+let's add some scaling deformers to modify the lamp.
 
 12
 00:00:28,729 --> 00:00:31,397
@@ -60,8 +56,7 @@ remodeling the character.
 
 15
 00:00:35,521 --> 00:00:38,093
-In the following exercise,
-we see a draw over,
+In the following exercise, we see a draw over,
 
 16
 00:00:38,093 --> 00:00:40,434
@@ -73,6 +68,5 @@ using scaling deformers.
 
 18
 00:00:43,148 --> 00:00:47,000
-When you're done, your lamp
-should look much younger. aimozhen.com/pixarinabox
+When you're done, your lamp should look much younger. aimozhen.com/pixarinabox
 

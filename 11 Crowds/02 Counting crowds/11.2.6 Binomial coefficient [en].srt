@@ -1,0 +1,207 @@
+1
+00:00:00,000 --> 00:00:03,369
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:03,369 --> 00:00:04,484
+- Nice work.
+
+3
+00:00:04,484 --> 00:00:05,746
+Thanks for stickin' with us.
+
+4
+00:00:05,746 --> 00:00:07,713
+We're at the last step of the lesson.
+
+5
+00:00:07,713 --> 00:00:10,965
+Earlier, I promised you a powerful counting formula.
+
+6
+00:00:10,965 --> 00:00:14,007
+Let's work together to see if we can develop that formula.
+
+7
+00:00:15,007 --> 00:00:19,884
+First notice that 6 x 5 x 4
+looks a little like a factorial
+
+8
+00:00:19,884 --> 00:00:24,007
+except that it's missing the 3 x 2 x 1.
+
+9
+00:00:24,007 --> 00:00:27,362
+That means we can write 6 x 5 x 4
+
+10
+00:00:27,362 --> 00:00:32,073
+using factorials as 6! over 3!.
+
+11
+00:00:32,073 --> 00:00:37,271
+Because 6! equals 6 x 5 x 4 x 3!
+
+12
+00:00:38,271 --> 00:00:43,654
+So dividing by 3! just leaves 6 x 5 x 4.
+
+13
+00:00:43,654 --> 00:00:45,421
+That means, we can rewrite
+
+14
+00:00:45,421 --> 00:00:50,904
+our earlier example as 6! over 3! x 3!.
+
+15
+00:00:51,904 --> 00:00:54,444
+To generalize this for other numbers of actors,
+
+16
+00:00:54,444 --> 00:00:57,592
+let n be the number of actors we can pick from
+
+17
+00:00:57,592 --> 00:01:00,814
+and let k be the size of the cast.
+
+18
+00:01:01,814 --> 00:01:04,666
+On the first pick, we have n choices.
+
+19
+00:01:04,666 --> 00:01:09,090
+Then, on the second pick, we have n-1 choices and so on.
+
+20
+00:01:10,090 --> 00:01:11,775
+Notice that the number being subtracted
+
+21
+00:01:11,775 --> 00:01:14,155
+is one less than the choice number.
+
+22
+00:01:14,155 --> 00:01:19,843
+So, on the kth choice, you have n - (k-1) choices
+
+23
+00:01:19,843 --> 00:01:23,968
+which is n - k +1.
+
+24
+00:01:23,968 --> 00:01:25,712
+Multiplying the choices together gives
+
+25
+00:01:25,712 --> 00:01:30,464
+n x n - 1 through n - k + 1
+
+26
+00:01:31,464 --> 00:01:36,986
+which can be written as n! over (n-k)!.
+
+27
+00:01:37,986 --> 00:01:40,667
+Now, we have to divide by k!
+
+28
+00:01:40,667 --> 00:01:44,551
+because there are k! ways to order the k choices.
+
+29
+00:01:44,551 --> 00:01:48,102
+So, finally, we get to, wait for it.
+
+30
+00:01:48,102 --> 00:01:50,501
+Drum roll, please!
+
+31
+00:01:50,501 --> 00:01:55,286
+n! over k!(n-k)! possible casts of k actors
+
+32
+00:01:57,286 --> 00:02:00,437
+chosen from a group of n actors total.
+
+33
+00:02:00,437 --> 00:02:01,918
+This formula is so famous
+
+34
+00:02:01,918 --> 00:02:05,087
+that it has a special name and a special symbol to write it.
+
+35
+00:02:05,087 --> 00:02:07,872
+It's called a binomial coefficient
+
+36
+00:02:07,872 --> 00:02:09,964
+and mathematicians write it as
+
+37
+00:02:09,964 --> 00:02:14,907
+n choose k equals n! divided by k! (n-k)!.
+
+38
+00:02:17,907 --> 00:02:19,330
+It's powerful because you can use it
+
+39
+00:02:19,330 --> 00:02:21,670
+whenever you're selecting a small number of things
+
+40
+00:02:21,670 --> 00:02:24,024
+from a larger number of choices.
+
+41
+00:02:24,024 --> 00:02:26,319
+With this tool, we can easily compute, say,
+
+42
+00:02:26,319 --> 00:02:28,779
+how many casts of 4
+robots I can come up with
+
+43
+00:02:28,779 --> 00:02:32,374
+when I have, let's say, 12
+different robots to choose from.
+
+44
+00:02:32,374 --> 00:02:35,542
+There are 12 choose 4, which,
+
+45
+00:02:35,542 --> 00:02:39,758
+if you work it out, is exactly 495.
+
+46
+00:02:41,758 --> 00:02:44,178
+Your final challenge, should you choose to accept it,
+
+47
+00:02:44,178 --> 00:02:45,497
+is to answer some final questions
+
+48
+00:02:45,497 --> 00:02:47,752
+with the binomial coefficient formula
+
+49
+00:02:47,752 --> 00:02:50,556
+and there won't be any diagrams to help you this time.
+
+50
+00:02:50,556 --> 00:02:53,789
+And, you'll be asked to count something other than robots,
+
+51
+00:02:53,789 --> 00:02:58,000
+like, let's say, plants, or sandwiches, or outfits. aimozhen.com/pixarinabox
+

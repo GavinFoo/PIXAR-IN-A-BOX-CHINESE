@@ -4,23 +4,19 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 2
 00:00:03,219 --> 00:00:06,152
-- [Narrator] Okay, so far you've
-made a single shape object
+- [Narrator] Okay, so far you've made a single shape object
 
 3
 00:00:06,152 --> 00:00:09,057
-which contains information
-to draw a circle,
+which contains information to draw a circle,
 
 4
 00:00:09,057 --> 00:00:12,138
-but we'll need more shapes
-to build our snowman,
+but we'll need more shapes to build our snowman,
 
 5
 00:00:12,138 --> 00:00:13,992
-and we'll want to store
-all of these shapes
+and we'll want to store all of these shapes
 
 6
 00:00:13,992 --> 00:00:15,276
@@ -36,13 +32,11 @@ One way we can do this is with an array,
 
 9
 00:00:20,170 --> 00:00:24,891
-where each position in the
-array holds one shape object.
+where each position in the array holds one shape object.
 
 10
 00:00:29,891 --> 00:00:32,512
-In the next exercise, you'll
-define an array called
+In the next exercise, you'll define an array called
 
 11
 00:00:32,512 --> 00:00:34,643
@@ -50,8 +44,7 @@ shapes array to do this.
 
 12
 00:00:34,643 --> 00:00:37,493
-Think of this shapes
-array as our entire model.
+Think of this shapes array as our entire model.
 
 13
 00:00:37,493 --> 00:00:39,058
@@ -87,13 +80,11 @@ One easy way to draw any shape
 
 21
 00:00:53,979 --> 00:00:57,295
-is to define a series of
-points called vertices.
+is to define a series of points called vertices.
 
 22
 00:00:57,295 --> 00:01:01,383
-For example, the hat would
-need eight vertices like this.
+For example, the hat would need eight vertices like this.
 
 23
 00:01:01,383 --> 00:01:02,216
@@ -105,8 +96,7 @@ is represented by a pair of coordinates.
 
 25
 00:01:06,424 --> 00:01:08,676
-And then, the entire
-list of these vertices
+And then, the entire list of these vertices
 
 26
 00:01:08,676 --> 00:01:11,908
@@ -114,8 +104,7 @@ can be stored in a larger array.
 
 27
 00:01:12,908 --> 00:01:17,614
-So we'll have an array of arrays
-to store any shape we want.
+So we'll have an array of arrays to store any shape we want.
 
 28
 00:01:17,614 --> 00:01:19,236
@@ -143,13 +132,11 @@ to hold each of your shape objects.
 
 34
 00:01:28,746 --> 00:01:31,864
-This will allow you to add
-your head and your body.
+This will allow you to add your head and your body.
 
 35
 00:01:31,864 --> 00:01:34,524
-After that, you'll have a
-chance to create any shape,
+After that, you'll have a chance to create any shape,
 
 36
 00:01:34,524 --> 00:01:37,642
