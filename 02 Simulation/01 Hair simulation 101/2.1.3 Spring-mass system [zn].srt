@@ -1,0 +1,358 @@
+﻿1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:00,318 --> 00:00:02,883
+(bouncy Pixar theme)
+
+3
+00:00:02,883 --> 00:00:05,428
+- In the last exercise you probably noticed
+在上一个实例里 你或许会发现
+
+4
+00:00:05,428 --> 00:00:08,780
+that the simulation lacked the natural bounciness of hair.
+模拟的结果似乎不太自然 没弹性
+
+5
+00:00:08,780 --> 00:00:11,678
+But what makes something look bouncy anyway?
+但是怎样才能让它看起来有弹性
+
+6
+00:00:11,678 --> 00:00:14,978
+To make this model bouncy, we need each strand of hair
+要让这个模拟有弹性
+
+7
+00:00:14,978 --> 00:00:16,804
+to expand and contract slightly
+我们必须让这束头发有轻微的扩张和收缩
+
+8
+00:00:16,804 --> 00:00:18,611
+when forces are applied to them.
+当它们受力后
+
+9
+00:00:18,611 --> 00:00:21,860
+This required a new physical analogy to base our model on,
+就需要一个新的物理模型来介入
+
+10
+00:00:21,860 --> 00:00:23,500
+so we tried springs.
+我们想到了弹簧
+
+11
+00:00:23,500 --> 00:00:25,877
+Springs are great because they can change length
+弹簧的好处在于在你拉他们的时候
+
+12
+00:00:25,877 --> 00:00:27,259
+when you pull on them,
+他们能伸缩
+
+13
+00:00:27,259 --> 00:00:28,986
+and to give the hair a little bit of weight,
+还能给头发一些重力
+
+14
+00:00:28,986 --> 00:00:31,999
+we add a small weight to the end of the spring.
+我们在弹簧的末尾加了一点重力
+
+15
+00:00:31,999 --> 00:00:34,460
+This is known as a mass spring system.
+这就是重力弹簧系统
+
+16
+00:00:34,460 --> 00:00:36,781
+We can actually draw a mathematical model
+我们能实际上能建立一个数学模型
+
+17
+00:00:36,781 --> 00:00:41,161
+to explain what happens when a spring expands and contracts.
+来解释弹簧伸缩的时候到底在发生什么
+
+18
+00:00:41,161 --> 00:00:44,647
+The model we use is based on a law developed by Robert Hooke
+其实我们这个模型是基于胡克定律（注释1https://zh.wikipedia.org/wiki/%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7%E8%83%A1%E5%85%8B）
+
+19
+00:00:44,647 --> 00:00:46,961
+a 17th century physicist.
+他是一个17世纪的物理学家（其实他有很多身份）
+
+20
+00:00:46,961 --> 00:00:49,343
+Hooke noticed that there are two things to consider
+胡可发现在考虑弹簧伸缩的受力的时候
+
+21
+00:00:49,343 --> 00:00:51,903
+when a spring expands and contracts.
+有两样东西要注意
+
+22
+00:00:51,903 --> 00:00:55,173
+One, if we pull on a spring and it expands,
+第一：当我们拉伸弹簧的时候
+
+23
+00:00:55,173 --> 00:00:58,875
+we will increase its length and it will pull back together.
+我们会使他延展，而他将产生回力
+
+24
+00:00:58,875 --> 00:01:02,541
+Two, if the spring contracts, its length will decrease
+第二： 当我们压缩弹簧时
+
+25
+00:01:02,541 --> 00:01:04,292
+and it will push apart.
+他会缩短并产生推力
+
+26
+00:01:04,292 --> 00:01:06,125
+How much a spring pushes and pulls
+而这个弹簧的推力与拉力
+
+27
+00:01:06,125 --> 00:01:08,877
+is known as the spring force.
+就是所谓的弹力
+
+28
+00:01:08,877 --> 00:01:11,085
+Robert Hooke was looking for relationship
+胡克就是在寻找
+
+29
+00:01:11,085 --> 00:01:12,503
+between the spring force
+弹簧的弹力变化
+
+30
+00:01:12,503 --> 00:01:15,520
+in the amount the spring contracts or expands.
+何其伸缩长度之间的数学关系
+
+31
+00:01:15,520 --> 00:01:18,735
+We call this change in length displacement.
+我们把这个称作长度置换
+
+32
+00:01:18,735 --> 00:01:21,429
+Displacement is defined as the current length
+置换量是由现有长度
+
+33
+00:01:21,429 --> 00:01:23,749
+minus the rest length of the spring.
+减去弹簧原长的来决定的
+
+34
+00:01:23,749 --> 00:01:27,520
+When we stretch a spring, the displacement is positive
+我们拉伸时 置换是正值
+
+35
+00:01:27,520 --> 00:01:30,046
+and the resulting spring force is negative.
+弹力就是负值
+
+36
+00:01:30,046 --> 00:01:32,775
+This is known as the pull force.
+这也就是拉力
+
+37
+00:01:32,775 --> 00:01:36,027
+When we compress a spring, the displacement is negative
+当我们压缩时 置换是负值
+
+38
+00:01:36,027 --> 00:01:38,382
+and the resulting spring force is positive.
+那弹力就是正值
+
+39
+00:01:38,382 --> 00:01:40,392
+This is called the push force.
+这也就是压力
+
+40
+00:01:40,392 --> 00:01:43,292
+So Hooke's observation was quite simple,
+所以胡克的观察是如此的简单
+
+41
+00:01:43,292 --> 00:01:45,530
+he noticed that a larger displacement
+他发现置换越大
+
+42
+00:01:45,530 --> 00:01:47,730
+results in a larger force,
+力越大
+
+43
+00:01:47,730 --> 00:01:51,681
+while a smaller displacement results in a smaller force.
+反之则越小
+
+44
+00:01:51,681 --> 00:01:53,881
+That is, he noticed that the displacement
+他因此发现置换和力
+
+45
+00:01:53,881 --> 00:01:56,346
+is proportional to the force.
+是成某种比例的
+
+46
+00:01:56,346 --> 00:01:58,486
+However, every spring is different,
+尽管每个弹簧不同
+
+47
+00:01:58,486 --> 00:02:01,066
+some take a lot of force to displace,
+一些需要很大的力来置换
+
+48
+00:02:01,066 --> 00:02:03,616
+and some are really easy to displace.
+而一些则不需要
+
+49
+00:02:03,616 --> 00:02:07,084
+So Robert Hooke introduced the idea of stiffness
+所以胡克引入了弹性系数的概念
+
+50
+00:02:07,084 --> 00:02:10,398
+to account for how hard it is to displace a given spring.
+用这个值来计算多少力用来置换弹力
+
+51
+00:02:10,398 --> 00:02:12,698
+It is represented with the letter k.
+他的数学符号是k.
+
+52
+00:02:12,698 --> 00:02:14,782
+This led Hooke to his final equation
+这就使胡克写出了最终的方程式
+
+53
+00:02:14,782 --> 00:02:16,575
+which is known as Hooke's Law.
+也就是有名的胡克定律
+
+54
+00:02:16,575 --> 00:02:18,374
+The spring force is proportional
+弹力与弹性系数和置换量
+
+55
+00:02:18,374 --> 00:02:20,972
+to a stiffness times the displacement.
+的乘积成线性关系F=-kx
+
+56
+00:02:20,972 --> 00:02:23,107
+Notice that there is a negative sign there,
+注意 这儿有个负号
+
+57
+00:02:23,107 --> 00:02:25,343
+that's because we want a positive force
+因为我们定义置换量为负值的时候
+
+58
+00:02:25,343 --> 00:02:27,169
+when the displacement is negative,
+能得到正数
+
+59
+00:02:27,169 --> 00:02:29,781
+and a negative force when it's positive.
+反之则是负数
+
+60
+00:02:29,781 --> 00:02:31,847
+If we plug this equation into the computer
+如果我们把这个方程应用到计算机里
+
+61
+00:02:31,847 --> 00:02:34,215
+we get this realistic spring behavior.
+我们就会得到真实的弹簧行为
+
+62
+00:02:34,215 --> 00:02:36,935
+For Brave, we modeled the horse's hair
+在brave里 我们就用重力弹簧模型
+
+63
+00:02:36,935 --> 00:02:38,507
+using a mass spring system
+模拟了马的毛发
+
+64
+00:02:38,507 --> 00:02:41,318
+similar to what we are describing in this tutorial,
+和我们在这个教程里差不多
+
+65
+00:02:41,318 --> 00:02:44,541
+nearly 10,000 simulated hairs in total.
+有10000根毛发模拟
+
+66
+00:02:44,541 --> 00:02:47,144
+In the next exercise you can explore
+在下一个练习中 你会看到
+
+67
+00:02:47,144 --> 00:02:49,163
+a simple mass spring system.
+一个简化的重力弹簧系统
+
+68
+00:02:49,163 --> 00:02:51,817
+You'll be able to adjust the following parameters,
+你将可以调节各种参数
+
+69
+00:02:51,817 --> 00:02:54,823
+mass of the particle, spring stiffness, k,
+粒子质量 弹力系数k
+
+70
+00:02:54,823 --> 00:02:56,634
+and the force of gravity,
+还有重力
+
+71
+00:02:56,634 --> 00:02:58,715
+and we'll ask you some challenge questions
+我们会向你做一些提问
+
+72
+00:02:58,715 --> 00:03:02,000
+to make sure you understand the basics of Hooke's Law. aimozhen.com/pixarinabox
+来确保你理解了胡克定律 注释2（https://zh.wikipedia.org/wiki/%E8%83%A1%E5%85%8B%E5%AE%9A%E5%BE%8B）
+

@@ -1,0 +1,283 @@
+﻿1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:00,501 --> 00:00:03,292
+(metal clattering)
+
+3
+00:00:03,292 --> 00:00:04,618
+- Now that you are comfortable
+现在我们对弹簧的作用方式
+
+4
+00:00:04,618 --> 00:00:06,492
+with how springs expand and contract,
+有了一定的了解
+
+5
+00:00:06,492 --> 00:00:08,715
+we can try something a little bit different.
+我们可以做一些不一样的东西了
+
+6
+00:00:08,715 --> 00:00:12,368
+Let's try connecting a bunch of springs together like this.
+现在我们试着把一束弹簧像这样连接起来
+
+7
+00:00:12,368 --> 00:00:13,585
+When we simulate springs,
+当我们模拟弹簧的时候
+
+8
+00:00:13,585 --> 00:00:15,977
+we don't draw them using the zigzag pattern.
+我们不是用锯齿模式的
+
+9
+00:00:15,977 --> 00:00:17,346
+Instead we use lines,
+而是用
+
+10
+00:00:17,346 --> 00:00:19,641
+which can expand and contract.
+可以伸缩的线
+
+11
+00:00:19,641 --> 00:00:23,174
+This gives us a really bouncy strand of hair,
+这能给我们很有弹性的头发
+
+12
+00:00:23,174 --> 00:00:25,369
+but it's a bit too bouncy.
+但是这也看上去太弹性了
+
+13
+00:00:25,369 --> 00:00:28,495
+Notice the hairs take a really long time to settle down.
+我们发现头发要过很久才稳定下来
+
+14
+00:00:28,495 --> 00:00:30,138
+This isn't very realistic.
+这就不真实
+
+15
+00:00:30,138 --> 00:00:32,567
+Take a look at our reference shots again.
+看下我们的参考视频
+
+16
+00:00:32,567 --> 00:00:34,767
+See how quickly the hairs come to rest,
+我们看到头发稳定的很快
+
+17
+00:00:34,767 --> 00:00:36,126
+just a few bounces.
+只是弹了几下
+
+18
+00:00:36,126 --> 00:00:39,051
+You might think changing the spring stiffness will fix this,
+你可能觉得修改弹性系数能解决这个问题
+
+19
+00:00:39,051 --> 00:00:40,680
+but look what happens.
+但看看结果呢
+
+20
+00:00:40,680 --> 00:00:42,501
+Both low and high stiffness values
+无论设高还是设低
+
+21
+00:00:42,501 --> 00:00:45,340
+still result in hair which never settles down.
+结构都是这样
+
+22
+00:00:45,340 --> 00:00:46,849
+Our solution to this is adding
+我们的解决方法其实是
+
+23
+00:00:46,849 --> 00:00:49,733
+what's called a damper to each spring.
+给每个弹簧添加一个减震器
+
+24
+00:00:49,733 --> 00:00:51,515
+A damper is something that resists
+减震器能保证弹簧
+
+25
+00:00:51,515 --> 00:00:53,419
+fast changes in displacement,
+快速的变形
+
+26
+00:00:53,419 --> 00:00:54,774
+and it's used to bring springs
+但又能使弹簧
+
+27
+00:00:54,774 --> 00:00:56,666
+to rest much more quickly.
+更快速地稳定下来
+
+28
+00:00:56,666 --> 00:00:57,605
+Check this out.
+看看这个
+
+29
+00:00:57,605 --> 00:00:59,870
+Here we have the same strand of hair as before,
+这是之前的
+
+30
+00:00:59,870 --> 00:01:02,223
+except each spring is connected to a damper,
+每个弹簧都连接到一个减震器
+
+31
+00:01:02,223 --> 00:01:04,375
+and we can change the amount of dampening
+我们还可以改变阻尼系数
+
+32
+00:01:04,375 --> 00:01:06,117
+using this new parameter.
+使用这个新的系数
+
+33
+00:01:06,117 --> 00:01:07,638
+If we increase damping,
+如果我们增加他
+
+34
+00:01:07,638 --> 00:01:09,712
+the springs resist quick changes,
+弹簧变化的快
+
+35
+00:01:09,712 --> 00:01:11,846
+and therefore come to rest much faster.
+稳定的也快
+
+36
+00:01:11,846 --> 00:01:13,861
+However, too much damping will result
+但是太大的话 
+
+37
+00:01:13,861 --> 00:01:15,138
+in really stiff hair,
+就会令头发变得很硬
+
+38
+00:01:15,138 --> 00:01:16,974
+which isn't natural,
+那看上去就不自然
+
+39
+00:01:16,974 --> 00:01:18,245
+and here's what it looks like
+这里就是这整把头发
+
+40
+00:01:18,245 --> 00:01:19,968
+with a whole bunch of hair.
+看上去的样子
+
+41
+00:01:19,968 --> 00:01:21,691
+We went through a similar exercise
+我们经历过同样的探索
+
+42
+00:01:21,691 --> 00:01:24,607
+in the early stages of modeling Merida's hair.
+在早期为merida的头发建立数学模型的时候
+
+43
+00:01:24,607 --> 00:01:26,515
+We were trying to get the right mixture
+我们想要有得到弹性系数和阻尼
+
+44
+00:01:26,515 --> 00:01:28,273
+of spring stiffnesses and damping
+真实的作用效果
+
+45
+00:01:28,273 --> 00:01:31,430
+so that we could achieve the desired artistic look,
+这样我们才能达到艺术上的真实感受
+
+46
+00:01:31,430 --> 00:01:33,101
+but with the wrong settings,
+但是因为设置错误
+
+47
+00:01:33,101 --> 00:01:35,315
+the springs start fighting each other,
+头发之间就开始碰撞
+
+48
+00:01:35,315 --> 00:01:37,293
+and you get pretty funny results.
+你就得到了很搞笑的结果
+
+49
+00:01:37,293 --> 00:01:39,099
+So the trick is to find a nice balance
+所以诀窍就在于要找到一个平衡
+
+50
+00:01:39,099 --> 00:01:41,310
+between spring stiffness and damping.
+在弹力系数和阻尼之间的平衡
+
+51
+00:01:41,310 --> 00:01:44,073
+You can try this out in the next exercise.
+在下一个练习中 你可以试试这个
+
+52
+00:01:44,073 --> 00:01:46,913
+Here you can control damping of each spring,
+这里你能空持每个弹簧的阻尼
+
+53
+00:01:46,913 --> 00:01:48,045
+number of hairs,
+头发数量
+
+54
+00:01:48,045 --> 00:01:49,926
+number of springs per hair,
+每个头发的弹簧数量
+
+55
+00:01:49,926 --> 00:01:51,967
+and spring stiffness.
+以及弹力系数
+
+56
+00:01:51,967 --> 00:01:53,432
+See if you can come up with something
+看看你能不能做出什么
+
+57
+00:01:53,432 --> 00:01:56,000
+that behaves a bit more realistically. aimozhen.com/pixarinabox
+看上去更真实的东西来
+

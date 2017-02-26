@@ -1,0 +1,427 @@
+﻿1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:01,787 --> 00:00:04,312
+- When I was young, I really liked some sports
+我小时候很喜欢一些运动
+
+3
+00:00:04,312 --> 00:00:07,086
+like softball and I was the catcher
+比如棒球
+
+4
+00:00:07,086 --> 00:00:10,923
+and the first base player and I also liked music.
+我是捕手和一垒 我同样也喜欢音乐
+
+5
+00:00:10,923 --> 00:00:14,124
+I started playing the flute in the fourth grade
+我四年级开始玩横笛
+
+6
+00:00:14,124 --> 00:00:17,162
+and from there I played in the band
+然后加入了乐队
+
+7
+00:00:17,162 --> 00:00:21,297
+and I branched out and taught myself tenor saxophone
+然后我自学了高音萨克斯
+
+8
+00:00:21,297 --> 00:00:22,872
+and played that in the jazz band
+又加入了爵士乐队
+
+9
+00:00:22,872 --> 00:00:27,550
+and I was in the marching band and the symphonic band
+我还待过仪仗队和管乐队
+
+10
+00:00:27,550 --> 00:00:29,834
+and I was a drum major
+担任指挥
+
+11
+00:00:29,834 --> 00:00:31,850
+and lots of different activities with music.
+所以我和音乐有过甜蜜的过往
+
+12
+00:00:31,850 --> 00:00:33,369
+It was great.
+这很棒
+
+13
+00:00:33,369 --> 00:00:34,967
+In high school, there were some elective classes
+在高中 有一些选修课
+
+14
+00:00:34,967 --> 00:00:38,703
+that we need to take and my mom was helping me figure out
+我妈妈帮我出了些主意
+
+15
+00:00:38,703 --> 00:00:40,076
+which ones to pick.
+关于选择那个课
+
+16
+00:00:40,076 --> 00:00:44,875
+And she had gone back to school while I was a kid
+在我还是孩子的时候 她还得回学校上课
+
+17
+00:00:44,875 --> 00:00:47,441
+and she had taken a programming class
+她那时候修了一个程序课
+
+18
+00:00:47,441 --> 00:00:50,434
+and she suggested that I took one of those
+然后她就建议我选一个这类的课
+
+19
+00:00:50,434 --> 00:00:53,786
+to see if I liked it and so that's how I got into it
+看看我会不会喜欢
+
+20
+00:00:53,786 --> 00:00:56,548
+and I already liked computers, I love playing with them.
+我很喜欢玩电脑
+
+21
+00:00:56,548 --> 00:00:59,525
+I remember my parents getting our first computer.
+我爸妈给我的第一台电脑
+
+22
+00:00:59,525 --> 00:01:00,448
+It was an old 286
+是个286（第二代因特尔微芯计算机 1982年诞生）
+
+23
+00:01:02,448 --> 00:01:05,149
+and it was just something that was
+在当时来说
+
+
+24
+00:01:05,149 --> 00:01:06,923
+at that point a toy but then learning
+他就是一个玩具 但是
+
+25
+00:01:06,923 --> 00:01:10,361
+how to program a computer was really interesting to me
+学着如何给电脑编程令我很兴奋
+
+26
+00:01:10,361 --> 00:01:13,048
+and so I started taking computer classes in ninth grade
+所以9年级开始 我开始学电脑课
+
+27
+00:01:13,048 --> 00:01:15,045
+and all through high school.
+然后一直延续到整个高中结束
+
+28
+00:01:15,045 --> 00:01:17,453
+Yeah, I majored in computer science、
+是的 我是个文科学校毕业出来的
+
+29
+00:01:17,453 --> 00:01:20,547
+in the liberal arts school and got a Bachelor of Science
+计算机学士
+
+
+30
+00:01:20,547 --> 00:01:23,611
+and I also did a minor in mathematics.
+我还辅修了数学
+
+31
+00:01:23,611 --> 00:01:27,215
+I got a Master's and a PhD from UC Berkeley
+我在UC伯克利获得了硕士和博士学位
+
+32
+00:01:28,215 --> 00:01:32,280
+and my Master's was in computational geometry
+硕士专业是计算机几何算法
+
+33
+00:01:32,280 --> 00:01:36,706
+and my thesis was on physically-based simulation
+论文是关于《如何在平面上创建如同泥浆绘画般
+
+34
+00:01:37,706 --> 00:01:42,286
+for creating crack patterns on surfaces so like mud drawing.
+的破碎图形样式的基于物理的模拟方案》
+
+35
+00:01:42,286 --> 00:01:44,024
+I also looked at crackle glass
+我同样也研究了玻璃杯
+
+36
+00:01:44,024 --> 00:01:48,227
+and so that's a way to create crack patterns in class
+这也就可以创建破碎的玻璃图形样式
+
+37
+00:01:49,227 --> 00:01:53,575
+and use that for cups and bowls and things like that.
+然后引用到相应的器皿上
+
+38
+00:01:53,575 --> 00:01:54,409
+In my internship,
+我实习的工作是
+
+39
+00:01:54,409 --> 00:01:57,538
+I ended up working on an inverse kinematics problem
+对逆运动学进行研究（也就是所谓的IK）
+
+40
+00:01:57,538 --> 00:02:01,520
+with Andy Weken who was my mentor and the research group.
+Andy Weken是我的导师
+
+41
+00:02:01,520 --> 00:02:03,962
+Let's pretend I wanna animate my arm
+我们假设我要做一个我手臂的动画
+
+42
+00:02:03,962 --> 00:02:08,187
+and I would wanna grab my wrist and move it here
+我抓着我的手腕然后移动到这儿
+
+43
+00:02:08,187 --> 00:02:11,076
+and what inverse kinematics does is it would solve
+而逆运动学的作用就是
+
+44
+00:02:11,076 --> 00:02:12,711
+to figure out what are the angles
+去找出为了将我的手腕移动到这儿
+
+45
+00:02:12,711 --> 00:02:16,312
+that I'd have to move my elbow joint and my shoulder joint
+我的肩膀和手肘运动的角度是多少
+
+46
+00:02:16,312 --> 00:02:19,485
+to hit the target which is where my wrist is.
+才能让我的手腕运动到这儿
+
+47
+00:02:19,485 --> 00:02:20,877
+It's really exciting for me
+这对我来说非常有意思
+
+48
+00:02:20,877 --> 00:02:23,550
+to watch the finished movie for Brave.
+在最终完成的brave电影里
+
+49
+00:02:23,550 --> 00:02:26,099
+I worked on a lot of the technology that was used
+我贡献了很多技术支持
+
+50
+00:02:26,099 --> 00:02:29,204
+to animate the characters and to do the hair simulator.
+被用于角色动画和毛发模拟中
+
+51
+00:02:29,204 --> 00:02:32,012
+I wrote the inverse kinematic system
+我写了一套IK系统
+
+52
+00:02:32,012 --> 00:02:36,113
+that was used to move the horses and move the humans.
+用来移动马和人
+
+53
+00:02:37,113 --> 00:02:39,218
+I spent a lot of time trying to make sure
+我花了很多时间来确保
+
+54
+00:02:39,218 --> 00:02:42,241
+that posing tool was right and having that
+这个调动画的工具可行
+
+55
+00:02:42,241 --> 00:02:44,935
+and have Merida's hair fill up the entire screen
+而当merida的头发飘扬在荧幕里
+
+56
+00:02:44,935 --> 00:02:46,848
+was incredibly satisfying
+我感到异常满足
+
+57
+00:02:46,848 --> 00:02:49,587
+and to see how beautiful it all turned out.
+看看这最终效果多好
+
+58
+00:02:49,587 --> 00:02:51,573
+And while I was writing those tools,
+当我在写这些工具的时候
+
+59
+00:02:51,573 --> 00:02:54,295
+I got scheduled to do an interview
+我收到了一个面试的预约
+
+60
+00:02:54,295 --> 00:02:57,787
+with another co-worker for the simulation group
+和另一个模拟部门的同事一起
+
+61
+00:02:57,787 --> 00:03:00,142
+because they were looking for a new simulation person
+因为他们想找一个新的模拟同事
+
+62
+00:03:00,142 --> 00:03:03,242
+and the person who left had done
+而之前离开的同事
+
+63
+00:03:03,242 --> 00:03:05,467
+fluids and other types of simulation work
+是做流体和其它模拟的
+
+64
+00:03:05,467 --> 00:03:08,109
+that wasn't an area that I was familiar with
+那这块儿我不熟
+
+65
+00:03:08,109 --> 00:03:11,014
+so I hadn't even thought about this work, this job opening
+所以我压根儿没想这事儿
+
+66
+00:03:11,014 --> 00:03:13,033
+and I think it had been open for about a year
+我以为这个职位已经在那儿悬了一年了
+
+67
+00:03:13,033 --> 00:03:15,069
+when we were talking about it.
+当我们谈到这个问题的时候
+
+68
+00:03:15,069 --> 00:03:17,393
+They were having a hard time filling this position
+他们说找人好难啊
+
+69
+00:03:17,393 --> 00:03:20,407
+and the person we were interviewing
+而我们面试的这个人呢
+
+70
+00:03:20,407 --> 00:03:22,033
+was doing a Master's thesis
+还在写硕士论文
+
+71
+00:03:22,033 --> 00:03:25,161
+and he was implementing some of my PhD thesis
+他引用了我的一些博士论文
+
+72
+00:03:25,161 --> 00:03:28,411
+and so after the interview, my co-worker said,
+所以当面试结束后 我同事来问我
+
+73
+00:03:28,411 --> 00:03:29,661
+he turned to me and said,
+他转过身说道
+
+74
+00:03:29,661 --> 00:03:33,003
+"Why aren't you applying for this job?"
+你干嘛不来应聘这个职位
+
+75
+00:03:33,003 --> 00:03:36,127
+That was really a point in my career
+这是我职业生涯的一个很重要的点
+
+76
+00:03:36,127 --> 00:03:37,388
+to really sit and think like,
+我得认真想想
+
+77
+00:03:37,388 --> 00:03:40,223
+"Huh, why I aren't I applying for this job?"
+为啥我不去呢
+
+78
+00:03:40,223 --> 00:03:45,086
+And so I really gave it some consideration and decided
+所以我认真的考虑了下
+
+79
+00:03:45,086 --> 00:03:47,717
+and was like, "Yeah, I do wanna apply for this job."
+然后我说我挺想试试的
+
+80
+00:03:47,717 --> 00:03:50,360
+And it's always a little bit scary when you try to
+有时候去做一件新的尝试总会有点怕怕
+
+81
+00:03:50,360 --> 00:03:54,414
+do something new but it was definitely worth it.
+但是很值得
+
+82
+00:03:55,414 --> 00:03:57,268
+I didn't listen to the people that were saying,
+我没去听有些人说的
+
+83
+00:03:57,268 --> 00:03:59,928
+"Oh, you should be doing this instead,"
+你现在做的这个就很好
+
+84
+00:03:59,928 --> 00:04:03,179
+because you should do what your heart tells you
+因为有时候你要率性一下
+
+85
+00:04:03,179 --> 00:04:07,000
+and even if it's scary, you should go ahead and do it. 
+虽千万人吾往矣
+aimozhen.com/pixarinabox
+
