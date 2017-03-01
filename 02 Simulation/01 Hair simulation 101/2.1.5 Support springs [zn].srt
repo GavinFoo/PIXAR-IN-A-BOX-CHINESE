@@ -1,0 +1,212 @@
+﻿1
+00:00:00,000 --> 00:00:00,000
+PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
+
+2
+00:00:00,709 --> 00:00:02,297
+(jumping, bouncing)
+
+3
+00:00:02,297 --> 00:00:03,265
+(light switches on)
+
+4
+00:00:03,265 --> 00:00:04,098
+- Great work.
+干得好
+
+5
+00:00:04,098 --> 00:00:05,682
+So far we've built up a model of hair
+现在我们建了一个头发模型
+
+6
+00:00:05,682 --> 00:00:08,013
+using a series of damped springs.
+通过使用一系列的阻尼弹簧
+
+7
+00:00:08,013 --> 00:00:10,353
+This gives us a more realistic behavior,
+这给我们更真实的效果
+
+8
+00:00:10,353 --> 00:00:12,804
+like this style I came up with.
+就像这样
+
+9
+00:00:12,804 --> 00:00:14,270
+But remember, the art department
+但记住 艺术部门想要merida的头发
+
+10
+00:00:14,270 --> 00:00:16,901
+wants Merida's hair to be curly.
+是卷曲的
+
+11
+00:00:18,901 --> 00:00:21,640
+Sometimes it curls up while moving but it doesn't
+有时候他在运动时是卷的
+
+12
+00:00:21,640 --> 00:00:24,384
+hold that curly shape while at rest.
+但在静止时就不卷了
+
+13
+00:00:24,384 --> 00:00:25,729
+Here's an idea.
+这里有一个方法
+
+14
+00:00:25,729 --> 00:00:27,812
+What if we put some smaller springs in between
+我们何不放一些小弹簧
+
+15
+00:00:27,812 --> 00:00:30,378
+the larger springs to pull them together?
+到大弹簧之间 把他们拉在一起
+
+16
+00:00:30,378 --> 00:00:32,266
+Let's call them support springs.
+我们就叫它们支撑弹簧
+
+17
+00:00:32,266 --> 00:00:34,722
+We already have a mathematical model of the spring
+我们已经有了一个弹簧的数学模型
+
+18
+00:00:34,722 --> 00:00:36,645
+so this is easy to test out.
+所以这个实验起来很简单
+
+19
+00:00:36,645 --> 00:00:38,818
+If I connect a support spring between the larger
+如果我在大弹簧之间连小弹簧
+
+20
+00:00:38,818 --> 00:00:41,920
+springs, I get something like this.
+他看起来就像这样
+
+21
+00:00:41,920 --> 00:00:44,414
+If I hide the support springs, you'll notice the hair
+如果我设小弹簧不可见
+
+22
+00:00:44,414 --> 00:00:47,034
+comes to a rest in a curly shape.
+你就会看到头发在静止时也是卷曲的
+
+23
+00:00:47,034 --> 00:00:48,426
+That's much better.
+这好多了
+
+24
+00:00:48,426 --> 00:00:50,104
+Adding these support springs results
+加上这些小弹簧
+
+25
+00:00:50,104 --> 00:00:52,675
+in new parameters we can control.
+意味着我们能添加更多的控制器
+
+26
+00:00:52,675 --> 00:00:55,787
+The stiffness and length of the support springs.
+就是支撑弹簧的弹性系数和长度
+
+27
+00:00:55,787 --> 00:00:59,182
+Shorter support springs will give us smaller curls,
+小的产生小卷儿
+
+28
+00:00:59,182 --> 00:01:02,453
+while really long support springs give us bigger ones.
+大的能有大波浪
+
+29
+00:01:02,453 --> 00:01:05,267
+And if we make the support springs have a higher stiffness
+如果更硬
+
+30
+00:01:05,267 --> 00:01:07,474
+the curl pops up like this.
+卷曲就像这样弹
+
+31
+00:01:07,474 --> 00:01:09,805
+Kind of like we applied hairspray.
+就像我们用了发胶一样
+
+32
+00:01:09,805 --> 00:01:12,913
+Compare this to support springs with lower stiffness.
+弹性系数小一些
+
+33
+00:01:12,913 --> 00:01:14,839
+In this case, the curls relax a bit
+卷儿就比较蓬松
+
+34
+00:01:14,839 --> 00:01:17,785
+and fall downwards in a natural way.
+自然下垂
+
+35
+00:01:17,785 --> 00:01:20,203
+Now, let's try this with a bunch of hairs.
+然后我们来试试一堆头发的情况
+
+36
+00:01:20,203 --> 00:01:22,577
+Now that's starting to look more like Merida.
+现在更像merida了
+
+37
+00:01:22,577 --> 00:01:24,911
+This isn't exactly the method we used on Merida
+这虽然不是我们真正用在merida身上的方法
+
+38
+00:01:24,911 --> 00:01:27,040
+for the movie, but it's close.
+但很接近了
+
+39
+00:01:27,040 --> 00:01:29,187
+In this next interactive you can try this out
+在下一个交互里 你可以试试这个
+
+40
+00:01:29,187 --> 00:01:31,896
+with all the parameters we've introduced.
+用我们介绍过的这些参数
+
+41
+00:01:31,896 --> 00:01:35,629
+The two new parameters are support spring stiffness
+这两个新的就是支撑弹簧的弹性系数
+
+42
+00:01:35,629 --> 00:01:37,801
+and support spring length.
+和长度
+
+43
+00:01:37,801 --> 00:01:40,000
+See what you can come up with.
+看看你能做出些什么 aimozhen.com/pixarinabox
+
