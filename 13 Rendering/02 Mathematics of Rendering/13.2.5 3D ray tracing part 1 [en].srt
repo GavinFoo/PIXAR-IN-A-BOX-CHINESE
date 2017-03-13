@@ -4,7 +4,7 @@ PIXAR IN A BOX 艾墨镇 aimozhen.com/pixarinabox
 
 2
 00:00:03,184 --> 00:00:05,053
-- Now that we can retrace in 2D,
+- Now that we can ray trace in 2D,
 
 3
 00:00:05,053 --> 00:00:06,780
@@ -12,7 +12,7 @@ we can finally go back to the problem
 
 4
 00:00:06,780 --> 00:00:09,766
-we really wanna solve: retracing in 3D.
+we really wanna solve: ray tracing in 3D.
 
 5
 00:00:09,766 --> 00:00:12,265
